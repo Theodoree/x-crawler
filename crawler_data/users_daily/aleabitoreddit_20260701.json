@@ -2,14 +2,14 @@
   "user": {
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
-    "description": "I only use X, beware of imposters. \n\nAI/Semi Supply Chain Analyst\n\nNot investment advice, DYODD. Sharing personal thought process on supply chain bottlenecks.",
-    "followers_count": 904457,
+    "description": "Only on X, don’t trust fake accounts. \n\nAI/Semi Supply Chains\n\nNot financial advice, DYOR, may hold/trade names discussed.",
+    "followers_count": 904723,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260701",
-  "last_updated": "2026-07-01T07:46:15.678261",
-  "tweet_count": 4,
+  "last_updated": "2026-07-01T09:21:12.124724",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2072152226169331776",
@@ -145,6 +145,21 @@
         "retweet_count": 21,
         "favorite_count": 417,
         "reply_count": 119,
+        "quote_count": 4
+      }
+    },
+    {
+      "id": "2072242322688057579",
+      "text": "This market feels like an ADHD goldfish with a 5 second attention span, trading popular themes. \n\nIt's like markets only care about physical AI and energy right now?\n\nAnd sold off memory and photonics that are bottlenecked past 2028?",
+      "created_at": "Wed Jul 01 08:54:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 19,
+        "favorite_count": 479,
+        "reply_count": 133,
         "quote_count": 4
       }
     }
