@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "I only use X, beware of imposters. \n\nAI/Semi Supply Chain Analyst\n\nNot investment advice, DYODD. Sharing personal thought process on supply chain bottlenecks.",
-    "followers_count": 904132,
+    "followers_count": 904457,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260701",
-  "last_updated": "2026-07-01T05:44:28.577787",
-  "tweet_count": 3,
+  "last_updated": "2026-07-01T07:46:15.678261",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2072152226169331776",
@@ -124,6 +124,27 @@
         "retweet_count": 17,
         "favorite_count": 335,
         "reply_count": 92,
+        "quote_count": 4
+      }
+    },
+    {
+      "id": "2072219315760488615",
+      "text": "$SIVE: \"Intent to complete the [NASDAQ] listing process over the next few quarters\"\n\nThis statement was largely missed by many screeners.\n\nVery material improvement from evaluation, to formal confirmation of timelines. https://t.co/iOceCgJTG4",
+      "created_at": "Wed Jul 01 07:22:39 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2072219309749985281",
+          "url": "https://pbs.twimg.com/media/HMIAe65aYAEpRyA.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 21,
+        "favorite_count": 417,
+        "reply_count": 119,
         "quote_count": 4
       }
     }
