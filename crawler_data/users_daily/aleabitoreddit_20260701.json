@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accounts. \n\nAI/Semi Supply Chains\n\nNot financial advice, DYOR, may hold/trade names discussed.",
-    "followers_count": 905377,
+    "followers_count": 905916,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260701",
-  "last_updated": "2026-07-01T13:10:13.203223",
-  "tweet_count": 7,
+  "last_updated": "2026-07-01T15:09:21.090025",
+  "tweet_count": 9,
   "tweets": [
     {
       "id": "2072152226169331776",
@@ -197,6 +197,60 @@
         "favorite_count": 336,
         "reply_count": 119,
         "quote_count": 18
+      }
+    },
+    {
+      "id": "2072307910223532245",
+      "text": "Basically pre-market right now with the Neoclouds like $NBIS in simpler terms.\n\nCostco: sells $5 chickens.\n\nWalmart: mass buys those rotisserie chickens and sells excess as “Walmart Chickens”.\n\nStock Market: sells off Costco.",
+      "created_at": "Wed Jul 01 13:14:42 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 79,
+        "favorite_count": 1627,
+        "reply_count": 208,
+        "quote_count": 33
+      }
+    },
+    {
+      "id": "2072314906729455876",
+      "text": "There’s a lot of disinformation going around about $META “cutting capex” because they “overbuilt”.\n\nThis is an “if” they have excess capacity.\n\nAnd it looks like the opposite right now:\n\nHyperscalers like $GOOGL are so compute constrained that they had to cut allocations to Meta back in March.\n\nSince Meta was using too much for internal projects. \n\nMeta was immediately constrained so it looks like they were forced to immediately sign massive $48B+ contracts with Neoclouds like $CRWV and $NBIS.\n\nMeta is selling excess capacity if there’s any, especially since their large contracts are take or pay from the Neoclouds. \n\nIf anything, I’m expecting their guided capex to go up as they build out more independent capacity.",
+      "created_at": "Wed Jul 01 13:42:30 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2072310750035497191",
+        "text": "@aleabitoreddit The real question is why and how do they have excess 🤔",
+        "created_at": "Wed Jul 01 13:25:59 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "899344026",
+          "name": "N",
+          "screen_name": "NoQ331",
+          "description": "",
+          "followers_count": 153,
+          "friends_count": 309,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 5,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 82,
+        "favorite_count": 875,
+        "reply_count": 163,
+        "quote_count": 22
       }
     }
   ]
