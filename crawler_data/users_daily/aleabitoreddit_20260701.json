@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accounts. \n\nAI/Semi Supply Chains\n\nNot financial advice, DYOR, may hold/trade names discussed.",
-    "followers_count": 905916,
+    "followers_count": 906455,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260701",
-  "last_updated": "2026-07-01T15:09:21.090025",
-  "tweet_count": 9,
+  "last_updated": "2026-07-01T17:43:21.192872",
+  "tweet_count": 10,
   "tweets": [
     {
       "id": "2072152226169331776",
@@ -251,6 +251,37 @@
         "favorite_count": 875,
         "reply_count": 163,
         "quote_count": 22
+      }
+    },
+    {
+      "id": "2072367082248040621",
+      "text": "Just dropping these 3 slides from Agility Robotics ( $CCXI ) presentations.\n\nFor the US robotic program doomposters:\n\n1. “75% of parts” - sourced from the USA\n\n2. Just eyeballing the graph, looks like <$30k BOM mass production.\n\nPeople were just looking at the ~$145K cost. \n\n3. 10,000 RoboFab capacity, and they build in Salem/Pittsburgh/Fremont (USA).\n\nSo looks like majority US supply chains with targets of <$30K mass production\n\nIt does help they’re backed by $AMZN / SoftBank / Foxconn / $NVDA as investors to get this done.\n\nJust personal thoughts as a shareholder in $CCXI (NFA):\n\nMy personal biggest fear were US humanoid leaders like $TSLA were just building out their entire supply chains in China.\n\nSo US robotics could just be export controlled/halted down the road.\n\neg. South China Morning Post: ‘Optimus chain’: Chinese suppliers form the backbone of Tesla’s humanoid robot initiative and engaged with hundreds of Chinese component suppliers. \n\nAnd that Western companies are not able to lower costs to a competitive level + are forced to use Chinese components. \n\nI'm still not sure how they're going to do it but if Agility can achieve those mass production targets with that BOM cost in the USA/West. \n\nIt would be a great validation for Made in America US robotics programs. \n\nIMO the top 5 US humanoid programs right now in terms of commercialization potential are:\n\n1. Tesla Optimus\n2. Figure\n3. Agility Robotics\n4. Boston Dynamics (yeah KR parent)\n5. Apptronik\n\nTesla is a $1T+ company. Figure is private and valued around ~$39B. Owning Boston Dynamics through Hyundai is a bit messy.\n\nAnd I’d prefer not to invest in adversarial programs just as a personal preference.\n\nSo I’ve been personally excited for Agility to be listed as early as September.",
+      "created_at": "Wed Jul 01 17:09:49 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2072367075667202048",
+          "url": "https://pbs.twimg.com/media/HMKG4B1b0AApnu8.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2072367075675500545",
+          "url": "https://pbs.twimg.com/media/HMKG4B3acAEk_8m.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2072367075654561792",
+          "url": "https://pbs.twimg.com/media/HMKG4Bya8AA4o6s.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 26,
+        "favorite_count": 369,
+        "reply_count": 150,
+        "quote_count": 4
       }
     }
   ]
