@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accounts. \n\nAI/Semi Supply Chains\n\nNot financial advice, DYOR, may hold/trade names discussed.",
-    "followers_count": 904723,
+    "followers_count": 905019,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260701",
-  "last_updated": "2026-07-01T09:21:12.124724",
-  "tweet_count": 5,
+  "last_updated": "2026-07-01T11:15:06.926266",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2072152226169331776",
@@ -161,6 +161,21 @@
         "favorite_count": 479,
         "reply_count": 133,
         "quote_count": 4
+      }
+    },
+    {
+      "id": "2072275805330362648",
+      "text": "Just a random thought, leading US humanoid players strangely me of the current LLM dynamics:\n\nAgility ( $CCXI ) kinda feels like Anthropic for robotics.\n\nWith $AMZN and $NVDA heavily backing it, ingrained with $GOOGL Deepmind (like TPUs). And it starts off with enterprise commercialization.\n\nOptimus is kinda off doing its own thing like xAI.\n\nSupported by Tesla/Elon and his visionary roadmap as usual.\n\nFigure is like ChatGPT\n\nWith Microsoft/OpenAI investing (kinda like Microsoft), then ended up kinda competing them by building their own VlA and setting them behind. \n\nBut ends up top 2 leaders anyway.\n\nBoston Dynamics is Gemini\n\nKinda started the entire humanoids thing like transformers with backflip videos.\n\nWith R&D supported by $GOOGL but somehow let everyone else leapfrog them in commercialization.\n\nAnd then there’s $NVDA just chilling, silently powering the entire humanoids ecosystem.",
+      "created_at": "Wed Jul 01 11:07:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 143,
+        "reply_count": 47,
+        "quote_count": 2
       }
     }
   ]
