@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accounts. \n\nAI/Semi Supply Chains\n\nNot financial advice, DYOR, may hold/trade names discussed.",
-    "followers_count": 905019,
+    "followers_count": 905377,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260701",
-  "last_updated": "2026-07-01T11:15:06.926266",
-  "tweet_count": 6,
+  "last_updated": "2026-07-01T13:10:13.203223",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2072152226169331776",
@@ -176,6 +176,27 @@
         "favorite_count": 143,
         "reply_count": 47,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2072301677211009426",
+      "text": "Finally, $META to build a Cloud Business to sell excess AI compute per Bloomberg.\n\nThought Meta should go up against GCP, Azure, and AWS eventually to increase revenue streams. \n\nMeta up 6.65% premarket. https://t.co/UUolnwtYJY",
+      "created_at": "Wed Jul 01 12:49:56 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2072301670814629888",
+          "url": "https://pbs.twimg.com/media/HMJLY9xawAABQkj.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 13,
+        "favorite_count": 336,
+        "reply_count": 119,
+        "quote_count": 18
       }
     }
   ]
