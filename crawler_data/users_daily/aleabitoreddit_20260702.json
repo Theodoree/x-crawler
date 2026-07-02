@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accounts. \n\nAI/Semi Supply Chains\n\nNot financial advice, DYOR, may hold/trade names discussed.",
-    "followers_count": 914437,
+    "followers_count": 914788,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260702",
-  "last_updated": "2026-07-02T18:41:54.140877",
-  "tweet_count": 6,
+  "last_updated": "2026-07-02T20:24:54.386171",
+  "tweet_count": 8,
   "tweets": [
     {
       "id": "2072570681586553112",
@@ -226,6 +226,77 @@
         "favorite_count": 349,
         "reply_count": 136,
         "quote_count": 8
+      }
+    },
+    {
+      "id": "2072760446617280650",
+      "text": "Always a fun time seeing semi markets crash from Bloomberg report framing once again…\n\nUBS analyst on $META report: “this is not new news”.\n\nRegardless:\n\n$AEHR down -18.3%\n$AAOI down -17.13%\n$SIVEF down -15.4%\n$SNDK down -14.8%\n$TER down -13.8%\n$GLW down -11.4%\n$MRVL down -11.2%\n$LITE down -10.2%\n$NBIS down -7.8%\n\nGetting PTSD from Bloombert’s previous misleading report on AMD/Nvidia global export controls earlier this year that crashed semi stocks.\n\nFYI: Meta doesn’t randomly buy $48B+ worth of neocoud contracts if they overbuilt capacity and can cut capex…\n\nMarkets are stupid sometimes.",
+      "created_at": "Thu Jul 02 19:12:55 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2072760440279666688",
+          "url": "https://pbs.twimg.com/media/HMPso3NaEAAS_Yw.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 64,
+        "favorite_count": 922,
+        "reply_count": 188,
+        "quote_count": 10
+      }
+    },
+    {
+      "id": "2072765527764971642",
+      "text": "Just this hour:\n\nBlueCrest Capital Management and its Billionaire Michael Platt crossed the threshold and disclosed a 5.6% stake in $CCXI.\n\nI knew Agility Robotics would be popular… https://t.co/n7bqpmCykd",
+      "created_at": "Thu Jul 02 19:33:06 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2072765467471822848",
+          "url": "https://pbs.twimg.com/media/HMPxNe9awAAzeVh.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2072765467488563200",
+          "url": "https://pbs.twimg.com/media/HMPxNfBaMAAgv56.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2072741541404406008",
+        "text": "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo. \n\nPersonal Rankings:\n\n1. Agility Robotics via $CCXI \n2. $TSLA Optimus ($1T+ company)\n3. Figure at $39B from 2025, likely higher now.\n\nWith Tesla likely taking the lead a year from now. So at  $16, you have a ~$4B MC pre-money humanoid player.\n\nWhich is already inside $AMZN and $MELI (ideal use cases to start out, before step-functioning to general-use), with $AMZN, $NVDA, Softbank, Foxconn, and others as investors.\n\nNFA, but at those valuations... there's direct exposure for the first ever humanoid player today, that's likely further ahead than Figure for commercialization. \n\nNo hard feelings about Robostrategy, but it's over 4x+ NAV: \n\nWhich would value Figure at $156B...  \n\nWhile there's the #1 commercialized humanoid player with Agility at $4B today. \n\nSo my personal preference is $CCXI.",
+        "created_at": "Thu Jul 02 17:57:47 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accounts. \n\nAI/Semi Supply Chains\n\nNot financial advice, DYOR, may hold/trade names discussed.",
+          "followers_count": 914788,
+          "friends_count": 175,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 43,
+          "favorite_count": 631,
+          "reply_count": 161,
+          "quote_count": 13
+        }
+      },
+      "stats": {
+        "retweet_count": 31,
+        "favorite_count": 405,
+        "reply_count": 108,
+        "quote_count": 7
       }
     }
   ]
