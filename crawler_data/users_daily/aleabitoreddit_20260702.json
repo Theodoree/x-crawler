@@ -1,0 +1,62 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accounts. \n\nAI/Semi Supply Chains\n\nNot financial advice, DYOR, may hold/trade names discussed.",
+    "followers_count": 908291,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260702",
+  "last_updated": "2026-07-02T07:39:15.571932",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2072570681586553112",
+      "text": "I feel like Trump is probably going to like this idea:\n\nOpenAI discussed giving the US gov a 5% stake in its company per FT.\n\nIf this turns into an $INTC type situation, would be interesting if the US government becomes a soft backstop for their $1T+ in future capex/obligations. https://t.co/KQZUyd950N",
+      "created_at": "Thu Jul 02 06:38:51 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2072570675819421696",
+          "url": "https://pbs.twimg.com/media/HMNADHgboAAaTFg.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 25,
+        "favorite_count": 394,
+        "reply_count": 127,
+        "quote_count": 11
+      }
+    },
+    {
+      "id": "2072574465763111166",
+      "text": "Wells Fargo: $META intent to sell excess compute is a positive signal around underlying demand and unit economics of AI.\n\n“Despite this shift, we don’t expect a pullback in Meta’s capex or that overall compute needs are lower”\n\nRegarding Neoclouds: WF thinks it validated the massive AI infra opportunity as well as acquisition opportunities. Despite any potential competition for Neoclouds. \n\nI’m inclined to agree with Wells Fargo here and say markets completely misunderstood Meta’s excess compute comment.",
+      "created_at": "Thu Jul 02 06:53:53 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2072574459521966080",
+          "url": "https://pbs.twimg.com/media/HMNDfW5aoAAMa3G.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2072574459542970368",
+          "url": "https://pbs.twimg.com/media/HMNDfW-bIAA0cMs.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 42,
+        "favorite_count": 436,
+        "reply_count": 99,
+        "quote_count": 9
+      }
+    }
+  ]
+}
