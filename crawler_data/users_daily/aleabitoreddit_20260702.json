@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accounts. \n\nAI/Semi Supply Chains\n\nNot financial advice, DYOR, may hold/trade names discussed.",
-    "followers_count": 910176,
+    "followers_count": 914437,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260702",
-  "last_updated": "2026-07-02T10:49:32.968388",
-  "tweet_count": 4,
+  "last_updated": "2026-07-02T18:41:54.140877",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2072570681586553112",
@@ -148,6 +148,84 @@
         "favorite_count": 157,
         "reply_count": 45,
         "quote_count": 3
+      }
+    },
+    {
+      "id": "2072726120706007465",
+      "text": "Photonics is backed by actual revenue numbers and it's an architectural shift championed by $NVDA.\n\nQuantum barely has any revenue.\n\n$LITE is completely sold out for the next 2 years (per $POET AGM) likely starting into 2029. Lumentum is so strained that they buy CW lasers off competitors (earnings transcript)\n\n$COHR is bottlenecked, so they buy EML off Lumentum.\n\nThen, $AAOI is coming in with Made-in-America independent CW capacity, are projecting $1.4B/quarterly revenue ending H1 2027 of a stupid $9.3B MC today. \n\nSo all the CW capacity from independent players who have it now like $AAOI or $SIVE are likely to become scarce resources.\n\nMany other hyperscalers have already started LTA discussions (per Trendforce). And players like $AMD are currently talking with players such as $AAOI (Rosenblatt channel checks).\n\nThematically, next 2 years is 9x TAM to US$154B per GS reports, especially with 16x/45x dollar content increase in scale out/scale up.\n\nThen there's the overall thematic AI drop from $META, which is widely misunderstood because people conflate what \"excess capacity\" means. And as UBS mentioned, Meta planning a cloud offering is NOT NEW NEWS.\n\nBloomberg just has a tendency to publish information that causes doom drops across the semi sector like Nvidia export controls a few months back. \n\nBut I'm familiar with what I'm holding so I'm confident in these numbers playing out. \n\nEspecially when all the major players are sold out, the fundamentals catch up eventually.",
+      "created_at": "Thu Jul 02 16:56:31 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2072686971512582177",
+        "text": "@aleabitoreddit All photon stocks are dropping like rocks.   Is it going to be like quantum stocks in 2025 ?",
+        "created_at": "Thu Jul 02 14:20:57 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1914698303612035072",
+          "name": "C.G.D. Walker",
+          "screen_name": "walker119298",
+          "description": "Long term growth stock investor.  Doing my best to navigate macro and market volatility while staying focused on investing in great companies.",
+          "followers_count": 171,
+          "friends_count": 159,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 11,
+          "reply_count": 10,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 97,
+        "favorite_count": 1244,
+        "reply_count": 254,
+        "quote_count": 8
+      }
+    },
+    {
+      "id": "2072741541404406008",
+      "text": "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo. \n\nPersonal Rankings:\n\n1. Agility Robotics via $CCXI \n2. $TSLA Optimus ($1T+ company)\n3. Figure at $39B from 2025, likely higher now.\n\nWith Tesla likely taking the lead a year from now. So at  $16, you have a ~$4B MC pre-money humanoid player.\n\nWhich is already inside $AMZN and $MELI (ideal use cases to start out, before step-functioning to general-use), with $AMZN, $NVDA, Softbank, Foxconn, and others as investors.\n\nNFA, but at those valuations... there's direct exposure for the first ever humanoid player today, that's likely further ahead than Figure for commercialization. \n\nNo hard feelings about Robostrategy, but it's over 4x+ NAV: \n\nWhich would value Figure at $156B...  \n\nWhile there's the #1 commercialized humanoid player with Agility at $4B today. \n\nSo my personal preference is $CCXI.",
+      "created_at": "Thu Jul 02 17:57:47 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2072630454054998193",
+        "text": "@aleabitoreddit how about RoboStrategy ?",
+        "created_at": "Thu Jul 02 10:36:22 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1858731140049498113",
+          "name": "加密派大星",
+          "screen_name": "chzhu120341",
+          "description": "加密货币 doge｜hype\n使用 https://t.co/bH9yW5XIIO \n享受hyperliquid 手续费优惠\n日常生活分享\n搞笑段子\nAI",
+          "followers_count": 1638,
+          "friends_count": 3591,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 3,
+          "reply_count": 3,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 25,
+        "favorite_count": 349,
+        "reply_count": 136,
+        "quote_count": 8
       }
     }
   ]
