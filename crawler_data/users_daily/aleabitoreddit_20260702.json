@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accounts. \n\nAI/Semi Supply Chains\n\nNot financial advice, DYOR, may hold/trade names discussed.",
-    "followers_count": 914788,
+    "followers_count": 915087,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260702",
-  "last_updated": "2026-07-02T20:24:54.386171",
-  "tweet_count": 8,
+  "last_updated": "2026-07-02T22:14:53.101600",
+  "tweet_count": 10,
   "tweets": [
     {
       "id": "2072570681586553112",
@@ -297,6 +297,42 @@
         "favorite_count": 405,
         "reply_count": 108,
         "quote_count": 7
+      }
+    },
+    {
+      "id": "2072781715916169660",
+      "text": "Does anyone else have this annoying seed planted in their mind too?\n\nWhenever I see $MRVL drop, I get reminded of Jensen’s comment “The next $1T company”.",
+      "created_at": "Thu Jul 02 20:37:26 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 33,
+        "favorite_count": 996,
+        "reply_count": 197,
+        "quote_count": 6
+      }
+    },
+    {
+      "id": "2072795186263187831",
+      "text": "$AXTI signs 3-year wafer deal with $COHR.\n\n\"Coherent will make a prepayment of $22,288,500 to AXT-Tongmei in exchange for a committed supply capacity.\" https://t.co/nTkyJSMo96",
+      "created_at": "Thu Jul 02 21:30:57 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2072795172619055104",
+          "url": "https://pbs.twimg.com/media/HMQMOjQacAAQVT5.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 17,
+        "favorite_count": 480,
+        "reply_count": 86,
+        "quote_count": 15
       }
     }
   ]
