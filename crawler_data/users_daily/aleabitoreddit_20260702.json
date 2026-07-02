@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accounts. \n\nAI/Semi Supply Chains\n\nNot financial advice, DYOR, may hold/trade names discussed.",
-    "followers_count": 908291,
+    "followers_count": 910176,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260702",
-  "last_updated": "2026-07-02T07:39:15.571932",
-  "tweet_count": 2,
+  "last_updated": "2026-07-02T10:49:32.968388",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2072570681586553112",
@@ -56,6 +56,98 @@
         "favorite_count": 436,
         "reply_count": 99,
         "quote_count": 9
+      }
+    },
+    {
+      "id": "2072610437817078056",
+      "text": "$IREN founders award themselves $1.14B+ of stock based compensation.\n\nVesting over 4 years timeframe. This is amid their active $6,000,000,000 ATM.\n\nI’m not going to say anything but I think it speaks for itself. https://t.co/IoCHVxVIXs",
+      "created_at": "Thu Jul 02 09:16:50 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2072610383840579584",
+          "url": "https://pbs.twimg.com/media/HMNkKbaakAA-_30.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 33,
+        "favorite_count": 790,
+        "reply_count": 137,
+        "quote_count": 19
+      }
+    },
+    {
+      "id": "2072630036600103340",
+      "text": "I just realized Boston Dynamics CEO shared the same sentiment:\n\n“Robotics is next. America’s next 250 years will be built by robots”.\n\nHowever, currently China accounts for 54%+ of all global robotics deployments.\n\n- calls for Internet scaleable database of physical world (kinda got reminded of Niantic that has a huge dataset from Pokemon Go)\n\n- dedicated National robotics strategy to compete against China’s leadership in this space\n\n-  ISO + regulation for robotics safety \n\nThis is all high level:\n\nBut my prioritize thought process is how do we support and scale a Made in USA supply chain for robotics/humanoids?\n\nI’ve been hammering home rare earths for the longest time, that the US isn’t doing enough to subsidize or scale this industry.\n\nBut another thing to take note is subsidies for components, forcing $TSLA and others to use Chinese suppliers over Western ones, even if assembly is done in USA… to keep costs down.\n\nWhich is why I’ve liked Agility Robotics $CCXI since they source 75% of parts from the US, despite higher BOM to start out with.\n\nRegardless it’s pretty clear this Robotics is coming and becoming a national security priority:\n\nFrom the days of backflipping humanoid YT videos.",
+      "created_at": "Thu Jul 02 10:34:42 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2072630026252832768",
+          "url": "https://pbs.twimg.com/media/HMN2BxGb0AA3m1L.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2072630026261221376",
+          "url": "https://pbs.twimg.com/media/HMN2BxIb0AA_jsY.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2072630026273710080",
+          "url": "https://pbs.twimg.com/media/HMN2BxLaYAA3hkI.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2072367082248040621",
+        "text": "Just dropping these 3 slides from Agility Robotics ( $CCXI ) presentations.\n\nFor the US robotic program doomposters:\n\n1. “75% of parts” - sourced from the USA\n\n2. Just eyeballing the graph, looks like <$30k BOM mass production.\n\nPeople were just looking at the ~$145K cost. \n\n3. 10,000 RoboFab capacity, and they build in Salem/Pittsburgh/Fremont (USA).\n\nSo looks like majority US supply chains with targets of <$30K mass production\n\nIt does help they’re backed by $AMZN / SoftBank / Foxconn / $NVDA as investors to get this done.\n\nJust personal thoughts as a shareholder in $CCXI (NFA):\n\nMy personal biggest fear were US humanoid leaders like $TSLA were just building out their entire supply chains in China.\n\nSo US robotics could just be export controlled/halted down the road.\n\neg. South China Morning Post: ‘Optimus chain’: Chinese suppliers form the backbone of Tesla’s humanoid robot initiative and engaged with hundreds of Chinese component suppliers. \n\nAnd that Western companies are not able to lower costs to a competitive level + are forced to use Chinese components. \n\nI'm still not sure how they're going to do it but if Agility can achieve those mass production targets with that BOM cost in the USA/West. \n\nIt would be a great validation for Made in America US robotics programs. \n\nIMO the top 5 US humanoid programs right now in terms of commercialization potential are:\n\n1. Tesla Optimus\n2. Figure\n3. Agility Robotics\n4. Boston Dynamics (yeah KR parent)\n5. Apptronik\n\nTesla is a $1T+ company. Figure is private and valued around ~$39B. Owning Boston Dynamics through Hyundai is a bit messy.\n\nAnd I’d prefer not to invest in adversarial programs just as a personal preference.\n\nSo I’ve been personally excited for Agility to be listed as early as September.",
+        "created_at": "Wed Jul 01 17:09:49 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2072367075667202048",
+            "url": "https://pbs.twimg.com/media/HMKG4B1b0AApnu8.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2072367075675500545",
+            "url": "https://pbs.twimg.com/media/HMKG4B3acAEk_8m.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2072367075654561792",
+            "url": "https://pbs.twimg.com/media/HMKG4Bya8AA4o6s.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accounts. \n\nAI/Semi Supply Chains\n\nNot financial advice, DYOR, may hold/trade names discussed.",
+          "followers_count": 910176,
+          "friends_count": 175,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 118,
+          "favorite_count": 1278,
+          "reply_count": 218,
+          "quote_count": 19
+        }
+      },
+      "stats": {
+        "retweet_count": 15,
+        "favorite_count": 157,
+        "reply_count": 45,
+        "quote_count": 3
       }
     }
   ]
