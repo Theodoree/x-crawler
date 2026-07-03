@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accounts. \n\nAI/Semi Supply Chains\n\nNot financial advice, DYOR, may hold/trade names discussed.",
-    "followers_count": 916661,
+    "followers_count": 917611,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260703",
-  "last_updated": "2026-07-03T04:50:27.820121",
-  "tweet_count": 1,
+  "last_updated": "2026-07-03T08:16:30.275397",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2072902886712094919",
@@ -35,6 +35,159 @@
         "favorite_count": 160,
         "reply_count": 94,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2072906728853881251",
+      "text": "Lot of misinformation recently about $META.\n\nRecently major journals have been stating \n\n“AI AGENT DEVELOPMENT OVER THE LAST FOUR MONTHS HASN'T 'ACCELERATED IN THE WAY WE EXPECTED”\n\nTo push some narrative about Meta dropping out of the race or lowered capex:\n\nAs Wang clarified: Zuckerberg was talking about the industry as a whole.",
+      "created_at": "Fri Jul 03 04:54:11 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2072906722155659264",
+          "url": "https://pbs.twimg.com/media/HMRxrlqbgAAtGY5.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2072902886712094919",
+        "text": "$META: upcoming AI model “Watermelon”  has caught up to OpenAI’s GPT 5.5.\n\nWang noted it uses an \"order of magnitude\" more compute than its predecessor “Avocado”.\n\nWho said they were out of the AI race again? https://t.co/X2sOgMRTuw",
+        "created_at": "Fri Jul 03 04:38:55 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2072902879476948992",
+            "url": "https://pbs.twimg.com/media/HMRuL6kboAAXiCw.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2072902879170772992",
+            "url": "https://pbs.twimg.com/media/HMRuL5bbwAApzJ9.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accounts. \n\nAI/Semi Supply Chains\n\nNot financial advice, DYOR, may hold/trade names discussed.",
+          "followers_count": 917611,
+          "friends_count": 175,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 37,
+          "favorite_count": 712,
+          "reply_count": 168,
+          "quote_count": 22
+        }
+      },
+      "stats": {
+        "retweet_count": 20,
+        "favorite_count": 406,
+        "reply_count": 103,
+        "quote_count": 4
+      }
+    },
+    {
+      "id": "2072913865458004014",
+      "text": "LeaderDrive (688017) is now at all time highs after hitting a 20% limit up today. \n\nLooks like robotics sector excitement is palpable…\n\nLargely driven by US and China’s frontier humanoid companies with $CCXI / Agility Robotics\n\nAs well as Unitree (STAR listing approved today) both going public.",
+      "created_at": "Fri Jul 03 05:22:33 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2072913859548155904",
+          "url": "https://pbs.twimg.com/media/HMR4LChaEAAX7rb.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2062723902728802341",
+        "text": "专门写给我的中文读者：\n\n绿的谐波（LeaderDrive，688017，577.3亿人民币）是我在布局人形机器人赛道时最青睐的中国上市标的。\n\n他们的业务涵盖：\n\n谐波减速器（据称占有超过60%的国内市场份额，以及1800多家全球客户）\n\n人形机器人旋转关节减速器\n\n直线执行器\n\n电机/关节，以及许多其他核心零部件。\n\n并且他们正在进军行星滚柱丝杠（planetary roller screws）领域。\n\n目前占据着绝对的主导地位：超过60%的国内市场份额以及1800多家全球客户。\n\n主要客户包括优傲机器人（Universal Robots）、优必选（UBTech）、智元机器人（Agibot），而特斯拉（Tesla）、Figure 以及绝大多数其他人形机器人研发商都很可能是他们的潜在客户。\n\n如果你看一下这些零部件的 BOM（物料清单），粗略估计它们占到了每台研发出的人形机器人的 4-15%，随着他们进军更多细分领域，这个比例可能还会更高。\n\n我认为没有人能对这类公司进行精确的财务建模，其前景更多取决于未来几年内会有多少人形机器人实现量产。\n\n这其实是对一家能够在每台生产出的人形机器人中占据可观份额的公司，进行的一种方向性做多（directional long）。\n\n在可扩展的规模化量产方面，中国显然是该领域的领导者，许多西方玩家无法将成本降到绿的谐波那样的水平。\n\n随着我们向实体人工智能（physical AI）的规模化迈进，我极其看好机器人这个赛道。",
+        "created_at": "Fri Jun 05 02:31:16 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2062721900460306432",
+            "url": "https://pbs.twimg.com/media/HKBCo8Na8AARO4Y.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2062720891478487040",
+            "url": "https://pbs.twimg.com/media/HKBBuNdaMAAemna.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2062720891474382848",
+            "url": "https://pbs.twimg.com/media/HKBBuNcbkAAF_75.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accounts. \n\nAI/Semi Supply Chains\n\nNot financial advice, DYOR, may hold/trade names discussed.",
+          "followers_count": 917611,
+          "friends_count": 175,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 850,
+          "favorite_count": 7216,
+          "reply_count": 1761,
+          "quote_count": 400
+        }
+      },
+      "stats": {
+        "retweet_count": 17,
+        "favorite_count": 361,
+        "reply_count": 111,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2072922974345445511",
+      "text": "SemiAnalysis on $META “overcapacity” and market reactions with $NBIS and others:\n\n“We believe Meta’s datacenter and compute will accelerate”.\n\n“Capex in 2027 will be shockingly high”.\n\nRecent global crash, especially in the photonics sector was stupid… Off misleading narratives of Meta dropping out of AI race to sell excess compute…\n\nWhen in fact things are likely to accelerate from Meta catching up to GPT5.5.\n\nI’m personally expecting a sharp V recovery, especially with the names that crashed 50%+ from this narrative.",
+      "created_at": "Fri Jul 03 05:58:44 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2072922967466823680",
+          "url": "https://pbs.twimg.com/media/HMSAdMKb0AA6ggb.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 53,
+        "favorite_count": 752,
+        "reply_count": 106,
+        "quote_count": 17
+      }
+    },
+    {
+      "id": "2072936659369517341",
+      "text": "Be SemiAnalysis:\n\n- Post a scathing piece on CPO delays + optical company valuations, causing a crash.\n\nWhich $NVDA, analyst desks, and major optical companies refuted\n\n- Launch an institutional photonics ETF after optical names dropped 40-60%.",
+      "created_at": "Fri Jul 03 06:53:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 32,
+        "favorite_count": 621,
+        "reply_count": 104,
+        "quote_count": 13
       }
     }
   ]
