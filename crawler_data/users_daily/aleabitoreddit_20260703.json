@@ -2,14 +2,14 @@
   "user": {
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
-    "description": "Only on X, don’t trust fake accounts. \n\nAI/Semi Supply Chains\n\nNot financial advice, DYOR, may hold/trade names discussed.",
-    "followers_count": 917611,
+    "description": "Only on X, don’t trust fake accounts. \n\nAI/Semi Supply Chains\n\nNot financial advice, DYOR, may hold/trade names discussed. Sharing free personal views on AI.",
+    "followers_count": 918868,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260703",
-  "last_updated": "2026-07-03T08:16:30.275397",
-  "tweet_count": 5,
+  "last_updated": "2026-07-03T11:39:13.236997",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2072902886712094919",
@@ -188,6 +188,32 @@
         "favorite_count": 621,
         "reply_count": 104,
         "quote_count": 13
+      }
+    },
+    {
+      "id": "2072986020640076052",
+      "text": "So positive readthrough on the upstream glass substrate supply chain:\n\n- Sumitomo Chemical and Samsung Electro-Mechanics formally establish JV in Korea within the year to handle the glass core substrate business (GlaSSEM).\n\nMain thing was timeline/funding was finalized:  \"full scale commercialization targeted H2 2027\" for the Samsung/Dongwoo JV / KRW 482.1B planned capital.\n\nThink the \"full scale commercialization\" is the word to highlight, since that would imply timeline moving faster than expected than starting ramp or early production H2 2027.\n\nSo... TGV/LIDE with $LPK (that I own)/E&R  and Onto in terms of yields are just some examples of possible sector beneficiaries. \n\nSince companies like LPK stated in the past: “80% of customers among major global players have selected LPKF equipment” and targeted \"70% of LIDE market share target for TGV in the glass-core ramp\".  \n\nThese players also typically have revenue pulled forward, since equipment orders during capex cycle hit before actual ramp. \n\nRegardless, just an update on developments.",
+      "created_at": "Fri Jul 03 10:09:16 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2072982760705462272",
+          "url": "https://pbs.twimg.com/media/HMS21nVbkAAUTPC.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2072983958778970112",
+          "url": "https://pbs.twimg.com/media/HMS37WgagAAGFy6.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 17,
+        "favorite_count": 332,
+        "reply_count": 80,
+        "quote_count": 0
       }
     }
   ]
