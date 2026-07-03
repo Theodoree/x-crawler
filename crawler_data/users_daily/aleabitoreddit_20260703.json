@@ -1,0 +1,41 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accounts. \n\nAI/Semi Supply Chains\n\nNot financial advice, DYOR, may hold/trade names discussed.",
+    "followers_count": 916661,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260703",
+  "last_updated": "2026-07-03T04:50:27.820121",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2072902886712094919",
+      "text": "$META: upcoming AI model “Watermelon”  has caught up to OpenAI’s GPT 5.5.\n\nWang noted it uses an \"order of magnitude\" more compute than its predecessor “Avocado”.\n\nWho said they were out of the AI race again? https://t.co/X2sOgMRTuw",
+      "created_at": "Fri Jul 03 04:38:55 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2072902879476948992",
+          "url": "https://pbs.twimg.com/media/HMRuL6kboAAXiCw.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2072902879170772992",
+          "url": "https://pbs.twimg.com/media/HMRuL5bbwAApzJ9.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 11,
+        "favorite_count": 160,
+        "reply_count": 94,
+        "quote_count": 1
+      }
+    }
+  ]
+}
