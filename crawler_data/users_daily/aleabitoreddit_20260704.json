@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accounts. \n\nAI/Semi Supply Chains\n\nNot financial advice, DYOR, may hold/trade names discussed. Sharing free personal views on AI.",
-    "followers_count": 927071,
+    "followers_count": 928421,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260704",
-  "last_updated": "2026-07-04T12:12:03.062978",
-  "tweet_count": 3,
+  "last_updated": "2026-07-04T18:09:08.093587",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2073196939785711796",
@@ -90,6 +90,32 @@
         "favorite_count": 498,
         "reply_count": 120,
         "quote_count": 9
+      }
+    },
+    {
+      "id": "2073467493998555192",
+      "text": "UDN Money report \"殺翻光通訊後 SemiAnalysis 惹議 業界揭其劣跡 許多公司慘遭魔手\":\n\n- SemiAnalysis, released a report in June, questioning the timing of the launch of the CPO on the grounds of low yield and delay, which caused the photonics sector to collapse. \n\n- The agency then partnered with Tema to launch a photonics ETF. \n\n- The shares held in the ETF under the trading code LAZR happened to be the photonics stocks that were mentioned negatively in the report\n\n$HIMX and $LITE, which were specifically targeted negatively in their article \"Powered Down, Lights Off\", have been bought in Semianalysis and Tema's new ETF after the optical sector crash.",
+      "created_at": "Sat Jul 04 18:02:28 +0000 2026",
+      "lang": "ja",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2073465110967029761",
+          "url": "https://pbs.twimg.com/media/HMZtiGFbEAEOPKi.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2073466670052782080",
+          "url": "https://pbs.twimg.com/media/HMZu82IbsAA50r5.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 10,
+        "favorite_count": 101,
+        "reply_count": 50,
+        "quote_count": 1
       }
     }
   ]
