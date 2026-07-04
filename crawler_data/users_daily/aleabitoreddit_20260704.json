@@ -2,14 +2,14 @@
   "user": {
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
-    "description": "Only on X, don’t trust fake accounts. \n\nAI/Semi Supply Chains\n\nNot financial advice, DYOR, may hold/trade names discussed. Sharing free personal views on AI.",
-    "followers_count": 928421,
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
+    "followers_count": 928612,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260704",
-  "last_updated": "2026-07-04T18:09:08.093587",
-  "tweet_count": 4,
+  "last_updated": "2026-07-04T20:14:10.843122",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2073196939785711796",
@@ -116,6 +116,21 @@
         "favorite_count": 101,
         "reply_count": 50,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2073486870315745406",
+      "text": "an apple a day keeps the bottleneck away",
+      "created_at": "Sat Jul 04 19:19:28 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 282,
+        "reply_count": 59,
+        "quote_count": 0
       }
     }
   ]
