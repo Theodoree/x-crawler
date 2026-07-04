@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accounts. \n\nAI/Semi Supply Chains\n\nNot financial advice, DYOR, may hold/trade names discussed. Sharing free personal views on AI.",
-    "followers_count": 925976,
+    "followers_count": 927071,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260704",
-  "last_updated": "2026-07-04T07:53:09.855849",
-  "tweet_count": 2,
+  "last_updated": "2026-07-04T12:12:03.062978",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2073196939785711796",
@@ -45,6 +45,51 @@
         "favorite_count": 238,
         "reply_count": 86,
         "quote_count": 3
+      }
+    },
+    {
+      "id": "2073351980131754203",
+      "text": "Bruh, when I first tried out ChatGPT around 2023, I thought it LLMs were garbage at coding. \n\n3Y later, Mythos is considered a modern day “nuke” for cybersecurity. \n\nPeople keep saying humanoids can’t do X or Y task today like plumbing or DC wiring. No sht, but it’s about where things are heading over the few years.\n\nAnd it’s clear to me and VC apparently that we’ve just hit the inflection point where soon: majority of labor you think is human-only, can be replaced by robotics/humanoids. \n\nYou're already seeing this too with internal strategies: Remember $AMZN leaked strat planned to avoid hiring 600,000 workers by them with robots like $CCXI? \n\nIf you see past the \"assistive robotics\" public image framing to prevent protest, it's clear the goals is maximizing, opex efficiency. \n\nThe main areas I think are safe however are regulation bound (eg. Medicine), ultra specialized labor, or require human/emotional connections.\n\nBut I think you'll be blown away by the rate of change when frontier technologies become national security races between US and China... especially when China is currently in the lead.",
+      "created_at": "Sat Jul 04 10:23:27 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2073350017205882880",
+          "url": "https://pbs.twimg.com/media/HMYE2wabUAAMZo_.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2073202884175368403",
+        "text": "This will age poorly",
+        "created_at": "Sat Jul 04 00:31:00 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1794931985346973696",
+          "name": "GC",
+          "screen_name": "GCinvests8",
+          "description": "An alt account for your favorite influencer",
+          "followers_count": 345,
+          "friends_count": 1799,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 38,
+        "favorite_count": 498,
+        "reply_count": 120,
+        "quote_count": 9
       }
     }
   ]
