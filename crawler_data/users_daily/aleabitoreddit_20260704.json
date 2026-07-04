@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accounts. \n\nAI/Semi Supply Chains\n\nNot financial advice, DYOR, may hold/trade names discussed. Sharing free personal views on AI.",
-    "followers_count": 923390,
+    "followers_count": 925976,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260704",
-  "last_updated": "2026-07-04T00:13:53.497459",
-  "tweet_count": 1,
+  "last_updated": "2026-07-04T07:53:09.855849",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2073196939785711796",
@@ -24,6 +24,27 @@
         "favorite_count": 181,
         "reply_count": 84,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2073305375957541013",
+      "text": "TIL floating DC and ocean compute exists?\n\nApparently it’s free cooling + optimal for places in tight geography…\n\nIt’s going to be wild taking a cruise ship, and passing by a bunch of $NBIS or Samsung floating AI DCs one day.\n\nIf this ever becomes a thing like orbital compute? https://t.co/Ki2RqNc2xT",
+      "created_at": "Sat Jul 04 07:18:16 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2073305369468903424",
+          "url": "https://pbs.twimg.com/media/HMXcP6oaoAAvmfQ.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 7,
+        "favorite_count": 238,
+        "reply_count": 86,
+        "quote_count": 3
       }
     }
   ]
