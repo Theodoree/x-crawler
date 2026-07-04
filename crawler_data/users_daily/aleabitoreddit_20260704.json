@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
-    "followers_count": 928612,
+    "followers_count": 928742,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260704",
-  "last_updated": "2026-07-04T20:14:10.843122",
-  "tweet_count": 5,
+  "last_updated": "2026-07-04T22:05:27.373625",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2073196939785711796",
@@ -130,6 +130,32 @@
         "retweet_count": 3,
         "favorite_count": 282,
         "reply_count": 59,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2073523410643366242",
+      "text": "Nikkei - $JD E-Commerce Giant CEO warns \"Robots Will Replace 700,000 Delivery Workers\". \n\nPer FT's earlier piece last month: The 700,000 delivery personnel working for the firm will be replaced by robots, highlighting how rapid automation has become a new threat to China's already severe job market.\n\nLiu Qiangdong, revealed that the company has signed contracts with approximately 120 schools to retrain its delivery workers, enabling them to transition into new roles such as robot repair and maintenance...\n\n\"Beijing has started to track AI’s hit to jobs as a national priority.\"\n\nThis follows other corporate strategy reports like $AMZN, of avoiding 600,000 future hires with robots.  \n\nBut it's very interesting to see the shift in worker roles to robot support. Maybe $DASH to $UBER to $MELI, we'll all start to see this rollout following China. \n\nThere's a lot of retail disbelief over humanoid/robotics commercialization. But feels like the direction industry is heading down is pretty clear.",
+      "created_at": "Sat Jul 04 21:44:39 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2073520716675436544",
+          "url": "https://pbs.twimg.com/media/HMagGxfaUAAfgHo.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2073521277017767936",
+          "url": "https://pbs.twimg.com/media/HMagnY7bwAAR6au.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 15,
+        "favorite_count": 144,
+        "reply_count": 51,
         "quote_count": 0
       }
     }
