@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
-    "followers_count": 932252,
+    "followers_count": 932715,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260705",
-  "last_updated": "2026-07-05T17:21:21.273128",
-  "tweet_count": 3,
+  "last_updated": "2026-07-05T21:11:47.756951",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2073704784398528599",
@@ -71,6 +71,42 @@
         "favorite_count": 856,
         "reply_count": 149,
         "quote_count": 7
+      }
+    },
+    {
+      "id": "2073867745243127973",
+      "text": "Came across an interesting report from SVRC Research called \"State of Robotics 2026\", published in April. \n\nWhich listed:\n\n1. Figure AI \n2. Agility Robotics $CCXI\n3. Apptronik \n4. $TSLA \n5. Boston Dynamics\n6. Physical Intelligence \n7. 1X Technologies\n8. $AMZN Robotics\n9. Covariant\n10. Skild AI \n\nAs the National Champions of the United States robotics program. \n\n\"The United States leads the world in where robotics is heading: Fundation models, OpenAI-style scaling laws applied to action, autonomous vehicles. \n\nWhile losing the race on where robotics is shipping today.\" \n\nThen it frames:\n\n1. Rare Earths Exposure: from Neodymium for motors to samarium-cobalt for high-temp applications as a critical vulnerability.\n\n2. Actuator dependency. Series elastic actuators, quasi-direct-drive motors, and precision reducers overwhelmingly sourced from Japan, Germany, and China\n\nAs one of the main vulnerabilities alongside Manufacturing velocity/data collection cost/regulations. Then their take was: \n\n\"With at least six well-funded US humanoid companies competing for a market still in early formation, we expect at least two significant consolidation events (acquisition or merger) in 2027\". \n\nWith Logistics / E-commerce (like $AMZN / $FDX) and Automotive from $GM to $FORD as being the immediate top use cases for deployment.\n\nI think it's just interesting to see a lot of my points I've been talking about reiterated by research firms. Regardless, I do think it's going to be a major frontier race between the US and China. \n\nAgility Robotics (which I own), Tesla, Figure, and Apptronik as leaders representing the USA. Competing against Unitree, AGIbot, Ubtech, and others in China.",
+      "created_at": "Sun Jul 05 20:32:55 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2073859427757948928",
+          "url": "https://pbs.twimg.com/media/HMfUKWmbgAA1z-j.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2073859434640809984",
+          "url": "https://pbs.twimg.com/media/HMfUKwPboAAARvn.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2073860356381003776",
+          "url": "https://pbs.twimg.com/media/HMfVAZ_a0AA7NwP.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2073864907574112256",
+          "url": "https://pbs.twimg.com/media/HMfZJUgacAAJmfC.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 27,
+        "favorite_count": 327,
+        "reply_count": 102,
+        "quote_count": 4
       }
     }
   ]
