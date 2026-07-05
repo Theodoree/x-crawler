@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
-    "followers_count": 931289,
+    "followers_count": 932252,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260705",
-  "last_updated": "2026-07-05T13:57:52.414549",
-  "tweet_count": 2,
+  "last_updated": "2026-07-05T17:21:21.273128",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2073704784398528599",
@@ -56,6 +56,21 @@
         "favorite_count": 158,
         "reply_count": 103,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2073793206408667392",
+      "text": "Just some consolidated updates on memory: \n\n-  $MU leads new 1.5T Yen investment in Hiroshima ~$9.3B. (bullish read through for Disco, Advantest, Resonac, Towa) since capex is localized.\n\n- Morgan Stanley pointed out NAND will continue to be in short supply into 2027 so $SNDK / Kioxia type players are happy alongisde $SIMO and upstream.\n\n- MS remains especially positive on Macronix/Winbond\n\n- UBS expects the average price of DDR contracts in the Q3 2026 to increase 32% | 18% Q4, vs. 17% and 12% est. \n\n- UBS expects NAND flash to be raised 30% from prev quarter. \n\n- Samsung reportedly plans 20% DRAM hike Q3. TrendForce recently forecast DRAM contract prices to rise 13 to 18 percent in the third quarter from the previous quarter, so this hike beats expectations.\n\nSomething to note:\n\nLot people see 20%... and don't think it's a lot compared to the 70-80% from previous quarters. \n\nBut if you hike something by 100%, then hike something by 100%, then hike something by 30%, it's a lot more than people estimate since it's compounded. Similar to tracking inflation. \n\nI've already made projections going into 2028 from the start of the year on my memory names... \n\nI'm just sitting back and watching things play out through all the \"memory optimization\" and \"they can't keep price hiking like this!\" noise.",
+      "created_at": "Sun Jul 05 15:36:44 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 44,
+        "favorite_count": 856,
+        "reply_count": 149,
+        "quote_count": 7
       }
     }
   ]
