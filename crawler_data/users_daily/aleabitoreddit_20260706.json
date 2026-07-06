@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
-    "followers_count": 934903,
+    "followers_count": 935447,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260706",
-  "last_updated": "2026-07-06T13:54:53.969945",
-  "tweet_count": 6,
+  "last_updated": "2026-07-06T16:57:15.192820",
+  "tweet_count": 8,
   "tweets": [
     {
       "id": "2074007618046345249",
@@ -193,6 +193,48 @@
         "favorite_count": 685,
         "reply_count": 127,
         "quote_count": 15
+      }
+    },
+    {
+      "id": "2074143469015281953",
+      "text": "I’d like to give a special thank you to Bloomberg’s piece on $META compute.\n\nAs well as the 2 back to back bear posts on CPO delays.\n\nBut I believe thematically photonics, memory, energy, and physical AI will outperform in the long run. https://t.co/vghsG5H2w5",
+      "created_at": "Mon Jul 06 14:48:33 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2074143463562772481",
+          "url": "https://pbs.twimg.com/media/HMjWfabbgAE_u8O.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 40,
+        "favorite_count": 1429,
+        "reply_count": 204,
+        "quote_count": 10
+      }
+    },
+    {
+      "id": "2074170197486039524",
+      "text": "$NVDA refuting recent Kyber delay claims:\n\n“Our roadmap is intact”.\n\nlol, damage has already been done with stocks in many markets (esp. in Taiwan/Japan/Soutj Korea) crashing after the “report” https://t.co/ijHggRm1fu",
+      "created_at": "Mon Jul 06 16:34:45 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2074170191236444160",
+          "url": "https://pbs.twimg.com/media/HMjuzKxaMAAcC0u.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 32,
+        "favorite_count": 435,
+        "reply_count": 117,
+        "quote_count": 5
       }
     }
   ]
