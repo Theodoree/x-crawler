@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
-    "followers_count": 934261,
+    "followers_count": 934903,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260706",
-  "last_updated": "2026-07-06T09:07:28.487949",
-  "tweet_count": 2,
+  "last_updated": "2026-07-06T13:54:53.969945",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2074007618046345249",
@@ -74,6 +74,125 @@
         "favorite_count": 547,
         "reply_count": 105,
         "quote_count": 8
+      }
+    },
+    {
+      "id": "2074063175293809150",
+      "text": "Kelper upgrades $XFAB to \"Buy\" citing:\n\n- Melexis demand strengthening “week-after-week, day-after-day” (their lead customer). \n- AI giving XFAB a structural growth leg with SiC, GaN, and photonics offsetting auto cyclicality. \n- Scarce Western speciality foundries like $SILEX commanding higher multiples. \n\n\"X-Fab remains the cheapest specialty foundry peer on every multiple, trading at 4.8x 2027 EV/EBITDA versus a peer median of 14.5x\" \n\nI treat this as good signal for the core fundamentals improving like auto players. \n\nBut in terms of unpriced long term growth vectors, I'm personally looking at XFAB from a different angle in terms of photonics growth with photonixfab. Given $NVDA as a potential key driver. \n\nBut it's hard for traditional firms to price these types of active developments into valuation models until there's volume contracts.",
+      "created_at": "Mon Jul 06 09:29:29 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2074061620763054080",
+          "url": "https://pbs.twimg.com/media/HMiMDiPaUAAFi2Y.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 35,
+        "favorite_count": 447,
+        "reply_count": 57,
+        "quote_count": 8
+      }
+    },
+    {
+      "id": "2074075634851340779",
+      "text": "I find it hard for any bears to defend against this humanoid bull case. https://t.co/aWWPYAvSIa",
+      "created_at": "Mon Jul 06 10:19:00 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2074075628270411776",
+          "url": "https://pbs.twimg.com/media/HMiYy4RaYAA58bV.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2074075628270403584",
+          "url": "https://pbs.twimg.com/media/HMiYy4RaQAAwNGs.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 24,
+        "favorite_count": 768,
+        "reply_count": 144,
+        "quote_count": 11
+      }
+    },
+    {
+      "id": "2074102035675570457",
+      "text": "Retail: buys memory, optical, upstream semi names.\n\nMedia: “retail bubble drives AI meme stock bubble higher”.\n\nInstitutions that do the exact same thing, with the exact same names:\n\nMedia: “Institutions make record profits by betting on what goes inside AI Server Racks”. https://t.co/lWDCl0Sxbe",
+      "created_at": "Mon Jul 06 12:03:54 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2074102029958750208",
+          "url": "https://pbs.twimg.com/media/HMiwzqOboAAmOgs.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2074079841737982463",
+        "text": "As investors debates whether the enormous sums being poured into AI will ever pay off, Millennium-backed hedge fund manager Val Zlatkov is making record profits by betting on what goes inside AI server racks that helps them spit out eerily good responses https://t.co/fWj69VQlQW https://t.co/lnlJOtnE4a",
+        "created_at": "Mon Jul 06 10:35:43 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2074079829297704960",
+            "url": "https://pbs.twimg.com/media/HMicnaUXsAAbi6G.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "17895095",
+          "name": "Nishant Kumar",
+          "screen_name": "nishantkumar07",
+          "description": "Chief Correspondent, Bloomberg. Writes on hedge funds. Talks to his plants. Retweets & likes r not endorsements. Tips to nish.scouts583@passinbox.com",
+          "followers_count": 19707,
+          "friends_count": 491,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 13,
+          "favorite_count": 140,
+          "reply_count": 1,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 49,
+        "favorite_count": 748,
+        "reply_count": 103,
+        "quote_count": 4
+      }
+    },
+    {
+      "id": "2074109998544846954",
+      "text": "Wow, $WULF signs a $19B DC lease with Anthropic today. \n\nProbably a very positive tailwind for the Neocloud/Colo sector. https://t.co/82tncsG3us",
+      "created_at": "Mon Jul 06 12:35:33 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2074109991448203265",
+          "url": "https://pbs.twimg.com/media/HMi4DFFb0AEdAIz.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 46,
+        "favorite_count": 685,
+        "reply_count": 127,
+        "quote_count": 15
       }
     }
   ]
