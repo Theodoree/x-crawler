@@ -1,0 +1,80 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
+    "followers_count": 934261,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260706",
+  "last_updated": "2026-07-06T09:07:28.487949",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2074007618046345249",
+      "text": "Nomura’s report cites $AXTI and $IQE as the leading players. \n\nThen regarding ASP updates:\n\n- 2in InP substrate price hike 42-76%\n- 3in InP substrates price hike 78%\n- 2in EML Epiwafer price hike 50-75%\n- 3in CW Epiwafer price hike ~40%+\n- Prices lower domestically in China as expected.\n\nHyperscalers bottlenecking upstream photonics confirmation validation… on all fronts from pricing, demand, to supply shortages.\n\nMy personal expectation was that price hikes would keep going up like $SNDK given ramping optical demand. \n\nWe’ll see if this turns out right given another 2 years of the demand curve.",
+      "created_at": "Mon Jul 06 05:48:43 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2074007611322859520",
+          "url": "https://pbs.twimg.com/media/HMha7xZbAAAbx4J.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2074007611343802369",
+          "url": "https://pbs.twimg.com/media/HMha7xeakAEhUAk.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 55,
+        "favorite_count": 631,
+        "reply_count": 112,
+        "quote_count": 9
+      }
+    },
+    {
+      "id": "2074046947434860971",
+      "text": "I personally think $SIVE can be the next $LITE. \n\nIn the past few months alone, we've seen:\n\n1. Partnerships with O-Net pushing ELS into mass production\n2. $JBL 1.6T LRO mass production signals with \"relatively dramatic moats\" for pluggables using Sivers.\n3. $GFS SCALE reference level laser for hyperscalers with pluggable, NPO, CPO.\n-> -> where $AMD and others went to GFS for CPO.\n4. Ayar, which joined $NVDA NVLink for CPO\n-> -> which removed Lumentum/Macom from their website and likely made Sivers their primary laser supplier. \n-> -> AlChip likely Trainium win from Amazon price placement (Ayar's customer)\n-> -> GUC rack level design in with Ayar.\n-> -> Raised $500m for mass production by AMD, Alchip, Mediatek, and NVIDIA\n5.  ~ $AEVA starting HVM H2 2026.\n6. $POET starting HVM H2 2026 with hyperscaler suppliers like Lumilens (\"top 3 hyperscaler initial customer\")\n7. TFLN + $SIVE CW Lasers with Lightium\n8. Likely direct relationships with $MRVL Celestial and CPO players like Lightelligence/Lightmatter.\n9. Multiple new undisclosed relationships for pluggables following Jabil in their quarterly transcripts\n\nWith new Trendforce reports that $AMD and other hyperscalers are trying to source LTAs for CW laser sources, serving as a direct catalyst for independent CW sources.\n\nSo when hyperscaler suppliers from Jabil to O-Net are incentivized to mass produce as many as they can: That's very material for revenue for Sivers relative to current valuations, and it looks like just a waiting game. \n\nEven in the past week:\n\n- $SIVE raised an oversubscribed institutional round for volume ramp... This is very nuanced since Sivers is fab-lite so it's not going to in-house foundry capex to scale. Likely toward Win Semi and others (they mentioned other partners too), for laser scaling + foundry allocations. \n\nSo this is likely signaling material for revenue ramp is coming. \n\n- Sivers also mentioned NASDAQ listing completion targeted in the next few quarters (probably H2 2026 or Q1 2027 is my est. timeframe). \n\nThis would fund M&A efforts, since it's impossible with the fundraising environments in local Swedish markets. \n\nAs for becoming the next $LITE:\n\nM&A makes their lasers more valuable, so downstream IP acqusition -> into contract manufacturing like $FN, and others to make the full 1.6T pluggable or optical engines. Is how they get there, since laser array ASP scaling that people are modeling off of, wouldn't command a $60B+   valuations. \n\nThere's going to be a lot of bridge architectures like NPO/pluggables, etc and noise around certain architectural delays in the meantime. \n\nBut markets misunderstand laser companies like $LITE, $SIVE, $AAOI and others are used across different architectures compared to if you just look at certain passive optical components. \n\nSo markets see \"CPO delay headlines\" algos sell off laser companies that benefit from other architectures. \n\nBeing included in the pluggable 1.6T ramp to CPO scale out (Which Sivers is included in), helps bridge revenue waiting gaps until scale up inflection point H2 2027.  \n\nI'm personally holding long term, since I haven't seen a ~$1.4B company mapping to this many hyperscalers before. \n\nTLDR:\n- Waiting on volume ramps from different architectures to play out across their hyperscaler supplier mapping\n-> 1.6T LRO/CPO scale out late H2 2026 start into high volume ramp 2027\n-> H2 2027 CPO scale up volume ramp\n- Waiting on NASDAQ listing likely H2 2026/Q1 2027 for M&A efforts to fully take off, unless Sivers get more creative with equity financing in the meantime.",
+      "created_at": "Mon Jul 06 08:25:00 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2073879589470810452",
+        "text": "@aleabitoreddit Hi stock God, you said before $SIVE has potential to be the next $LITE. What milestones do you expect $SIVE to hit in order to achieve this? Is it simply mass production of lasers for pluggable first and then CPO/NPO? How does M&amp;As play into this?",
+        "created_at": "Sun Jul 05 21:19:59 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2060877815491211267",
+          "name": "Jeong",
+          "screen_name": "jeongpark0509",
+          "description": "",
+          "followers_count": 12,
+          "friends_count": 19,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 8,
+          "reply_count": 8,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 45,
+        "favorite_count": 547,
+        "reply_count": 105,
+        "quote_count": 8
+      }
+    }
+  ]
+}
