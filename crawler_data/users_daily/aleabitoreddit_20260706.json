@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
-    "followers_count": 935447,
+    "followers_count": 935870,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260706",
-  "last_updated": "2026-07-06T16:57:15.192820",
-  "tweet_count": 8,
+  "last_updated": "2026-07-06T21:43:29.010269",
+  "tweet_count": 10,
   "tweets": [
     {
       "id": "2074007618046345249",
@@ -235,6 +235,42 @@
         "favorite_count": 435,
         "reply_count": 117,
         "quote_count": 5
+      }
+    },
+    {
+      "id": "2074214669808717906",
+      "text": "It’s interesting to witness psychology around valuation anchoring + scarcity.\n\nRetail, for example, are buying Figure, last valued at ~$39B through CEFs…\n\nAt $158B, since it’s private, round 4x valuations. \n\nThen Agility Robotics $CCXI, which has broader commercialization. \n\nIs at ~$4.3B pre-money and publicly available before the name change. At closer pricing that $AMZN, $NVDA, SoftBank, and Foxconn vaulted it at.\n\nYet some end up paying 4-5x prices of already hiked private investor rounds for exposure…\n\nI’m convinced if Agility raised a very small private round at $39B as well from $2.5B (which it definitely could), to set a valuation anchor.\n\nInvestors would be foaming in the mouth for a private allocation, just due to psychology rather than underlying fundamentals. \n\nWe’ve also seen this anchoring with $SPCX recently at $1.75T.\n\nPeak market inefficiency? Or lack of knowledge from retail?",
+      "created_at": "Mon Jul 06 19:31:28 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 21,
+        "favorite_count": 474,
+        "reply_count": 171,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2074240512593481955",
+      "text": "Was a sad few months for $RDDT. But glad it's finally back above $200. \n\nReddit was doing:\n- $663M revenue w/ 91.5% gross margins\n- $204M GAAP net income\n- 45%+ fwd Y/Y growth after 69%+ growth.\n- Net profit is ~30.7% of revenue\n\nFelt very weird to see a profitable company get dragged down after earnings. \n\nBut in hindsight, given the increase hyperscaler capex, the drop felt more like it's more relative opportunity cost more than fundamentals?\n\nSince a lot of inflow poured into $MU / Sk Hynix that are bottlenecked into 2029. Or with laser bottlenecks like $LITE that last into 2029 as well. \n\nSame thing happens in reverse after selloffs ig, even if fundamentals didn't change. \n\nBeen seeing a lot of noise with memory optimization or Chinese players... but don't quite think you sign 16T+ LTAs if memory was getting flooded or not used anytime soon. \n\nSame with optical players... if in earnings, they state anything they make gets bought, I don't quite think a lot of the noise has material effect on their fundamentals. \n\nRegardless, nice to see some recovery with familiar faces like $HOOD, $HIMS, and $RDDT though.",
+      "created_at": "Mon Jul 06 21:14:10 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2074236761828708352",
+          "url": "https://pbs.twimg.com/media/HMkrWFjbUAA2QsW.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 12,
+        "favorite_count": 233,
+        "reply_count": 115,
+        "quote_count": 3
       }
     }
   ]
