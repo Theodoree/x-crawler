@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
-    "followers_count": 937037,
+    "followers_count": 937541,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260707",
-  "last_updated": "2026-07-07T08:30:26.744035",
-  "tweet_count": 2,
+  "last_updated": "2026-07-07T12:02:01.927634",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2074381029146837207",
@@ -56,6 +56,21 @@
         "favorite_count": 456,
         "reply_count": 91,
         "quote_count": 8
+      }
+    },
+    {
+      "id": "2074416685843612031",
+      "text": "Be Samsung at $1.24T:\n\n&gt; market: we don’t think you can keep hiking memory prices\n&gt; proceeds to hikes dram by 20%\n&gt; releases earnings\n&gt; most profitable company in the world beating $NVDA and $AAPL\n&gt; operating profits growing 1803% Y/Y  \n\nmarket: sells off Samsung -7%",
+      "created_at": "Tue Jul 07 08:54:13 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 103,
+        "favorite_count": 1790,
+        "reply_count": 165,
+        "quote_count": 16
       }
     }
   ]
