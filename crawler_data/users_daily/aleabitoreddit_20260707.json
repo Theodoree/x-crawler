@@ -1,0 +1,62 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
+    "followers_count": 937037,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260707",
+  "last_updated": "2026-07-07T08:30:26.744035",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2074381029146837207",
+      "text": "Trump: “You have a couple of guys who went short. Those poor ******* they’re in big trouble.\n\nThey’re being wiped out. The short guys. \n\nI never liked short guys because they’re betting against the country”. https://t.co/6RW2KuzDoW",
+      "created_at": "Tue Jul 07 06:32:32 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2074381022435930112",
+          "url": "https://pbs.twimg.com/media/HMmujKMa8AAwTZe.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 57,
+        "favorite_count": 831,
+        "reply_count": 103,
+        "quote_count": 19
+      }
+    },
+    {
+      "id": "2074405723816304743",
+      "text": "One of the dumbest thematic selloffs I’ve seen to to date off:\n\n- $META compute news that’s not new\n- CPO delay report 1, that got refuted by $NVDA\n- CPO delay report 2, that got refuted by $NVDA\n\nHigh confidence, institutions will end up going long on the same names they’re bearposting after retail capitulates.",
+      "created_at": "Tue Jul 07 08:10:39 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2074405716715249664",
+          "url": "https://pbs.twimg.com/media/HMnFAjjaIAA5UWL.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2074405716715327488",
+          "url": "https://pbs.twimg.com/media/HMnFAjjbUAAk4hM.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 31,
+        "favorite_count": 456,
+        "reply_count": 91,
+        "quote_count": 8
+      }
+    }
+  ]
+}
