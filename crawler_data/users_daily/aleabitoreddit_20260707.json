@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
-    "followers_count": 938605,
+    "followers_count": 939121,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260707",
-  "last_updated": "2026-07-07T18:08:19.629464",
-  "tweet_count": 7,
+  "last_updated": "2026-07-07T22:17:57.657274",
+  "tweet_count": 9,
   "tweets": [
     {
       "id": "2074381029146837207",
@@ -173,6 +173,48 @@
         "favorite_count": 225,
         "reply_count": 109,
         "quote_count": 4
+      }
+    },
+    {
+      "id": "2074568161299771394",
+      "text": "Just Bloomberg and $META doing damage control after crashing the market with Meta Compute framing:\n\nSpokesperson: \"Meta is still hungry for even more computing power. \n\nIt is still moving forward with plans for expensive new data centers and recently inked major computing deals with $CRVW, Google, $ORCL, and others.\"\n\nJust dropped that in with the Meta Muse announcement, and evenn threw in the \"expensive\" framing with DCs to signal capex. \n\nBut little late given we're likely seeing a lot of margin liquidation cascades and heavy losses from media framing earlier.",
+      "created_at": "Tue Jul 07 18:56:07 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2074566753355792384",
+          "url": "https://pbs.twimg.com/media/HMpXeHybgAAN8N3.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 63,
+        "favorite_count": 864,
+        "reply_count": 156,
+        "quote_count": 20
+      }
+    },
+    {
+      "id": "2074581698604593367",
+      "text": "Hesai Technology, a Chinese lidar maker faces US national scrutiny over its expanded partnership with $NVDA and lidar sensors. \n\nFor $OUST, $AEVA, and Western lidar bros, this is generally positive if competitors get regulated out.\n\nSince there were warnings that: \n\nSensors could be disabled or exploited remotely, given Hesai firmware update disabled lidar units on February 29 (as evidence). \n\nBy second order effect, this is also bullish for upstream laser suppliers too like $LITE and $SIVE that are used in western lidar players.",
+      "created_at": "Tue Jul 07 19:49:55 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2074580825690296320",
+          "url": "https://pbs.twimg.com/media/HMpkRPUbUAAbdEx.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 21,
+        "favorite_count": 383,
+        "reply_count": 148,
+        "quote_count": 3
       }
     }
   ]
