@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
-    "followers_count": 937541,
+    "followers_count": 938304,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260707",
-  "last_updated": "2026-07-07T12:02:01.927634",
-  "tweet_count": 3,
+  "last_updated": "2026-07-07T15:46:57.962841",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2074381029146837207",
@@ -71,6 +71,42 @@
         "favorite_count": 1790,
         "reply_count": 165,
         "quote_count": 16
+      }
+    },
+    {
+      "id": "2074466925263061100",
+      "text": "Raymond James initiated coverage of $SPCX with “Strong Buy”.\n\nGiving it a $800 PT, valuing SpaceX at a ~$10T valuation.\n\nNo words. Jokes about “institutional” notes for retail write themselves. https://t.co/B0uRojaNJZ",
+      "created_at": "Tue Jul 07 12:13:51 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2074466482466271232",
+          "url": "https://pbs.twimg.com/media/HMn8RlnbMAA6q_l.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 41,
+        "favorite_count": 796,
+        "reply_count": 210,
+        "quote_count": 14
+      }
+    },
+    {
+      "id": "2074494514061017508",
+      "text": "Just putting it out there:\n\nIf everything crashes together from $NBIS, $MRVL, $INTC, $SNDK, $AMD, $SIVE, $MU, $LITE, and others... \n\nWhich are all down -4% to -10%+ today so far. \n\nProbably doesn't have anything to do with individual fundamentals. \n\nIndiscriminate selloffs from things like cascading margin liquidations, usually provide compelling opportunities if the underlying improves.",
+      "created_at": "Tue Jul 07 14:03:29 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 174,
+        "favorite_count": 2950,
+        "reply_count": 337,
+        "quote_count": 31
       }
     }
   ]
