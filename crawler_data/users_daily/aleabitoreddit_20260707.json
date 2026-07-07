@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
-    "followers_count": 938304,
+    "followers_count": 938605,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260707",
-  "last_updated": "2026-07-07T15:46:57.962841",
-  "tweet_count": 5,
+  "last_updated": "2026-07-07T18:08:19.629464",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2074381029146837207",
@@ -107,6 +107,72 @@
         "favorite_count": 2950,
         "reply_count": 337,
         "quote_count": 31
+      }
+    },
+    {
+      "id": "2074533565505876218",
+      "text": "This is the average visual TA bro, takes a 50% 50% coinflip: \n\nIf it goes the other way, they say \"ABC Pattern Invalidated\", should have known... \n\nIf they get the coinflip right, they promote their $40/month chart. \n\n-> People drawing swiggly lines over KOSPI mean nothing where it heads. When it's primarily Samsung/SK Hynix and forward operating income growth from DRAM/NAND. \n\n-> The swiggly drawing over $SIVE, $AEHR, and others mean nothing. When it's primarily hyperscaler suppliers, thematic premiums, and volume ramp orders determining valuations. \n\nThen if something randomly goes from $1 to $60 like $AXTI, they claim they spotted it with their \"Golden Egg Dragon Candle\", while ignoring anything with InP substrate and otpical demand. \n\nThere's rare times like these where it's a massive sector drop all together.\n\nBut now the TA bros are showing up everywhere saying\nhere's a $40 course on how they predicted it with swiggly lines.",
+      "created_at": "Tue Jul 07 16:38:39 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2074532230962323456",
+          "url": "https://pbs.twimg.com/media/HMo4Ep2boAA5Tda.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2074528080102924537",
+        "text": "@aleabitoreddit @WLinvestment TA is astrology for fin bros",
+        "created_at": "Tue Jul 07 16:16:51 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1717604078556258306",
+          "name": "Ronin",
+          "screen_name": "roninmma_",
+          "description": "",
+          "followers_count": 504,
+          "friends_count": 170,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 16,
+          "reply_count": 4,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 28,
+        "favorite_count": 679,
+        "reply_count": 175,
+        "quote_count": 13
+      }
+    },
+    {
+      "id": "2074548850996707412",
+      "text": "How is the US so far behind?\n\nXinhua: China's output of humanoids are expected to hit 100,000+ this year. \n\nEven Morgan Stanley originally projected 14,000 for 2026... \n\nReally need Elon's $TSLA, $CCXI (Agility), Apptronik, and Figure to catchup. And for more US Gov. subsidies to pour into upstream supply chains + rare earths. \n\nCause this disparity between US vs. China mass production is getting ridiculous... \n\nBut it almost feels like the start of Russia/US Space race Sputnik Moment for robotics?",
+      "created_at": "Tue Jul 07 17:39:23 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2074546540144914432",
+          "url": "https://pbs.twimg.com/media/HMpFFjtacAAihUH.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 12,
+        "favorite_count": 225,
+        "reply_count": 109,
+        "quote_count": 4
       }
     }
   ]
