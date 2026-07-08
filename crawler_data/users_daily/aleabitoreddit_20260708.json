@@ -1,0 +1,57 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
+    "followers_count": 940335,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260708",
+  "last_updated": "2026-07-08T10:28:03.930128",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2074776109074583565",
+      "text": "Trump: Memorandum of Understanding with Iran “is over”\n\n“It’s a waste of time dealing with them,” Trump said at the NATO summit.\n\nAlways an exciting time with markets. https://t.co/S3UisD75Kc",
+      "created_at": "Wed Jul 08 08:42:26 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2074776103018000384",
+          "url": "https://pbs.twimg.com/media/HMsV34DbcAAUqKI.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 31,
+        "favorite_count": 590,
+        "reply_count": 141,
+        "quote_count": 7
+      }
+    },
+    {
+      "id": "2074799339680202869",
+      "text": "Trump: “Spain is a terrible partner in NATO. \n\nThey don't participate. They don't pay. \n\nCut off all trade with Spain”\n\nTbh no clue what’s going on anymore… https://t.co/F1n0m6gcPa",
+      "created_at": "Wed Jul 08 10:14:45 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2074799333158133760",
+          "url": "https://pbs.twimg.com/media/HMsrADEboAAXTJD.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 7,
+        "favorite_count": 210,
+        "reply_count": 74,
+        "quote_count": 3
+      }
+    }
+  ]
+}
