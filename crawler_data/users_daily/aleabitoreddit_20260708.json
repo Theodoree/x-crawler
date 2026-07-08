@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
-    "followers_count": 940335,
+    "followers_count": 940955,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260708",
-  "last_updated": "2026-07-08T10:28:03.930128",
-  "tweet_count": 2,
+  "last_updated": "2026-07-08T15:28:49.560487",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2074776109074583565",
@@ -51,6 +51,27 @@
         "favorite_count": 210,
         "reply_count": 74,
         "quote_count": 3
+      }
+    },
+    {
+      "id": "2074838397341065516",
+      "text": "Blue Origin reportedly raising $10B at a $130B valuation per NYT.\n\nSeems pretty positive for $RKLB, $ASTS, and other space names in terms of relative valuation anchoring. \n\nIf SpaceX and Blue Origin is able to set such high valuations. https://t.co/04W7phuIwr",
+      "created_at": "Wed Jul 08 12:49:57 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2074837523755573248",
+          "url": "https://pbs.twimg.com/media/HMtNvCIaIAATsrG.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 70,
+        "favorite_count": 929,
+        "reply_count": 247,
+        "quote_count": 19
       }
     }
   ]
