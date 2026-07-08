@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
-    "followers_count": 941438,
+    "followers_count": 941537,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260708",
-  "last_updated": "2026-07-08T21:18:17.605622",
-  "tweet_count": 5,
+  "last_updated": "2026-07-08T23:17:15.616935",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2074776109074583565",
@@ -132,6 +132,37 @@
         "favorite_count": 96,
         "reply_count": 29,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2074979055410266452",
+      "text": "Wow, looks like Elon + xAI at $SPCX managed to build an Anthropic Opus-level LLM with Grok 4.5.\n\nThat’s much more cost efficient as well… \n\nKinda emulating what Chinese vendors have been doing to compete on pricing + adoption. (Which is an ideal thing given Chinese model growth among US companies recently)\n\nNever doubt Elon, maybe they might end up leapfrogging Anthropic + Mythos?",
+      "created_at": "Wed Jul 08 22:08:52 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2074979048749686784",
+          "url": "https://pbs.twimg.com/media/HMvOc30aYAARSbY.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2074979048779137024",
+          "url": "https://pbs.twimg.com/media/HMvOc37bwAAKHa8.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2074979048749719552",
+          "url": "https://pbs.twimg.com/media/HMvOc30a4AAYk6c.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 28,
+        "favorite_count": 536,
+        "reply_count": 163,
+        "quote_count": 7
       }
     }
   ]
