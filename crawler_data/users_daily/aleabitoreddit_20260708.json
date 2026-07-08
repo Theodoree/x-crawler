@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
-    "followers_count": 940955,
+    "followers_count": 941438,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260708",
-  "last_updated": "2026-07-08T15:28:49.560487",
-  "tweet_count": 3,
+  "last_updated": "2026-07-08T21:18:17.605622",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2074776109074583565",
@@ -72,6 +72,66 @@
         "favorite_count": 929,
         "reply_count": 247,
         "quote_count": 19
+      }
+    },
+    {
+      "id": "2074951295027568736",
+      "text": "Let’s put it this way:\n\nRetail thinks a 30-60% drop is a “falling knife” where bagholders will never recover. \n\nAnd they end up panic selling after seeing swiggly line TAs and people comparing valuable chokepoints to memes.\n\nI see it as long term ownership over:\n\n- the next hyperscaler with $NBIS, projecting $7-9B ARR Q4\n- 40% of the InP supply chain with $AXTI\n- leader of the next optical shift with $SIVE with CW DFB lasers\n- leader of US humanoids with $CCXI inside a future trillion dollar theme\n\nAnd so on… At cheaper valuations. \n\nWhile I might do things like lowering margin or hedging with my own portfolio, I’m personally not panicking when something drops if the thesis didn’t change. \n\nNFA and obviously depends on people’s investing timeframes:\n\nSince a crash would be life changing for people that depend on investing for rent or tuition. (Which is why I personally think  others should do their own DD and choose longs in line with their own risk profile)\n\nBut my personal goal is maximizing exposure to the next-gen supercycles before they hit.\n\nI think institutions think the same way as well, which is why there’s a lot of induced volatility along the way to maximize their exposure.\n\nIf a thesis ends up correct, the valuation should be reflected in the long run.",
+      "created_at": "Wed Jul 08 20:18:34 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2074778487928553573",
+        "text": "@aleabitoreddit 白毛股神，能不能给我点心理按摩，NBIS是否今晚能止跌？它已经亏了我太多了，接近腰斩了",
+        "created_at": "Wed Jul 08 08:51:53 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1833699296094670848",
+          "name": "Laila",
+          "screen_name": "Laila54623",
+          "description": "A🦴小韭。",
+          "followers_count": 13,
+          "friends_count": 108,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 7,
+          "reply_count": 5,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 37,
+        "favorite_count": 751,
+        "reply_count": 165,
+        "quote_count": 5
+      }
+    },
+    {
+      "id": "2074965761345642660",
+      "text": "$META to build a new $10B DC in Canada to expand AI capacity.\n\nSo much for the media framing of “Meta Compute”as overbuilding and cutting capex. https://t.co/0QgSls0s9o",
+      "created_at": "Wed Jul 08 21:16:03 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2074965755783942144",
+          "url": "https://pbs.twimg.com/media/HMvCXHqaEAAxPzv.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 11,
+        "favorite_count": 96,
+        "reply_count": 29,
+        "quote_count": 2
       }
     }
   ]
