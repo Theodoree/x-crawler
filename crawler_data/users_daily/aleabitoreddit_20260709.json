@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
-    "followers_count": 942867,
+    "followers_count": 943231,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260709",
-  "last_updated": "2026-07-09T15:27:54.169563",
-  "tweet_count": 1,
+  "last_updated": "2026-07-09T20:53:29.094755",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2075199849507762279",
@@ -35,6 +35,97 @@
         "favorite_count": 1233,
         "reply_count": 250,
         "quote_count": 18
+      }
+    },
+    {
+      "id": "2075289915697553697",
+      "text": "Three new $SIVE insider purchases today. \n\nMost notably: $SIVEF CEO Vikram bought 1,000,000 SEK worth of shares on the open market today. \n\nThis is following the massive drop on Sivers stock following 2 misleading CPO delay reports, Meta Compute headlines, and another insider sale report from another photonics director. \n\nTypically, insider sells for any number of reasons. But having the  CEO buy on the open-market is the clearest signal in management confidence. \n\nFollowing $GFS, $JBL, and other laser supplier partnerships, and his goal of NASDAQ listing in the near term. \n\nFeels like the CEO sees a clear potential for Sivers to become the next photonics giant (myself included).",
+      "created_at": "Thu Jul 09 18:44:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2075281258431606876",
+        "text": "$SIVE fell today on an EFN article claiming the photonics chief sold his entire holding — presented as alarming insider panic. Here is what I think the article can have missed.\n\nAndrew McKee founded CST now Sivers Photonics in 1999— 27 years ago. He built the photonics business from scratch. Earlier this year Alex McCann appeared publicly as the new MD of Sivers Photonics in April/May communications. McKee moved totechnology role only. His Q1 and Q2 share sales seems to align with this transition and was probably sold (if sold at all in full) parts of it even before share re-rating. \n\nMy take is  that is was done probably with no negative view on the company's prospects. A man monetizing his life's work after almost 30 years of building a company is not insider panic. IMO this is probably more a career ending on his own terms. He deserves it for sure. Even if he sold over 6 months, IMO this is still not a major negative signal. \n\nThree things EFN did not check: A) Holdings has known blind spots — transfers to holding companies, ISK structures and family vehicles are not captured. Did anyone verify McKee holds zero shares in any structure? B) One option program was realized in early July. If McKee sold old shares to participate that is not a major negative signal (he is not insider hence would not report sell or buy) — Holdings would not show this yet since it was in early July C) The role change probably happened before most shares was sold, Context matters.\n\nLater in the afternoon two board members has publicly shared insider purchases. \n\nTodd Thomson — board member, former Citigroup CFO, — bought 535,000 SEK on-market today at 42.80 SEK into the panic. Karin Raj bought 460,000 SEK at 34.68 SEK — the intraday low. Both reported to FI same day. People with more information about the full picture, that also had been part of approving today clarifications around the Q-reports and US Nasdaq listing. \n\nUpdate Vikram CEO have also aquired shares for approximately 1.000.000 SEK\n\nSumming up: Journalism created the dip. Insiders bought it.\n\nWhat's X view on today?",
+        "created_at": "Thu Jul 09 18:09:43 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2075281253377396736",
+            "url": "https://pbs.twimg.com/media/HMzhTfyWUAAR2R7.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "208500614",
+          "name": "Anders Storm",
+          "screen_name": "StormDirac",
+          "description": "CEO Dirac\n\nFormer CEO Sivers Semiconductors.  \nhttps://t.co/MvTEwioiQc\n\nhttps://t.co/3A3qoO1EmB\n\nhttps://t.co/87Dbqe6o5H",
+          "followers_count": 13128,
+          "friends_count": 890,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 26,
+          "favorite_count": 255,
+          "reply_count": 24,
+          "quote_count": 4
+        }
+      },
+      "stats": {
+        "retweet_count": 93,
+        "favorite_count": 1041,
+        "reply_count": 181,
+        "quote_count": 17
+      }
+    },
+    {
+      "id": "2075302956581449892",
+      "text": "\"China is shipping ~90% of the world's humanoid robots. We cannot keep taking them lightly.\"\n\nElon's comment: \"For now\"\n\nMeanwhile, 1X today posts a video of the most advanced humanoid hand.\n\nLooks like the inflection point for American humanoid programs is here?\n\nBoth technologically with players like 1X and with mass production with $TSLA? \n\nI'm am personally long on Agility through $CCXI targeting commercialization with Amazon and others. \n\nBut I'm proud to see American robotics as a whole go brrrr.",
+      "created_at": "Thu Jul 09 19:35:56 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2075302057356234752",
+          "url": "https://video.twimg.com/amplify_video/2075302057356234752/vid/avc1/1280x960/L73Aw27-yvVWGr_D.mp4?tag=28",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2075291754215977290",
+        "text": "@PeterDiamandis For now",
+        "created_at": "Thu Jul 09 18:51:25 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "description": "Starmind",
+          "followers_count": 240771170,
+          "friends_count": 1367,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 353,
+          "favorite_count": 8139,
+          "reply_count": 592,
+          "quote_count": 46
+        }
+      },
+      "stats": {
+        "retweet_count": 20,
+        "favorite_count": 426,
+        "reply_count": 133,
+        "quote_count": 2
       }
     }
   ]
