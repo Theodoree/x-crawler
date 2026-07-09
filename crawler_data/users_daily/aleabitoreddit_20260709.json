@@ -1,0 +1,41 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
+    "followers_count": 942867,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260709",
+  "last_updated": "2026-07-09T15:27:54.169563",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2075199849507762279",
+      "text": "Nothing like an internal $META memo getting published.\n\nShowing AI ramping as usual:\n\n- LTAs signed with Samsung and $SNDK for memory\n- LTAs signed with Sumitomo Electric for fiber optics\n- Expected to deploy 7GW compute infra this year, and doubling in 2027. \n- as much as $145B capex spend this year \n\n“It plans to launch a chip about every six months through 2027”",
+      "created_at": "Thu Jul 09 12:46:14 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2075199723515080704",
+          "url": "https://pbs.twimg.com/media/HMyXJ1Ya8AAkpAg.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2075199723527667712",
+          "url": "https://pbs.twimg.com/media/HMyXJ1bbAAAHZs0.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 103,
+        "favorite_count": 1233,
+        "reply_count": 250,
+        "quote_count": 18
+      }
+    }
+  ]
+}
