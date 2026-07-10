@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
-    "followers_count": 943913,
+    "followers_count": 944110,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260710",
-  "last_updated": "2026-07-10T08:33:38.024696",
-  "tweet_count": 1,
+  "last_updated": "2026-07-10T12:05:23.529202",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2075496116481884524",
@@ -48,6 +48,62 @@
         "favorite_count": 165,
         "reply_count": 40,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2075539824589860866",
+      "text": "The \"Mythical Golden Egg Dragon Candle\" predicted the $SIVE rally today. \n\nIf you look at the Golden Egg hatching indicator I drew, you can tell it predicts Sivers CEO buying on the open market a day later. \n\nDo you guys think it's time I should sell courses on TA? https://t.co/LweBzWStuk",
+      "created_at": "Fri Jul 10 11:17:10 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2075539813177212928",
+          "url": "https://pbs.twimg.com/media/HM3MdqGbwAA1N21.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2075539813483393024",
+          "url": "https://pbs.twimg.com/media/HM3MdrPbsAAZZeg.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2074536982311743623",
+        "text": "@EUlmsten wow the mythical golden egg dragon candle was spotted over the $SIVEF chart. \n\nSomething big is coming... https://t.co/V4CL41m5ax",
+        "created_at": "Tue Jul 07 16:52:14 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2074536922152841218",
+            "url": "https://pbs.twimg.com/media/HMo8Vt5aMAI254K.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
+          "followers_count": 944110,
+          "friends_count": 181,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 10,
+          "favorite_count": 361,
+          "reply_count": 37,
+          "quote_count": 8
+        }
+      },
+      "stats": {
+        "retweet_count": 20,
+        "favorite_count": 548,
+        "reply_count": 147,
+        "quote_count": 2
       }
     }
   ]
