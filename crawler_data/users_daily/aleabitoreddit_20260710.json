@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
-    "followers_count": 944439,
+    "followers_count": 944523,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260710",
-  "last_updated": "2026-07-10T17:53:46.026235",
-  "tweet_count": 6,
+  "last_updated": "2026-07-10T19:44:53.680667",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2075496116481884524",
@@ -218,6 +218,27 @@
         "favorite_count": 330,
         "reply_count": 81,
         "quote_count": 4
+      }
+    },
+    {
+      "id": "2075645547978084371",
+      "text": "Regarding $AMZN RNG + OpenAI’s MRC and VCSELs. \n\nIn what appears to be an indirect response on B. Riley's $AAOI sell report regarding optimizations that \"flattens networks and cuts transceiver TAM 40-50%\".\n\nRosenblatt TLDR: They've already modeled for this, even though each XPU may use fewer transceivers.\n\nThe number of XPUs is growing so quickly that total optical demand should still rise. \n\nOn lasers architectures for CPO: VCSELs are useful as a credible bridge for NPO/short reach. \n\nIdeal architecture though for CPO is UHP CW over other lasers, and cites Broadcom for that statements. Which happens to supports my core $SIVE thesis. \n\nI feel like Rosenblatt and I share the same views on a lot of things, I like the way they roll.",
+      "created_at": "Fri Jul 10 18:17:16 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2075641231057866753",
+          "url": "https://pbs.twimg.com/media/HM4os9Jb0AECclK.png"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 26,
+        "favorite_count": 341,
+        "reply_count": 212,
+        "quote_count": 1
       }
     }
   ]
