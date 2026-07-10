@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
-    "followers_count": 944110,
+    "followers_count": 944321,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260710",
-  "last_updated": "2026-07-10T12:05:23.529202",
-  "tweet_count": 2,
+  "last_updated": "2026-07-10T15:37:06.203110",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2075496116481884524",
@@ -104,6 +104,48 @@
         "favorite_count": 548,
         "reply_count": 147,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2075557588159058076",
+      "text": "Mitsubishi Motors joins robotics race to deploy humanoid workers by 2027. \n\nPairing with Highlanders, a Japanese robotics company.\n\n- Agility $CCXI x Foxconn, Toyota\n- Apptronik x $JBL, Mercedes\n- Highlanders x Mitsubishi\n- Figure × BMW\n- Boston Dynamics x Hyundai (subsidiaries)\n- Optimus x Tesla (Internal)\n- Rainbow Robotics x Samsung (subsidiaries)\n\nIdk if it's just me of there's a lot of patterns with humanoid companies playing buddy-buddy up with a major auto player/manufacturer.  \n\nIf they're not already vertically integrated by one already. \n\nThen the Chinese players like UBTech/AgiBot/Unitree  don't seem to care and work with a wide variety of auto players in China. \n\nCurious how this trend plays out...",
+      "created_at": "Fri Jul 10 12:27:45 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2075551035519795202",
+          "url": "https://pbs.twimg.com/media/HM3Wq4laAAIq15z.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 29,
+        "favorite_count": 516,
+        "reply_count": 143,
+        "quote_count": 5
+      }
+    },
+    {
+      "id": "2075590371531493729",
+      "text": "Why do I have this weird feeling the main reason retail is excited SK Hynix NASDAQ listing.\n\nIs because they can do degen option calls instead of individual stock purchases. https://t.co/vXmrncXQOm",
+      "created_at": "Fri Jul 10 14:38:01 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2075589488135585792",
+          "url": "https://pbs.twimg.com/media/HM35pHvbQAAP1XZ.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 18,
+        "favorite_count": 559,
+        "reply_count": 129,
+        "quote_count": 4
       }
     }
   ]
