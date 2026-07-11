@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
-    "followers_count": 945455,
+    "followers_count": 945985,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260711",
-  "last_updated": "2026-07-11T11:59:09.099836",
-  "tweet_count": 1,
+  "last_updated": "2026-07-11T21:00:29.961013",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2075894311741440041",
@@ -24,6 +24,56 @@
         "favorite_count": 509,
         "reply_count": 98,
         "quote_count": 7
+      }
+    },
+    {
+      "id": "2076030743655109063",
+      "text": "Apparently, Korean Beauty was where all the alpha is.\n\nAPR (278470.KS) is up 529% over the past 2Y, wildly outperforming both $NVDA and $INTC.\n\nEvery female I know talks about their \"Medicube\" stick, then buying products... where you put a whole salmon's family tree on your face for better skin. \n\nThe world's female population creates a bigger structural demand than hyperscalers for memory or lasers? Should have known...",
+      "created_at": "Sat Jul 11 19:47:54 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2076027078475153408",
+          "url": "https://pbs.twimg.com/media/HM-HoOyagAA04I8.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2076027432075997184",
+          "url": "https://pbs.twimg.com/media/HM-H80DbMAA3wdp.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2075882550548119877",
+        "text": "반도체 쏟아붓는 와중에 K뷰티가 또 터지네. 1Q 순익 41% 폭증에 하반기 대장주 예고라. \n\n수출 150억 달러 시대 문턱인데, 미국·유럽 기초 카테고리 중심으로 구조적 성장 중. ODM 쪽 레버리지 제대로 먹는 기업들 영업이익률 30%대 찍는 거 보면 단순 소비재가 아니라 기술+브랜드 모멘텀 섞인 플레이임. \n\n반도체 사이클 타임 기다리는 동안 이쪽 돈줄도 무시 못 할 수준. 실적 확인되면 또 한 번 판 흔들릴 거.",
+        "created_at": "Sat Jul 11 09:59:02 +0000 2026",
+        "lang": "ko",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1513130506862280709",
+          "name": "우아한 브리핑",
+          "screen_name": "wow_finwit",
+          "description": "투자계의 헛소리 | 떡상 기원 우아한 브리핑 | 주식, 퀀트, 금융, 빅테크, AI, 매크로 🚀",
+          "followers_count": 2437,
+          "friends_count": 2558,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 10,
+          "reply_count": 1,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 27,
+        "favorite_count": 450,
+        "reply_count": 55,
+        "quote_count": 9
       }
     }
   ]
