@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
-    "followers_count": 946946,
+    "followers_count": 947391,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260712",
-  "last_updated": "2026-07-12T13:44:38.956830",
-  "tweet_count": 2,
+  "last_updated": "2026-07-12T19:16:50.764806",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2076248337863639506",
@@ -55,6 +55,27 @@
         "favorite_count": 820,
         "reply_count": 168,
         "quote_count": 13
+      }
+    },
+    {
+      "id": "2076372905450188998",
+      "text": "Looks like the Strait of Hormuz is open for the 50th time this year per Trump.\n\nI’m getting tired looking at macro. https://t.co/GuYgkwC2Q8",
+      "created_at": "Sun Jul 12 18:27:32 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2076372900446445568",
+          "url": "https://pbs.twimg.com/media/HNDCJuBboAAkhQ5.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 10,
+        "favorite_count": 423,
+        "reply_count": 156,
+        "quote_count": 4
       }
     }
   ]
