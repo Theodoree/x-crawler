@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
-    "followers_count": 946741,
+    "followers_count": 946946,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260712",
-  "last_updated": "2026-07-12T11:18:24.893231",
-  "tweet_count": 1,
+  "last_updated": "2026-07-12T13:44:38.956830",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2076248337863639506",
@@ -40,6 +40,21 @@
         "favorite_count": 265,
         "reply_count": 79,
         "quote_count": 7
+      }
+    },
+    {
+      "id": "2076266613675069628",
+      "text": "Apparently there’s a new popular trend to bearpost trillion dollar companies.\n\nLike $NVDA or $TSM.\n\nBy finding isolating technical details, then blowing it out of proportions by claiming their whole program is delayed.\n\n-> if the company doesn’t respond, stock prices/sentiment are damaged. \n\n-> if the company issues a response, they can’t go into detail since supply chains are confidential… but people still doubt them\n\n-> Poster gain more impressions, then does it again with more views the next time.\n\nDon’t quite think this is very healthy, with more folks copying that playbook. Especially around incentive structures.",
+      "created_at": "Sun Jul 12 11:25:10 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 44,
+        "favorite_count": 820,
+        "reply_count": 168,
+        "quote_count": 13
       }
     }
   ]
