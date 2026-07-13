@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
-    "followers_count": 947780,
+    "followers_count": 948630,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260713",
-  "last_updated": "2026-07-13T04:36:42.800087",
-  "tweet_count": 1,
+  "last_updated": "2026-07-13T20:20:45.088734",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2076467953995071881",
@@ -24,6 +24,32 @@
         "favorite_count": 953,
         "reply_count": 130,
         "quote_count": 5
+      }
+    },
+    {
+      "id": "2076748688559587338",
+      "text": "Morgan Stanley note on CPO today. Key participants include:\n\n- $SIVE, $COHR, and $LITE in laser supply\n- Broadcom and Nvidia in switch platforms\n- Lightmatter, Ayar Labs, Marvell/Celestial, and POET in optical engines and photonics, \n- $TSM, $GFS, and $TSEM in silicon photonics foundry capacity\n\nI’ve covered all of these before, like Tower Semi. \n\nBut I’m especially happy that Morgan Stanley validated my research that $SIVE is one of the critical global players in CPO.\n\nA small $1.5B laser company next to your two leading $60B+ companies…\n\nIf you also synthesize Rosenblatt Securities recent note that China laser suppliers were quite far from having CPO lasers.\n\nThis kinda magnifies importance of the three Western leaders of that laser chokepoint.",
+      "created_at": "Mon Jul 13 19:20:46 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2076748679323766784",
+          "url": "https://pbs.twimg.com/media/HNIX67ba0AAXstD.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2076748679319617536",
+          "url": "https://pbs.twimg.com/media/HNIX67abgAAk2Qp.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 75,
+        "favorite_count": 814,
+        "reply_count": 203,
+        "quote_count": 9
       }
     }
   ]
