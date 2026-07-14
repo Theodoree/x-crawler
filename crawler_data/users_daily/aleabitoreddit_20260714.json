@@ -1,0 +1,65 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
+    "followers_count": 948908,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260714",
+  "last_updated": "2026-07-14T03:24:47.338369",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2076846994614792663",
+      "text": "So Jensen himself went out to do damage control with $NVDA delays reports apparently:\n\n1. Jensen Huang said no delays: \n\n- 800V and rack-to-rack optical interconnects is progressing fully in line with the original plan with no material delay. \n\n- Debunked the rumor that the next-generation flagship, Rubin Ultra, would be delayed until 2028 and said it would be on track to ship next year\n\n- Rack system optimizations, like replacing Kyber with a new design are architectural optimizations, not impacting delivery timelines.\n\n2. On ASIC competition: no loss of market share.\n\n- Talked about how a leading frontier lab that previously relied heavily on internal ASICs has shifted nearly 50% of its compute load to Nvidia\n\n3. On over-reliance on hyperscalers.\n\n- AI frontier labs currently contributing to ~20% of demand.\n- Traditional cloud providers, Nvidia provides Vera CPUs and high-speed networking\n- Sovereign AI",
+      "created_at": "Tue Jul 14 01:51:24 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2076846238717353984",
+          "url": "https://pbs.twimg.com/media/HNJwpofaoAAfYqR.png"
+        },
+        {
+          "type": "photo",
+          "id": "2076846678938988544",
+          "url": "https://pbs.twimg.com/media/HNJxDQcbsAAQscO.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2076266613675069628",
+        "text": "Apparently there’s a new popular trend to bearpost trillion dollar companies.\n\nLike $NVDA or $TSM.\n\nBy finding isolating technical details, then blowing it out of proportions by claiming their whole program is delayed.\n\n-> if the company doesn’t respond, stock prices/sentiment are damaged. \n\n-> if the company issues a response, they can’t go into detail since supply chains are confidential… but people still doubt them\n\n-> Poster gain more impressions, then does it again with more views the next time.\n\nDon’t quite think this is very healthy, with more folks copying that playbook. Especially around incentive structures.",
+        "created_at": "Sun Jul 12 11:25:10 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
+          "followers_count": 948908,
+          "friends_count": 185,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 86,
+          "favorite_count": 1850,
+          "reply_count": 232,
+          "quote_count": 24
+        }
+      },
+      "stats": {
+        "retweet_count": 42,
+        "favorite_count": 581,
+        "reply_count": 62,
+        "quote_count": 17
+      }
+    }
+  ]
+}
