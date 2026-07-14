@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
-    "followers_count": 948908,
+    "followers_count": 949404,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260714",
-  "last_updated": "2026-07-14T03:24:47.338369",
-  "tweet_count": 1,
+  "last_updated": "2026-07-14T16:22:17.186157",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2076846994614792663",
@@ -59,6 +59,58 @@
         "favorite_count": 581,
         "reply_count": 62,
         "quote_count": 17
+      }
+    },
+    {
+      "id": "2077039373711970804",
+      "text": "Two different capacity expansion announcements today across $TSEM and $AAOI.\n\nTower Semi, supported by the Japanese government, announced expansion of its 300mm Silicon Photonics (SiPho), Silicon Germanium (SiGe), and advanced packaging capabilities. \n\nTargeting $1.2B net profit, and $3.6B revenue in 2028 (with a ~$28B MC, that's ~23.3 2028 forward p/e).\n\nAAOI announced the commencement of its buildout, roughly 400,000 square feet of manufacturing to make 800g/1.6T production go brrr. \n\nThe overall expansion is also supported by the local city government in Texas. (they also $20.85M worth of subsidies from the State earlier).\n\nThis one isn't exactly as materially new as Tower, since AAOI originally announced these plans before. Just commencement of it. \n\nRegardless, glad to see both of these companies in their Anime training arc phase as they power up.",
+      "created_at": "Tue Jul 14 14:35:50 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2077038304248348674",
+          "url": "https://pbs.twimg.com/media/HNMfVUWaQAIwZkT.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2077038370476449792",
+          "url": "https://pbs.twimg.com/media/HNMfZLEa4AA5VW8.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 43,
+        "favorite_count": 625,
+        "reply_count": 174,
+        "quote_count": 4
+      }
+    },
+    {
+      "id": "2077044786402660829",
+      "text": "$NBIS signs $1B+ compute agreement with Reflection AI, for GB300 access through 2029.\n\nReflection also signed a multi-billion dollar agreement with $SPCX earlier. \n\nInteresting to say the least, seeing Nebius drop -5% off the news today. \n\nAlso... counterparty to get this done kinda reminds me of OpenAI, where they might not have the funds to actually execute on these LTAs yet compared to $META or $MSFT. \n\nBut generally positive long term developments, customer diversification was one of the core strengths of Nebius.",
+      "created_at": "Tue Jul 14 14:57:21 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2077044780086030336",
+          "url": "https://pbs.twimg.com/media/HNMlOQubcAApEhI.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2077044779851104256",
+          "url": "https://pbs.twimg.com/media/HNMlOP2awAA6Tq7.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 43,
+        "favorite_count": 615,
+        "reply_count": 157,
+        "quote_count": 5
       }
     }
   ]
