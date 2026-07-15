@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
-    "followers_count": 949800,
+    "followers_count": 952207,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260715",
-  "last_updated": "2026-07-15T03:24:57.153493",
-  "tweet_count": 2,
+  "last_updated": "2026-07-15T15:42:47.640622",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2077208587005542464",
@@ -96,6 +96,27 @@
         "favorite_count": 160,
         "reply_count": 53,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2077406548012466390",
+      "text": "$NVDA CEO, Jensen Huang in Tokyo today said:\n\n\"The reports are not true. Vera Rubin is already in production. Giant amounts of production incoming\"\n\nAs a flat denial to the accusation that their AI servers would be delayed. \n\nJensen appears to be using the Umbrella term for Rubin Ultra/Kyber, then pointed to current gen ramp. \n\nRegardless, lot of damage has been done already to Nvidia supply chains stock prices, after the multiple delay reports. Even if Nvidia refuted them by clarifying Kyber change was an architecture optimization, not impacting timelines.\n\nIt's a very dangerous and growing trend for folks to post  overreaching broader claims from technical nuances to grow viewcount... Especially if they get Jensen has to respond.\n\nIn the end, I'm trusting $NVDA on timelines since they probably have the greatest visibility into their own supply chain.",
+      "created_at": "Wed Jul 15 14:54:52 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2077400800780025856",
+          "url": "https://pbs.twimg.com/media/HNRpBZKbAAA1kKO.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 45,
+        "favorite_count": 599,
+        "reply_count": 169,
+        "quote_count": 5
       }
     }
   ]
