@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
-    "followers_count": 952207,
+    "followers_count": 952409,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260715",
-  "last_updated": "2026-07-15T15:42:47.640622",
-  "tweet_count": 3,
+  "last_updated": "2026-07-15T17:25:33.629850",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2077208587005542464",
@@ -116,6 +116,48 @@
         "retweet_count": 45,
         "favorite_count": 599,
         "reply_count": 169,
+        "quote_count": 5
+      }
+    },
+    {
+      "id": "2077421268991926703",
+      "text": "$AAPL looks to acquire AI chip companies for running AI (Source: The Information)\n\nRight now, $MSFT, $META, Amazon, Google are carrying AI capex spend.\n\nBut what if Apple joined the others after M&A? \n\nA possible scenario is that they revise capex largely upward for their own AI buildout. \n\nSince they probably witnessed Google cutting off Meta from compute constraints... or what happens when you partner with OpenAI for LLMs. \n\nThen learned how important it is to have your own infrastructure. \n\nThis scenario would be quite bullish thematically from optical networking to foundries and something markets would not expect? We'll see what happens.",
+      "created_at": "Wed Jul 15 15:53:21 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2077416774216359936",
+          "url": "https://pbs.twimg.com/media/HNR3jK2aoAAeIHk.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 36,
+        "favorite_count": 464,
+        "reply_count": 141,
+        "quote_count": 4
+      }
+    },
+    {
+      "id": "2077437150715666900",
+      "text": "Anthropic to IPO as early as October per Bloomberg.\n\nThis is following their $65B financing at a $965 billion  valuation last May.\n\nHmm, would you all invest in Anthropic at a $1T+ valuation? https://t.co/iFIY1WulvO",
+      "created_at": "Wed Jul 15 16:56:28 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2077436516306145280",
+          "url": "https://pbs.twimg.com/media/HNSJgT3aUAAomzn.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 23,
+        "favorite_count": 293,
+        "reply_count": 110,
         "quote_count": 5
       }
     }
