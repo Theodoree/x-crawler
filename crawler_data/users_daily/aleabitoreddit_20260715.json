@@ -1,0 +1,102 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
+    "followers_count": 949800,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260715",
+  "last_updated": "2026-07-15T03:24:57.153493",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2077208587005542464",
+      "text": "$AEHR back up +36.4% today off earnings!\n\n2027 guide: $130-$150m (160-200% growth) from 2026 revenue.  Sees opportunity to guide higher (assumes no memory revenue or little to none from newly benchmarked AI customer).\n\nQ4 bookings: $60.7M, effective backlog is $100.6M.\n\n- Lead AI processor wafer-level burn-in customer is significantly ramping their products. \n\n- Engaged with additional AI processor customers who are evaluating wafer-level burn-in. \n\n- Benchmark customer, which was a “major supplier of AI accelerators, CPUs and network processors” “exceeded their expectations. \n\nFrom management: The potential revenue opportunity from one of these devices is \"significant to Aehr\". So another benchmark win for potential HVM in the future.\n\n- Wafer level burn-in benchmark with a \"global leader in NAND flash completed\". Now evaluating a development agreement for HBM/NAND\n\nSeems like $SNDK since there was HBF related discussions from last quarter I think.\n\n- \"Our package level burn-in business for AI processors also gained  momentum over the year … from our lead hyperscale customer for Sonoma systems\"\n\n- Silicon photonics customer already ramping, newer networking customers     has forecast additional systems  \n\nBasically the amount of global semi companies that map to $AEHR is pretty ridiculous across silicon photonics, memory, AI processors, and others. \n\nI don’t quite think that $130-$150m guidance is representative of actualized revenue for 2027 if these hyperscalers/semi companies convert to HVM. \n\nTypically with these types of qualification into HVM players, markets don’t really judge it by current quarter, but what’s to come.  \n\nAnd it looks very positive so far in terms of reactions...\n\n$116 -> $60 -> $94 all in the span of a month is pretty insane volatility tho, so good to know what you're holding.",
+      "created_at": "Wed Jul 15 01:48:14 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2077208581825523712",
+          "url": "https://pbs.twimg.com/media/HNO6MxwacAAy0Tv.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2077208581813022720",
+          "url": "https://pbs.twimg.com/media/HNO6MxtbsAAe_-Y.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2077208581926211584",
+          "url": "https://pbs.twimg.com/media/HNO6MyIa0AAdVmc.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2039388766083944750",
+        "text": "$AEHR looks extremely promising at ~$1.1B MC. \n\nAehr is starting to remind me of an early $TER, mixed with pre-earnings $AAOI.  \n\nIf we look at the timeline and speculated customers:\n\nFeb 11th: Sonoma production win for Hyperscaler's AI ASIC processors. (likely $GOOGL, $AMZN, $META).\n\n- Probably Google? Aehr bought Incal, who was speculated to be used by Google for their TPUs. \n\nFeb 26th: $14 million from AI lead customer (likely $AMD, $NVDA)\n\n- Probably $AMD here for Instinct MI300/MI400. \n\nMarch 3rd: Lead silicon photonics customer for one FOX-XP system (likely $INTC siph)\n\n- Very likely $INTC has been their lead customer. \n\nMarch 31st: Initial order from major new silicon photonics customer (likely $AVGO, $MRVL, $CSCO )\n\n- New customer (rules out Intel), prob one of these transitioning to 800G/1.6T silicon photonics transceivers\n\n(All speculative, very confidential BOM)\n\nRegardless. This timeline is just bottling up for $AEHR.  \n\nCould be next earnings. Or two quarters from now. \n\nBut feels like a matter of time before we see mass orders.",
+        "created_at": "Wed Apr 01 17:05:46 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2039388754545385472",
+            "url": "https://pbs.twimg.com/media/HE1dRGGaoAAB7pZ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
+          "followers_count": 949800,
+          "friends_count": 185,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 71,
+          "favorite_count": 764,
+          "reply_count": 55,
+          "quote_count": 9
+        }
+      },
+      "stats": {
+        "retweet_count": 23,
+        "favorite_count": 428,
+        "reply_count": 115,
+        "quote_count": 4
+      }
+    },
+    {
+      "id": "2077228758491386121",
+      "text": "Well, looks like SLC NAND is forcasted to rise up 120-170% for H2 2026 per Trendforce. \n\nThere's $MU (21%), Kioxia (20%) as largest share, but clearer beneficiaries appears to be:\n\n1. Winbond (2344): ~15% of the SLC NAND market\n2. Macronix (2337): ~11% market share\n3. SkyHigh Memory via Puya Semi: ~14% market share\n\nGiven Micron at $1T and others are a bit large relative to SLC NAND TAM. \n\n(source: Q1 2026 Winbond presentation/Trendforce).",
+      "created_at": "Wed Jul 15 03:08:23 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2077227590272868352",
+          "url": "https://pbs.twimg.com/media/HNPLfNva4AAstTR.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2077228260119949312",
+          "url": "https://pbs.twimg.com/media/HNPMGNHaMAAoVzH.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 12,
+        "favorite_count": 160,
+        "reply_count": 53,
+        "quote_count": 0
+      }
+    }
+  ]
+}
