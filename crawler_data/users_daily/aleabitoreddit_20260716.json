@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
-    "followers_count": 954470,
+    "followers_count": 954763,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260716",
-  "last_updated": "2026-07-16T14:11:29.066018",
-  "tweet_count": 2,
+  "last_updated": "2026-07-16T16:24:40.450146",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2077741631135191234",
@@ -86,6 +86,92 @@
         "favorite_count": 401,
         "reply_count": 141,
         "quote_count": 5
+      }
+    },
+    {
+      "id": "2077768896061563339",
+      "text": "Lot of people were curious about $SIVE capacity volume ramp modeling through fab-light (Win Semi + others):\n\nUsing 10% of Win's wafer capacity as a low-end allocation (65% yield assumption, $50-$75 ASP):\n\nSivers would support $341-$512M worth of annual array revenue. Given upper end of managements 50-60%+ gross margin target, would be roughly:\n\n$205–307M of annual gross profit.\n\nAgainst Sivers current ~$1.1B MC, would be ~:\n\n3.6–5.4× MC/gross profit if this capacity scenario plays out in 2028.  \n\nAnd at 15% would be $307–461M in gross profit (2.4–3.6× MC/gross profit)\n\nSivers CEO also replied that they're working with more fabs for capacity. And from an older deck, there looks to be more qualifications since 2024.  \n\nSo capacity targets might be larger than what's stated here as CPO takes off. \n\nI also expect to see revenue pipeline projections hiked in future quarters, as more qualification suppliers to into HVM. \n_\n\nAs for demand side, CW also happens to be very bottlenecked. \n\nLumentum are buying CW off the open market due to EML obligations from their ER transcript. \n\nAnd $AMD are signing LTAs to secure CW capacity (from Trendforce). So when Sivers is ramping with $GFS, $JBL, Ayar, $POET, O-NET and others... \n\nGiven the current constraints, it's highly likely any  independent qualified capacity that comes online would be absorbed.  \n\nAnd as a cherry on top, Morgan Stanley named $SIVE (~$1.1B) as one of the three leading CPO laser players .\n\nAlongside $55B+ players Coherent and Lumentum in their recent note for a reason...\n\n_\n\nTLDR: Sivers only needs a low end allocation from Win to make substantial gross income relative to current valuations. \n\nI think the largest revenue upside that isn't modeled in if they TAM expansion with M&A after US NASDAQ listing. \n\nBy copying the Lumentum playbook with Cloud Light to build out entire transceiver modules or with optical engines.",
+      "created_at": "Thu Jul 16 14:54:42 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2077750471687843840",
+          "url": "https://pbs.twimg.com/media/HNWnC6zasAAeC8R.png"
+        },
+        {
+          "type": "photo",
+          "id": "2077750556131782656",
+          "url": "https://pbs.twimg.com/media/HNWnH1Ya8AAVTJ4.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2077427816870646183",
+        "text": "Your assumptions are wrong. Win Semiconductors has a InP capacity of 35.000 wafers per year. Assume even a low number 10% of that is 3500 wafers. There are approximately 3000 CW arrays on a wafer, price per Array >$50. At only 10% of this capacity Sivers could sell for more than $500m just for arrays..then you have pluggables, wireless...at 20% capacity...even more. Production qual has been ongoing for sometime, as WIN mgmt confirmed, hence should not be too far away.",
+        "created_at": "Wed Jul 15 16:19:22 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "208500614",
+          "name": "Anders Storm",
+          "screen_name": "StormDirac",
+          "description": "CEO Dirac\n\nFormer CEO Sivers Semiconductors.  \nhttps://t.co/MvTEwioiQc\n\nhttps://t.co/3A3qoO1EmB\n\nhttps://t.co/87Dbqe6o5H",
+          "followers_count": 13536,
+          "friends_count": 892,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 15,
+          "favorite_count": 262,
+          "reply_count": 6,
+          "quote_count": 5
+        }
+      },
+      "stats": {
+        "retweet_count": 48,
+        "favorite_count": 641,
+        "reply_count": 182,
+        "quote_count": 10
+      }
+    },
+    {
+      "id": "2077784594959725056",
+      "text": "My guess is we’re close to market bottom on semis from $INTC to $LITE.\n\nA good indicator is if everyone on $RDDT blew up their portfolios to $0. https://t.co/X1m9Yv1JuX",
+      "created_at": "Thu Jul 16 15:57:05 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2077784586382446592",
+          "url": "https://pbs.twimg.com/media/HNXGEp8bkAAcdBb.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2077784586374037504",
+          "url": "https://pbs.twimg.com/media/HNXGEp6bQAAeRWq.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2077784586399203328",
+          "url": "https://pbs.twimg.com/media/HNXGEqAbQAAfu12.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2077784586403381248",
+          "url": "https://pbs.twimg.com/media/HNXGEqBbAAAqeQZ.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 28,
+        "favorite_count": 632,
+        "reply_count": 152,
+        "quote_count": 9
       }
     }
   ]
