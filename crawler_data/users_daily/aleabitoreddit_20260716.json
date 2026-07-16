@@ -1,0 +1,92 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own. Sharing free AI chokepoint research",
+    "followers_count": 954470,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260716",
+  "last_updated": "2026-07-16T14:11:29.066018",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2077741631135191234",
+      "text": "I hope there's someone at X can fix this subscription bug. \n\nMany people are reporting that subscriptions don't renew anymore. https://t.co/0MvdfJmBg3",
+      "created_at": "Thu Jul 16 13:06:22 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2077741620905324544",
+          "url": "https://pbs.twimg.com/media/HNWe_vEbMAAnCp3.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2077664308431892833",
+        "text": "Why does X automatically unsubscribe me from Serenity??\n\nI have had to re-sub 3 times already @aleabitoreddit @nikitabier https://t.co/mILffASRxV",
+        "created_at": "Thu Jul 16 07:59:06 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2077661535514550272",
+            "url": "https://pbs.twimg.com/media/HNVWKJvWYAAMYOK.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "777879333146951680",
+          "name": "Xtine Fang",
+          "screen_name": "XtineFang",
+          "description": "Liquid Fund | heiress GCR @Heiress_Capital",
+          "followers_count": 20148,
+          "friends_count": 1400,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 25,
+          "reply_count": 13,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 120,
+        "reply_count": 132,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2077753660592033828",
+      "text": "Today, $MU announced it signed memory LTAs with $QCOM.\n\nInteresting reaction to see Micron proceeded to drop 5.37% right after.\n\nDoesn’t quite feel like there’s anything individually wrong with memory or AI names with all these structural agreements signed?\n\nMore like the tail end of deleveraging / margin cascades.",
+      "created_at": "Thu Jul 16 13:54:10 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2077753546305679360",
+          "url": "https://pbs.twimg.com/media/HNWp14pbsAAmMza.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2077753546322386944",
+          "url": "https://pbs.twimg.com/media/HNWp14taoAA94Hi.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 28,
+        "favorite_count": 401,
+        "reply_count": 141,
+        "quote_count": 5
+      }
+    }
+  ]
+}
