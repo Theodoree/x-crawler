@@ -1,0 +1,54 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 958453,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260718",
+  "last_updated": "2026-07-18T03:14:58.668523",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2078283847612186739",
+      "text": "Thanks! I’ve always shared personal research and core thoughts for free. Not trying to sell anything or tell others what to do.\n\nAnd above all, just being transparent about my own returns (win or loss)\n\nMaybe this information democratization upsets some business models…\n\nWhen others try and pitch their $40 TA subscriptions that are always right and predicted the semis crash.\n\nBut if they really believed it, they would have made 5000%+ buying puts and wouldn’t need to market a paywall.\n\nYes, if I’m on 1.4x leverage, and if a portfolio concentrated in memory/photonics underlying crashes -35% on avg… you get a 49% drawdown.\n\nI’m just sharing what happens. \n\nBut I expect AI names to recover since I see demand from compute to energy to memory to networking to be structural.",
+      "created_at": "Sat Jul 18 01:00:56 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2078263177708478485",
+        "text": "everybody hating on serenity posting his -49% pnl is so lame to me\n\nits normal to have pullbacks as a trader and he still has a better ytd than all of you\n\nits all jealousy that he's grown to 1m followers and they wish they had the same numbers to sell their shitty substack",
+        "created_at": "Fri Jul 17 23:38:48 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1858227799280230400",
+          "name": "Francis",
+          "screen_name": "FrancisCashFlow",
+          "description": "https://t.co/jcjHJgSvAN\n$3K to $1M Portfolio Challenge 👇",
+          "followers_count": 980,
+          "friends_count": 135,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 90,
+          "reply_count": 6,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 19,
+        "favorite_count": 726,
+        "reply_count": 82,
+        "quote_count": 4
+      }
+    }
+  ]
+}
