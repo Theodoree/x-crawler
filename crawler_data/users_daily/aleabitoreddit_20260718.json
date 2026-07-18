@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 958453,
+    "followers_count": 958810,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260718",
-  "last_updated": "2026-07-18T03:14:58.668523",
-  "tweet_count": 1,
+  "last_updated": "2026-07-18T06:12:27.829985",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2078283847612186739",
@@ -48,6 +48,27 @@
         "favorite_count": 726,
         "reply_count": 82,
         "quote_count": 4
+      }
+    },
+    {
+      "id": "2078338950150959558",
+      "text": "For anyone watching the 25%+ premium in $SKHY versus SK Hynix's Korean shares:\n\nThe ADRs and local shares become convertible on July 29.\n\nShould open the door for arbitrage and likely compress the ADR premium. Maybe lifting Korean shares or pressuring US shares. \n\n2.5% currently is the US ADR stock, so an additional 22.5% can be converted.",
+      "created_at": "Sat Jul 18 04:39:54 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2078337989701406720",
+          "url": "https://pbs.twimg.com/media/HNe9Y99aEAAZg2-.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 40,
+        "favorite_count": 373,
+        "reply_count": 65,
+        "quote_count": 12
       }
     }
   ]
