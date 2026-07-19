@@ -1,0 +1,36 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 962187,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260719",
+  "last_updated": "2026-07-19T19:17:25.866840",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2078914447180263438",
+      "text": "There’s nothing quite like the scent of more AI capex on a Sunday.\n\nProbably some ways to go if leading frontier models are out of capacity from too much demand. https://t.co/d8mnuAQdLz",
+      "created_at": "Sun Jul 19 18:46:43 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2078914442470068224",
+          "url": "https://pbs.twimg.com/media/HNnJq73bkAAUKd6.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 35,
+        "favorite_count": 538,
+        "reply_count": 126,
+        "quote_count": 9
+      }
+    }
+  ]
+}
