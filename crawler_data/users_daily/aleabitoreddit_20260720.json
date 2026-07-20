@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 963494,
+    "followers_count": 963551,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260720",
-  "last_updated": "2026-07-20T20:38:06.774821",
-  "tweet_count": 3,
+  "last_updated": "2026-07-20T22:08:07.740552",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2079089592385610023",
@@ -111,6 +111,27 @@
         "favorite_count": 300,
         "reply_count": 241,
         "quote_count": 40
+      }
+    },
+    {
+      "id": "2079319999915925938",
+      "text": "If you’re curious why $NBIS is up after hours.\n\n$NVDA disclosed it owns 9.3% beneficial ownership of Nebius via SEC filings.\n\nNot exactly too new since it dates back to Nvidia’s existing share position of 1.19M shares + $2B prefunded warrant of ~21M shares.\n\nBut great for sentiment having Nvidia be a large shareholder of the Neocloud leader.",
+      "created_at": "Mon Jul 20 21:38:14 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2079319994031329280",
+          "url": "https://pbs.twimg.com/media/HNs6hJKa0AAqBaA.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 27,
+        "favorite_count": 408,
+        "reply_count": 121,
+        "quote_count": 4
       }
     }
   ]
