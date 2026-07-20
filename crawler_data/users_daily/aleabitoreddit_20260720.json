@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 962777,
+    "followers_count": 963440,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260720",
-  "last_updated": "2026-07-20T08:13:32.022834",
-  "tweet_count": 1,
+  "last_updated": "2026-07-20T18:59:40.080509",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2079089592385610023",
@@ -29,6 +29,32 @@
         "retweet_count": 28,
         "favorite_count": 377,
         "reply_count": 62,
+        "quote_count": 9
+      }
+    },
+    {
+      "id": "2079254669793316962",
+      "text": "$IREN +19.69% after revising ARR target to $4B+ from new AI cloud contracts. Its customer base now includes Microsoft, Nvidia, Perplexity, and Figure.\n\n$HUT +10.45% off a 15Y $9.8B AI DC lease\n\n$CIFR +16.76%\n$CLSK +13.7%\n$WYFI +9.18%\n\n$NBIS and $CRWV are taking their time in the shower.\n\nBut does look like Neoclouds/Colo players are sharply recovering following new catalysts, such as Kimi compute shortage news and new contracts.",
+      "created_at": "Mon Jul 20 17:18:38 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2079254352473247744",
+          "url": "https://pbs.twimg.com/media/HNr-0TTaUAAE7wj.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2079254353395990528",
+          "url": "https://pbs.twimg.com/media/HNr-0WvaQAAWrFz.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 44,
+        "favorite_count": 835,
+        "reply_count": 301,
         "quote_count": 9
       }
     }
