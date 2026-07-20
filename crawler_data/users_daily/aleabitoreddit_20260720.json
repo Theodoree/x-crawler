@@ -1,0 +1,36 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 962777,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260720",
+  "last_updated": "2026-07-20T08:13:32.022834",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2079089592385610023",
+      "text": "Some updates on bottleneck timelines: \n\n- ABF substrates: 1 year \n/ eg. Ajinomoto (2802) for ABF film, Ibiden, Unimicron, Nan Ya PCB, etc make the substrates \n\n- HDI Boards: Over 6 months \n/ Victory Giant (300476), Zhen Ding (4958), Unimicron, Compeq (2313), Meiko (6787)\n\n- Multilayer boards: ~6 months \n/ Victory Giant, WUS (002463), $TTMI, Gold Circuit Electronics (2368), \n\n- CCL: Over 6 months (severe shortages of materials) \n/ Elite Material (2383), Shengyi (600183), TUC (6274), ITEQ (6213), Nan Ya Plastics (1303), Resonac (4004)\nMitsui Kinzoku (5706) / HVLP copper foil.  Nittobo / glass fiber/cloth\n\n- MLCCs, chip resistors, tantalum capacitors, aluminum electrolytic capacitors: 15-20 weeks to 1 year+\n\nMLCC: Murata (6981), Samsung Electro-Mechanics, TDK (6762), Taiyo Yuden (6976), Yageo (2327), Walsin (2492)\nChip Resistors: Yageo, Walsin, KOA (6999), Rohm (6963) and $VSH\nTantalum capacitors: Kyocera/AVX, Yageo/KEMET, $VSH again\n\nAluminum electrolytic capacitors: Nippon Chemi-Con (6997) Nichicon (6996) | Timelines sourced from Digitimes, did the honors of adding in related companies. \n\nBut it's slightly more nuanced since MLCCs and others mix. in commodity types vs. AI DCs.\n\nRegardless, just some helpful mapping.",
+      "created_at": "Mon Jul 20 06:22:41 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2079073207123148801",
+          "url": "https://pbs.twimg.com/media/HNpaEQSbgAEmmJj.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 28,
+        "favorite_count": 377,
+        "reply_count": 62,
+        "quote_count": 9
+      }
+    }
+  ]
+}
