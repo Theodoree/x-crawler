@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 964154,
+    "followers_count": 964627,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260721",
-  "last_updated": "2026-07-21T10:32:05.896038",
-  "tweet_count": 2,
+  "last_updated": "2026-07-21T19:43:01.551436",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2079479755481776221",
@@ -104,6 +104,21 @@
         "favorite_count": 347,
         "reply_count": 57,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2079622706572804368",
+      "text": "Wow, a historic single day recovery.\n\n$SIVEF +30.89%\n$IQEF +28.6%\n$AEHR +26.53%\n$CIFR +17.82%\n$NBIS +17.3%\n$AAOI +15.6%\n$LPK +14.48%\n$AXTI +14.12%\n$MU +12.54%\n$SNDK +12.8%\n$SOI +11.1%\n$TSEM +10.39%\n$LITE +9.25%\n$INTC +8.22%\n$AMD +8.11%\n$MRVL +7.27%",
+      "created_at": "Tue Jul 21 17:41:05 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 97,
+        "favorite_count": 2136,
+        "reply_count": 478,
+        "quote_count": 35
       }
     }
   ]
