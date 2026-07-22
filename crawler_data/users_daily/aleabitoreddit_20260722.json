@@ -1,0 +1,36 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 965734,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260722",
+  "last_updated": "2026-07-22T16:26:49.349622",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2079947242455335379",
+      "text": "$AMD to invest $5B in Anthropic.\n\nAnthropic in turn will sign a 2 GW deal to buy AMD’s latest chips, worth tens of billions of dollars.\n\nLooks like they’re copying the $NVDA playbook with Anthropic last year. https://t.co/SXBUq65u6P",
+      "created_at": "Wed Jul 22 15:10:40 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2079947238642733056",
+          "url": "https://pbs.twimg.com/media/HN10_lba0AA6oI0.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 28,
+        "favorite_count": 581,
+        "reply_count": 100,
+        "quote_count": 6
+      }
+    }
+  ]
+}
