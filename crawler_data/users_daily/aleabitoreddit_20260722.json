@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 965734,
+    "followers_count": 966175,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260722",
-  "last_updated": "2026-07-22T16:26:49.349622",
-  "tweet_count": 1,
+  "last_updated": "2026-07-22T22:12:17.719801",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2079947242455335379",
@@ -30,6 +30,92 @@
         "favorite_count": 581,
         "reply_count": 100,
         "quote_count": 6
+      }
+    },
+    {
+      "id": "2080027058063958323",
+      "text": "$GOOGL reported earnings today:\n\nEPS: $9.11 actual vs $2.91 expected - retail reactions to EPS blowout is kinda just accounting noise, since $SPCX, Anthropic, and others were likely large contributors. \n\nRevenue: $119.7B actual vs. $116.98B expected\n\nGoogle Cloud Revenue: $24.77B +82% Y/Y, vs. 63-65% expected ($22.2-$22.6B) - this is a very large beat and most material part so far. \n\nCloud Operating Income: ~$8.81B, implying 35.6% margin vs. 32.9% Q1. \n\nCapex: $44.92B vs ~$44.15B (basically in line).\n\nSo initial read through is Google Cloud accelerating growth with expanding margins is genuinely bullish for AI demand.\n\nTheir former $180-$190B capex guidance is already extremely large, and as long as we get around these numbers in the earnings call + forward projections... \n\nShould be good to go for $LITE and the other optics/networking trade. (eg. last earnings, they said DC and networking would be ~40% of capex spend). \n\nHyperscaler earnings transcripts are probably the most important thing to pay attention to with the AI capex trade. \n\nAnd that should be in 3 minutes.",
+      "created_at": "Wed Jul 22 20:27:50 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 60,
+        "favorite_count": 1025,
+        "reply_count": 196,
+        "quote_count": 5
+      }
+    },
+    {
+      "id": "2080031508656746874",
+      "text": "$GOOGL now has 950M monthly Gemini users and processes 22B API tokens/min. \n\nCompared to 750M back in February. \n\nAbsurd growth adding 200 million more users in a few months.  Kinda explains why they ran out of compute, then cut allocations to $META and others. \n\nVery unlikely AI capex will slow down given.",
+      "created_at": "Wed Jul 22 20:45:31 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2080030533846016000",
+          "url": "https://pbs.twimg.com/media/HN3AwAPboAA8mOI.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2080030929037475840",
+          "url": "https://pbs.twimg.com/media/HN3BHAcawAAJ1tb.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2080027058063958323",
+        "text": "$GOOGL reported earnings today:\n\nEPS: $9.11 actual vs $2.91 expected - retail reactions to EPS blowout is kinda just accounting noise, since $SPCX, Anthropic, and others were likely large contributors. \n\nRevenue: $119.7B actual vs. $116.98B expected\n\nGoogle Cloud Revenue: $24.77B +82% Y/Y, vs. 63-65% expected ($22.2-$22.6B) - this is a very large beat and most material part so far. \n\nCloud Operating Income: ~$8.81B, implying 35.6% margin vs. 32.9% Q1. \n\nCapex: $44.92B vs ~$44.15B (basically in line).\n\nSo initial read through is Google Cloud accelerating growth with expanding margins is genuinely bullish for AI demand.\n\nTheir former $180-$190B capex guidance is already extremely large, and as long as we get around these numbers in the earnings call + forward projections... \n\nShould be good to go for $LITE and the other optics/networking trade. (eg. last earnings, they said DC and networking would be ~40% of capex spend). \n\nHyperscaler earnings transcripts are probably the most important thing to pay attention to with the AI capex trade. \n\nAnd that should be in 3 minutes.",
+        "created_at": "Wed Jul 22 20:27:50 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 966175,
+          "friends_count": 191,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 60,
+          "favorite_count": 1025,
+          "reply_count": 196,
+          "quote_count": 5
+        }
+      },
+      "stats": {
+        "retweet_count": 73,
+        "favorite_count": 923,
+        "reply_count": 145,
+        "quote_count": 17
+      }
+    },
+    {
+      "id": "2080035769062916479",
+      "text": "$GOOGL updates FY 2026 capex guidance:\n\nTo $195B-$205B. Up from $180B-$190B. \n\nGoogle is also expected to significantly increase capex in 2027.  \n\nThis is perhaps the most bullish read through on upstream semis from a hyperscaler. https://t.co/dXiI0Ien8X",
+      "created_at": "Wed Jul 22 21:02:27 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2080035332674965504",
+          "url": "https://pbs.twimg.com/media/HN3FHVRaUAAESSZ.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 108,
+        "favorite_count": 1108,
+        "reply_count": 124,
+        "quote_count": 28
       }
     }
   ]
