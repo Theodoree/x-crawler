@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 967157,
+    "followers_count": 967864,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260723",
-  "last_updated": "2026-07-23T07:39:35.787651",
-  "tweet_count": 2,
+  "last_updated": "2026-07-23T17:43:06.301325",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2080149813065396454",
@@ -66,6 +66,37 @@
         "favorite_count": 575,
         "reply_count": 95,
         "quote_count": 7
+      }
+    },
+    {
+      "id": "2080334612807758136",
+      "text": "I have this feeling that Lisa from $AMD likes AI.\n\nIt’s cool getting to meet some of you at the event! https://t.co/AWdGS349xF",
+      "created_at": "Thu Jul 23 16:49:57 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2080333819438407680",
+          "url": "https://pbs.twimg.com/media/HN7UljHboAAPYlE.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2080334607451656192",
+          "url": "https://pbs.twimg.com/media/HN7VTasbkAAKYXI.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2080334607673929728",
+          "url": "https://pbs.twimg.com/media/HN7VTbhbMAA-HZ2.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 18,
+        "favorite_count": 762,
+        "reply_count": 140,
+        "quote_count": 4
       }
     }
   ]
