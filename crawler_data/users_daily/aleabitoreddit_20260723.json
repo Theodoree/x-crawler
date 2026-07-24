@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 967991,
+    "followers_count": 968345,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260723",
-  "last_updated": "2026-07-23T21:14:01.367779",
-  "tweet_count": 5,
+  "last_updated": "2026-07-24T03:29:07.527913",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2080149813065396454",
@@ -143,6 +143,85 @@
         "favorite_count": 273,
         "reply_count": 126,
         "quote_count": 3
+      }
+    },
+    {
+      "id": "2080440952859365612",
+      "text": "RT @AMD: The feeling’s mutual. 🤝",
+      "created_at": "Thu Jul 23 23:52:30 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2080394309845860668",
+        "text": "The feeling’s mutual. 🤝",
+        "created_at": "Thu Jul 23 20:47:09 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2080379612736221325",
+          "text": "$AMD reached out directly to hand me some special swag!\n\nApparently they only made 30 of these bandanas? \n\nI love AMD and Lisa Su now. https://t.co/KgcYjBUcTv",
+          "created_at": "Thu Jul 23 19:48:45 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2080379606914433025",
+              "url": "https://pbs.twimg.com/media/HN7-OuwaAAE2BYk.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2080379606927106048",
+              "url": "https://pbs.twimg.com/media/HN7-OuzbYAAGB7N.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2080379606914535424",
+              "url": "https://pbs.twimg.com/media/HN7-OuwbkAAfusd.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1940360837547565056",
+            "name": "Serenity",
+            "screen_name": "aleabitoreddit",
+            "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+            "followers_count": 968345,
+            "friends_count": 193,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 48,
+            "favorite_count": 1765,
+            "reply_count": 258,
+            "quote_count": 6
+          }
+        },
+        "user": {
+          "id": "14861876",
+          "name": "AMD",
+          "screen_name": "AMD",
+          "description": "together we advance_",
+          "followers_count": 1279765,
+          "friends_count": 395,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 35,
+          "favorite_count": 984,
+          "reply_count": 31,
+          "quote_count": 24
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 35,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
