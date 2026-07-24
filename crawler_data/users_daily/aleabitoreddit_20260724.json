@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 968982,
+    "followers_count": 969065,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260724",
-  "last_updated": "2026-07-24T17:45:46.211680",
-  "tweet_count": 2,
+  "last_updated": "2026-07-24T21:13:55.743222",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2080445777395298454",
@@ -109,6 +109,57 @@
         "favorite_count": 491,
         "reply_count": 134,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2080750537121874206",
+      "text": "There you have it, $GOOGL Waymo to explore split with $UBER per FT.\n\nMy view last year was that Uber partnering with Waymo was a bad choice… since Uber would just serve as a distribution funnel that Google needed as they scale up.\n\nAnd that $NBIS Avride, other neutral players, or vertical integration would be the optimal path forward.\n\nNow their own partner Waymo looks to be the strongest disruptor to Uber.",
+      "created_at": "Fri Jul 24 20:22:41 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2080750482805723136",
+          "url": "https://pbs.twimg.com/media/HOBPijHbkAAMCnR.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "1996371542369034395",
+        "text": "@Jason I'm 100% sure $UBER would not partner with Waymo in all cities. If you were Uber, why would you funnel all your users into the Waymo app one day?\n\nInstead of partnering with another FSD-4 player $NBIS avride that they partially own + doesn't have a standalone competitor? https://t.co/BE9J3sl72O",
+        "created_at": "Thu Dec 04 00:10:41 +0000 2025",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "1996371429512896512",
+            "url": "https://pbs.twimg.com/media/G7SJPOfa4AA2DH9.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 969065,
+          "friends_count": 194,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 36,
+          "reply_count": 5,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 13,
+        "favorite_count": 287,
+        "reply_count": 95,
+        "quote_count": 7
       }
     }
   ]
