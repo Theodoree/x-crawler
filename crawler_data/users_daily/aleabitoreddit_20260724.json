@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 968345,
+    "followers_count": 968982,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260724",
-  "last_updated": "2026-07-24T03:29:06.782433",
-  "tweet_count": 1,
+  "last_updated": "2026-07-24T17:45:46.211680",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2080445777395298454",
@@ -54,6 +54,61 @@
         "favorite_count": 482,
         "reply_count": 137,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2080689966045348047",
+      "text": "Jensen from $NVDA has joined X for the first time to share his letter on open models.",
+      "created_at": "Fri Jul 24 16:21:59 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2080643682408321103",
+        "text": "For my first post, I’m sharing a letter @NVIDIA signed on why open models matter.\n\nAI will transform every industry, power every company, and be built by every country.\n\nOpen models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty.\n\nThe world needs both frontier closed models and frontier open models.\n\nhttps://t.co/AUKzoQ5Ikb",
+        "created_at": "Fri Jul 24 13:18:05 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2080638895952420864",
+            "url": "https://pbs.twimg.com/media/HN_qDVsa4AAI6XJ.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2080638895990173696",
+            "url": "https://pbs.twimg.com/media/HN_qDV1a8AARQwg.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2080638895990161408",
+            "url": "https://pbs.twimg.com/media/HN_qDV1awAAPTlH.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2070631956824698880",
+          "name": "Jensen Huang",
+          "screen_name": "JensenHuang",
+          "description": "Founder and CEO of NVIDIA.",
+          "followers_count": 351944,
+          "friends_count": 50,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 13848,
+          "favorite_count": 79319,
+          "reply_count": 9138,
+          "quote_count": 5917
+        }
+      },
+      "stats": {
+        "retweet_count": 15,
+        "favorite_count": 491,
+        "reply_count": 134,
+        "quote_count": 1
       }
     }
   ]
