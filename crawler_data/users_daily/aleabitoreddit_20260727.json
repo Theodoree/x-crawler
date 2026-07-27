@@ -1,0 +1,62 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 973926,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260727",
+  "last_updated": "2026-07-27T04:44:07.935115",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2081548360818004299",
+      "text": "Nvidia in talks to backstop $250B worth of OpenAI DC financing.\n\n- Softbank’s SB energy develops 10 GW Ohio campus \n\n- OpenAI signs long term lease\n\n- $NVDA guarantees $250B in financing\n\n- OpenAI discussing separate agreement to buy up to $350B in Nvidia chips.\n\nNot quite sure if this circular financing is healthy long term, but given the massive size of AI infrastructure spending…\n\nFeels like capex beneficiaries will be extremely happy.",
+      "created_at": "Mon Jul 27 01:12:57 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2081548357550657536",
+          "url": "https://pbs.twimg.com/media/HOMlM-Ka0AAp_5c.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 22,
+        "favorite_count": 611,
+        "reply_count": 127,
+        "quote_count": 15
+      }
+    },
+    {
+      "id": "2081579593815978273",
+      "text": "Wow, $CMXT is up a very normal +469.98% after going public today.\n\nNow valuing it at ~$487.31 billion, up from $85.5 billion. \n\nDid any of my Chinese followers buy into the IPO? https://t.co/TlibjHe799",
+      "created_at": "Mon Jul 27 03:17:03 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2081579226055270400",
+          "url": "https://pbs.twimg.com/media/HONBRwTbYAApWVB.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2081579431412555776",
+          "url": "https://pbs.twimg.com/media/HONBdtUa4AAeYci.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 24,
+        "favorite_count": 562,
+        "reply_count": 129,
+        "quote_count": 15
+      }
+    }
+  ]
+}
