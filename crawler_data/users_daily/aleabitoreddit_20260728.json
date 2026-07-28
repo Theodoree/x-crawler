@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 979788,
+    "followers_count": 979999,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260728",
-  "last_updated": "2026-07-28T19:44:06.977638",
-  "tweet_count": 1,
+  "last_updated": "2026-07-28T23:08:29.790613",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2082175588555702410",
@@ -35,6 +35,45 @@
         "favorite_count": 516,
         "reply_count": 112,
         "quote_count": 12
+      }
+    },
+    {
+      "id": "2082230983487803755",
+      "text": "I personally see it as extreme short term deleveraging that overshot many individual names. \n\n- $BE to $TER reported blowout results, with Bloom reporting 166% Y/Y rev growth + expanding margins + raised 2026 guidance... Teradyne reported 104% Y/Y revenue growth with 300%+ EPS growth. \n\nYour leading optical players over in China reported amazing preliminary earnings + extremely strong read through for the Western photonics sector. \n\nThink earnings season tend to remind markets about continued AI acceleration. I'm expecting $LITE, $SNDK / SK Hynix, and sector leader ERs to continue that trend.   \n\nBut it does feel like markets are rewarding existing acceleration more rather than future growth a year out over near-term revisions as seen with $AMKR. \n\nBut as a TLDR, looks very positive for the themes I'm tracking.  \n\n- Then you have $GOOGL capex raised to $195-$205B, which is typically the biggest AI demand signal from hyperscalers. \n\n- 77% 0bps change est. next FOMC decision from prediction markets. Trump administration on Monday called for the Fed to lower interest rates. \n\nSo your 3x rate hikes fears this year seem kinda overblown. \n\n- Chinese fears from DUV to $CXMT overflooding are extremely overblown as well. We see this with every sector from time to time until people remember that lasers or HBM bottlenecks for a reason. \n\nAs for personal thoughts, it was unhealthy seeing everything rise up or down together, especially with these themes. But I'm personally not worried since I have full conviction in my names, especially optical interconnects like $SIVE or $AAOI. \n\n$META compute and $GOOGL GCP margins/growth shows increasing demand for $NBIS and similar neocloud business models. \n\n$META + other hyperscaler notes around LTAs with $SNDK and Samsung/SK Hynix, $MU point to structural memory demand. \n\nCan go on and on... \n\nBut when you have Jim Cramer telling every margined DC trader to \"sell everything\" at market open and news saying there's an AI bubble. \n\nI do hate it when others say \"it's dropping so sell\". My belief is that the important thing to look is accelerating revenue/EPS growth. And if that thesis stays in-tact with revenue acceleration in line with hyperscaler capex. \n\nTLDR: I see signs of AI demand / revenue acceleration, hyperscaler capex is one of the most important things to track. \n\nAnd my guess is that we'll see the theme recover broadly. But I can't predict what hour, day, or week that happens.",
+      "created_at": "Tue Jul 28 22:25:27 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2082179473995444328",
+        "text": "@aleabitoreddit @wannabepanacea 祝你早日康复，AI硬件要见底了吗？还要跌多少",
+        "created_at": "Tue Jul 28 19:00:46 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2070893248852467712",
+          "name": "zhuwenbin",
+          "screen_name": "zhuwenbin168",
+          "description": "",
+          "followers_count": 44,
+          "friends_count": 284,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 5,
+          "reply_count": 3,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 28,
+        "favorite_count": 595,
+        "reply_count": 59,
+        "quote_count": 8
       }
     }
   ]
