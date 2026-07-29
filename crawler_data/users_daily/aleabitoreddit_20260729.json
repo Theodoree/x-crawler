@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 981059,
+    "followers_count": 981310,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260729",
-  "last_updated": "2026-07-29T17:23:44.851708",
-  "tweet_count": 1,
+  "last_updated": "2026-07-29T19:35:06.893264",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2082513405219631384",
@@ -40,6 +40,27 @@
         "favorite_count": 405,
         "reply_count": 61,
         "quote_count": 5
+      }
+    },
+    {
+      "id": "2082529316655763703",
+      "text": "Federal Reserve leaves rates unchanged at unchanged at 3.50% - 3.75%.  \n\nSo far so good, since markets would have sold off on an immediate rate hike (seem to have largely frontran hike expectations off already).   \n\nThink everyone is waiting for the Fed Chair commentary now. https://t.co/2bZtg5UKEb",
+      "created_at": "Wed Jul 29 18:10:55 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2082529044416065536",
+          "url": "https://pbs.twimg.com/media/HOahIdbacAAAJMr.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 38,
+        "favorite_count": 811,
+        "reply_count": 95,
+        "quote_count": 8
       }
     }
   ]
