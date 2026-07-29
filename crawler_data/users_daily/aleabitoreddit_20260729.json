@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 981431,
+    "followers_count": 981549,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260729",
-  "last_updated": "2026-07-29T21:05:20.971121",
-  "tweet_count": 3,
+  "last_updated": "2026-07-29T23:05:08.621530",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2082513405219631384",
@@ -76,6 +76,32 @@
         "favorite_count": 1133,
         "reply_count": 166,
         "quote_count": 8
+      }
+    },
+    {
+      "id": "2082578803189268855",
+      "text": "$AXTI enters long term agreement with $LITE for InP substrates. \n\nLumentum has agreed to pay a deposit of $43.5M as a reservation for capacity. https://t.co/5Dl3L9EYRa",
+      "created_at": "Wed Jul 29 21:27:33 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2082578798189699072",
+          "url": "https://pbs.twimg.com/media/HObOYgrbYAA_vLK.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2082578798189637632",
+          "url": "https://pbs.twimg.com/media/HObOYgracAAEi1T.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 21,
+        "favorite_count": 577,
+        "reply_count": 82,
+        "quote_count": 2
       }
     }
   ]
