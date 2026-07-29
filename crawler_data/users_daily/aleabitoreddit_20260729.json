@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 981310,
+    "followers_count": 981431,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260729",
-  "last_updated": "2026-07-29T19:35:06.893264",
-  "tweet_count": 2,
+  "last_updated": "2026-07-29T21:05:20.971121",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2082513405219631384",
@@ -60,6 +60,21 @@
         "retweet_count": 38,
         "favorite_count": 811,
         "reply_count": 95,
+        "quote_count": 8
+      }
+    },
+    {
+      "id": "2082557648298516918",
+      "text": "To show solidarity with the $IREN holders:\n\nI now own 1 share of IREN.",
+      "created_at": "Wed Jul 29 20:03:30 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 14,
+        "favorite_count": 1133,
+        "reply_count": 166,
         "quote_count": 8
       }
     }
