@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 981930,
+    "followers_count": 982537,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260730",
-  "last_updated": "2026-07-30T08:41:39.774775",
-  "tweet_count": 2,
+  "last_updated": "2026-07-30T20:20:39.467698",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2082720873908494456",
@@ -50,6 +50,27 @@
         "favorite_count": 464,
         "reply_count": 74,
         "quote_count": 5
+      }
+    },
+    {
+      "id": "2082896789880119590",
+      "text": "Did Citadel really just liquidate Situational Awareness…\n\nThen brought up entire markets the next day?\n\n$NBIS +26.25%\n$IREN +25.96%\n$SHAZ +22.82%\n$SNDK + 23.98%\n$BE +23.67%\n$SKHY +16.98%\n$INTC +12.16%\n\nAmid many others. This has gotta be one of the wildest liquidations I’ve seen.",
+      "created_at": "Thu Jul 30 18:31:07 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2082896776764514304",
+          "url": "https://pbs.twimg.com/media/HOfvlTLa4AArH-O.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 87,
+        "favorite_count": 1592,
+        "reply_count": 195,
+        "quote_count": 25
       }
     }
   ]
