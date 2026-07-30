@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 981549,
+    "followers_count": 981738,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260729",
-  "last_updated": "2026-07-29T23:05:08.621530",
-  "tweet_count": 4,
+  "last_updated": "2026-07-30T02:55:57.166894",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2082513405219631384",
@@ -102,6 +102,45 @@
         "favorite_count": 577,
         "reply_count": 82,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2082605568699871284",
+      "text": "Just some takeaways from $META | $MSFT earnings calls:\n\nMicrosoft:\n- Expected to be FCF positive in 2027, despite the increase in capex (extremely positive for AI buildout that it's funded by operating income)\n- \"Free cash flow was $19.6 billion, reflecting higher capital expenditures\"\n- Quartely capex was $41B, roughly 2/3rds were \"short lived assets, primarily CPUs and GPUs\"\n- Expects capex spend will be over $50 billion for next quarter\n- Capex Guidance at ~$175 billion and 2027 capex roughly the same. Spending plans unchanged and in line. \n- \"Extending the estimated useful life of our data centers from 15 to 25 years\"\n- \"We will be among the first cloud providers to deploy next generation rack-scale AI infrastructure based on $AMD Helios and $NVDA Vera Rubin\"\n- \"Customer demand continues to exceed available capacity\"\n\nMeta:\n- Capex $130-$145 billion (narrowed range), from $125B-$145B. \n- Meta is receiving offers at a \"significant premium\" to what they paid for it (compute scarcity, positive for neoclouds like $IREN / $NBIS )\n- Expects significant portion of compute (like the 1 GW DC in El Paso) to develop internal models. \n- Meta has multiple ROI-positive uses for additional compute across its core business (internally, not Meta Compute)\n- \"Finally, we believe that overall industry capacity is going to remain tight for the foreseeable future\" \n- \"The industry has under-built historically for the wave of AI adoption, making existing capacity, including our own, extremely valuable\" - Susan Li\n\nTLDR:\n- $MSFT and $GOOGL largely sustaining AI capex buildout while remaining FCF positive or through operating incomes.\n- $META flags available compute materially below demand at least through 2027. And $MSFT also flags compute demand far exceeds supply. \n- All three hyperscaler capex largely in line with Google hiking capex figures.\n\nAI selloff seems extremely overblown now, hyperscalers continuing capex in line (with Microsoft being FCF positive) or even hiked with $GOOGL. \n\nCompute scarcity is visible throughout every single hyperscaler ER.",
+      "created_at": "Wed Jul 29 23:13:55 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2082569331322298683",
+        "text": "@aleabitoreddit @LeaderInvests Thought on meta and Microsoft earnings?",
+        "created_at": "Wed Jul 29 20:49:55 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1920329917876875268",
+          "name": "diamond.hands.man",
+          "screen_name": "stockprodigyman",
+          "description": "no crying in the casino",
+          "followers_count": 45,
+          "friends_count": 177,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 2,
+          "reply_count": 3,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 65,
+        "favorite_count": 1035,
+        "reply_count": 80,
+        "quote_count": 12
       }
     }
   ]
