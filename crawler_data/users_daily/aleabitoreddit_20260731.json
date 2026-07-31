@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 983393,
+    "followers_count": 983451,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260731",
-  "last_updated": "2026-07-31T18:25:42.973642",
-  "tweet_count": 5,
+  "last_updated": "2026-07-31T20:25:13.827701",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2083088870942642391",
@@ -160,6 +160,27 @@
         "favorite_count": 772,
         "reply_count": 128,
         "quote_count": 9
+      }
+    },
+    {
+      "id": "2083270545320386734",
+      "text": "As a earnings recap: $AMZN, $META, $GOOGL, and $MSFT guided a 2026 combined capex forecast to ~$720-$745 Billion.\n\nUp from $695-$725B Billion previously.\n\nAmazon: $220B\nGoogle: $195B-$205B\nMeta: $130B-$145B\nMicrosoft: $175B\n\nWe've already seen significant deleveraging and retail/institutional margin liquidations (maybe it continues for more time, who knows). \n\nBut medium-long term, I'm not quite sure how anyone can be bearish the upstream semis or neoclouds. \n\nGiven each hyperscaler has flagged either compute shortages, rising cloud demand + pricing power, or increased spending for chips/networking.  \n\nMy \"bottleneck\" thesis with many of these upstream semi supply chains is that when trillions in capital flows into things from InP substrates or memory (which were both treated as cheap commodities) or even energy. \n\nLot of these current AI names that were treated as useless before in telecom cycles or even toilet sellers. \n\nGets rerated when their inflection period hits and capex flows into their balance sheets. \n\nAs seen with $NVDA GPUs past few years, memory this year, CPUs/MLCCs next few years, CPO in 2027, Glass Substrates in 2027, 800V in 2027, and so on.",
+      "created_at": "Fri Jul 31 19:16:17 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2083268177627377664",
+          "url": "https://pbs.twimg.com/media/HOlBXrNa8AAUeRQ.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 32,
+        "favorite_count": 438,
+        "reply_count": 93,
+        "quote_count": 2
       }
     }
   ]
