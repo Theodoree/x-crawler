@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 983108,
+    "followers_count": 983393,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260731",
-  "last_updated": "2026-07-31T10:48:53.501228",
-  "tweet_count": 4,
+  "last_updated": "2026-07-31T18:25:42.973642",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2083088870942642391",
@@ -139,6 +139,27 @@
         "favorite_count": 434,
         "reply_count": 58,
         "quote_count": 8
+      }
+    },
+    {
+      "id": "2083225872207937687",
+      "text": "$RDDT ER in a nutshell:\n\nRevenue: $804.9M vs. $730.4M (expected).\nEPS: $1.25 vs. ~$0.95.\nNet income: $252.8M vs. $196.5M\n\nQ3 guidance:\nRevenue: $860–870M vs. 829.1M\nAdjusted EBITDA: $385-395M vs. $369M\n\nBlowout financials, market always like to explain the drop 22.6% off some new BS narrative. \n\nLast quarter: \"AI will disrupt Reddit causing revenue loss!\"\n\nThis quarter: \"See, DAU fell .6%!\" (proceeds to ignore any revenue/profitability growth)",
+      "created_at": "Fri Jul 31 16:18:47 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2083220296207884288",
+          "url": "https://pbs.twimg.com/media/HOkV0nBa4AAZLoI.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 31,
+        "favorite_count": 772,
+        "reply_count": 128,
+        "quote_count": 9
       }
     }
   ]
