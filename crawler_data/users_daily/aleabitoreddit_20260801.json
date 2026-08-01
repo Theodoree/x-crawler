@@ -1,0 +1,36 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 983719,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260801",
+  "last_updated": "2026-08-01T07:33:13.682096",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2083438823548293140",
+      "text": "$LITE CEO Michael Hurlston at the RAISE Summit warned that the supply gap for InP lasers for AI DCs:\n\nIs facing a more severe supply chain crisis than memory. \n\nAnd with Lumentum's 5 InP fabs, shipments would be more than 30%+ below customer demand.\n\nThis is especially visible with EMLs today but is already expanding to CW, especially as CPO ramps.\n\nI've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR. And glad this thesis is starting to see validation.",
+      "created_at": "Sat Aug 01 06:24:58 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2083436557965639680",
+          "url": "https://pbs.twimg.com/media/HOnags2awAACJgB.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 26,
+        "favorite_count": 396,
+        "reply_count": 45,
+        "quote_count": 4
+      }
+    }
+  ]
+}
