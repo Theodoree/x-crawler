@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 983451,
+    "followers_count": 983532,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260731",
-  "last_updated": "2026-07-31T20:25:13.827701",
-  "tweet_count": 6,
+  "last_updated": "2026-08-01T00:07:30.301244",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2083088870942642391",
@@ -181,6 +181,21 @@
         "favorite_count": 438,
         "reply_count": 93,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2083324920214536208",
+      "text": "The media framing and X reactions around Leopold are egregious.\n\nFraming his successful multi-year thesis from $SNDK to $BE as a \"collapse\" or \"failure\".\n\nAfter July's surprising crash, then personally attacking him on top is just pathetic to witness. \n\nIt's almost like everyone is cheering for the downfall of others. \n\nYes, July's crash exposed problems with SA’s leverage, liquidity management, and hedging. \n\nBut his current YTD performance remains +80%, ranking among the best performing hedge funds. And he still has public equities after all this (just removed leverage). \n\nI think he's doing something unique while being successful at it. And this draws the envy of others.",
+      "created_at": "Fri Jul 31 22:52:21 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 33,
+        "favorite_count": 910,
+        "reply_count": 106,
+        "quote_count": 6
       }
     }
   ]
