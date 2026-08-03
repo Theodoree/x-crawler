@@ -1,0 +1,30 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 987906,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260803",
+  "last_updated": "2026-08-03T23:11:32.033869",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2084388023689679001",
+      "text": "The bears have gone back into hibernation",
+      "created_at": "Mon Aug 03 21:16:45 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 57,
+        "favorite_count": 1426,
+        "reply_count": 168,
+        "quote_count": 21
+      }
+    }
+  ]
+}
