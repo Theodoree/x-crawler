@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 988129,
+    "followers_count": 988813,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260804",
-  "last_updated": "2026-08-04T03:23:29.537672",
-  "tweet_count": 1,
+  "last_updated": "2026-08-04T12:07:46.001612",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2084468063228060092",
@@ -35,6 +35,27 @@
         "favorite_count": 585,
         "reply_count": 80,
         "quote_count": 13
+      }
+    },
+    {
+      "id": "2084597612175618342",
+      "text": "A very material catalyst came about for Western supply chains from $AAOI, $SIVE / Jabil, to $LITE and Coherent: \n\nThe Trump administration is drafting a ban of new Chinese optical transceivers and DC devices. \n\nWhich would likely hit China’s Innolight, Eoptolink, and other Chinese optical interconnect supply chains. \n\n\"The agency would ban all imports of new transceiver models ​and then exempt many ⁠non-Chinese suppliers from the restrictions\"\n\nWe'll likely see a larger bifurcation of supply chains with even greater importance put on Western players.",
+      "created_at": "Tue Aug 04 11:09:35 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2084597378762579968",
+          "url": "https://pbs.twimg.com/media/HO36RXTaoAAoYOw.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 94,
+        "favorite_count": 962,
+        "reply_count": 117,
+        "quote_count": 30
       }
     }
   ]
