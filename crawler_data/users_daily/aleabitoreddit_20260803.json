@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 987906,
+    "followers_count": 988129,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260803",
-  "last_updated": "2026-08-03T23:11:32.033869",
-  "tweet_count": 1,
+  "last_updated": "2026-08-04T03:23:30.635650",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2084388023689679001",
@@ -24,6 +24,32 @@
         "favorite_count": 1426,
         "reply_count": 168,
         "quote_count": 21
+      }
+    },
+    {
+      "id": "2084422873423519844",
+      "text": "Be Citadel:\n\n&gt; calls for unexpected rate hike few days ago, causing market panic\n\n&gt; reaches out and buys billions of liquidated hedge fund AI assets\n\n&gt; no rate hike \n\n&gt; “Bull market drivers are fully intact” https://t.co/gyy4Nk4SHq",
+      "created_at": "Mon Aug 03 23:35:14 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2084422866859327488",
+          "url": "https://pbs.twimg.com/media/HO1bjbzaAAAa4HL.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2084422866880380928",
+          "url": "https://pbs.twimg.com/media/HO1bjb4bQAAEbNj.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 82,
+        "favorite_count": 1431,
+        "reply_count": 133,
+        "quote_count": 26
       }
     }
   ]

@@ -1,0 +1,41 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 988129,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260804",
+  "last_updated": "2026-08-04T03:23:29.537672",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2084468063228060092",
+      "text": "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM.\n\n$SNDK, Samsung, Micron current annual NAND capacity has been sold out, with Kioxia and SK Hynix expected to finalize allocations by August 2026. \n\n- Customers are being allocated only 60–70% of the volumes they initially requested\n\n- industry insiders pointed out that 2027 will enter the most severe moment of memory shortage\n\n- Allocation amounts are mostly decided, but final shipment pricing will be determined closer to delivery \n\nSource: Digitimes, citing industry sources. \n\nHard to see those memory \"oversupply\" claims in early-mid 2027 when they're all sold out of capacity already.",
+      "created_at": "Tue Aug 04 02:34:48 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2084466263930359808",
+          "url": "https://pbs.twimg.com/media/HO2DBefa0AAGRfk.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2084466361787699201",
+          "url": "https://pbs.twimg.com/media/HO2DHLCbUAErHo2.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 47,
+        "favorite_count": 585,
+        "reply_count": 80,
+        "quote_count": 13
+      }
+    }
+  ]
+}
