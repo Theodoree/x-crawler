@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 988813,
+    "followers_count": 989345,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260804",
-  "last_updated": "2026-08-04T12:07:46.001612",
-  "tweet_count": 2,
+  "last_updated": "2026-08-04T15:30:09.112273",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2084468063228060092",
@@ -56,6 +56,27 @@
         "favorite_count": 962,
         "reply_count": 117,
         "quote_count": 30
+      }
+    },
+    {
+      "id": "2084613071423893692",
+      "text": "Bessent says: \"There may be deal Tuesday or Wednesday to open Strait of Hormuz with freedom of movement\"\n\nI think markets might like the sound of this. https://t.co/qXc8u2050N",
+      "created_at": "Tue Aug 04 12:11:01 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2084612989500674048",
+          "url": "https://pbs.twimg.com/media/HO4IeB1aUAADrKf.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 46,
+        "favorite_count": 900,
+        "reply_count": 128,
+        "quote_count": 11
       }
     }
   ]
