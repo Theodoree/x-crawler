@@ -1,0 +1,41 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 992333,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260806",
+  "last_updated": "2026-08-06T03:21:48.458040",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2085174977272360987",
+      "text": "Funniest callout of the year from $VIAV on CPO timelines:\n\n\"Well, there's been a lot of industry talk [about delays], like, 'Oh, because the yield is going to be slower.' \n\nThat's all nonsense. CPO and all that thing is moving forward\"\n\nThey stated that Yes there's always issues, but the process is being improved and things are getting better. \n\nTo follow up on that, the CEO stated: \n\n- Viavi has POs for CPO-testing activity\n- “We’re already getting [CPO revenue] this quarter, and probably in December it will start accelerating.”\n\nOn a side note, they also stated, 1.6T is \"ramping very quickly\", should reach parity with 800g next year, and signaled longer tail for 800g demand. \n\nTLDR: Seeing CPO test revenues hit for $VIAV to $FORM around now. Nvidia also stated switch-side CPO for scale out and scale across has entered mass production earlier. \n\nAs for scale up timelines, early production should be H2 2027 for some players, with other CPO players Ayar stating 2028 is the volume inflection period. \n\nBasically, all the timelines seem to be the same as before and revenue is starting to hit testing players first.",
+      "created_at": "Thu Aug 06 01:23:49 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2085170695710154752",
+          "url": "https://pbs.twimg.com/media/HPADszXboAAs1fl.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2085174032367009792",
+          "url": "https://pbs.twimg.com/media/HPAGvBYawAAZeVl.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 22,
+        "favorite_count": 358,
+        "reply_count": 62,
+        "quote_count": 2
+      }
+    }
+  ]
+}
