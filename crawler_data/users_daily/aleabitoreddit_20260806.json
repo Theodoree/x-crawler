@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 992333,
+    "followers_count": 992715,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260806",
-  "last_updated": "2026-08-06T03:21:48.458040",
-  "tweet_count": 1,
+  "last_updated": "2026-08-06T06:39:09.735149",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2085174977272360987",
@@ -35,6 +35,56 @@
         "favorite_count": 358,
         "reply_count": 62,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2085217487864643658",
+      "text": "The unexpected thing of the week... Was $AEVA becoming a CPO/NPO optical source player. \n\nFor background: $SIVE is viewed as the high confidence CW DFB laser supplier to Aeva (which is known for lidar). \n\nToday, Aeva reacted with +18.26% AH on news that they signed a JDA with an optical engine player for deployment at a major hyperscaler in H2 2027, production ramp 2028. \n\n\"Optical Connectivity will leverage that foundation along with Aeva’s EXISTING high-volume manufacturing and foundry supply chain\" for:\n\n- ELSFP (similar to O-Net/Enablence + $SIVE), with Sivers as the likely CW laser + potential amplifier supplier\n\n- On-chip integrated light source (likely $SIVE DFB + Aeva PIC on the architecture/integration side)\n\nTLDR: New TAM and a hyperscaler programs for Aeva for CPO/NPO, positive read through for upstream suppliers like $SIVE.",
+      "created_at": "Thu Aug 06 04:12:45 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2085198313054461952",
+          "url": "https://pbs.twimg.com/media/HPAc0V_a4AAbbHv.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2085210769311100928",
+          "url": "https://pbs.twimg.com/media/HPAoJZKbcAAkuKS.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2085108626944082369",
+        "text": "@aleabitoreddit Do we maybe also have $SIVE involved in this $AEVA projekt?\nAnother hyperscaler for #SiversSemiconductors?\n\nhttps://t.co/pKWieyHOsZ",
+        "created_at": "Wed Aug 05 21:00:10 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1368851113324277762",
+          "name": "Robert Fritzson",
+          "screen_name": "RobertFritzson",
+          "description": "",
+          "followers_count": 54,
+          "friends_count": 59,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 11,
+          "reply_count": 3,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 48,
+        "favorite_count": 486,
+        "reply_count": 57,
+        "quote_count": 7
       }
     }
   ]
