@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 992715,
+    "followers_count": 993359,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260806",
-  "last_updated": "2026-08-06T06:39:09.735149",
-  "tweet_count": 2,
+  "last_updated": "2026-08-06T12:08:13.419346",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2085174977272360987",
@@ -85,6 +85,21 @@
         "favorite_count": 486,
         "reply_count": 57,
         "quote_count": 7
+      }
+    },
+    {
+      "id": "2085304045099696547",
+      "text": "I remain convinced nobody knows how to pronounce or talk about $AAOI in real life. \n\nIt’s one letter too long to say $TSM or $AMD. \n\nAnd nobody ever says to a friend“Wow, I like applied optoelectronics!”",
+      "created_at": "Thu Aug 06 09:56:42 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 17,
+        "favorite_count": 697,
+        "reply_count": 117,
+        "quote_count": 5
       }
     }
   ]
