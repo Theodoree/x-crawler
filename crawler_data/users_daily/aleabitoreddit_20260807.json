@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 994816,
+    "followers_count": 994922,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260807",
-  "last_updated": "2026-08-07T07:28:18.808558",
-  "tweet_count": 2,
+  "last_updated": "2026-08-07T09:08:56.586607",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2085603590903902621",
@@ -66,6 +66,58 @@
         "favorite_count": 30,
         "reply_count": 5,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2085644051446108223",
+      "text": "Unitree, China's humanoid leader, is set to IPO this month at a $9B valuation! (~$6.2B originally per March filing). \n\nDerivative markets are pricing open at an implied $36.04B MC, roughly ~4X listing price. \n\n$CCXI / Agility Robotics, the first US publicly listed pure play humanoid leader, is also going public later in Q4, at a ~$2.5B pre-money valuation.\n\nIt will be interesting to see how markets price in America vs. Chinese Humanoid leaders.",
+      "created_at": "Fri Aug 07 08:27:45 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2085643540571549696",
+          "url": "https://pbs.twimg.com/media/HPGxv_va8AAFQ5O.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 14,
+        "favorite_count": 213,
+        "reply_count": 61,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2085649654059016387",
+      "text": "I usually make fun of sellside, but Rosenblatt has pretty goated channel checks on optical names, and their reports are one of the few I like talking about. \n\n$AAOI, $LITE, $SIVE, and the laser party has started to recover around the est. timing windows. \n\neg. last month: \"Multiple short sellers told them they will likely close their positions... late July and early August\". \n\nThey might have missed that they believed $AMD would be $AAOI's first CPO customer... since AAOI said they would be missing from first-gen CPO (maybe future gen?)\n\nBut lot of their talking points about China CPO laser positioning (eg. 2-3 years behind) got corroborated word-for-word from AAOI earnings today.",
+      "created_at": "Fri Aug 07 08:50:01 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2085647870871642112",
+          "url": "https://pbs.twimg.com/media/HPG1sDXaoAADgCa.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2085648290356625408",
+          "url": "https://pbs.twimg.com/media/HPG2EeEbgAAyCJv.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2085648547865845760",
+          "url": "https://pbs.twimg.com/media/HPG2TdXaYAAXqas.png"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 16,
+        "favorite_count": 244,
+        "reply_count": 51,
+        "quote_count": 1
       }
     }
   ]
