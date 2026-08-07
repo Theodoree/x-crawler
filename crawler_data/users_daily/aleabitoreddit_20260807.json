@@ -1,0 +1,72 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 994816,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260807",
+  "last_updated": "2026-08-07T07:28:18.808558",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2085603590903902621",
+      "text": "Wow, there's gem after gem in $AAOI earnings for $SIVE + other laser player readthrough.\n\n1. AAOI not meaningfully participating in CPO first-gen deployments.\n\n\"We just can’t make enough of them [CPO lasers] to be involved in their current first-generation [CPO] deployments because there’s just not enough capacity.   We have to prioritize our ability to make lasers for our own  transceivers first\"\n\nSo first-gen CPO laser deployments, might even be narrowed down further for Western players like $SIVE, $LITE, $AVGO, and $COHR.\n\nAnd independent CPO CW laser capacity became more valuable if $AAOI had to turn away more customers...\n\nAlso remember Trendforce was talking about $AMD singing CW LTAs? $COHR / $LITE have capacity signed with $NVDA ...\n\nI thought it would be $AAOI, but they might be out of the equation. $MTSI also doesn't look meaningful with early CPO participation (eg. no mention in ER aside from NPO, and removal from Ayar website).\n\nSo I wonder who players like $AMD is going to go with for Helios (eg. Sivers + Ayar more likely candidate now)?\n\nBtw, this is not bearish AAOI because they have too much demand for optical transceiver business. Just more bullish on the existing few qualified CPO laser names that have capacity. \n\n2. Demand imbalance and bottleneck for InP lasers / optical transceivers.\n\nAOI's CEO stated kinda supported that when they said: \"The customer demand is 20%-40% higher\" than expanded built out capacity.\n\n\"We are getting this kind of demand from several big customers almost every week. Lasers are the biggest bottleneck right now for the transceiver business\"\n\n3. China being years away from having CPO DWDM specification lasers.\n\nI covered this earlier when looking at CPO competition from channel checks.\n\nBut AAOI confirming that China is \"easily at least two, three years or even longer from having CPO lasers is incredible tread through on defensibility Western laser positioning in the CPO laser chokepoint.\n\nTLDR:\n\n- High demand imbalance for CW lasers and optical transceivers.\n\n- $AAOI not in first-gen CPO due to capacity constraints (not exactly bearish AAOI because they have too much demand for their optical transciver business, but even better news for the few independent players with capacity coming online like $SIVE)\n\n- China years behind in CPO lasers.",
+      "created_at": "Fri Aug 07 05:46:59 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2085600875771482112",
+          "url": "https://pbs.twimg.com/media/HPGK8k-aUAAKysM.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2085600875196960768",
+          "url": "https://pbs.twimg.com/media/HPGK8i1b0AALg40.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 49,
+        "favorite_count": 678,
+        "reply_count": 74,
+        "quote_count": 7
+      }
+    },
+    {
+      "id": "2085628664528662818",
+      "text": "Earlier today, optical interconnect company Lumilens \"emerges from stealth\" at a $5.5B valuation, after raising $700m.\n\nJust as a recap from $POET / $SIVE Linkedin OSINT mapping I shared earlier, Lumilens was supplying a top 3 hyperscaler customer. \n\nSo we got confirmation of that a month later, along with the material figure that Lumilens has a \"multi-billion-dollar customer agreement\". \n\nAnd just for reference, $POET has existing contracts with Lumilens ($50m purchase order, up to $500m) + contracts with $SIVE (depending on product lines). \n\nI actually took tiny positions in POET again after reading this news, since it finally gives them visibility into extremely well funded hyperscaler suppliers (on top of Poet's really large balance sheet). \n\nBut TLDR: \n> Lumilens around similar (or even higher) valuations as Lightmatter/Ayar, bigger than markets thought with hyperscaler customers. \n> nice read through upstream on $POET (derisking) /  $SIVE.\n> Great for optical valuations in general, seeing a company go to $5.5B in 2 years.",
+      "created_at": "Fri Aug 07 07:26:37 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2085628653103398912",
+          "url": "https://pbs.twimg.com/media/HPGkNbmawAA-M4D.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2085628653095022592",
+          "url": "https://pbs.twimg.com/media/HPGkNbka8AAoRr1.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2085628653103411201",
+          "url": "https://pbs.twimg.com/media/HPGkNbma8AEsjpH.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 30,
+        "reply_count": 5,
+        "quote_count": 0
+      }
+    }
+  ]
+}
