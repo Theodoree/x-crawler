@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 999231,
+    "followers_count": 999673,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260810",
-  "last_updated": "2026-08-10T08:46:26.095410",
-  "tweet_count": 2,
+  "last_updated": "2026-08-10T17:01:33.532841",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2086634510935118161",
@@ -61,6 +61,32 @@
         "favorite_count": 254,
         "reply_count": 49,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2086840511164514742",
+      "text": "Be Barrons:\n\n- Wants to write about optical supply supply chains like $AAOI\n\n- Hiring DPT: who needs engineers to write about this something this simple?  Let’s find underpaid political philosophy backgrounds.\n\n- proceeds to find a new hire from nonprofit communication consulting\n\n- first day on job: gets paid to model revenue ramp/margins projections, CW laser bottlenecks, internal capacity\n\n- New hire: “I don’t understand this sht”, “looks like a memestock”\n\nBarrons: “Memestock? looks like our next article, I don’t understand either”.",
+      "created_at": "Mon Aug 10 15:42:04 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2086840503921000448",
+          "url": "https://pbs.twimg.com/media/HPXyYbsbwAAiZ1y.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2086840503920889856",
+          "url": "https://pbs.twimg.com/media/HPXyYbsaEAAm8bP.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 21,
+        "favorite_count": 449,
+        "reply_count": 96,
+        "quote_count": 4
       }
     }
   ]
