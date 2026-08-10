@@ -1,0 +1,36 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 998855,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260810",
+  "last_updated": "2026-08-10T02:23:07.584881",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2086634510935118161",
+      "text": "Just some near term events:\n\n- OCP APAC tomorrow (Ayar, Lightmatter, $AMD, $NVDA) and your CPO players are giving announcements/updates.\n\nThis should be a catalyst for certain optical players.\n\n- Earnings week: with $ASTS, $RKLB reporting today (space), $LITE on Tuesday (photonics), $NBIS in the middle of the week (Neocloud), and more.\n\n- Unitree IPO subscriptions opened up today and Listing is expected this month.\n\nShould be a potential catalyst for the humanoid + robotics sector if it opens up well eg. $CCXI.\n\nFun week ahead.",
+      "created_at": "Mon Aug 10 02:03:29 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2086634505314693120",
+          "url": "https://pbs.twimg.com/media/HPU3BvFa8AAEsgo.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 9,
+        "favorite_count": 235,
+        "reply_count": 44,
+        "quote_count": 1
+      }
+    }
+  ]
+}
