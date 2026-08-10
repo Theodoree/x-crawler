@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 998855,
+    "followers_count": 999231,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260810",
-  "last_updated": "2026-08-10T02:23:07.584881",
-  "tweet_count": 1,
+  "last_updated": "2026-08-10T08:46:26.095410",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2086634510935118161",
@@ -30,6 +30,37 @@
         "favorite_count": 235,
         "reply_count": 44,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2086730782425727183",
+      "text": "Now that markets are hosting a laser party again from $SIVE, OE Solutions, $LITE, Coherent, to $AAOI.\n\nThere’s a pretty interesting study:\n\nBoth from Fidelity and a UC Berkeley research paper, that the best investors are the ones who either…\n\n- Anecdotally forgot about their account (Fidelity)\n- Didn’t actively trade/overtrade (18.5% return from infrequent traders vs. 11.4%).\n\nNot any advice, but some of these anecdotes might be helpful to retail to read in general…\n\nSince I witnessed a lot capitulation off memory, photonics, or thematic volatility, just for retail not have positions on a sharp recovery.\n\nHaving conviction also usually people in that “not overtrading” camp, since it helps to not overtrade in drops or see opportunities to cost average.",
+      "created_at": "Mon Aug 10 08:26:02 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2086730679073869824",
+          "url": "https://pbs.twimg.com/media/HPWOfyQbkAAfRmQ.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2086730678465699840",
+          "url": "https://pbs.twimg.com/media/HPWOfv_boAAA8ID.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2086730678830587904",
+          "url": "https://pbs.twimg.com/media/HPWOfxWbYAASl59.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 14,
+        "favorite_count": 254,
+        "reply_count": 49,
+        "quote_count": 0
       }
     }
   ]
