@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1002273,
+    "followers_count": 1003126,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260812",
-  "last_updated": "2026-08-12T13:26:24.428485",
-  "tweet_count": 8,
+  "last_updated": "2026-08-12T23:51:50.392664",
+  "tweet_count": 9,
   "tweets": [
     {
       "id": "2087329770879197549",
@@ -334,6 +334,56 @@
         "favorite_count": 1030,
         "reply_count": 73,
         "quote_count": 9
+      }
+    },
+    {
+      "id": "2087675367595380783",
+      "text": "My main takeaway was that your merchant CW laser suppliers seem to be EXTREMELY IMPORTANT now. \n\nBut TLDR of $COHR earnings:\n\n\"given the demand that we see in our DC business with transceivers, I don’t see any time in the near future where we would be selling indium phosphide lasers externally\"\n\n- Ton more value placed on companies that sell InP lasers externally if $AAOI can't doesn't enough capacity for first gen-CPO deployments, $COHR not selling externally...  \n\nI guess that's why $MTSI said a ton of customers are approaching them with urgency for InP CW DFB lasers (and they dont even have meaningful capacity coming online until EOY 2027)\n\n$AAOI -> Internal\n$COHR -> Internal\nBuyers -> fewer places to look for capacity. \n\n \"Our backlog now extends out, fiscal 2027 is basically completely booked out. We are booked really through the end of calendar 2027\" [ Massive massive demand visibility]\n\n- Coherent also mentioned LTAs spanning end of decade. So this kinda reinforces what $POET CEO said at their AGM that the \"big 3\" are fully sold out next 2 years.\n\n\"we’re not constrained in the assembly and test capacity right now. We’re really just constrained by the ramp of the indium phosphide production\"\n\n- Just for the bottleneck bros in terms of assembly/test not a bottleneck. \n\n\"absolutely no push-out of CPO demand. In fact, it has been the opposite. We have seen demand increase and request from customers’ demand getting pulled in\"\n\n\"we continue to expect revenue from CPO for scale-up applications to start to flow in the second half of calendar 2027\" \n\n- Big read through on other CPO players for scale up if $LITE, $COHR reaffirm revenue from CPO scale up coming h2027. \n\n- \"quarterly revenue exceeding $3 billion by the end of fiscal 2027\" \n\n- $COHR revenue go brrr\n\nSo for regular numbers it's:\n\n- $2.046B revenue (+13.3% Q/Q, +33.8% Y/Y), main revenue ramp looks to be happening entering Q4 into 2027\n- Non-GAAP gross margins: 40.2%\n\nNext quarter guide is:\n- Revenue: $2.2–$2.4B revenue\n- Non-GAAP gross margins: 39.5-41.5%\n\nBasically:\n$1.69B -> $1.81B -> $2.05B -> ~$2.30B -> $3.0B (end of FY 2027) \n~39% -> 39.6% -> 40.2% -> ~40.5% (gross margins)\n\nFor operating margins:\n18.0% -> 19.5% -> 19.9% -> 20.3% -> 21.8%\n\nLittle less impressed compared to $LITE margin growth in terms of profitability, but revenue scale for $COHR growing rapidly.",
+      "created_at": "Wed Aug 12 22:59:29 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2087670194768588800",
+          "url": "https://pbs.twimg.com/media/HPjk-y9aMAA0zbv.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2087670353921531904",
+          "url": "https://pbs.twimg.com/media/HPjlID2bYAAviBy.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2087655268067008830",
+        "text": "@aleabitoreddit @mikealfred Did you take a look at COHR earnings by chance?",
+        "created_at": "Wed Aug 12 21:39:37 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3785368101",
+          "name": "LightLogix",
+          "screen_name": "LightLogix",
+          "description": "MLOps Engineer\nSemi Supply Chain Researcher",
+          "followers_count": 55,
+          "friends_count": 491,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 2,
+          "reply_count": 2,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 18,
+        "favorite_count": 303,
+        "reply_count": 40,
+        "quote_count": 5
       }
     }
   ]
