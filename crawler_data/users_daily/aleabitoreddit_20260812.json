@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1001410,
+    "followers_count": 1001807,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260812",
-  "last_updated": "2026-08-12T04:54:40.004812",
-  "tweet_count": 4,
+  "last_updated": "2026-08-12T08:25:22.211958",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2087329770879197549",
@@ -176,6 +176,77 @@
         "favorite_count": 139,
         "reply_count": 19,
         "quote_count": 4
+      }
+    },
+    {
+      "id": "2087424400811507963",
+      "text": "What a legend, Situational Awareness bought 1/6th of the entire company of Taiyo Yuden.\n\nPretty wild to see this unfolding. https://t.co/nBQW5DOZ5f",
+      "created_at": "Wed Aug 12 06:22:14 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2087424393999978496",
+          "url": "https://pbs.twimg.com/media/HPgFbTvakAA0kbj.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2087397768314999183",
+        "text": "It was reported today that Leopold’s Situational Awareness acquired 11.62% of Taiyo Yuden (6976).\n\nUp from 5.99% as of July 16th. \n\nI do agree with his position (if he still has it) in terms of how valuable this MLCC manufacturer is to global AI supply chains. https://t.co/fAQNpAFfhU",
+        "created_at": "Wed Aug 12 04:36:24 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2087397761826308096",
+            "url": "https://pbs.twimg.com/media/HPftNHKaQAAoWy7.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2087397761817980928",
+            "url": "https://pbs.twimg.com/media/HPftNHIbMAAbGxC.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1001807,
+          "friends_count": 197,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 30,
+          "favorite_count": 506,
+          "reply_count": 77,
+          "quote_count": 10
+        }
+      },
+      "stats": {
+        "retweet_count": 13,
+        "favorite_count": 346,
+        "reply_count": 38,
+        "quote_count": 9
+      }
+    },
+    {
+      "id": "2087447527595692180",
+      "text": "So this is just what I'm seeing with $SIVE and the CW DFB laser chokepoint right now. \n\nFrom optical earnings: \n\n1. $LITE: unexpected demand and imbalance for UHP CW lasers. \n\n- Had ability to price up ASP for lasers. \n- Scale up CPO on track for H2 2027 shipments, called out any CPO scale up delay rumors as noise. \n\nLumentum confirmed timelines (that CPO players like Sivers sold off of misleading reports from), high margins, and extreme demand for qualified CW lasers. \n\n2. $AAOI: doesn’t have enough CW laser capacity because of too much optical transceiver demand.\n\n-  Not meaningfully participating in first-gen CPO deployments, with $MTSI not looking like they're in it either but focusing on NPO. Haven't seen much with $SMTC after their HieFo acqusition. \n- Called lasers as the bottleneck within a 20-40% demand imbalance for transceivers. \n- Says customers approaching them every week asking them for supply + to move faster.\n\nAOI confirmed demand imbalances  + bottlenecks for lasers. And we got an even smaller pool for first-gen CPO players. \n\n3. Both $AAOI and $LITE claimed Chinese players were years behind for CPO lasers and far behind stated claims in qualified capacity. \n\n- $AAOI said 2-3 years+ behind with CPO lasers. \n- $LITE said they haven't seen anything like Chinese claims in terms of outputs (and no recourse if it's false). \n\nReaffirms moat for CPO related lasers, and no flooding from some shortseller claims on the optical sector.  \n\n4. $MTSI said that many customers are approaching them with urgency due to the general supply shortage of indium phosphide DFB lasers. \n\nAgain, puts Sivers in the that bottleneck, giving them likely more customer demand .\n\nAmong $COHR ($72.54B), $LITE ($66.57B), $AVGO ($2.13T): \n\nIt's very special you get one of the public 4 Western CPO leaders at a ~$1.5B MC with $SIVE.  \n\nFeels like my thesis with both:\n\n- The CW bottleneck that I predicted\n- CW laser chokepoint (where there's only a few CPO players, at least for gen-1)\n\nGot validated from earnings, now it's just waiting for the inflection points of next optical architecture shifts.",
+      "created_at": "Wed Aug 12 07:54:08 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 20,
+        "favorite_count": 316,
+        "reply_count": 44,
+        "quote_count": 3
       }
     }
   ]
