@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1001123,
+    "followers_count": 1001410,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260812",
-  "last_updated": "2026-08-12T02:31:02.853667",
-  "tweet_count": 3,
+  "last_updated": "2026-08-12T04:54:40.004812",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2087329770879197549",
@@ -110,6 +110,72 @@
         "favorite_count": 271,
         "reply_count": 33,
         "quote_count": 15
+      }
+    },
+    {
+      "id": "2087397768314999183",
+      "text": "It was reported today that Leopold’s Situational Awareness acquired 11.62% of Taiyo Yuden (6976).\n\nUp from 5.99% as of July 16th. \n\nI do agree with his position (if he still has it) in terms of how valuable this MLCC manufacturer is to global AI supply chains. https://t.co/fAQNpAFfhU",
+      "created_at": "Wed Aug 12 04:36:24 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2087397761826308096",
+          "url": "https://pbs.twimg.com/media/HPftNHKaQAAoWy7.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2087397761817980928",
+          "url": "https://pbs.twimg.com/media/HPftNHIbMAAbGxC.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2087357522093260938",
+        "text": "I didn’t know Leopold was a fellow MLCC bottleneck investor in Taiyo Yuden (6976)\n\nIt’s been disclosed today that Situational Awareness owns 5.99% of the company with a ~ ¥17,446/share avg as of June 29th. \n\nCurrent prices are ¥9,797. \n\nI actually added some today to show support since Taiyo Yuden is one of the largest % MLCC manufacturers globally.",
+        "created_at": "Wed Aug 12 01:56:29 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2087357508843405313",
+            "url": "https://pbs.twimg.com/media/HPfImFHbAAEzDAK.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2087357508801486848",
+            "url": "https://pbs.twimg.com/media/HPfImE9bYAAxjRW.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2087357508784648192",
+            "url": "https://pbs.twimg.com/media/HPfImE5acAAmHtU.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1001410,
+          "friends_count": 196,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 54,
+          "favorite_count": 706,
+          "reply_count": 64,
+          "quote_count": 25
+        }
+      },
+      "stats": {
+        "retweet_count": 9,
+        "favorite_count": 139,
+        "reply_count": 19,
+        "quote_count": 4
       }
     }
   ]
