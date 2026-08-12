@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1002116,
+    "followers_count": 1002273,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260812",
-  "last_updated": "2026-08-12T11:54:21.556650",
-  "tweet_count": 7,
+  "last_updated": "2026-08-12T13:26:24.428485",
+  "tweet_count": 8,
   "tweets": [
     {
       "id": "2087329770879197549",
@@ -303,6 +303,37 @@
         "favorite_count": 150,
         "reply_count": 30,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2087515371750490383",
+      "text": "$NBIS outlook is pretty insane yet again.\n\n$582.3M revenue (+454% Y/Y, +46% Q/Q) off ~50% adjusted EBITDA margin (AI Cloud). $8.04B cash on hand. \n\nReiterates financial guide (2026 revenue: $3.0–$3.4B\n2026 EoY ARR: $7–$9B), I was hoping for a raise, but it's already massive growth. \n\nNot really about this quarter financials, but these signals:\n\n- \"We could sell our entire 2027 capacity on these terms today.\" massive visibility on demand\n- \"4 customer agreements averaging over $1B+ each in contract value\"\n- Around 70% of Q2 deals included customer prepayments\n- Contracted power guidance was raised again, from more ~4+ GW to 5 GW. (this used to be a concern vs. $IREN debate, but Nebius power guidance keeps going through the roof). \n- Expects $9B+ of prepayments in 2026 and says it has $40B+ of commitments.\n- annual contract value per MW keeps going brrr (>$40M/mw for Q3 short term capacity deals)  \n\nSame bear story will always be there (eg. large $5.66B of capex with current GAAP net loss), but demand is extreme with massive visibility, with increasing AI Cloud adjusted EBITDA margins ( 24% -> 45% -> 50% progression)\n\nWe kinda got this read through from all your hyperscaler cloud earnings and $CRWV backlog yesterday, but glad it's showing up in Weebius's earnings.",
+      "created_at": "Wed Aug 12 12:23:43 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2087513566228398080",
+          "url": "https://pbs.twimg.com/media/HPhWh0LaQAAkfQl.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2087513886174101504",
+          "url": "https://pbs.twimg.com/media/HPhW0cEaQAAwP-a.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2087513895502311424",
+          "url": "https://pbs.twimg.com/media/HPhW0-0bcAAkxLc.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 81,
+        "favorite_count": 1030,
+        "reply_count": 73,
+        "quote_count": 9
       }
     }
   ]
