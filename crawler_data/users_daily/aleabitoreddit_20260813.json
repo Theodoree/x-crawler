@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1003442,
+    "followers_count": 1003715,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260813",
-  "last_updated": "2026-08-13T04:59:15.863029",
-  "tweet_count": 1,
+  "last_updated": "2026-08-13T08:27:41.345046",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2087733927930929435",
@@ -24,6 +24,27 @@
         "favorite_count": 339,
         "reply_count": 59,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2087807614172488131",
+      "text": "$SIVE announces a $3.4M development program with SemiNex!\n\nFor CPO, DFB laser arrays, and optical amplifiers. \n\nEarly production is targeted H2 2027 (in line with early scale up CPO timelines)\n\nSeemed weird to me at first given product overlap, since SemiNex is a much smaller Series B company... \n\nBut then I got reminded of a less explicit version of $SPCX + Cursor relationship (derisking by working together first). \n\nThere's probably something interesting Sivers found in this company.",
+      "created_at": "Thu Aug 13 07:44:59 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2087804162142879744",
+          "url": "https://pbs.twimg.com/media/HPle0uUbwAAITX3.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 22,
+        "favorite_count": 355,
+        "reply_count": 47,
+        "quote_count": 4
       }
     }
   ]
