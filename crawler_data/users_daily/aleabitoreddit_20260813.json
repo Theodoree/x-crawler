@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1004018,
+    "followers_count": 1004356,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260813",
-  "last_updated": "2026-08-13T11:55:01.169030",
-  "tweet_count": 5,
+  "last_updated": "2026-08-13T15:05:39.541040",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2087733927930929435",
@@ -171,6 +171,27 @@
         "favorite_count": 102,
         "reply_count": 39,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2087902683474891106",
+      "text": "In another world, $SMCI would look more like $DELL?\n\nIf they didn't try smuggling $NVDA GPUs using hairdryers...\n\nRegardless, SMCI guiding $65-72B FY 2027 revenue off a ~$25B MC is pretty crazy the more I look at it. https://t.co/FUZIojiMcc",
+      "created_at": "Thu Aug 13 14:02:45 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2087900838559989760",
+          "url": "https://pbs.twimg.com/media/HPm2wCCbwAAt4rs.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 315,
+        "reply_count": 82,
+        "quote_count": 4
       }
     }
   ]
