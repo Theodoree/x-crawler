@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1005416,
+    "followers_count": 1005514,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260814",
-  "last_updated": "2026-08-14T10:12:31.724042",
-  "tweet_count": 2,
+  "last_updated": "2026-08-14T11:51:43.091183",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2088115008827715971",
@@ -61,6 +61,57 @@
         "favorite_count": 457,
         "reply_count": 58,
         "quote_count": 17
+      }
+    },
+    {
+      "id": "2088226398708338889",
+      "text": "The $SHKY, Samsung, $SNDK, $MU memory bottleneck never changed anon https://t.co/6Xyih3pM9D",
+      "created_at": "Fri Aug 14 11:29:05 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2088226185671254016",
+          "url": "https://pbs.twimg.com/media/HPrepueaoAA5jYw.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2086148557187461412",
+        "text": "Yes, I'm still bullish on memory like $MU / Samsung.\n\nAs I said earlier, markets tend to rotate from bottleneck to bottleneck.\n\nThis week it looks $AXTI to $LITE in the photonics sector is the focus again. \n\nThe thing is... the primary thing that changed are the stock prices, followed by some narratives + updates sprinkled in here and there.\n\nFor photonics:\n\n> We already knew $COHR / $LITE lasers were completely sold out for the next 2 years during July's drop. \n\n> We knew about demand imbalance from $AAOI from last quarter's earnings calls.\n\nNothing deteriorated fundamentally during July's crash, other than listed price after liquidations. \n\nYet tons of people called $AAOI a \"scam\" when it dropped to $75, or $AXTI a \"scam\" on its drop to $35... \n\nBut are bullish again at $140 or $80, when the transciver/InP substrate bottleneck hasn't changed at all, but maybe even got worse... (eg. draft for US ban on new china optical transceivers, scale up demand projections)\n\nFor Memory:\n\nI'm witnessing a lot of retail capitulation, but the same people I'm seeing were mega bullish after $MU signed 16 SCAs and gave exceptional projections a month ago. \n\nOr were celebrating Samsung having the highest operating profit in the world.\n\nThere's updates here and there eg. Rubin Ultra with memory optimizations (which Nvidia strives for every generation), with prices no longer being hiked way above expectations to the extreme. \n\nBut the operating income relative to MC is just absurd around current prices, especially memory becomes structural. \n\nAnd the demand imbalance should be even worse next year.  \n\nPeople tend to capitulate and follow narratives when a sector drops (eg. Helium/LNG back in Iran war), even if the bottleneck or fundamental situation hasn't really changed much (eg. $SPCX Elon earnings call reiterating memory tightness). \n\nI can't tell others what to to do: \n\nBut $AAOI at $140 and $AAOI at $75 are the same company.\n\nSamsung at a $1.5T MC and Samsung at a $980B MC are the same company. \n\nJust valuations and narratives (often noise) change, and markets rotate from sector to sector.",
+        "created_at": "Sat Aug 08 17:52:29 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2086144689368121344",
+            "url": "https://pbs.twimg.com/media/HPN5isfawAA4lXb.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1005514,
+          "friends_count": 197,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 241,
+          "favorite_count": 3083,
+          "reply_count": 156,
+          "quote_count": 36
+        }
+      },
+      "stats": {
+        "retweet_count": 16,
+        "favorite_count": 293,
+        "reply_count": 33,
+        "quote_count": 1
       }
     }
   ]
