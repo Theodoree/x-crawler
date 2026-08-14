@@ -1,0 +1,41 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1005190,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260814",
+  "last_updated": "2026-08-14T04:55:48.056957",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2088115008827715971",
+      "text": "Feels like glass substrate timelines got pushed back at least another quarter.\n\n- \"Samsung Electro-Mechanics Delays Semiconductor Glass Substrate Investment\" due to a bottleneck in customer reliability evaluations of prototypes.\n\nAt its recent second-quarter earnings presentation, less than a month later, the company revised the start of operations to 2028.\n\n- \"SKC Reportedly Pushes Glass Substrate Mass Production to 2027, Targets Final Validation by Year-end\" (Trendforce), earlier last month. \n\nTLDR: \n- SKC Absolics H2 2026 -> H1 2027\n- Samsung H2 2027 -> H1 2028\n\nNot everything is always good news with timeline shifts, but glass core substrate shifts do feel imminent.\n\nVolume ramp for some players eg. $LPK / Philoptics (161580) / E&R (8027) likely track these  mass production timelines.",
+      "created_at": "Fri Aug 14 04:06:28 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2088112557085413376",
+          "url": "https://pbs.twimg.com/media/HPp3TrAb0AAHwbx.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2088113111685545984",
+          "url": "https://pbs.twimg.com/media/HPp3z9DaQAAIWfb.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 11,
+        "favorite_count": 190,
+        "reply_count": 31,
+        "quote_count": 3
+      }
+    }
+  ]
+}
