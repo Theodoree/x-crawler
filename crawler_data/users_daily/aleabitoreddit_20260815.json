@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1006145,
+    "followers_count": 1006383,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260815",
-  "last_updated": "2026-08-15T02:59:12.876333",
-  "tweet_count": 1,
+  "last_updated": "2026-08-15T06:50:49.332340",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2088457278928412812",
@@ -30,6 +30,57 @@
         "favorite_count": 165,
         "reply_count": 21,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2088501133543407959",
+      "text": "说我归零的传闻未免也太夸张了吧 哈哈\n\n经历了7月份AI板块的崩盘后，我的YTD收益依然还有 +2,411.84% https://t.co/m49XcPRgC3",
+      "created_at": "Sat Aug 15 05:40:47 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2088501126744457216",
+          "url": "https://pbs.twimg.com/media/HPvYtZybQAAkeWP.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2082701995341975887",
+        "text": "上个月的股神名单，如今只剩一人存活 https://t.co/ckIiugE2h9",
+        "created_at": "Thu Jul 30 05:37:05 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2082701989495140352",
+            "url": "https://pbs.twimg.com/media/HOc-bMDbcAA7RhN.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1753990410832379904",
+          "name": "比特欧 Elvin",
+          "screen_name": "DRbitcoin36",
+          "description": "美股 / 加密数据整理 + 数据可视化 | 自媒体打工人 + 00 后大学生｜梦想是成为 A8 的数字游民｜推特当作自己的炒币日记 ｜交易加密 / 美股用币安：https://t.co/ovrqlHEY6t",
+          "followers_count": 36516,
+          "friends_count": 3010,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 261,
+          "favorite_count": 3433,
+          "reply_count": 332,
+          "quote_count": 57
+        }
+      },
+      "stats": {
+        "retweet_count": 28,
+        "favorite_count": 1077,
+        "reply_count": 147,
+        "quote_count": 16
       }
     }
   ]
