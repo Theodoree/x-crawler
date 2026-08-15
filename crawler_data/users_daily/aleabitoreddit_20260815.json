@@ -1,0 +1,36 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1006145,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260815",
+  "last_updated": "2026-08-15T02:59:12.876333",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2088457278928412812",
+      "text": "US Government urges $AAPL not to buy Chinese memory chips. \n\n$MU, $SKHY, and Samsung are happy to hear this...\n\nHilariously enough, CXMT/YMTC is price hiking too, so it's not exactly \"cheap Chinese memory that floods the market\". \n\nApple once upon a time actually had extreme supplier leverage before the AI boom.",
+      "created_at": "Sat Aug 15 02:46:31 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2088455954056744961",
+          "url": "https://pbs.twimg.com/media/HPuvoAaaEAEId36.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 18,
+        "favorite_count": 165,
+        "reply_count": 21,
+        "quote_count": 2
+      }
+    }
+  ]
+}
