@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1009385,
+    "followers_count": 1010300,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260816",
-  "last_updated": "2026-08-16T11:27:31.950040",
-  "tweet_count": 2,
+  "last_updated": "2026-08-16T18:39:05.247507",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2088850910529323315",
@@ -39,6 +39,56 @@
         "favorite_count": 281,
         "reply_count": 51,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2089057857652338993",
+      "text": "I think @elonmusk said it best: \n\n“Robots don’t all need to be humanoid. \n\nBut a general-purpose robot intended to replace human labor should fit the world humans already built.\n\nRoger, roger.”\n\nPersonally, I expect $TSLA Optimus form factor to converge to the right image. https://t.co/il7tND3n59",
+      "created_at": "Sun Aug 16 18:33:00 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2089057850693910528",
+          "url": "https://pbs.twimg.com/media/HP3TDAHaAAA7i4a.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2089057850689724416",
+          "url": "https://pbs.twimg.com/media/HP3TDAGaIAAdqDe.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2088952817239445667",
+        "text": "@aleabitoreddit I can’t understand why robots have to be humanoid as many applications don’t require them to be",
+        "created_at": "Sun Aug 16 11:35:37 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1823348909902835713",
+          "name": "just_for_fun",
+          "screen_name": "rtmy_123",
+          "description": "",
+          "followers_count": 35,
+          "friends_count": 715,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 6,
+          "reply_count": 5,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 98,
+        "reply_count": 25,
+        "quote_count": 1
       }
     }
   ]
