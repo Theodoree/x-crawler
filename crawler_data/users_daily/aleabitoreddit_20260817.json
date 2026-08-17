@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1011019,
+    "followers_count": 1011429,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260817",
-  "last_updated": "2026-08-17T03:07:44.026263",
-  "tweet_count": 3,
+  "last_updated": "2026-08-17T08:53:30.947774",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2089148883838611460",
@@ -71,6 +71,27 @@
         "favorite_count": 110,
         "reply_count": 26,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2089264987328151637",
+      "text": "Just some more demand imbalance visibility for $SNDK, $SKHY, $MU, Kioxia, and your NAND players. \n\nPhison CEO: \"2027 capacity constraints will be even more severe than in 2026.\"\n\n\"Upstream suppliers need up to 4 years from plant construction and equipment investment to actual production.\n\nWith demand growing explosively and supply expansion limited, the NAND shortage is likely to last for years.\"\n\nDon't quite think I agree with the people claiming it's all over for memory, esp. NAND bottlenecks in 2026...",
+      "created_at": "Mon Aug 17 08:16:04 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2089264616438366211",
+          "url": "https://pbs.twimg.com/media/HP6PGWiaAAMmne-.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 23,
+        "favorite_count": 349,
+        "reply_count": 40,
+        "quote_count": 7
       }
     }
   ]
