@@ -1,0 +1,62 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1010894,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260817",
+  "last_updated": "2026-08-17T01:46:40.380711",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2089148883838611460",
+      "text": "Stripe reportedly buys OpenRouter for $7 Billion.\n\nI think their orchestration is easy to replicate and switch from. And there's very little moat.\n\nBut atm, OpenRouter has the userbase, valuable dataset, + momentum. \n\nWhat's your take... Yay or Nay for the payments firm? https://t.co/AqOlKlwCzc",
+      "created_at": "Mon Aug 17 00:34:43 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2089147467338309633",
+          "url": "https://pbs.twimg.com/media/HP4kjYIbYAEZuTs.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 13,
+        "favorite_count": 253,
+        "reply_count": 64,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2089165155741622679",
+      "text": "\"Severe InP Shortage Triggers Largest Price Hike Ever\" - $AXTI. \n\nSuppliers have bluntly stated that \"even if you have the money, you still may not be able to get the material\" (lol). \n\n- Industry sources revealed that InP substrate prices began rising in Q4 last year and was the fourth consecutive substrate price hike. \n\n- The latest Q4 hike is expected to be >10%,\n\n- Meanwhile, prices for epitaxial wafers made from those substrates have already been raised two times, and the market is moving toward a 3rd consecutive increase in Q4. (I also wrote a thesis on $IQE, which benefits here too). \n\nArticle states VPEC, Landmark, IET benefits (Taiwan centric reporting). \n\nI did predict this last year... The bottleneck is real, but I do have higher expectations for price hikes that comes next. \n\nGlad it's starting to play out.",
+      "created_at": "Mon Aug 17 01:39:22 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2089163964936798208",
+          "url": "https://pbs.twimg.com/media/HP4zjqeawAARuiN.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2089163965792428032",
+          "url": "https://pbs.twimg.com/media/HP4zjtqaoAAy1Fr.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 9,
+        "favorite_count": 122,
+        "reply_count": 18,
+        "quote_count": 1
+      }
+    }
+  ]
+}
