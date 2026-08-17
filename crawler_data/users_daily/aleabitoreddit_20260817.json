@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1011429,
+    "followers_count": 1011884,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260817",
-  "last_updated": "2026-08-17T08:53:30.947774",
-  "tweet_count": 4,
+  "last_updated": "2026-08-17T14:36:24.685558",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2089148883838611460",
@@ -92,6 +92,27 @@
         "favorite_count": 349,
         "reply_count": 40,
         "quote_count": 7
+      }
+    },
+    {
+      "id": "2089355682286092748",
+      "text": "It's official, Unitree the 8000x+ retail oversubscribed humanoid company in China.\n\nIs expected to go public in 2 days! So the 19th. \n\nOpening is implied to be around ~$41.66B MC per derivatives, around +363.3% above its ~$9B IPO valuation. \n\nFun times for humanoids this week. https://t.co/yav4oRs2bO",
+      "created_at": "Mon Aug 17 14:16:27 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2089352403942567937",
+          "url": "https://pbs.twimg.com/media/HP7e8Qea8AEqzyv.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 17,
+        "favorite_count": 310,
+        "reply_count": 51,
+        "quote_count": 10
       }
     }
   ]
