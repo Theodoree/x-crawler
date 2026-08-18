@@ -1,0 +1,46 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1012718,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260818",
+  "last_updated": "2026-08-18T03:03:39.494935",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2089547564249219163",
+      "text": "So just tracking the MLCC cycle:\n\nComponentNews classified server MLCCs as “severe” shortage stage, with ETNews reporting:\n\n- Samsung has reached ~40 week lead times for some high capacitance MLCCs per DigiKey’s shipment data.\n\nEarlier this year, broader reports were ~20 weeks, so the AI server MLCC bottleneck keeps growing.\n\n- Murata was ~24 weeks in June. \n\nJuly was ~30 weeks. And now some at ~36 weeks. \n\nThis was interesting: \n\n“The expansion of new production capacity is being postponed from Q4 2026 to 2027”\n\nDoesn’t say which expansion… maybe Murata? But if capacity expansion reportedly gets stalled, the bottleneck should tighten short term.\n\nLead times are a good way to track demand imbalances.",
+      "created_at": "Tue Aug 18 02:58:55 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2089547547274829824",
+          "url": "https://pbs.twimg.com/media/HP-QbGCa4AAJHGQ.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2089547547274788864",
+          "url": "https://pbs.twimg.com/media/HP-QbGCaQAAQ6ID.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2089547547820142592",
+          "url": "https://pbs.twimg.com/media/HP-QbIEbsAALGlO.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 7,
+        "favorite_count": 53,
+        "reply_count": 14,
+        "quote_count": 1
+      }
+    }
+  ]
+}
