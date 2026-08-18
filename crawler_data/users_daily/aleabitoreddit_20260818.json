@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1013144,
+    "followers_count": 1013399,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260818",
-  "last_updated": "2026-08-18T13:01:40.330649",
-  "tweet_count": 2,
+  "last_updated": "2026-08-18T17:41:32.503569",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2089547564249219163",
@@ -61,6 +61,68 @@
         "favorite_count": 359,
         "reply_count": 81,
         "quote_count": 10
+      }
+    },
+    {
+      "id": "2089746797300432912",
+      "text": "I'm getting Vietnam flashbacks to the launch of OpenAi. \n\nWhere with every model, it just keeps getting better... but now with hunanoids. \n\nUnitree has claimed that their humanoids:\n\n- Can now run faster than Usain Bolt.\n- Can now jump higher than any human. \n\nAnd with their IPO tomorrow, it seems like China is leading the hardware race.",
+      "created_at": "Tue Aug 18 16:10:36 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2089746205026959362",
+          "url": "https://pbs.twimg.com/media/HQBFGf1aQAIaETY.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2089746272899227648",
+          "url": "https://pbs.twimg.com/media/HQBFKcra4AA-6yS.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 24,
+        "favorite_count": 449,
+        "reply_count": 84,
+        "quote_count": 6
+      }
+    },
+    {
+      "id": "2089766053274661143",
+      "text": "My $AAOI TLDR notes at Rosenblatt summit:\n\n- Expected to get paid premiums for US production of 800g/1.6T (very positive for ASP/margins).\n\n- Several LTAs on the table, but doesn't want to sign to get capacity blocked by other customers (cough cough $NVDA). \n\n- Sold out at least through second half of next year and beyond. (High demand visibility like $LITE)\n\n- Has 300-400 mW lasers already. \n\n- Expects margins to be above 40%+ once CPO comes about (probably most material for rerating). \n\nI can't see how anyone can be bearish on this company...",
+      "created_at": "Tue Aug 18 17:27:07 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2089765538725801984",
+          "url": "https://pbs.twimg.com/media/HQBWr3easAADGzP.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2089765581323227136",
+          "url": "https://pbs.twimg.com/media/HQBWuWKb0AARDST.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2089765629624729600",
+          "url": "https://pbs.twimg.com/media/HQBWxKGaQAAgUA4.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2089765824676667392",
+          "url": "https://pbs.twimg.com/media/HQBW8guaoAAZnru.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 20,
+        "favorite_count": 254,
+        "reply_count": 40,
+        "quote_count": 2
       }
     }
   ]
