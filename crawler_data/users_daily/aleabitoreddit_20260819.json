@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1014307,
+    "followers_count": 1014839,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260819",
-  "last_updated": "2026-08-19T09:41:25.354301",
-  "tweet_count": 2,
+  "last_updated": "2026-08-19T17:01:38.886855",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2089908198694351064",
@@ -56,6 +56,27 @@
         "favorite_count": 511,
         "reply_count": 69,
         "quote_count": 4
+      }
+    },
+    {
+      "id": "2090103899302826302",
+      "text": "$MRVL gives $GOOGL options to buy $12.2B of the company. \n\n\"The Marvell-Google deal covers a broad range of technologies used ​with TPUs, including processors that run AI models, manage data storage ​and  move information ⁠across networks.\"\n\nWhich could translate into ~$120 billion ​in revenue through 2033. \n\nMarvell also has separate warrants with $AMZN after their Celestial acquisition (for purchases of photonic fabric).\n\nRemember the good times when Jensen said Marvell would be the next $1T+ company?  \n\nSeems Nvidia knew Marvell was \"networking\" its way into all the hyperscalers with warrants.",
+      "created_at": "Wed Aug 19 15:49:36 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2090102252568784896",
+          "url": "https://pbs.twimg.com/media/HQGI7MSbMAAi0pJ.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 33,
+        "favorite_count": 434,
+        "reply_count": 85,
+        "quote_count": 5
       }
     }
   ]
