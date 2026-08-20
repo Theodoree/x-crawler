@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1015506,
+    "followers_count": 1015773,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260820",
-  "last_updated": "2026-08-20T10:38:37.123593",
-  "tweet_count": 1,
+  "last_updated": "2026-08-20T17:37:14.949827",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2090374603264929981",
@@ -24,6 +24,56 @@
         "favorite_count": 302,
         "reply_count": 51,
         "quote_count": 3
+      }
+    },
+    {
+      "id": "2090490101260591481",
+      "text": "Very positive. My opinion is that the optical sector underperformance recently from $AAOI to $SIVE has been absurd.\n\nThe demand visibility... is just way too stupidly high.\n\nAOI: “Even combined AOI, Coherent program altogether, is still very tough to meet the customer demand in the next 3 years” (2029)\n\nElazr GM: \"entire optical supply chain was facing major shortages.\" \"The shortage will continue to the next few years\"\n\nSivers CEO said the same thing about InP laser demand imbalances expected for the next 3-5 years.\n\nCan go on and on about $LITE, $MTSI and other comments.\n\nWe haven't even hit the inflection point with 1.6T, NPO, CPO scale out/up, and optics with memory (as seen with SK Hynix).\n\nYet the industry is already bottlenecked by EML/CW and all your other upstream components from PDs/TIA/DSPs, transceivers, and soon FAU + others when CPO scales… \n\nI'm personally extremely comfortable watching this all play out, but just a little confused that markets don't know how to math a year or two ahead.",
+      "created_at": "Thu Aug 20 17:24:14 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2090490093538807808",
+          "url": "https://pbs.twimg.com/media/HQLpqgfakAARJe3.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2090490093517819904",
+          "url": "https://pbs.twimg.com/media/HQLpqgaaUAAl_DB.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2090395700685058370",
+        "text": "@aleabitoreddit @EnamelEquity you’re still positive about $SIVE, right? just needs time to play out.",
+        "created_at": "Thu Aug 20 11:09:07 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "897596339227373569",
+          "name": "stekkerauto 🚗⚡️",
+          "screen_name": "stekkerauto",
+          "description": "„If you dislike change, you're going to dislike irrelevance even more” - E.Shinseki 🇺🇸 🇩🇪 🇫🇷",
+          "followers_count": 5372,
+          "friends_count": 519,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 4,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 20,
+        "favorite_count": 264,
+        "reply_count": 57,
+        "quote_count": 0
       }
     }
   ]
