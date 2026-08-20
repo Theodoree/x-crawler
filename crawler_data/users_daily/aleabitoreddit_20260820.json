@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1015773,
+    "followers_count": 1015812,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260820",
-  "last_updated": "2026-08-20T17:37:14.949827",
-  "tweet_count": 2,
+  "last_updated": "2026-08-20T18:51:18.910738",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2090374603264929981",
@@ -73,6 +73,27 @@
         "retweet_count": 20,
         "favorite_count": 264,
         "reply_count": 57,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2090510568474231045",
+      "text": "After seeing how the robotics and space sectors reacted to Unitree and $SPCX IPOs\n\nI’m not quite sure I want Anthropic to go public… https://t.co/hY6tM1r4Qb",
+      "created_at": "Thu Aug 20 18:45:33 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2090510562551853056",
+          "url": "https://pbs.twimg.com/media/HQL8R9ga8AAwSQH.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 104,
+        "reply_count": 41,
         "quote_count": 0
       }
     }
