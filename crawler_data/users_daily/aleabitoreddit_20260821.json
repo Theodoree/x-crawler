@@ -1,0 +1,81 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1016238,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260821",
+  "last_updated": "2026-08-21T08:50:46.988062",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2090714894874050824",
+      "text": "There’s a lot of viral fabricated screenshots of me going around recently. \n\nSome are annoying jokes for engagement, like text-edited posts from me citing bible verses.\n\nBut some like “Innolight secures Nvidia NPO orders” or off platform promotional content are maliciously fabricated.\n\nUnfortunately I don’t have the power to prevent false images from circulating.\n\nSo please make sure to double check primary sources.",
+      "created_at": "Fri Aug 21 08:17:29 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2090712022979862529",
+          "url": "https://pbs.twimg.com/media/HQOzggFaYAEhxAY.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2090714888696221696",
+          "url": "https://pbs.twimg.com/media/HQO2HTtb0AAf9ht.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2090714888708706304",
+          "url": "https://pbs.twimg.com/media/HQO2HTwaUAAYqSR.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2090659817992110388",
+        "text": "过分了，白毛没发这个小作文，造起假来了 https://t.co/DJlR4oMpbu",
+        "created_at": "Fri Aug 21 04:38:37 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2090659478874247168",
+            "url": "https://pbs.twimg.com/media/HQODuCCaUAAmgOo.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2090659503742316544",
+            "url": "https://pbs.twimg.com/media/HQODvera8AA3Itf.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1813570093181194240",
+          "name": "大猫剑客",
+          "screen_name": "dmjk001",
+          "description": "知识星球: 大猫调研信息   https://t.co/ixsH8tnnlR\n公众号：大猫调研信息",
+          "followers_count": 29332,
+          "friends_count": 42,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 23,
+          "reply_count": 18,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 8,
+        "favorite_count": 145,
+        "reply_count": 24,
+        "quote_count": 1
+      }
+    }
+  ]
+}
