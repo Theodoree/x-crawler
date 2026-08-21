@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1016257,
+    "followers_count": 1016427,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260821",
-  "last_updated": "2026-08-21T09:44:51.078975",
-  "tweet_count": 2,
+  "last_updated": "2026-08-21T15:41:45.709004",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2090714894874050824",
@@ -106,6 +106,27 @@
         "favorite_count": 65,
         "reply_count": 10,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2090816483861696517",
+      "text": "Uhh Citadel?\n\n> Say emergency rate hike. More crashes/liquidations follow\n\n> No rate hike\n\n> Reaches out to buy liquidated hedge fund portfolios\n\n> buys billions of Situational Awareness holdings.\n\n> Says AI bull case is intact\n\n>markets rally\n\n> Sells AI stocks into the buying pressure\n\nI’m just stating the timeline here…",
+      "created_at": "Fri Aug 21 15:01:09 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2090816476421009409",
+          "url": "https://pbs.twimg.com/media/HQQSgfebsAEthAw.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 30,
+        "favorite_count": 630,
+        "reply_count": 145,
+        "quote_count": 18
       }
     }
   ]
