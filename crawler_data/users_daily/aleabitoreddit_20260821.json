@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1016427,
+    "followers_count": 1016584,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260821",
-  "last_updated": "2026-08-21T15:41:45.709004",
-  "tweet_count": 3,
+  "last_updated": "2026-08-21T21:31:56.438737",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2090714894874050824",
@@ -127,6 +127,27 @@
         "favorite_count": 630,
         "reply_count": 145,
         "quote_count": 18
+      }
+    },
+    {
+      "id": "2090903631793127644",
+      "text": "It's getting much harder to support $AAOI when they keep dropping $500m or $600M ATMs left and right. \n\nAt a certain point, the operating outlook could be positive. \n\nBut the share structure/financing becomes increasingly shareholder unfriendly. \n\nReally, really, dislike ATMs and incessant capital raises, even if they're building up capacity.",
+      "created_at": "Fri Aug 21 20:47:27 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2090901784370024448",
+          "url": "https://pbs.twimg.com/media/HQRgGEWbEAAjz9g.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 28,
+        "favorite_count": 688,
+        "reply_count": 187,
+        "quote_count": 20
       }
     }
   ]
