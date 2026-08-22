@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1017143,
+    "followers_count": 1017319,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260822",
-  "last_updated": "2026-08-22T15:28:55.274651",
-  "tweet_count": 1,
+  "last_updated": "2026-08-22T21:29:06.798817",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2091177173789069797",
@@ -35,6 +35,27 @@
         "favorite_count": 236,
         "reply_count": 34,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2091264273007960320",
+      "text": "Apparently, $RDDT thinks $MRVL had two major catalysts recently:\n\nThe $12.2B Google TPU ecosystem agreement.\n\nAnd…\n\nSpider-Man: “Brand New Day” https://t.co/qmUvJqjcpo",
+      "created_at": "Sat Aug 22 20:40:31 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2091264266506752000",
+          "url": "https://pbs.twimg.com/media/HQWpxTiaUAACWpw.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 16,
+        "favorite_count": 479,
+        "reply_count": 89,
+        "quote_count": 11
       }
     }
   ]
