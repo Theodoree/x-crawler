@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1017768,
+    "followers_count": 1018067,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260823",
-  "last_updated": "2026-08-23T12:54:16.670956",
-  "tweet_count": 1,
+  "last_updated": "2026-08-23T20:31:45.063671",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2091488091110531106",
@@ -24,6 +24,37 @@
         "favorite_count": 533,
         "reply_count": 159,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2091612406900564407",
+      "text": "After watching clips of China's humanoid Olympics... \n\nI think we're cooked chat. \n\nStill can't believe $GOOGL sold Boston Dynamics, don't think we have another humanoid that can backflip. https://t.co/uERCqW85F5",
+      "created_at": "Sun Aug 23 19:43:52 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2091603004973817856",
+          "url": "https://pbs.twimg.com/media/HQbd2eqaoAApVvX.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2091603060430942208",
+          "url": "https://pbs.twimg.com/media/HQbd5tQbMAAiM0c.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2091606729511612416",
+          "url": "https://pbs.twimg.com/media/HQbhPRpbMAARuHm.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 13,
+        "favorite_count": 343,
+        "reply_count": 131,
+        "quote_count": 5
       }
     }
   ]

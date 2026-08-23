@@ -1,0 +1,66 @@
+{
+  "user": {
+    "screen_name": "opencode",
+    "name": "OpenCode",
+    "description": "The open source coding agent",
+    "followers_count": 163511,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260823",
+  "last_updated": "2026-08-23T20:31:44.379067",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2091621216129835332",
+      "text": "RT @StefanTMD: behold the ox https://t.co/cuE4NeNoAf",
+      "created_at": "Sun Aug 23 20:18:53 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2091567072723521536",
+          "url": "https://pbs.twimg.com/media/HQa9K8mW0AAbcDE.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2091567076213178533",
+        "text": "behold the ox https://t.co/cuE4NeNoAf",
+        "created_at": "Sun Aug 23 16:43:45 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2091567072723521536",
+            "url": "https://pbs.twimg.com/media/HQa9K8mW0AAbcDE.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1226718629330374657",
+          "name": "Stefan",
+          "screen_name": "StefanTMD",
+          "description": "business @opencode | prev: co-founded @wundergraphcom |",
+          "followers_count": 3910,
+          "friends_count": 422,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 53,
+          "reply_count": 6,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}
