@@ -1,0 +1,89 @@
+{
+  "user": {
+    "screen_name": "opencode",
+    "name": "OpenCode",
+    "description": "The open source coding agent",
+    "followers_count": 163295,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260817",
+  "last_updated": "2026-08-23T16:35:10.419377",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2089428008268402786",
+      "text": "Operation Cheepseek: Phase 1 Complete\n\nOpenCode Go subscribers now get $30 of usage for $10\n\nPhase 2 initiating... https://t.co/zWbdeiZeVj",
+      "created_at": "Mon Aug 17 19:03:51 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2089427690289766401",
+          "url": "https://pbs.twimg.com/media/HP8jaf-WIAEQj7y.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 263,
+        "favorite_count": 5668,
+        "reply_count": 359,
+        "quote_count": 140
+      }
+    },
+    {
+      "id": "2089456809559957818",
+      "text": "RT @thdxr: the opencode embedded webui is so good\nopencode2 makes it work out of the box https://t.co/LU45VwT9MC",
+      "created_at": "Mon Aug 17 20:58:18 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2089456567426990080",
+          "url": "https://video.twimg.com/amplify_video/2089456567426990080/vid/avc1/1920x1080/ILjgdTkIne41ucG2.mp4?tag=29",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2089456722087657504",
+        "text": "the opencode embedded webui is so good\nopencode2 makes it work out of the box https://t.co/LU45VwT9MC",
+        "created_at": "Mon Aug 17 20:57:57 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2089456567426990080",
+            "url": "https://video.twimg.com/amplify_video/2089456567426990080/vid/avc1/1920x1080/ILjgdTkIne41ucG2.mp4?tag=29",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2870102861",
+          "name": "dax",
+          "screen_name": "thdxr",
+          "description": "building @opencode at @anomalyco\nnot the ceo",
+          "followers_count": 163589,
+          "friends_count": 459,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 38,
+          "favorite_count": 986,
+          "reply_count": 76,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 38,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}

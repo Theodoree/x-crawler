@@ -1,0 +1,69 @@
+{
+  "user": {
+    "screen_name": "opencode",
+    "name": "OpenCode",
+    "description": "The open source coding agent",
+    "followers_count": 163295,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260816",
+  "last_updated": "2026-08-23T16:35:11.512188",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2089030951653240880",
+      "text": "DeepSeek has officially increased their prices\n\nOpenCode Go's limits have been updated to reflect them\n\nWe have made progress on operation cheepseek, more info soon",
+      "created_at": "Sun Aug 16 16:46:05 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 164,
+        "favorite_count": 6070,
+        "reply_count": 507,
+        "quote_count": 184
+      }
+    },
+    {
+      "id": "2089032195100774534",
+      "text": "https://t.co/yUflLBAHF2",
+      "created_at": "Sun Aug 16 16:51:02 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2089032022614249795",
+        "text": "we've been working to figure out how to get deepseek hosted at near the previous price\n\nthis is not easy. there are dozens of providers claiming they've done it but they have not\n\nwe're running tests on several different setups this week and hopefully they work out",
+        "created_at": "Sun Aug 16 16:50:21 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2870102861",
+          "name": "dax",
+          "screen_name": "thdxr",
+          "description": "building @opencode at @anomalyco\nnot the ceo",
+          "followers_count": 163589,
+          "friends_count": 459,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 66,
+          "favorite_count": 3112,
+          "reply_count": 230,
+          "quote_count": 27
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 321,
+        "reply_count": 4,
+        "quote_count": 0
+      }
+    }
+  ]
+}

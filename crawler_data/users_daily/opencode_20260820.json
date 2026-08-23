@@ -1,0 +1,143 @@
+{
+  "user": {
+    "screen_name": "opencode",
+    "name": "OpenCode",
+    "description": "The open source coding agent",
+    "followers_count": 163295,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260820",
+  "last_updated": "2026-08-23T16:35:04.741416",
+  "tweet_count": 4,
+  "tweets": [
+    {
+      "id": "2090257346324791379",
+      "text": "RT @thdxr: https://t.co/dZgWp0xp8E",
+      "created_at": "Thu Aug 20 01:59:21 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "video",
+          "id": "2090256801199452160",
+          "url": "https://video.twimg.com/amplify_video/2090256801199452160/vid/avc1/1920x1080/ydyP1VK4GSJZSU-2.mp4?tag=29",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2090256833134862447",
+        "text": "https://t.co/dZgWp0xp8E",
+        "created_at": "Thu Aug 20 01:57:18 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "video",
+            "id": "2090256801199452160",
+            "url": "https://video.twimg.com/amplify_video/2090256801199452160/vid/avc1/1920x1080/ydyP1VK4GSJZSU-2.mp4?tag=29",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2870102861",
+          "name": "dax",
+          "screen_name": "thdxr",
+          "description": "building @opencode at @anomalyco\nnot the ceo",
+          "followers_count": 163589,
+          "friends_count": 459,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 26,
+          "favorite_count": 1022,
+          "reply_count": 77,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 26,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2090529694210781331",
+      "text": "Muse Spark 1.2 contributor from @aiatmeta is available for free in OpenCode\n\nNow available in more regions",
+      "created_at": "Thu Aug 20 20:01:33 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 40,
+        "favorite_count": 1693,
+        "reply_count": 71,
+        "quote_count": 22
+      }
+    },
+    {
+      "id": "2090544355824038300",
+      "text": "Ox Alpha (stealth model) is free for the next week\n\n- 1M Context\n- Multi-modal\n- Zero Data Retention\n\nGenerous rate limits, near unlimited usage\n\nWe have capacity for 100T tokens per day, lets see what you can do",
+      "created_at": "Thu Aug 20 20:59:49 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 868,
+        "favorite_count": 15192,
+        "reply_count": 753,
+        "quote_count": 1090
+      }
+    },
+    {
+      "id": "2090583594926285051",
+      "text": "RT @RebaseTV: a new rebase user just signed up with the username CHEEPSEEK\n\nshould we do a collab with @opencode? \n\nwe might have an openco…",
+      "created_at": "Thu Aug 20 23:35:44 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2090583376235278776",
+        "text": "a new rebase user just signed up with the username CHEEPSEEK\n\nshould we do a collab with @opencode? \n\nwe might have an opencode question in tomorrows game https://t.co/77pppQrcil",
+        "created_at": "Thu Aug 20 23:34:52 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2090583255955185665",
+            "url": "https://pbs.twimg.com/media/HQM-ZRiWoAETnIr.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1628709517457346560",
+          "name": "Rebase",
+          "screen_name": "RebaseTV",
+          "description": "Rebase is a live game show for developers where you can win real cash prizes.\n\nPlay internationally @ https://t.co/fxyuQxBnDp\n\nHosted by @ryanvogel",
+          "followers_count": 247,
+          "friends_count": 1,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2,
+          "favorite_count": 66,
+          "reply_count": 4,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}

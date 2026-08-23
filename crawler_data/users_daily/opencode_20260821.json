@@ -1,0 +1,235 @@
+{
+  "user": {
+    "screen_name": "opencode",
+    "name": "OpenCode",
+    "description": "The open source coding agent",
+    "followers_count": 163295,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260821",
+  "last_updated": "2026-08-23T16:35:01.908641",
+  "tweet_count": 9,
+  "tweets": [
+    {
+      "id": "2090610504368574862",
+      "text": "RT @jayair: Okay let me tell you about what's happening with DeepSeek v4 Flash.\n\nFirst some background, it launched on Aug 1st and within 2…",
+      "created_at": "Fri Aug 21 01:22:40 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2090596382306361380",
+        "text": "Okay let me tell you about what's happening with DeepSeek v4 Flash.\n\nFirst some background, it launched on Aug 1st and within 2 weeks it went from doing 3T tokens a day to 18T tokens a day on OpenCode; an absurd 6x increase. To put it in context, that's close to doubling up all of OpenRouter's daily volume. It's also likely 30-50% of DeepSeek's total volume.\n\nJumps like these over a 2-week span are not normal. This happened because the model is absurdly cheap; 350x cheaper than Fable, 175x cheaper than 5.6 Sol, 70x cheaper than Sonnet, and 7x cheaper than Luna. And secondly, it was a marked improvement over the previous Flash model.\n\nFor the first time our users got a feel for AI that's \"too cheap to meter\".\n\nThen on August 16th DeepSeek raised prices by 5x (for peak hours, 2.5x off-peak hours). And it completely killed the growth of the model. It's doing less than half the tokens per day from its peak.\n\nObviously people were unhappy with the sudden change. Our guess is that DeepSeek genuinely could not handle the absurd 6x jump. Also, it's likely that the increase in GPU prices meant that even if they acquired new capacity, they wouldn't be able to serve it at the original prices.\n\nA quick aside on why DeepSeek Flash is so cheap. It looks like they are running some custom infrastructure to cache way more tokens, for far longer. This matters because we've been scrambling trying to find providers that can fill this near 10T token per day void left by DeepSeek Flash. Unfortunately there are just a couple of people who are able to match DeepSeek's original pricing and that's likely only the case because they are using newer hardware.\n\nThat brings us to the current state of things. Over the last week we've talked to as many people as possible to get DeepSeek hosted at the original price. The issue is that even if somebody is able to, it's very hard for them to have enough capacity to handle our volume. It'll take roughly 1000 B300s to handle our throughput.\n\nThis is why if you've been using DeepSeek Flash on Go over the past few days, you might not have had the best experience. We've unfortunately cycled through a few different providers.\n\nThis 10T token per day gap, though, is an opportunity for every other model lab. It's very clear there's an appetite for a model that's at least as competent and cheap as DeepSeek Flash.\n\nAnd somehow that still feels like the floor.",
+        "created_at": "Fri Aug 21 00:26:33 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "5812072",
+          "name": "Jay",
+          "screen_name": "jayair",
+          "description": "CEO @anomalyco @opencode",
+          "followers_count": 22287,
+          "friends_count": 510,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 183,
+          "favorite_count": 3466,
+          "reply_count": 131,
+          "quote_count": 61
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 183,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2090758645499728234",
+      "text": "Ox Alpha is now available on OpenCode Go too\n\nFor the next 6 days, usage is near unlimited and completely free\n\nIt won’t count against your Go usage",
+      "created_at": "Fri Aug 21 11:11:20 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2090544355824038300",
+        "text": "Ox Alpha (stealth model) is free for the next week\n\n- 1M Context\n- Multi-modal\n- Zero Data Retention\n\nGenerous rate limits, near unlimited usage\n\nWe have capacity for 100T tokens per day, lets see what you can do",
+        "created_at": "Thu Aug 20 20:59:49 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1965545045089792000",
+          "name": "OpenCode",
+          "screen_name": "opencode",
+          "description": "The open source coding agent",
+          "followers_count": 163295,
+          "friends_count": 9,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 868,
+          "favorite_count": 15192,
+          "reply_count": 753,
+          "quote_count": 1090
+        }
+      },
+      "stats": {
+        "retweet_count": 167,
+        "favorite_count": 4610,
+        "reply_count": 217,
+        "quote_count": 123
+      }
+    },
+    {
+      "id": "2090794321167478852",
+      "text": "2 0 0 , 0 0 0 https://t.co/9FghJJQhqE",
+      "created_at": "Fri Aug 21 13:33:05 +0000 2026",
+      "lang": "und",
+      "media": [
+        {
+          "type": "video",
+          "id": "2090793773793951744",
+          "url": "https://video.twimg.com/amplify_video/2090793773793951744/vid/avc1/3840x2160/D9XU4BKADHTcMFZN.mp4?tag=29",
+          "bitrate": 25128000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 66,
+        "favorite_count": 2091,
+        "reply_count": 53,
+        "quote_count": 9
+      }
+    },
+    {
+      "id": "2090794386413986201",
+      "text": "try v2 beta today\nhttps://t.co/3q2G7M5A0r",
+      "created_at": "Fri Aug 21 13:33:21 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 197,
+        "reply_count": 20,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2090796489094111622",
+      "text": "DeepSeek V4 Flash Vision Exp is now available in OpenCode Go",
+      "created_at": "Fri Aug 21 13:41:42 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 85,
+        "favorite_count": 2933,
+        "reply_count": 72,
+        "quote_count": 36
+      }
+    },
+    {
+      "id": "2090813995963785275",
+      "text": "if you've been using Ox Alpha and dealing with network errors, upgrade to OpenCode 1.18.21\n\nit will retry unknown stops automatically and should make things more usable\n\nnow stop slacking and hit that 100T number",
+      "created_at": "Fri Aug 21 14:51:16 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 68,
+        "favorite_count": 2999,
+        "reply_count": 135,
+        "quote_count": 42
+      }
+    },
+    {
+      "id": "2090861665084383701",
+      "text": "after 56 straight days of deepseek being #1 on our charts it has finally been dethroned https://t.co/JWjZnDMd6G",
+      "created_at": "Fri Aug 21 18:00:41 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2090861044138717184",
+          "url": "https://pbs.twimg.com/media/HQQ7CrKXMAAqEoi.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 159,
+        "favorite_count": 4582,
+        "reply_count": 202,
+        "quote_count": 68
+      }
+    },
+    {
+      "id": "2090866323039428883",
+      "text": "full data\nhttps://t.co/LGJdkzYUMf",
+      "created_at": "Fri Aug 21 18:19:12 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 99,
+        "reply_count": 8,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2090873932639314236",
+      "text": "RT @thdxr: https://t.co/TbZj3rTpDv",
+      "created_at": "Fri Aug 21 18:49:26 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": {
+        "id": "2090870688466849999",
+        "text": "https://t.co/TbZj3rTpDv",
+        "created_at": "Fri Aug 21 18:36:33 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2870102861",
+          "name": "dax",
+          "screen_name": "thdxr",
+          "description": "building @opencode at @anomalyco\nnot the ceo",
+          "followers_count": 163589,
+          "friends_count": 459,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2,
+          "favorite_count": 64,
+          "reply_count": 7,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "user": {
+    "screen_name": "opencode",
+    "name": "OpenCode",
+    "description": "The open source coding agent",
+    "followers_count": 163295,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260819",
+  "last_updated": "2026-08-23T16:35:08.563244",
+  "tweet_count": 5,
+  "tweets": [
+    {
+      "id": "2090085655397216526",
+      "text": "Hy3 will get 8x the normal usage until August 30th\n\nthat's $480 of usage for $10\n\navailable to all OpenCode Go subscribers",
+      "created_at": "Wed Aug 19 14:37:06 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 82,
+        "favorite_count": 2495,
+        "reply_count": 132,
+        "quote_count": 33
+      }
+    },
+    {
+      "id": "2090090487164117440",
+      "text": "GPT-5.6 Sol is 50% off on OpenCode Zen until September 18th",
+      "created_at": "Wed Aug 19 14:56:18 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 37,
+        "favorite_count": 1857,
+        "reply_count": 49,
+        "quote_count": 21
+      }
+    },
+    {
+      "id": "2090131613363433526",
+      "text": "muse spark was available earlier today ahead of an official announcement\n\ncapacity isn't fully ready to go so we pulled it temporarily\n\nit will be back later today",
+      "created_at": "Wed Aug 19 17:39:44 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 20,
+        "favorite_count": 1267,
+        "reply_count": 48,
+        "quote_count": 4
+      }
+    },
+    {
+      "id": "2090158371097698394",
+      "text": "Muse Spark 1.2 Contributor is now available on OpenCode Go\n\nthis model will train on your data so it requires explicit opt-in and is restricted in some regions\n\nin exchange you get incredible usage limits https://t.co/2g76x4vnrV",
+      "created_at": "Wed Aug 19 19:26:03 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2090158192235814912",
+          "url": "https://pbs.twimg.com/media/HQG7zTyWoAASRUi.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 101,
+        "favorite_count": 2110,
+        "reply_count": 152,
+        "quote_count": 65
+      }
+    },
+    {
+      "id": "2090212968193511616",
+      "text": "available now",
+      "created_at": "Wed Aug 19 23:03:00 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2090158371097698394",
+        "text": "Muse Spark 1.2 Contributor is now available on OpenCode Go\n\nthis model will train on your data so it requires explicit opt-in and is restricted in some regions\n\nin exchange you get incredible usage limits https://t.co/2g76x4vnrV",
+        "created_at": "Wed Aug 19 19:26:03 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2090158192235814912",
+            "url": "https://pbs.twimg.com/media/HQG7zTyWoAASRUi.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1965545045089792000",
+          "name": "OpenCode",
+          "screen_name": "opencode",
+          "description": "The open source coding agent",
+          "followers_count": 163295,
+          "friends_count": 9,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 101,
+          "favorite_count": 2110,
+          "reply_count": 152,
+          "quote_count": 65
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 53,
+        "reply_count": 5,
+        "quote_count": 0
+      }
+    }
+  ]
+}
