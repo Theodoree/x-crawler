@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1018227,
+    "followers_count": 1018317,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260824",
-  "last_updated": "2026-08-24T05:44:44.476863",
-  "tweet_count": 1,
+  "last_updated": "2026-08-24T11:36:33.767456",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2091755022937940422",
@@ -30,6 +30,66 @@
         "favorite_count": 229,
         "reply_count": 48,
         "quote_count": 9
+      }
+    },
+    {
+      "id": "2091843192639672553",
+      "text": "Lot of misinterpretations flying left and right around the $600m ATM. I'm still bullish on $AAOI and I have large positions (which is why I care more). \n\nWhat I've been consistent with is not being a fan of overusing ATMs/dilution for financing. I've said this before with $IREN + $POET.\n\nAnd I'll be consistent with my own positions like AOI. \n\nHowever, the reason I'm still overweight on AOI vs. the rest (looking at you Poet): \n\nIs that AOI is actually capacity constrained with high demand visibility. \n\nIn terms of timing:\n\n- AOI should have waited until completion of 1.6T qualifications (expected in the next few weeks)\n\n- Could have used other structures like convertible notes above market prices. \n\nBut they did it on the drop from $220 -> $130, and it's likely there will be short term structural overhang whenever they want to tap into it. \n\nI don't have to support every single business decision to  remain long.",
+      "created_at": "Mon Aug 24 11:00:56 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2090904029651939443",
+        "text": "@aleabitoreddit Not bullish anymore??!\n\nUgly price action at the moment for $Aaoi",
+        "created_at": "Fri Aug 21 20:49:02 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1885431782218305536",
+          "name": "LaLowSizer",
+          "screen_name": "R_o_LwSzr",
+          "description": "3rd time is the charm// Fortitudine vincimus",
+          "followers_count": 299,
+          "friends_count": 302,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 6,
+          "reply_count": 5,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 14,
+        "favorite_count": 352,
+        "reply_count": 41,
+        "quote_count": 8
+      }
+    },
+    {
+      "id": "2091851831718879660",
+      "text": "$XPEV carves out its robotics unit and raises >$900M at $6.3B+ valuations.\n\nThis is following’s Unitree IPO, which now has a ~$35-$36B MC.\n\nThen there’s $NVDA / $AMZN backed Agility… at a $2.5B premoney valuation. Which I’d argue is actually further ahead in commercialization than Xpeng. \n\nRegardless, humanoids + physical AI sector funding is really taking off.",
+      "created_at": "Mon Aug 24 11:35:16 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2091851824865415168",
+          "url": "https://pbs.twimg.com/media/HQfAJs_bEAAKaVt.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 26,
+        "reply_count": 8,
+        "quote_count": 0
       }
     }
   ]
