@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1018317,
+    "followers_count": 1018414,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260824",
-  "last_updated": "2026-08-24T11:36:33.767456",
-  "tweet_count": 3,
+  "last_updated": "2026-08-24T14:51:03.634653",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2091755022937940422",
@@ -90,6 +90,57 @@
         "favorite_count": 26,
         "reply_count": 8,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2091889047325335611",
+      "text": "Bro why are we fighting a Trade War with our friendly Golden Retriever named Canada.\n\nShouldn't we be focusing on Iran today? \n\nTrump: Announces 50% Tariffs On Cars, Automotive Parts, and Steel From 2027. https://t.co/40SbPDPMFC",
+      "created_at": "Mon Aug 24 14:03:08 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2091888831083827200",
+          "url": "https://pbs.twimg.com/media/HQfhzv5b0AAS8zr.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2091755022937940422",
+        "text": "\"At dawn begins an economic D-Day, \n\nThe single greatest financial offensive ​ever marshalled against an adversary\", per Bessent in FT. \n\nThe US would target nations that engage with Iran's economy and financial system. Press conference is today 1 PM ET.\n\nNot quite sure markets would appreciate this, but we'll see.",
+        "created_at": "Mon Aug 24 05:10:35 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2091753849115774976",
+            "url": "https://pbs.twimg.com/media/HQdnCw4aEAAsE8x.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1018414,
+          "friends_count": 203,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 38,
+          "favorite_count": 827,
+          "reply_count": 97,
+          "quote_count": 18
+        }
+      },
+      "stats": {
+        "retweet_count": 8,
+        "favorite_count": 357,
+        "reply_count": 105,
+        "quote_count": 1
       }
     }
   ]

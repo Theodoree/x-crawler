@@ -1,0 +1,30 @@
+{
+  "user": {
+    "screen_name": "opencode",
+    "name": "OpenCode",
+    "description": "The open source coding agent",
+    "followers_count": 164165,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260824",
+  "last_updated": "2026-08-24T14:51:04.493524",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2091886759298654383",
+      "text": "LongCat-2.0 now available in Go\n\n1.6T/48B · 1M context · fully open source",
+      "created_at": "Mon Aug 24 13:54:03 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 26,
+        "favorite_count": 852,
+        "reply_count": 29,
+        "quote_count": 7
+      }
+    }
+  ]
+}
