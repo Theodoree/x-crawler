@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1018414,
+    "followers_count": 1018422,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260824",
-  "last_updated": "2026-08-24T14:51:03.634653",
-  "tweet_count": 4,
+  "last_updated": "2026-08-24T15:47:46.668265",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2091755022937940422",
@@ -141,6 +141,27 @@
         "favorite_count": 357,
         "reply_count": 105,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2091909391238979970",
+      "text": "$NVDA, following their $20B deal... Announces Groq3 LPX now in full production.\n\nWith $NBIS the first to adopt through Nebius token factory.\n\n- 3,400 tok/s in Artificial Analysis benchmarking running Gemma 4 31B, with 100k token context\n- 4x faster responsiveness than the nearest alternative\n\nThing that caught my attention.. was a former press release after Nvidia's $2B investment into Nebius. \n\nThat it would support their \"early adoption of Nvidia's latest generation\" architectures. \n\nGuess we're seeing that special treatment here.",
+      "created_at": "Mon Aug 24 15:23:59 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2091907331110109184",
+          "url": "https://pbs.twimg.com/media/HQfyol3agAAso8Y.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 14,
+        "favorite_count": 254,
+        "reply_count": 70,
+        "quote_count": 3
       }
     }
   ]
