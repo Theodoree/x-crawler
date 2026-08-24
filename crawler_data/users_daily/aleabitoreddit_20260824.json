@@ -1,0 +1,36 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1018227,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260824",
+  "last_updated": "2026-08-24T05:44:44.476863",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2091755022937940422",
+      "text": "\"At dawn begins an economic D-Day, \n\nThe single greatest financial offensive ​ever marshalled against an adversary\", per Bessent in FT. \n\nThe US would target nations that engage with Iran's economy and financial system. Press conference is today 1 PM ET.\n\nNot quite sure markets would appreciate this, but we'll see.",
+      "created_at": "Mon Aug 24 05:10:35 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2091753849115774976",
+          "url": "https://pbs.twimg.com/media/HQdnCw4aEAAsE8x.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 13,
+        "favorite_count": 229,
+        "reply_count": 48,
+        "quote_count": 9
+      }
+    }
+  ]
+}
