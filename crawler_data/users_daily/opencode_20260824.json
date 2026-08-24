@@ -3,13 +3,13 @@
     "screen_name": "opencode",
     "name": "OpenCode",
     "description": "The open source coding agent",
-    "followers_count": 164165,
+    "followers_count": 164433,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260824",
-  "last_updated": "2026-08-24T14:51:04.493524",
-  "tweet_count": 1,
+  "last_updated": "2026-08-24T18:52:28.732478",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2091886759298654383",
@@ -24,6 +24,42 @@
         "favorite_count": 852,
         "reply_count": 29,
         "quote_count": 7
+      }
+    },
+    {
+      "id": "2091946582790766899",
+      "text": "26T tokens of Ox Alpha in 4 days https://t.co/UHklXVXA7P",
+      "created_at": "Mon Aug 24 17:51:46 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2091946435382001664",
+          "url": "https://pbs.twimg.com/media/HQgWMwoWwAAdmYM.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 18,
+        "favorite_count": 773,
+        "reply_count": 66,
+        "quote_count": 15
+      }
+    },
+    {
+      "id": "2091946584514695279",
+      "text": "https://t.co/r4bA2qWi0u",
+      "created_at": "Mon Aug 24 17:51:46 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 10,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]

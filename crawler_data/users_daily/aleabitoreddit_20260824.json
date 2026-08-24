@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1018422,
+    "followers_count": 1018461,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260824",
-  "last_updated": "2026-08-24T15:47:46.668265",
-  "tweet_count": 5,
+  "last_updated": "2026-08-24T18:52:27.511624",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2091755022937940422",
@@ -162,6 +162,32 @@
         "favorite_count": 254,
         "reply_count": 70,
         "quote_count": 3
+      }
+    },
+    {
+      "id": "2091955482613486028",
+      "text": "I know everyone's focused on Nancy Pelosi copytraders sending $BE up 11.83%. Or Trump... \n\nBut you know what else is cool? \n\nFAU bottlenecks for CPO. \n\nI remember saying earlier this year FAU/Foci might be a future bottleneck around $TSM / $NVDA CPO roadmaps... \n\nThis was some media commentary supporting that: \n\n\"It is understood that Largan Precision (3008), FOCI (3363), and China’s TFC have entered $NVDA FAU supply chain\"\n\n\"Based on an estimated 20,000 Spectrum-X systems shipped this year, the optical engines installed in those systems would require approximately 600k-700k FAUs\" \n\nIn 2027, demand is expected to reach several million units, and existing supply chain capacity is currently unable to meet demand.\" (UDN, mandarin -> english translation is kinda off)\n\nCough cough, \"existing supply chain capacity is currently unable to meet demand\"\n\nTad early right now since mass production is expected H2 2027, but cool to read updates around this.",
+      "created_at": "Mon Aug 24 18:27:08 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2091953822445047808",
+          "url": "https://pbs.twimg.com/media/HQgc6vlbkAArHC5.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2091954731480723456",
+          "url": "https://pbs.twimg.com/media/HQgdvqAbMAAbLKp.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 12,
+        "favorite_count": 199,
+        "reply_count": 65,
+        "quote_count": 2
       }
     }
   ]
