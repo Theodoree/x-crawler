@@ -1,0 +1,61 @@
+{
+  "user": {
+    "screen_name": "opencode",
+    "name": "OpenCode",
+    "description": "The open source coding agent",
+    "followers_count": 165354,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260825",
+  "last_updated": "2026-08-25T19:38:24.501299",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2092330648816029933",
+      "text": "RT @iamdavidhill: getting the chance to work with one of my favourite 3D designers on this project\n\ncan you guess who? 🔊 https://t.co/sx5l5…",
+      "created_at": "Tue Aug 25 19:17:54 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2092286810944618675",
+        "text": "getting the chance to work with one of my favourite 3D designers on this project\n\ncan you guess who? 🔊 https://t.co/sx5l5hlBek",
+        "created_at": "Tue Aug 25 16:23:43 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2092286525392175104",
+            "url": "https://video.twimg.com/amplify_video/2092286525392175104/vid/avc1/3840x2160/vrfXFxh6lzPren0L.mp4?tag=29",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "313602329",
+          "name": "David Hill",
+          "screen_name": "iamdavidhill",
+          "description": "Head of Design @opencode and @anomalyco • Previously @terminaldotshop and @laravelphp",
+          "followers_count": 20365,
+          "friends_count": 999,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 24,
+          "reply_count": 1,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}
