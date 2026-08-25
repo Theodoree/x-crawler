@@ -3,13 +3,13 @@
     "screen_name": "opencode",
     "name": "OpenCode",
     "description": "The open source coding agent",
-    "followers_count": 165354,
+    "followers_count": 165388,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260825",
-  "last_updated": "2026-08-25T19:38:24.501299",
-  "tweet_count": 1,
+  "last_updated": "2026-08-25T20:37:24.775645",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2092330648816029933",
@@ -55,6 +55,21 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2092340692487950751",
+      "text": "Grok 4.6 is now available on OpenCode Go\n\nyou get one hundred 69 requests every 5 hours",
+      "created_at": "Tue Aug 25 19:57:49 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 9,
+        "favorite_count": 737,
+        "reply_count": 53,
+        "quote_count": 16
       }
     }
   ]
