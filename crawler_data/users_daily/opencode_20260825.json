@@ -3,13 +3,13 @@
     "screen_name": "opencode",
     "name": "OpenCode",
     "description": "The open source coding agent",
-    "followers_count": 165388,
+    "followers_count": 165445,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260825",
-  "last_updated": "2026-08-25T20:37:24.775645",
-  "tweet_count": 2,
+  "last_updated": "2026-08-25T21:36:16.285918",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2092330648816029933",
@@ -70,6 +70,51 @@
         "favorite_count": 737,
         "reply_count": 53,
         "quote_count": 16
+      }
+    },
+    {
+      "id": "2092359229315158382",
+      "text": "RT @thdxr: in the next version of opencode2\n\nyou can connect multiple accounts for the same provider and switch between them\n\nif you use th…",
+      "created_at": "Tue Aug 25 21:11:29 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2092359127250969085",
+        "text": "in the next version of opencode2\n\nyou can connect multiple accounts for the same provider and switch between them\n\nif you use this against me i will be mad https://t.co/1m3mieHP78",
+        "created_at": "Tue Aug 25 21:11:04 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2092359062969040896",
+            "url": "https://pbs.twimg.com/media/HQmNe2LWwAAAmVK.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2870102861",
+          "name": "dax",
+          "screen_name": "thdxr",
+          "description": "building @opencode at @anomalyco\nnot the ceo",
+          "followers_count": 164496,
+          "friends_count": 460,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 5,
+          "favorite_count": 220,
+          "reply_count": 29,
+          "quote_count": 4
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
