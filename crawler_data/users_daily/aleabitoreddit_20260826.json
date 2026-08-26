@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1019240,
+    "followers_count": 1019868,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260826",
-  "last_updated": "2026-08-26T07:55:25.460983",
-  "tweet_count": 2,
+  "last_updated": "2026-08-26T19:10:46.634246",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2092408620277457255",
@@ -75,6 +75,21 @@
         "favorite_count": 197,
         "reply_count": 12,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2092665229880836597",
+      "text": "The concept of “cascading bottlenecks” is just super cool.\n\nBecause of DDR4 supply shocks and costs:\n\nLot of ODMs are redesigning downward from DDR4 -&gt; DDR3 -&gt; DDR2.\n\nBut even the legacy players themselves like Winbond are withdrawing from DDR2.\n\nMaking the bottleneck even worse",
+      "created_at": "Wed Aug 26 17:27:25 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 275,
+        "reply_count": 65,
+        "quote_count": 3
       }
     }
   ]
