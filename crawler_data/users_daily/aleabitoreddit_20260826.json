@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1019868,
+    "followers_count": 1019851,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260826",
-  "last_updated": "2026-08-26T19:10:46.634246",
-  "tweet_count": 3,
+  "last_updated": "2026-08-26T23:16:49.264693",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2092408620277457255",
@@ -90,6 +90,87 @@
         "favorite_count": 275,
         "reply_count": 65,
         "quote_count": 3
+      }
+    },
+    {
+      "id": "2092710854290764161",
+      "text": "I know everyone’s watching $NVDA earnings right now…\n\nBut did you know Landmark signed a 4 year CW agreement with US customer to ensure “sufficient supply”?\n\nSo now you have:\n\n- $LITE (capacity gone)\n- $COHR (capacity gone)\n- Landmark (capacity committed)\n- $AAOI (capacity for transceivers)\n- $MTSI (not online)\n- $SMTC (limited)\n\nI remember saying earlier this year CW lasers would be the next optical shift and heavily bottlenecked by Nvidia?\n\nSo fun watching this play out, with players signing LTAs already to 2030 (signaling less availability for other players).\n\nImplications for $SIVE / Win Semi are very material as one of the few remaining CW merchant suppliers with capacity (+ CPO-grade lasers).\n\nLet’s see how they execute.",
+      "created_at": "Wed Aug 26 20:28:43 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2092710847550537728",
+          "url": "https://pbs.twimg.com/media/HQrNbZ3bQAArOPC.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 61,
+        "favorite_count": 696,
+        "reply_count": 44,
+        "quote_count": 7
+      }
+    },
+    {
+      "id": "2092718416683819292",
+      "text": "$NVDA earnings TLDR:\n\nRevenue: $96.22B vs. ~$92.17B (beat)\nAdj. EPS: $2.22 vs. $2.09-$2.10 (beat)\nDC: $89.0B vs. ~$86.3B (beat)\nAdj. gross margin: 75% vs. 75%\n\nHyperscaler Revenue: $48.71B from $43.05B last quarter (custom ASIC growth hasn't really prevented this revenue from accelerating)\n\nFor guidance:\nRevenue: $108B vs. ~$104.2B\nAdj. gross margin: 74% vs. 75% (kinda the only soft spot)\n\nRevenue ramp has been genuinely absurd over last 4 quarters. \n-> $68.1B\n-> $81.6B\n-> $96.2B (we are here)\n-> next quarter guidance: $108B, despite assuming zero China DC compute revenue. \n\nFun thing to note is Nvidia says its commitments jumped from $119B last quarter to $279B, primarily related to procurement of memory (for next few years).. So memory goes brrr. \n\nTLDR: AI keeps on going brrr. Nvidia is clearly leading the charge and no obvious signs of demand slowing. \n\nGiven Nvidia is already a $5T+ company, I think most of the alpha comes from how Nvidia's architecture/capacity decisions impact elsewhere in the supply chain (eg. CPO, memory, 800V) nowadays.\n\nRather than simply finding mispricing in Nvidia itself.\n\nRegardless, all the fun stuff happens in the earnings call in a few min.",
+      "created_at": "Wed Aug 26 20:58:46 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 46,
+        "favorite_count": 850,
+        "reply_count": 67,
+        "quote_count": 11
+      }
+    },
+    {
+      "id": "2092723047107355133",
+      "text": "$NVDA: \"We expect to grow revenue by approximately 70% in fiscal 2028. This is a supply constrained outlook\"\n\nThat statement alone is probably more important than the entire earnings beat just now? \n\nInsane upward revision beat from +43.9% expected to 70%. \n\n\"With cloud industry backlog now greater than 2 trillion, CapEx by the top five hyperscalers is expected to reach nearly $800 Billion in 2026 and 1.3 Trillion in 2027\"\n\n$1.3 Trillion in 2027. (MS was around $1.2T June, so this is upward projection revisions)\n\nYeah the high-beta parts of the supply chain growth is going to like this.",
+      "created_at": "Wed Aug 26 21:17:10 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2092721544774684672",
+          "url": "https://pbs.twimg.com/media/HQrXKEIaEAAbYR4.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2092718416683819292",
+        "text": "$NVDA earnings TLDR:\n\nRevenue: $96.22B vs. ~$92.17B (beat)\nAdj. EPS: $2.22 vs. $2.09-$2.10 (beat)\nDC: $89.0B vs. ~$86.3B (beat)\nAdj. gross margin: 75% vs. 75%\n\nHyperscaler Revenue: $48.71B from $43.05B last quarter (custom ASIC growth hasn't really prevented this revenue from accelerating)\n\nFor guidance:\nRevenue: $108B vs. ~$104.2B\nAdj. gross margin: 74% vs. 75% (kinda the only soft spot)\n\nRevenue ramp has been genuinely absurd over last 4 quarters. \n-> $68.1B\n-> $81.6B\n-> $96.2B (we are here)\n-> next quarter guidance: $108B, despite assuming zero China DC compute revenue. \n\nFun thing to note is Nvidia says its commitments jumped from $119B last quarter to $279B, primarily related to procurement of memory (for next few years).. So memory goes brrr. \n\nTLDR: AI keeps on going brrr. Nvidia is clearly leading the charge and no obvious signs of demand slowing. \n\nGiven Nvidia is already a $5T+ company, I think most of the alpha comes from how Nvidia's architecture/capacity decisions impact elsewhere in the supply chain (eg. CPO, memory, 800V) nowadays.\n\nRather than simply finding mispricing in Nvidia itself.\n\nRegardless, all the fun stuff happens in the earnings call in a few min.",
+        "created_at": "Wed Aug 26 20:58:46 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1019851,
+          "friends_count": 204,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 46,
+          "favorite_count": 850,
+          "reply_count": 67,
+          "quote_count": 11
+        }
+      },
+      "stats": {
+        "retweet_count": 76,
+        "favorite_count": 1022,
+        "reply_count": 67,
+        "quote_count": 22
       }
     }
   ]
