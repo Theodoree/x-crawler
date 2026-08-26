@@ -3,13 +3,13 @@
     "screen_name": "opencode",
     "name": "OpenCode",
     "description": "The open source coding agent",
-    "followers_count": 165981,
+    "followers_count": 166428,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260826",
-  "last_updated": "2026-08-26T10:41:57.077096",
-  "tweet_count": 1,
+  "last_updated": "2026-08-26T14:53:47.816674",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2092551628935065662",
@@ -30,6 +30,21 @@
         "favorite_count": 779,
         "reply_count": 61,
         "quote_count": 26
+      }
+    },
+    {
+      "id": "2092621673258205423",
+      "text": "GLM-5.3-Flash (formerly Ox Alpha) is now available on OpenCode Go with double usage for a limited time",
+      "created_at": "Wed Aug 26 14:34:20 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 18,
+        "favorite_count": 479,
+        "reply_count": 48,
+        "quote_count": 17
       }
     }
   ]

@@ -1,0 +1,150 @@
+{
+  "user": {
+    "screen_name": "downdetector",
+    "name": "Downdetector",
+    "description": "Downdetector provides real-time outage monitoring, helping businesses detect, diagnose, and resolve service disruptions faster.",
+    "followers_count": 145325,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260825",
+  "last_updated": "2026-08-26T14:53:37.294854",
+  "tweet_count": 9,
+  "tweets": [
+    {
+      "id": "2092118888842473855",
+      "text": "User reports indicate problems with Helldivers 2 since 1:16 AM EDT.\nHow is it affecting you? #Helldivers2Down\nhttps://t.co/3Tpi82pK5I",
+      "created_at": "Tue Aug 25 05:16:27 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2092274332235939844",
+      "text": "User reports indicate problems with Blink Security since 11:34 AM EDT.\nHow is it affecting you? #BlinkSecurityDown\nhttps://t.co/FL9699MbfY",
+      "created_at": "Tue Aug 25 15:34:08 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 6,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2092285857126359543",
+      "text": "User reports indicate problems with Dunkin since 12:19 PM EDT.\nHow is it affecting you? #DunkinDown\nhttps://t.co/vD1jZA70PG",
+      "created_at": "Tue Aug 25 16:19:55 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 5,
+        "reply_count": 2,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2092312219446898833",
+      "text": "User reports indicate problems with Suno since 2:04 PM EDT.\nHow is it affecting you? #SunoDown\nhttps://t.co/wRc0gXb0qI",
+      "created_at": "Tue Aug 25 18:04:41 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 2,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2092317235444433397",
+      "text": "User reports indicate problems with Quickbooks Online since 2:24 PM EDT.\nHow is it affecting you? #QuickbooksOnlineDown\nhttps://t.co/vTtufxiRyK",
+      "created_at": "Tue Aug 25 18:24:36 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2092318710765584545",
+      "text": "User reports indicate problems with Wikipedia since 2:30 PM EDT.\nHow is it affecting you? #WikipediaDown\nhttps://t.co/kPL9vR86Id",
+      "created_at": "Tue Aug 25 18:30:28 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 21,
+        "reply_count": 0,
+        "quote_count": 4
+      }
+    },
+    {
+      "id": "2092356389523877936",
+      "text": "User reports indicate problems with Bluesky since 5:00 PM EDT.\nHow is it affecting you? #BlueskyDown\nhttps://t.co/K5faTI38a6",
+      "created_at": "Tue Aug 25 21:00:12 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 4,
+        "reply_count": 2,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2092371453794566208",
+      "text": "User reports indicate problems with Webflow since 6:00 PM EDT.\nHow is it affecting you? #WebflowDown\nhttps://t.co/ockQCDGbrP",
+      "created_at": "Tue Aug 25 22:00:03 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2092377953707368695",
+      "text": "User reports indicate problems with Steam since 6:25 PM EDT.\nHow is it affecting you? #SteamDown\nhttps://t.co/HR2aXA4QZ7",
+      "created_at": "Tue Aug 25 22:25:53 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    }
+  ]
+}
