@@ -1,0 +1,30 @@
+{
+  "user": {
+    "screen_name": "CommandCodeAI",
+    "name": "Command Code",
+    "description": "Command Code with taste; the first coding agent purpose built for open models, tool call repairs, /design skill, #1/#2 leaderboards, and $1 Go plan 10x credits.",
+    "followers_count": 19123,
+    "verified": false,
+    "is_blue_verified": false
+  },
+  "date": "20260824",
+  "last_updated": "2026-08-26T16:24:19.170511",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2091965085367636456",
+      "text": "Alipay is now supported in Command Code.\n\nMore ways to pay and be a GOAT.",
+      "created_at": "Mon Aug 24 19:05:17 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 7,
+        "favorite_count": 320,
+        "reply_count": 59,
+        "quote_count": 4
+      }
+    }
+  ]
+}

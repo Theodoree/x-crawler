@@ -1,0 +1,67 @@
+{
+  "user": {
+    "screen_name": "CommandCodeAI",
+    "name": "Command Code",
+    "description": "Command Code with taste; the first coding agent purpose built for open models, tool call repairs, /design skill, #1/#2 leaderboards, and $1 Go plan 10x credits.",
+    "followers_count": 19123,
+    "verified": false,
+    "is_blue_verified": false
+  },
+  "date": "20260825",
+  "last_updated": "2026-08-26T16:24:18.489862",
+  "tweet_count": 3,
+  "tweets": [
+    {
+      "id": "2092243127239319917",
+      "text": "Paste images as your chat input.\n\n• Take a screenshot\n• Paste it into the chat\n• Describe what’s wrong\n• Watch Command Code fix the issue\n\nLet your screenshots be the context. https://t.co/R2MhRciQrU",
+      "created_at": "Tue Aug 25 13:30:08 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2092243103692517377",
+          "url": "https://video.twimg.com/amplify_video/2092243103692517377/vid/avc1/1280x720/aeQ-hYSP3HHZYORD.mp4?tag=14",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 118,
+        "reply_count": 14,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2092367054833959264",
+      "text": "@callederfan @AhmadBilalDev check. \n\n@callederfan can you run \n\n`npm i -g command-code@latest`\n\nOh it seems you're using the app. Download the latest from https://t.co/BjE3Q0sGak\n\nthere was a bad alpha build.",
+      "created_at": "Tue Aug 25 21:42:34 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2092367097842356676",
+      "text": "@callederfan @AhmadBilalDev @realaliarain",
+      "created_at": "Tue Aug 25 21:42:45 +0000 2026",
+      "lang": "qam",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}

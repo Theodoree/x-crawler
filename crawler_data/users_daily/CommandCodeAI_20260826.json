@@ -1,0 +1,45 @@
+{
+  "user": {
+    "screen_name": "CommandCodeAI",
+    "name": "Command Code",
+    "description": "Command Code with taste; the first coding agent purpose built for open models, tool call repairs, /design skill, #1/#2 leaderboards, and $1 Go plan 10x credits.",
+    "followers_count": 19123,
+    "verified": false,
+    "is_blue_verified": false
+  },
+  "date": "20260826",
+  "last_updated": "2026-08-26T16:24:16.153036",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2092445075733357009",
+      "text": "MiniMax M3 and M2.7 are now free in Command Code.\n\nnext 10 days. all subs. all plans\n\n🐐",
+      "created_at": "Wed Aug 26 02:52:36 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 34,
+        "favorite_count": 1043,
+        "reply_count": 75,
+        "quote_count": 16
+      }
+    },
+    {
+      "id": "2092647566869770394",
+      "text": "GLM 5.3 Flash aka Ox Alpha is now live in Command Code\n\n4x usage in GOAT plan\n$40 credits. ~24K reqs. ~1.2B tokens\n\nAvailable across all plans and API\n\n🐐",
+      "created_at": "Wed Aug 26 16:17:14 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 34,
+        "reply_count": 4,
+        "quote_count": 0
+      }
+    }
+  ]
+}
