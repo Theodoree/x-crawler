@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1018999,
+    "followers_count": 1019240,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260826",
-  "last_updated": "2026-08-26T01:48:06.107255",
-  "tweet_count": 1,
+  "last_updated": "2026-08-26T07:55:25.460983",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2092408620277457255",
@@ -30,6 +30,51 @@
         "favorite_count": 198,
         "reply_count": 22,
         "quote_count": 5
+      }
+    },
+    {
+      "id": "2092517102339162263",
+      "text": "I love how so many people requested  $SIVE that Saxo Japan went out of their way to list it!\n\nJust goes to show how much demand there is for this laser company.\n\nSpecial shoutout to Saxo. And of course, excited for Sivers earnings + planned Nasdaq listing coming up.",
+      "created_at": "Wed Aug 26 07:38:48 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2090597248845435105",
+        "text": "📢 お客様のご要望にお応えして、新たな海外銘柄の取扱いを開始しました！\n\n✅ Sivers Semiconductors AB（SIVE）\n✅ Lynas Rare Earths Ltd.（LYC）\n✅ Ivanhoe Mines Ltd.（IVN）\n\nサクソバンク証券は、今後もお客様の声に寄り添いながらより良いサービスの提供に努めてまいります。 https://t.co/cAmp3rS6X1",
+        "created_at": "Fri Aug 21 00:30:00 +0000 2026",
+        "lang": "ja",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2090277715391971328",
+            "url": "https://pbs.twimg.com/media/HQIogePagAA6LEH.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1850903911",
+          "name": "サクソバンク証券",
+          "screen_name": "SaxoJapan",
+          "description": "サクソバンク証券の公式Xアカウント。外国株式・ETF、FX、各種CFD（株価指数・商品・株式）、オプション等を提供。 \n\n※リスク・手数料等はこちら→ https://t.co/Y8KELmzdwW",
+          "followers_count": 5796,
+          "friends_count": 650,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2,
+          "favorite_count": 26,
+          "reply_count": 0,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 9,
+        "favorite_count": 197,
+        "reply_count": 12,
+        "quote_count": 1
       }
     }
   ]
