@@ -1,0 +1,36 @@
+{
+  "user": {
+    "screen_name": "opencode",
+    "name": "OpenCode",
+    "description": "The open source coding agent",
+    "followers_count": 165981,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260826",
+  "last_updated": "2026-08-26T10:41:57.077096",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2092551628935065662",
+      "text": "42T tokens of Ox Alpha in 6 days\n\nMost used model after DeepSeek Flash's 56 day run\n\nReveal in a few hours https://t.co/pcyubGwm3E",
+      "created_at": "Wed Aug 26 09:56:00 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2092551049030582272",
+          "url": "https://pbs.twimg.com/media/HQo8F5_WwAA7Td5.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 28,
+        "favorite_count": 779,
+        "reply_count": 61,
+        "quote_count": 26
+      }
+    }
+  ]
+}
