@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1021546,
+    "followers_count": 1021915,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260827",
-  "last_updated": "2026-08-27T19:48:06.426139",
-  "tweet_count": 5,
+  "last_updated": "2026-08-28T04:11:22.127048",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2092789800428622128",
@@ -131,6 +131,45 @@
         "favorite_count": 479,
         "reply_count": 51,
         "quote_count": 7
+      }
+    },
+    {
+      "id": "2093087267594314182",
+      "text": "Nah, $SIVE is the most unusual $1B photonics company I've ever seen. \n\nJust for AI DCs alone:\n\n- Reference laser for $GFS SCALE (CPO/NPO/pluggable)\n- 7 pluggable engagements disclosed, with $JBL as primary ramp (with H1 2027 timeline)\n- ELS path with O-Net\n- ELS path with $POET \n- Lasers to Ayar for CPO I/O (now in $NVDA nvlink ecosystem)\n- Lasers for $AEVA (which now has NPO agreements with optical engine providers for hyperscalers)\n- Celestial/Lightmatter/Lightelligence (likely customers in 2023/2024)\n- InP lasers on TFLN with Lightium\n\nThen it has 2 substantial allocations for CW DFB laser capacity during an industry shortage. \n\nAs well as one of the few CPO-grade laser suppliers out in the industry. \n\nLet me know what other player around this range has so many ongoing qualifications, a large TAM, and in photonics. \n\n$SIVE is the #1 for me in terms of MC relative to qualifications paths across the industry.",
+      "created_at": "Thu Aug 27 21:24:26 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2093059528166154480",
+        "text": "@aleabitoreddit Blah blah blah.... Among all the potential photonics companies this is the very last on the list.",
+        "created_at": "Thu Aug 27 19:34:13 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2066626725161603073",
+          "name": "Tayfun Gevrek",
+          "screen_name": "TyfnGvrk",
+          "description": "",
+          "followers_count": 5,
+          "friends_count": 20,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 11,
+          "reply_count": 5,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 50,
+        "favorite_count": 793,
+        "reply_count": 85,
+        "quote_count": 5
       }
     }
   ]
