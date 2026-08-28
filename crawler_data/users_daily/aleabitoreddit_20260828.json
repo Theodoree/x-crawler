@@ -1,0 +1,107 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1022804,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260828",
+  "last_updated": "2026-08-28T17:18:47.732025",
+  "tweet_count": 3,
+  "tweets": [
+    {
+      "id": "2093252439973777674",
+      "text": "所以… 回到存储这边我们现在有：\n\n$SKHY CEO 表示: “我们预计[存储]短缺将持续到 2030 年底”\n\n$SNDK 表示: “我们看到直到 2030 年，NAND 都存在结构性的巨大需求”非 GAAP 毛利率将维持在约 80%.\n\n$NVDA 表示 供应承诺从 1,190 亿美元增加到 2,790 亿美元，主要由存储采购推动…与此同时, 存储定价处于“极端”水平 而且还在继续上涨.\n\nWinbond 正在与多家客户就延伸至 2029-2030 年的配额展开讨论.\n\n我之前就说过, 存储需求看起来是结构性的, 而现在从传统 DRAM 到 HBM，需求可见度已经延伸到了未来数年..\n\n所以我确实认为, 整个板块的远期 p/e 倍数都有进一步上升的机会.",
+      "created_at": "Fri Aug 28 08:20:47 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2093252422579945472",
+          "url": "https://pbs.twimg.com/media/HQy5_OEagAACgqX.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2093252422634516480",
+          "url": "https://pbs.twimg.com/media/HQy5_ORbMAA8xB-.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 61,
+        "favorite_count": 1070,
+        "reply_count": 165,
+        "quote_count": 20
+      }
+    },
+    {
+      "id": "2093265972207718782",
+      "text": "Are Frontier lab relative valuations are too absurd nowadays?\n\nIf Anthropic IPOs at $2T… 10% of that can buy up almost every major established consumer brand:\n\nFrom: \n\nTaco Bell/Pizza Hut/KFC, GAP, American eagle, Levi’s, Victoria’s Secret, Cheesecake Factory, Krispy Kreme…\n\nCalvin Klein, Kohls, AMC, Kura Sushi, Dennys, Nike, Build a Bear, Jack in the Box, IHOP, Papa John’s…\n\nShake Shack, Apple Bees, Dave & Busters, Under Armour, Petco, Canada Goose.\n\nAll together. Using 10% of Anthropic.\n\nAnd they’d still have $51.6B leftover.",
+      "created_at": "Fri Aug 28 09:14:33 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 17,
+        "favorite_count": 607,
+        "reply_count": 95,
+        "quote_count": 5
+      }
+    },
+    {
+      "id": "2093281270063337833",
+      "text": "只是因为这张图浏览量太高了…\n\n白毛牛来 https://t.co/WiHhXVqtK5",
+      "created_at": "Fri Aug 28 10:15:20 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2093281260764528640",
+          "url": "https://pbs.twimg.com/media/HQzUN0raAAAiMWY.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2092882951256346730",
+        "text": "@Sunwukong512 https://t.co/IQ6RIcirOq",
+        "created_at": "Thu Aug 27 07:52:34 +0000 2026",
+        "lang": "qme",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2092882945052975104",
+            "url": "https://pbs.twimg.com/media/HQtp8zBbIAAA1Uv.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1022804,
+          "friends_count": 207,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 54,
+          "favorite_count": 963,
+          "reply_count": 105,
+          "quote_count": 33
+        }
+      },
+      "stats": {
+        "retweet_count": 48,
+        "favorite_count": 1165,
+        "reply_count": 272,
+        "quote_count": 41
+      }
+    }
+  ]
+}
