@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1023401,
+    "followers_count": 1023496,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260829",
-  "last_updated": "2026-08-29T14:22:41.957621",
-  "tweet_count": 2,
+  "last_updated": "2026-08-29T18:19:17.287622",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2093652781928448279",
@@ -98,6 +98,53 @@
         "favorite_count": 399,
         "reply_count": 52,
         "quote_count": 6
+      }
+    },
+    {
+      "id": "2093712497949950242",
+      "text": "Missed this mention earlier but IC design insiders reveal that OSAT providers have already warned clients:\n\n\"traditional packaging capacity could face a deficit exceeding 20% by 2027\" (eg. $AMKR, ethereum:0x041ff0e49f6f774e7dc7bd10ee4a14c00b1d80b2, Powertech as potential beneficaries)\n\nWith: \"wire bonding equipment\" emerging as the primary bottleneck (ASMPT, $KLIC)\n\n-> influx of AI server shipments has triggered a spike in demand for mature chips\n-> existing mature packaging capacity at OSATs is being rapidly absorbed\n-> securing early access to traditional packaging capacity is now becoming a challenge \n\nCascading bottleneck patterns are occurring across memory (eg. DDR2, DDR3) and now packaging capacity I guess.",
+      "created_at": "Sat Aug 29 14:48:53 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2093710532348121088",
+          "url": "https://pbs.twimg.com/media/HQ5aot8akAAzTkW.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 15,
+        "favorite_count": 290,
+        "reply_count": 36,
+        "quote_count": 6
+      }
+    },
+    {
+      "id": "2093760498072485919",
+      "text": "$MU: goes from $133B -&gt; $1T+ in a year.\n\n$RDDT after a 2-month correction: \"Garbage stock\" https://t.co/HlIXwJ7ZdB",
+      "created_at": "Sat Aug 29 17:59:37 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2093760136401883136",
+          "url": "https://pbs.twimg.com/media/HQ6HwDcbkAAuqYK.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2093760219977531392",
+          "url": "https://pbs.twimg.com/media/HQ6H06yawAAw07-.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 147,
+        "reply_count": 29,
+        "quote_count": 2
       }
     }
   ]
