@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1023496,
+    "followers_count": 1023559,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260829",
-  "last_updated": "2026-08-29T18:19:17.287622",
-  "tweet_count": 4,
+  "last_updated": "2026-08-29T21:38:26.617220",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2093652781928448279",
@@ -145,6 +145,84 @@
         "favorite_count": 147,
         "reply_count": 29,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2093805166655143988",
+      "text": "Yep, ESMT (3006) has exposure to multiple legacy memory segments.\n\nHas a portfolio of: SLC/SPI NAND, NOR Flash, DDR2/DDR3, MCP/eMCP, so all the fun legacy stuff.\n\nIf you want to look at broader industry price hikes coming up that ESMT has exposure to:  \n\n1. SLC NAND: ~120-170% for H2 2026.\n2. DDR2: ~35-40% for Q3 2026.\n3. DDR4: +30–40% Q3 (with DDR3 tightening)\n4. NOR +60–65%+ for H2 (high density)\n5. MCP/eMCP: maybe ~+15–25% QoQ for ESMT from my own estimate\n\nFor official breakdown:\n\nDDR2 + DDR3: ~45% of revenue\nDDR4/other DRAM ~ 10% of revenue\neMCP/MCP ≈30%\nAnalog + other ≈15%\n\nRegardless, duration/hikes is the key: \n\n-> \"none of the major global SLC NAND suppliers plan to add new production capacity in the near term.\"\n-> TrendForce specifically expects depleted inventories to make SLC NAND even tighter in Q4.\n-> Winbond withdrawing DDR2, would make inventory even tighter (and they're doing allocations into 2029-2030)\n-> ESMT management said the market's main problem was supply, not demand; the company's foundry allocations covered only roughly 60–70% of customer orders\n-> Nanya: \"memory shortages could last through the end of 2027, with supply and demand still tight in 2028\"\n->Nanya explicitly said capacity constraints could cause shortages across DDR5, LPDDR5, DDR4, LPDDR4 and DDR3. \n-> ESMT included eMCP among the products receiving order-transfer benefits as mature node resources were being pulled elsewhere\n______\n\nIf I had to state my thoughts again:\n\nI think ESMT's ~1.9x July annualized run-rate P/E could compress further, despite factoring in PSMC's 45% wafer hike due to further legacy memory price hikes. \n\nIndustry commentary supports durability throughout 2027. \n\nCherry on top is if we start seeing LTAs and visibility into 2029-2030 (but not factored in). \n\nI think markets either don't know about this, are mispricing duration, or overestimating PSMC's wafer hike effects. \n\nMaybe playing duoQ with Rank 1 Challenger \"ESMT\" in LoL classic... Is more fun than playing with hardstuck \"Micron\" in League?",
+      "created_at": "Sat Aug 29 20:57:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2092937465342611622",
+        "text": "@aleabitoreddit 晶豪确实好，利基型内存+模拟IC双主线，避开三星、美光主流消费级DRAM内卷，都完全没跌过……",
+        "created_at": "Thu Aug 27 11:29:11 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "917677387478835200",
+          "name": "Joy Lou",
+          "screen_name": "Joylou1209",
+          "description": "炒股入门中#No financial advice. 不作投资建议。",
+          "followers_count": 55326,
+          "friends_count": 530,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 6,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 65,
+        "reply_count": 6,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2093811019823132903",
+      "text": "Okay just to simplify this:\n\nThere is a guy who eats a lot called $NVDA. Nvidia only wants to buy high-priced potatos off the farmers.\n\nA potato farmer $MU, that was selling carrots... now shifted farmland to potatos. \n\nNvidia caused a great potato famine cause they can eat a lot. So everyone else who farmed carrots like SK Hynix and Samsung moved their farmland capacity to grow potato. \n\nBut... people still need to eat. And carrots are a healthy part of their everyday diet..\n\nNow there's no more carrots aside from a player like \"ESMT\", the legacy carrot farmer. \n\nSo now, because everyone buys carrots off ESMT, there's a shortage and the price goes up.\n\nSo ESMT needs more carrot seeds (from PSMC). But PSMC is running low on carrot seeds to grow the carrots. \n\nSo PSMC charges ESMT more for the seeds.\n\nBut the price ESMT sells the carrots at are much higher than what PSMC hikes the carrod seed price. \n\nnow... ESMT is making enough from selling carrots that it traded 1.9x P/E off July's earnings. \n\nCan ESMT keep selling these carrots through 2027?\n\nAll the other farmers thinks so since it's both hard + low incentive to migrate their valuable potato farms back to carrot farms.",
+      "created_at": "Sat Aug 29 21:20:22 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2093805166655143988",
+        "text": "Yep, ESMT (3006) has exposure to multiple legacy memory segments.\n\nHas a portfolio of: SLC/SPI NAND, NOR Flash, DDR2/DDR3, MCP/eMCP, so all the fun legacy stuff.\n\nIf you want to look at broader industry price hikes coming up that ESMT has exposure to:  \n\n1. SLC NAND: ~120-170% for H2 2026.\n2. DDR2: ~35-40% for Q3 2026.\n3. DDR4: +30–40% Q3 (with DDR3 tightening)\n4. NOR +60–65%+ for H2 (high density)\n5. MCP/eMCP: maybe ~+15–25% QoQ for ESMT from my own estimate\n\nFor official breakdown:\n\nDDR2 + DDR3: ~45% of revenue\nDDR4/other DRAM ~ 10% of revenue\neMCP/MCP ≈30%\nAnalog + other ≈15%\n\nRegardless, duration/hikes is the key: \n\n-> \"none of the major global SLC NAND suppliers plan to add new production capacity in the near term.\"\n-> TrendForce specifically expects depleted inventories to make SLC NAND even tighter in Q4.\n-> Winbond withdrawing DDR2, would make inventory even tighter (and they're doing allocations into 2029-2030)\n-> ESMT management said the market's main problem was supply, not demand; the company's foundry allocations covered only roughly 60–70% of customer orders\n-> Nanya: \"memory shortages could last through the end of 2027, with supply and demand still tight in 2028\"\n->Nanya explicitly said capacity constraints could cause shortages across DDR5, LPDDR5, DDR4, LPDDR4 and DDR3. \n-> ESMT included eMCP among the products receiving order-transfer benefits as mature node resources were being pulled elsewhere\n______\n\nIf I had to state my thoughts again:\n\nI think ESMT's ~1.9x July annualized run-rate P/E could compress further, despite factoring in PSMC's 45% wafer hike due to further legacy memory price hikes. \n\nIndustry commentary supports durability throughout 2027. \n\nCherry on top is if we start seeing LTAs and visibility into 2029-2030 (but not factored in). \n\nI think markets either don't know about this, are mispricing duration, or overestimating PSMC's wafer hike effects. \n\nMaybe playing duoQ with Rank 1 Challenger \"ESMT\" in LoL classic... Is more fun than playing with hardstuck \"Micron\" in League?",
+        "created_at": "Sat Aug 29 20:57:07 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1023559,
+          "friends_count": 206,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4,
+          "favorite_count": 65,
+          "reply_count": 6,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 6,
+        "favorite_count": 121,
+        "reply_count": 18,
+        "quote_count": 1
       }
     }
   ]
