@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1023663,
+    "followers_count": 1023791,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260830",
-  "last_updated": "2026-08-30T06:27:40.575899",
-  "tweet_count": 1,
+  "last_updated": "2026-08-30T12:45:39.601668",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2093947848580858123",
@@ -24,6 +24,123 @@
         "favorite_count": 80,
         "reply_count": 15,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2093988125144207710",
+      "text": "Just my final recap on thoughts + fundamentals of $SIVE from ER: \n\nPluggables (1.6T Ramp) for 2027:\n\n- $JBL (1.6T LRO, confirmed) Orders H1 2027, Ramp H2 2027\n-> -> Likely multiple hyperscaler customers\n\n- 3 pluggable makers (evaluation)\n- 3 pluggable makers (supply assessment)\n\nReference Design for likely H2 2027–28+:\n\n- $GFS (Globalfoundries) SCALE (confirmed))\n-> -> Likely $AMD and other hyperscalers as CPO customers\n\nExternal Light Sources / Optical Engines for 2027:\n\n- $POET (confirmed)\n-> -> Lumilens / hyperscaler end users\n\n- O-Net (confirmed)\n-> -> Massive ODM/OEM for Hyperscalers + Asia\n\n- Likely $AEVA (mapping)\n-> -> supplying to OE -> hyperscalers / lidar\n\n- SemiNex (confirmed)\n\nOptical I/O for 2028:\n\n- Ayar Labs (confirmed)\n-> -> Likely $AMD, ALchip, and hyperscaler ASIC program end users + $NVDA NVLink\n\n- $MRVL Celestial (potential customer from 2023-2024 disclosures)\n- Lightmatter (potential customer from 2023-2024 disclosures)\n- Lightelligence (potential customer from 2023-2024 disclosures)\n\nThen potentially $AAPL for 2028 for next-generation wearable updates and other programs from TFLN with Lightium.\n\nIn terms of capacity allocations:\n- Win Semi\n- 1 other foundry (with tremendous allocations)\n\nduring an InP CW DFB laser shortage. \n\nThese are all on-going developments/qualifications since Sivers is targeting next-generation SiPH + CW with 1.6T and CPO for 2027-2028.  \n\nEspecially as Goldman Sachs models the CPO opportunity going from effectively near-zero today to ~$91B TAM by 2028. \n\nHowever my criticisms were:  \n\n=> Main focus was not on communicating economic scale of 2027-2028 optical ramps to Western audiences. \n=> Legal vagueposts around NASDAQ listing should be dropped, and clear direction should be set + executed faster on. \n=>Too much focus was put on defending smaller current revenue/TTM revenue/pipeline conversion (allspace, Tachyon.) relative to future qualifications/partner size/capacity/potential. \n\n$SIVE needs to position themselves as a forward looking, global hypergrowth optical company supplying lasers to hyperscaler programs. \n\nAnd not let the narrative get dominated by backward looking metrics. \n\nAnd as Morgan Stanley put it... \"Key [CPO] participants include … $LITE, $COHR, and Sivers laser supply\". \n\nI'm personally a happy $SIVE shareholder for high-beta exposure to the next 2027-2028 optical shift with 1.6T/CPO.",
+      "created_at": "Sun Aug 30 09:04:08 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2093705282249781268",
+        "text": "@aleabitoreddit A company can have the right fundamentals and still get the wrong multiple if it’s telling the story to the wrong audience.",
+        "created_at": "Sat Aug 29 14:20:13 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1970473523413147648",
+          "name": "威廉1638",
+          "screen_name": "William88Crypto",
+          "description": "AI产业链深度拆解｜美股+半导体Alpha｜AI Agent工具实测｜Web3叙事猎手| 蓝鸟会|全真｜BAYC：https://t.co/TBwkGoZp2q\n 如需广告合作请 DM TG:william16381638",
+          "followers_count": 11047,
+          "friends_count": 5149,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 5,
+          "reply_count": 1,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 33,
+        "favorite_count": 531,
+        "reply_count": 44,
+        "quote_count": 11
+      }
+    },
+    {
+      "id": "2094019167527776711",
+      "text": "FYI to the AI bears: $NVDA projects $1.3T of hyperscaler spend for 2027.\n\nUp from ~$800B in 2026, alongside ~70% revenue growth despite remaining capacity constrained… far above prior Street expectations of ~45%.\n\nThat capex flows across the AI supply chain… from memory and networking to foundries. Especially through the new bottlenecks/chokepoints that didn’t benefit from older generations.\n\nWe’re like 2 hours into the party where people started off drinking Sapporo draft beer.\n\nSomeone spiked Situational’s drinks and we had to pause the party for 30 min.\n\nBut now it’s back on with tequila shots on the table.\n\nI think the real party is about to begin.",
+      "created_at": "Sun Aug 30 11:07:29 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2093423841766760502",
+        "text": "@aleabitoreddit anime girl can you make ai stocks go up please",
+        "created_at": "Fri Aug 28 19:41:52 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2028506964704002048",
+          "name": "SG",
+          "screen_name": "SG3m8g",
+          "description": "",
+          "followers_count": 37,
+          "friends_count": 53,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 8,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 20,
+        "favorite_count": 431,
+        "reply_count": 46,
+        "quote_count": 7
+      }
+    },
+    {
+      "id": "2094027369648681284",
+      "text": "Just some random ideas from Elon’s post:\n\n$AAON - Chillers / liquid cooling\n$NVT - Cooling\n$MOD - Chillers / Cooling\n$IESC - Wiring\n$MTRS - chillers\n$JCI - chillers\n$HPS.A - Transformers (disclosure I own positions in this)\n$PRY.MI - networking/wiring(fiber)\n$CRDO / $AAOI (same) / $LITE / $COHR - networking\n\nSince Elon Musk cited:\n\n- transformers\n- wiring\n- liquid cooling\n- massive chillers + complex networking\n\nAs the point of failure for AI compute buildout. \n\nWhich is “harder than finding power”",
+      "created_at": "Sun Aug 30 11:40:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2093810234141634702",
+        "text": "Consensus estimate is that ~15GW of AI compute produced in 2027 cannot be turned on in 2027. \n\nThis is harder than just finding power, as you also need to build out all the transformers, wiring, liquid-cooling, (massive) chillers &amp; complex networking. https://t.co/cRXJ1Wrkri",
+        "created_at": "Sat Aug 29 21:17:15 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "description": "https://t.co/ZdBx5WABYx",
+          "followers_count": 241497543,
+          "friends_count": 1398,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1845,
+          "favorite_count": 14194,
+          "reply_count": 1615,
+          "quote_count": 351
+        }
+      },
+      "stats": {
+        "retweet_count": 41,
+        "favorite_count": 408,
+        "reply_count": 47,
+        "quote_count": 6
       }
     }
   ]
