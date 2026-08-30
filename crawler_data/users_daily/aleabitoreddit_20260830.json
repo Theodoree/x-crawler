@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1024019,
+    "followers_count": 1024120,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260830",
-  "last_updated": "2026-08-30T17:19:27.211937",
-  "tweet_count": 5,
+  "last_updated": "2026-08-30T20:55:18.726379",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2093947848580858123",
@@ -185,6 +185,27 @@
         "retweet_count": 8,
         "favorite_count": 145,
         "reply_count": 35,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2094129989071536351",
+      "text": "I'm going to miss the days of Korean retail reacting heavily to $EWY / Samsung / $SKHY daily volatility.\n\nNew piece: \"Korean day traders flee leveraged chip ETFs as regulatory curbs bite\"\n\n- Trading value in ETFs designed to deliver 2x daily returns of Samsung / SK Hynix has fallen to just 4% of its June peak\n\n- The requirement follows earlier measures, including a higher minimum deposit, aimed at cooling speculative activity\n\n- And then came the final boss... A 5 day trading course where:\n\n\"Investors must download a Windows-only program  and spend at least one hour each day trading with virtual funds\"\n\n$MSFT Windows wiped out the Korean retail.",
+      "created_at": "Sun Aug 30 18:27:51 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2094129373532311552",
+          "url": "https://pbs.twimg.com/media/HQ_Xke8a0AA4VwK.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 6,
+        "favorite_count": 244,
+        "reply_count": 47,
         "quote_count": 3
       }
     }
