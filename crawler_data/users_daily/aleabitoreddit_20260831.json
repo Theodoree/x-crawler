@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1024514,
+    "followers_count": 1024678,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260831",
-  "last_updated": "2026-08-31T13:24:54.034203",
-  "tweet_count": 7,
+  "last_updated": "2026-08-31T19:56:16.830968",
+  "tweet_count": 9,
   "tweets": [
     {
       "id": "2094281116421370213",
@@ -173,6 +173,84 @@
         "favorite_count": 263,
         "reply_count": 38,
         "quote_count": 6
+      }
+    },
+    {
+      "id": "2094416430032896428",
+      "text": "Yep, with $NVDA investing $3.5B into Mediatek.\n\nIt does feel like Nvidia is playing kingmaker with the next generation of ASIC winners like $MRVL / Mediatek, with a second order effect of eroding $AVGO position.\n\nPlaybook feels similar to what they did with Neoclouds like $NBIS and $CRWV (vs. hyperscaler cloud programs)\n\nHelp create the next leaders, then make them both financially and strategically aligned with Nvidia.\n\nI do think it’s brilliant, but moves like this might push $AMD, $AVGO, and certain hyperscalers closer together.\n\nRegardless this move cements Nvidia’s strategic position in inference (where hyperscaler ASICs were a former long-term bear case).",
+      "created_at": "Mon Aug 31 13:26:03 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2094410797984162303",
+        "text": "@aleabitoreddit $NVDA is the winner here - they cover even custom chips via $MRVL and MediaTek",
+        "created_at": "Mon Aug 31 13:03:41 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2048127794354262016",
+          "name": "WorkerLucky",
+          "screen_name": "workerlucky777",
+          "description": "Bullish on custom silicone 🫦",
+          "followers_count": 123,
+          "friends_count": 65,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 2,
+          "reply_count": 2,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 15,
+        "favorite_count": 445,
+        "reply_count": 53,
+        "quote_count": 5
+      }
+    },
+    {
+      "id": "2094492628758999451",
+      "text": "Macro has clearly cut high beta AI valuations over the past few months. But I try to stay focused on fundamentals.\n\nIf you're curious about my take though:\n\nWe're seeing record visibility with\n- memory (2031), photonics (2029-2030), etc LTAs\n-  $NBIS, solana:5aQcoaSyy7fnhvpRHasBUAMH2nL5tTjVrmFw6BeGmoon, etc. massive demand imbalance for compute despite capex spend. \n- combined with record projections ( $NVDA 70% growth 2027, $SMCI $60B+ new server orders, etc). \n\nvs. \n\nuncomfortable macro where:\n- Warsh said the Fed has \"more work to do\" if underlying inflation isn't clearly returning to 2%.\n- July PCE came in at 3.7% Y/Y\n- July jobs report payrolls fell by 23k with unemployment at 4.1%\n-10Y Treasury high/ 30Y highest since 2007\n- Iran tensions continuing\n- Japan Yen weakened to 160/ 2 rate hikes in Korea\n\nAnd with rate 40/60 in favor of 25BPS near-term hikes. \n\nThere's definitely implications on financing + too many third/fourth order effects for me to personally map. \n\nI'm not a macro expert but my take is: \n\nThe AI buildout will continue w/ $1.3T+ capex poured upstream expected next year, flowing through many bottlenecks and chokepoints. \n\nWhile markets chopped off forward valuations and rotated toward currently profitable/defensive companies. \n\nI don't know what's going to happen, especially since rate hike odds are almost a coinflip, and Trump posts can change sentiment overnight. \n\nAs long as I don't see indicators of hyperscalers cutting capex or demand wavering. \n\nI'm staying long despite macro volatility, since I want ownership of the names controlling the future of the AI buildout. \n\nAnd if there's any indicators of better macro climates, high beta are typically the fastest to recover.",
+      "created_at": "Mon Aug 31 18:28:51 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2094315465438908429",
+        "text": "@aleabitoreddit @bob80924 Do you think that the macro environment is having a huge impact now? Are we likely to only settle one Iran/US peace is agreed. Feels like the market is pure whiplash.",
+        "created_at": "Mon Aug 31 06:44:52 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1440762403923263491",
+          "name": "Booray",
+          "screen_name": "dBooray",
+          "description": "",
+          "followers_count": 34,
+          "friends_count": 222,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 2,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 8,
+        "favorite_count": 292,
+        "reply_count": 75,
+        "quote_count": 2
       }
     }
   ]
