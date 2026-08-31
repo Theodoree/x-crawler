@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1024678,
+    "followers_count": 1024762,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260831",
-  "last_updated": "2026-08-31T19:56:16.830968",
-  "tweet_count": 9,
+  "last_updated": "2026-08-31T23:43:55.246072",
+  "tweet_count": 10,
   "tweets": [
     {
       "id": "2094281116421370213",
@@ -251,6 +251,28 @@
         "favorite_count": 292,
         "reply_count": 75,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2094516012557427002",
+      "text": "Interesting to see $QQQ spike when Trump gave a comment on potential rate hikes:\n\nAnswer: \"Trump: No, I have a lot of respect for him, and he'll do what he has to do.\n\nI think our interest rates are too high.\" https://t.co/vKwUWbUfHx",
+      "created_at": "Mon Aug 31 20:01:46 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2094515156776886272",
+          "url": "https://video.twimg.com/amplify_video/2094515156776886272/vid/avc1/1280x720/zu_gE1yuf7MOrOud.mp4?tag=29",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 16,
+        "favorite_count": 682,
+        "reply_count": 59,
+        "quote_count": 10
       }
     }
   ]
