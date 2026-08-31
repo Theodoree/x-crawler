@@ -1,0 +1,54 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1024350,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260831",
+  "last_updated": "2026-08-31T05:09:30.208285",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2094281116421370213",
+      "text": "ESMT (3006) is 1.9x P/E ratio off July's earnings annualized. \n\nLatest net income was: $109M net income/July, which is ~$1.3B annualized. With ~$395.9M net cash and with $249.6M in inventory.\n\nThe market cap less net cash and inventory is equivalent to: \n\n~17 months of July earnings.\n\nWhere monetizing that inventory benefits from rising memory prices. \n\nTheir ASP hike expectations were +105–113% Q/Q last quarter from other analyst notes. \n\nDDR2/DDR3, NOR Flash, SLC NAND, prices are expected to keep rising H2. \n\nThe main question is duration, but I personally think legacy DRAM/NAND shortages tightens throughout 2027. Others might disagree. \n\nOther analysts like Huanan argue that PSMC wafer hikes are largely pass through (we'll find out H2). \n\nMost people are finding companies with ~20 forward P/E ending 2028 to be attractive...\n\nBut 1.9x current runrate P/E seems like an anomaly to me personally. \n\nThat's my take on the company/legacy memory theme, I'll let others/markets decide if that's undervalued.",
+      "created_at": "Mon Aug 31 04:28:22 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2094159300809871415",
+        "text": "@aleabitoreddit 会不会现在的价格已经price in 了呀",
+        "created_at": "Sun Aug 30 20:24:19 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "723346948137226241",
+          "name": "捞的嘛就不谈",
+          "screen_name": "ShrugFred",
+          "description": "",
+          "followers_count": 21,
+          "friends_count": 531,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 1,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 91,
+        "reply_count": 17,
+        "quote_count": 1
+      }
+    }
+  ]
+}
