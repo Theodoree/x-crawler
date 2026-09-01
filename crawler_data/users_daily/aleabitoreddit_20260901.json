@@ -1,0 +1,36 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1024865,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260901",
+  "last_updated": "2026-09-01T04:46:13.307548",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2094585395224981709",
+      "text": "Anthropic signs a $35B AI compute deal with $NVDA backed Lambda.\n\n$HUT / DC, with Lambda / GPUs. \n\nFrontier model demand is rapidly outpacing the ecosystem's ability to build capacity.\n\nIt also looks like Anthropic is securing more compute... Which neocloud/colo player is next? https://t.co/49yvFKjr49",
+      "created_at": "Tue Sep 01 00:37:28 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2094584001889783809",
+          "url": "https://pbs.twimg.com/media/HRF1DVjbUAE7HUv.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 19,
+        "favorite_count": 423,
+        "reply_count": 63,
+        "quote_count": 9
+      }
+    }
+  ]
+}
