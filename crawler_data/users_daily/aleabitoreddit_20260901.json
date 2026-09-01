@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1025120,
+    "followers_count": 1025212,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260901",
-  "last_updated": "2026-09-01T14:43:04.373944",
-  "tweet_count": 3,
+  "last_updated": "2026-09-01T18:20:25.425423",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2094585395224981709",
@@ -65,6 +65,27 @@
         "retweet_count": 22,
         "favorite_count": 448,
         "reply_count": 66,
+        "quote_count": 5
+      }
+    },
+    {
+      "id": "2094831983306440746",
+      "text": "After seeing everything from $AXTI to $IREN get nuked… I’m starting to believe in the:\n\n“September is the worst month of the year” myth. https://t.co/sck3Y0pOg2",
+      "created_at": "Tue Sep 01 16:57:19 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2094831977556013056",
+          "url": "https://pbs.twimg.com/media/HRJWla5a8AAqa0m.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 11,
+        "favorite_count": 441,
+        "reply_count": 110,
         "quote_count": 5
       }
     }
