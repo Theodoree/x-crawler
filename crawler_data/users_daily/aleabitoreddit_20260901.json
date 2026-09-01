@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1025212,
+    "followers_count": 1025241,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260901",
-  "last_updated": "2026-09-01T18:20:25.425423",
-  "tweet_count": 4,
+  "last_updated": "2026-09-01T21:42:31.030709",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2094585395224981709",
@@ -87,6 +87,32 @@
         "favorite_count": 441,
         "reply_count": 110,
         "quote_count": 5
+      }
+    },
+    {
+      "id": "2094854529967862140",
+      "text": "US Department of War announces $174M financing for securing Gallium Supply Chains. Beneficiaries are:\n\n- $AA (Alcoa Corp) for Gallium production at its refinery.\n\n- Sojitz (2768) as the Japanese JV offtake partner\n\nGood to see US critical minerals supply chains investments. https://t.co/fyi203MH2B",
+      "created_at": "Tue Sep 01 18:26:55 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2094854523311501312",
+          "url": "https://pbs.twimg.com/media/HRJrFwYaMAAU0B7.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2094854523315699712",
+          "url": "https://pbs.twimg.com/media/HRJrFwZaQAAHAjk.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 14,
+        "favorite_count": 227,
+        "reply_count": 38,
+        "quote_count": 4
       }
     }
   ]
