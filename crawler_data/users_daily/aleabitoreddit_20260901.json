@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1024985,
+    "followers_count": 1025120,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260901",
-  "last_updated": "2026-09-01T09:54:48.974005",
-  "tweet_count": 2,
+  "last_updated": "2026-09-01T14:43:04.373944",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2094585395224981709",
@@ -44,6 +44,27 @@
         "retweet_count": 16,
         "favorite_count": 247,
         "reply_count": 49,
+        "quote_count": 5
+      }
+    },
+    {
+      "id": "2094786201605808566",
+      "text": "What... $GPRO is up 79.17% after planning to merge with a photonics company \"Starman Optical\"\n\nTo build US 800G/1.6T optical transceivers for AI data centers.\n\nGoPro trying to compete with $AAOI was definitely not on my radar. https://t.co/5z2XXHaxvs",
+      "created_at": "Tue Sep 01 13:55:24 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2094785890841407488",
+          "url": "https://pbs.twimg.com/media/HRIsq0gaMAAlMms.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 22,
+        "favorite_count": 448,
+        "reply_count": 66,
         "quote_count": 5
       }
     }
