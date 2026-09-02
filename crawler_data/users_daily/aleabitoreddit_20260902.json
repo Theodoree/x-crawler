@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1025492,
+    "followers_count": 1025596,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260902",
-  "last_updated": "2026-09-02T14:17:18.494683",
-  "tweet_count": 5,
+  "last_updated": "2026-09-02T18:32:37.407329",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2095012962360828314",
@@ -152,6 +152,27 @@
         "favorite_count": 30,
         "reply_count": 2,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2095173998854508613",
+      "text": "I try not to go off topic... \n\nBut apparently, the Strait of Hormuz might be renamed the \"Trump Strait\" soon. https://t.co/7UJitOXmKX",
+      "created_at": "Wed Sep 02 15:36:22 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2095173296111403009",
+          "url": "https://pbs.twimg.com/media/HRONAxmawAEEuoC.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 16,
+        "favorite_count": 545,
+        "reply_count": 102,
+        "quote_count": 2
       }
     }
   ]
