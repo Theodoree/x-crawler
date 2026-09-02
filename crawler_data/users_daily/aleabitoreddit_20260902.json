@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1025415,
+    "followers_count": 1025492,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260902",
-  "last_updated": "2026-09-02T09:26:27.178298",
-  "tweet_count": 2,
+  "last_updated": "2026-09-02T14:17:18.494683",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2095012962360828314",
@@ -74,6 +74,84 @@
         "favorite_count": 397,
         "reply_count": 77,
         "quote_count": 5
+      }
+    },
+    {
+      "id": "2095087925822190023",
+      "text": "Just taking a look at Leopold's Situational Awareness Q2 13F latest holdings as of June 30th:\n\n1. $SNDK - $5.674B \n2. $MU - $5.574B \n3. $BE -  $1.899B\n4. $TSM - $1.265B\n5. $NBIS - $1.232B\n6. $CRWV - $744.5M\n7. $CORZ - $665.6M\n8. $STM - $584.3M (new)\n9. $APLD - $469.0M\n10. $RIOT - $468.2M\n11. $SHAZ - $456.8M\n12. $IREN - $433.3M\n\nLess material positions includeed $CLSK, $KEEL, sei-network:native, $WYFI, $BTDR, $TE, $HIVE, $VSH, and others. \n\nSeems like Situational Awareness concentrated around memory (Sandisk, Micron), that have low forward multiples but high visibility into 2030.  \n\nAs well as Anthropic/energy/power adjacent from colo/neoclouds + Bloom. \n\nSome of the bottlenecks like the MLCC trade, he couldn't see play out (Taiyo Yuden, etc). due to July's liqudation. And some are new like $STM (eg. MCU price hikes).\n\nWith core winners of everything such as $TSM (but less high-beta). \n\nThis looked similar to my H2 2026/early 2027 portfolio with Nebius, Micron, TSM, colo players and others as core focus. (I've heavily concentrated on upstream networking/legacy memory currently, with a lot of name overlap).  \n\nBut always cool to see what others are doing.",
+      "created_at": "Wed Sep 02 09:54:21 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2095085241417474048",
+          "url": "https://pbs.twimg.com/media/HRM87UTaIAATqTb.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2095085248392663040",
+          "url": "https://pbs.twimg.com/media/HRM87uSbEAAm1SC.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 57,
+        "favorite_count": 733,
+        "reply_count": 50,
+        "quote_count": 8
+      }
+    },
+    {
+      "id": "2095102771418845551",
+      "text": "$MRVL SVP and CTO of Optical Engineering Radha Nagarajan, at Semicon Taiwan: \n\n1. Names Europe/Japan for laser supply sourcing as examples for SiPH modules. \n\nVery interesting that Marvell's SVP had Europe in mind when giving examples of laser supply sourcing for SiPH modules. \n\nI can't really name any notable public EU merchant laser suppliers other than $SIVE. Japan I can namedrop a few like Sumitomo/Furukawa etc. \n\nMaybe I'm reading too much into the geography, but a lot of US players like $LITE / $COHR / $AAOI are redirecting laser capacity internally, so it's interesting that the US wasn't mentioned.\n\n2. Silicon photonics, high-speed drivers, amplifiers and DSPs come from other suppliers, with final integration taking place in Taiwan\n\nMakes sense, with $TSM COUPE / $ASX / ShunSin, and others.\n\n3. Nagarajan appears to say NPO could arrive first around late 2027–2028, with full CPO continuing afterward. \n\nGood to hear more about commercialization timelines.\n\n$LITE similarly sees NPO around late 2027-H1 2028, while expecting  CPO laser shipments in H2 2027 ahead of CPO scale up deployments in 2028.\n\nRevenue from upstream suppliers usually hits a bit earlier. \n\n4. $MRVL on Google's TPU program vs. $AVGO / Mediatek and others. \n\n\"Hyperscalers are seeking greater supply-chain diversification. If Google selects Marvell for a particular AI-chip segment, that does not mean it will stop working with MediaTek or Broadcom\". \n\nGuess he's just trying to emphasize pie keeps growing for ASIC suppliers, nothing really too new. \n\n5. All of Marvell's advanced ICs and ASICs are manufactured at TSMC, making the foundry central to the broader architecture.\n\n$TSM backbone of AI as usual. \n\nTLDR:\n\n- Very odd Marvell's SVP highlights Europe for laser sourcing, given how small a pool for merchant suppliers there is... \n- NPO volume looks late 2027, CPO after that. Upstream optical suppliers should start seeing revenue earlier",
+      "created_at": "Wed Sep 02 10:53:20 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2095101084343951360",
+          "url": "https://pbs.twimg.com/media/HRNLVfzbYAAyNxy.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2095101191344869376",
+          "url": "https://pbs.twimg.com/media/HRNLbuab0AA9roi.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 18,
+        "favorite_count": 377,
+        "reply_count": 52,
+        "quote_count": 6
+      }
+    },
+    {
+      "id": "2095153855818547571",
+      "text": "$NVDA told JP Morgan... That their revenue could increase more than 100%+ Y/Y unconstrained.\n\nBut ended up giving a ~70% growth projection because that's what Nvidia believes they can supply. \n\nFY27 est: ~$401B revenue...\nFY28: ~$682B at 70% or >$802B unconstrained.\n\n- Nvidia IR said it gave the updated outlook because it had greater visibility + saw a meaningful gap between Street ests. and its own projections\n\n- Inference is now larger than training after being roughly 50/50 about 18 months ago\n\nI wonder if Nvidia will be the first $10T company... this growth is absurd.",
+      "created_at": "Wed Sep 02 14:16:19 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2095148851514798082",
+          "url": "https://pbs.twimg.com/media/HRN2x6YbcAIr8F3.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2095153329047506944",
+          "url": "https://pbs.twimg.com/media/HRN62ifakAAR683.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 30,
+        "reply_count": 2,
+        "quote_count": 0
       }
     }
   ]
