@@ -1,0 +1,80 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1025415,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260902",
+  "last_updated": "2026-09-02T09:26:27.178298",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2095012962360828314",
+      "text": "Very interesting to notice Taiwan wildly outperform the rest of the World like US/EU.\n\nFoci ($NVDA / $TSM FAU supplier) went from 400 -&gt; 900 -&gt; 400 -&gt; 800, and recovered insanely fast from July.\n\nNot sure if earnings like Etron or others are just absurd to not care about macro? https://t.co/WHzwj9n6e8",
+      "created_at": "Wed Sep 02 04:56:28 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2095012947278106624",
+          "url": "https://pbs.twimg.com/media/HRL7LPpbEAAgeQU.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2095012947278135296",
+          "url": "https://pbs.twimg.com/media/HRL7LPpbgAAIY6m.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 11,
+        "favorite_count": 383,
+        "reply_count": 55,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2095064848031678648",
+      "text": "I don’t want to play investor activism here:\n\nBut I hope the recent crash sends a message to $SIVE what investor base + focus really matters (not Sweden, not wireless).\n\nAs well as that they should fire whatever board member or executive gave into local media criticisms:\n\nAnd told the CEO to prioritize on non-photonics / near term revenue, since the discussions was on AllSpace + pipeline conversion now. Not Ayar/GFS and H2 2027/2028 opportunities.\n\nIt’s not hard to set clear future goals like NASDAQ listing filing by H1 2027 and use all your resources to execute on that. \n\nNot vague post and language hedge like  no-growth conservative companies do.\n\nI’d argue this is better long term so they consolidate around:\n\nNPO/CPO, US funding, and forward vision + execution through scaling/M&A.\n\nIncluding divesting wireless/satcom/5G to 100% focus on photonics, if those are redirecting priorities.\n\nI’m still holding my 1M+ share count position but not going to blindly cheerlead or hold a company if they become misaligned on what I originally invested in them for (CPO).",
+      "created_at": "Wed Sep 02 08:22:38 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2095055422268780682",
+        "text": "@aleabitoreddit $SIVE is tanking to oblivion",
+        "created_at": "Wed Sep 02 07:45:11 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1831670776128303104",
+          "name": "Elpida Lymperi",
+          "screen_name": "ElpidaLymp33598",
+          "description": "",
+          "followers_count": 3,
+          "friends_count": 2,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 3,
+          "reply_count": 2,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 15,
+        "favorite_count": 397,
+        "reply_count": 77,
+        "quote_count": 5
+      }
+    }
+  ]
+}
