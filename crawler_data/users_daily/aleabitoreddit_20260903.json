@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1025935,
+    "followers_count": 1025971,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260903",
-  "last_updated": "2026-09-03T18:29:21.623482",
-  "tweet_count": 5,
+  "last_updated": "2026-09-03T21:38:38.602297",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2095453263613341938",
@@ -177,6 +177,112 @@
         "favorite_count": 360,
         "reply_count": 31,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2095580088620449880",
+      "text": "Just an update to my DDR2/DDR3 memory idea with ESMT.  They reported August revenue (Taiwan sometimes does monthly reporting): \n\nJune revenue: ~$153M\nJuly: ~$214M\nAugust (new): ~$249M vs. $35.3m (last year)\n\nMonthly revenue has increased ~63% in two months despite reportedly similar 2026 wafer allocations to 2025 (MoneyDJ report).\n\nThe profitability is already really high as seen with July's monthly revenue (where they reported ~$109M net income).\n\nSo if pricing holds, and revenue increases, that would be very nice... \n\nNow a lot of US people don't really care since it's in Taiwan, but if you're in the $MU / $SKHY, $SNDK trade. \n\nJust educational purposes, it's a second order effect where your leading memory players prioritize AI/DC higher end memory and reduce allocations to older generations (causing shortages).\n\nBut... DDR4 since prices going up too much, so older gen memory products (DDR4) are getting redesigned with older gen memory (DDR3). And DDR3 products with DDR2. \n\nAnd so on. Causing cascading supply chain shortages.\n\n(DDR2 for example is boring/old memory used for cameras, printers, automotive back in the 2000s and not many ppl make them anymore). \n\nAnd even your old DDR2 suppliers like Winbond are gradually withdrawing from the market too... \n\nSo ESMT is the beneficiary of DDR3/DDR2 shortages. \n\nTLDR:\n\nESMT August revenue was ~$249M, up from ~$214M last month.",
+      "created_at": "Thu Sep 03 18:30:01 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2095570270312640512",
+          "url": "https://pbs.twimg.com/media/HRT2DtvasAAi59o.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2095574248911937536",
+          "url": "https://pbs.twimg.com/media/HRT5rTLaIAAhhCW.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2092789800428622128",
+        "text": "I wanted exposure to DDR2/DDR3 bottleneck ongoing and found ESMT (3006). \n\nA $2.5B MC fabless company with PSMC wafer allocation (esp. focused on DDR2). \n\nLast month's net income was: $109.5M (July month), which annualized is $1.31B net profit (1.9x runrate P/E). \n\nIf we look at net profit throughout the months tracking legacy DRAM price hikes:\n\nJan 2026: ~$16M (est)\nFeb 2026: ~$17M\nMar 2026: ~$31M (est)\nApril 2026: ~$58M\nMay 2026: ~$60M (est)\nJune 2026: ~$67M (est)\nJul 2026: ~$110M\n(Estimated months are inferred from reported quarterly totals. July is company reported)\n\nThis earnings progression reminds me of $SNDK style price hikes + earnings inflection (esp. the report released this month). \n\nAnd I do expect DDR2/DDR3 capacity to remain constrained throughout 2027 (with legacy players like Winbond withdrawing from certain lines too like DDR2).\n\nIt's not quite all inventory liquidation like the other peers. Sure lower cost inventory helped, but the primary driver seems to be the widening spread between wafer costs/supply and legacy dram ASPs?\n\nTheir balance sheet is extremely solid as well:\n\n- Cash on hand: ~$395.9M net cash\n- $249.6M inventory, $146.3M receivables\n\nAnd the net income progression... is before further legacy DRAM hikes expected in Q3. \n\n*disclosure own positions, NFA\n\nIt's always a bit daunting being early without much commentary around the idea. Wondering if anyone can stress test this thesis?\n\nSince a company that grew monthly net income from $16M -> $100m this year alone (July Annualized would be 1.9x P/E). \n\nAnd benefits from another projected wave of DDR2/DDR3 hikes this quarter... maybe like 35-40% for DDR2 lines per Trendforce, and DDR3 likely continuing to rise. \n\nDo markets just not know about this bottleneck/company or am I missing something from my research?",
+        "created_at": "Thu Aug 27 01:42:25 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2092782336635273216",
+            "url": "https://pbs.twimg.com/media/HQsOcndbgAAGsBT.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1025971,
+          "friends_count": 206,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 40,
+          "favorite_count": 834,
+          "reply_count": 72,
+          "quote_count": 7
+        }
+      },
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 191,
+        "reply_count": 20,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2095590610967421206",
+      "text": "OpenAI GPT-6 Astra benchmarks got released. Looks both AGI and the Singularity are almost here.\n\nThe leap in eval performance:\n\nFrom 78.5% -> 100% on ExploitBench to 22.4% -> 64.6% on the Science benchmark is enormous. \n\nAnd the most striking part is the VP of Research comment around: \n\n\"Astra was also OpenAI's first model that involved previous AI models very heavily in the training process, with the older generations helping train the new one.\"\n\nSo we also get the beginnings of recursive self-improvement as a bonus. \n\nI don't think Bernie Sanders will be too happy about this?",
+      "created_at": "Thu Sep 03 19:11:50 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2095588114131800064",
+          "url": "https://pbs.twimg.com/media/HRUGSXJbUAAKvNM.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2095589067350282241",
+          "url": "https://pbs.twimg.com/media/HRUHJ2KbEAEw1Q9.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2095583170959741111",
+        "text": "@aleabitoreddit Could you post your thoughts on the new Astra 6 benchmarks from open AI ? Seems like we are getting closer and closer to AGI",
+        "created_at": "Thu Sep 03 18:42:16 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1508425587471364105",
+          "name": "Wolfex",
+          "screen_name": "Wolfex_Yeat",
+          "description": "",
+          "followers_count": 53,
+          "friends_count": 194,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 4,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 12,
+        "favorite_count": 221,
+        "reply_count": 23,
+        "quote_count": 3
       }
     }
   ]
