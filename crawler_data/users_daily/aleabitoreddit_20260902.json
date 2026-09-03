@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1025631,
+    "followers_count": 1025678,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260902",
-  "last_updated": "2026-09-02T21:43:22.997972",
-  "tweet_count": 7,
+  "last_updated": "2026-09-03T00:00:32.870576",
+  "tweet_count": 8,
   "tweets": [
     {
       "id": "2095012962360828314",
@@ -194,6 +194,57 @@
         "favorite_count": 245,
         "reply_count": 31,
         "quote_count": 6
+      }
+    },
+    {
+      "id": "2095279986701951461",
+      "text": "$AVGO CEO: \"Demand for lasers, whether it is EML lasers, CW lasers.\n\nIs far surpassing supply out there in the industry\"\n\nPretty material coming from one of the largest laser suppliers in the world... Even while they 3x laser capacity. \n\nExciting validation for laser companies. https://t.co/l4alSsexMT",
+      "created_at": "Wed Sep 02 22:37:31 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2095278879120498688",
+          "url": "https://pbs.twimg.com/media/HRPtCg9bIAATqld.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2095261816767283663",
+        "text": "There we go, $AVGO earnings call to clarify miss. Broadcom expects:\n\nFY27E: ~$115B (+100% growth)\nFY28E: ~$230B (+100%), think analysts were modeling ~$180B. \n\nDemand actually exceeds this outlook, and Broadcom will work to improve supply. This is way above street estimates, similar to $NVDA earnings. \n\n\"very much on target to exceed $30 in earnings per share in fiscal 2028.\" ~12.2x forward p/e (of $367/share)\n\nAlso just a brownie quote: \"AI networking revenue is expected to grow just as fast as XPUs over the next few years.\"\n\nWay more bullish forward guidance relative to next soft quarter revenue projections, think the few percent AH selloff was an overreaction.\n\nJust my initial thoughts.",
+        "created_at": "Wed Sep 02 21:25:19 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2095261025335758849",
+            "url": "https://pbs.twimg.com/media/HRPczSbb0AEZvdv.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1025678,
+          "friends_count": 206,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 42,
+          "favorite_count": 723,
+          "reply_count": 61,
+          "quote_count": 11
+        }
+      },
+      "stats": {
+        "retweet_count": 24,
+        "favorite_count": 374,
+        "reply_count": 39,
+        "quote_count": 10
       }
     }
   ]
