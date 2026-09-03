@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1025886,
+    "followers_count": 1025935,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260903",
-  "last_updated": "2026-09-03T14:21:04.883107",
-  "tweet_count": 3,
+  "last_updated": "2026-09-03T18:29:21.623482",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2095453263613341938",
@@ -111,6 +111,72 @@
         "favorite_count": 478,
         "reply_count": 46,
         "quote_count": 5
+      }
+    },
+    {
+      "id": "2095546138510459218",
+      "text": "This is the correct response when looking at $SIVE >100m CW DFB extraordinary capacity disclosure.\n\nTo give some context, Trendforce July data cites global CW/EML capacity is roughly 608.4M/year (~50.7M monthly units annualized). \n\nWith $AVGO, $LITE, and Sumitomo making up ~335m/year combined. \n\nBy Q4 2027, it's likely a lot of these players will significantly expand capacity again, with broadcom citing 3x Y/Y growth.  (also capacity not being 1:1 since many are allocated to EML or UHP CWs, etc). \n\nBut this capacity target would place Sivers in global Tier 1 laser supplier category. \n\nWith possibly low double digits global laser market share if you factor in their hybrid 2:1 manufacturing model.\n\nThis new disclosure is very exciting coming from a conservative company.\n\nAnd sheds more light on why the $MRVL SVP cited Europe as a major geography when talking about laser supply chain sourcing.",
+      "created_at": "Thu Sep 03 16:15:07 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2095546123444535296",
+          "url": "https://pbs.twimg.com/media/HRTgGLpbwAA407G.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2095525765580550502",
+        "text": "@aleabitoreddit Holy fuck",
+        "created_at": "Thu Sep 03 14:54:10 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1945685056854376448",
+          "name": "Jordan Orsak",
+          "screen_name": "LcubedInvest",
+          "description": "28 year old dad-to-be, fanatic investor since 13, Colorado based",
+          "followers_count": 50,
+          "friends_count": 344,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 12,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 43,
+        "favorite_count": 631,
+        "reply_count": 49,
+        "quote_count": 13
+      }
+    },
+    {
+      "id": "2095565402223038651",
+      "text": "$DELL founder is a legend.\n\nThe Dell family pledged $6.25B / $250 each to 25M children through Trump Accounts, with $HOOD (up 14.83%+ today) as the initial sole brokerage. \n\nLittle off topic but getting the public invested early is very meaningful compared to the dollar amount. https://t.co/Xwrp7lMPyS",
+      "created_at": "Thu Sep 03 17:31:40 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2095563905791840256",
+          "url": "https://pbs.twimg.com/media/HRTwRQDaUAA78ft.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 16,
+        "favorite_count": 360,
+        "reply_count": 31,
+        "quote_count": 0
       }
     }
   ]
