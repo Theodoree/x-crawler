@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1026506,
+    "followers_count": 1026566,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260904",
-  "last_updated": "2026-09-04T18:15:55.376573",
-  "tweet_count": 4,
+  "last_updated": "2026-09-04T21:21:25.340954",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2095802636876619928",
@@ -125,6 +125,96 @@
         "favorite_count": 1087,
         "reply_count": 94,
         "quote_count": 17
+      }
+    },
+    {
+      "id": "2095948411463999892",
+      "text": "RT @MichaelDell: Thanks",
+      "created_at": "Fri Sep 04 18:53:36 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2095929311639289958",
+        "text": "Thanks",
+        "created_at": "Fri Sep 04 17:37:43 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2095565402223038651",
+          "text": "$DELL founder is a legend.\n\nThe Dell family pledged $6.25B / $250 each to 25M children through Trump Accounts, with $HOOD (up 14.83%+ today) as the initial sole brokerage. \n\nLittle off topic but getting the public invested early is very meaningful compared to the dollar amount. https://t.co/Xwrp7lMPyS",
+          "created_at": "Thu Sep 03 17:31:40 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2095563905791840256",
+              "url": "https://pbs.twimg.com/media/HRTwRQDaUAA78ft.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1940360837547565056",
+            "name": "Serenity",
+            "screen_name": "aleabitoreddit",
+            "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+            "followers_count": 1026566,
+            "friends_count": 209,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 56,
+            "favorite_count": 1145,
+            "reply_count": 53,
+            "quote_count": 3
+          }
+        },
+        "user": {
+          "id": "58560480",
+          "name": "Michael Dell 🇺🇸",
+          "screen_name": "MichaelDell",
+          "description": "Husband, Father, Grandfather, Brother, Founder, Chairman and CEO Dell Technologies Grateful 🇺🇸 #PlayNiceButWin https://t.co/3JiGiLQq1C",
+          "followers_count": 7899350,
+          "friends_count": 4216,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 47,
+          "favorite_count": 1469,
+          "reply_count": 31,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 47,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2095957075302273257",
+      "text": "OpenAI's Astra is now available. https://t.co/foqBHhPGkH",
+      "created_at": "Fri Sep 04 19:28:02 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2095955076645089280",
+          "url": "https://pbs.twimg.com/media/HRZUCZCbcAAbhAX.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 8,
+        "favorite_count": 690,
+        "reply_count": 50,
+        "quote_count": 2
       }
     }
   ]
