@@ -1,0 +1,46 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNFA DYOR, no paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1026099,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260904",
+  "last_updated": "2026-09-04T09:28:26.896350",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2095802636876619928",
+      "text": "China reportedly halts some rare earth shipments to US.\n\nNot a new blanket ban, or any mention of specific rare earths. \n\nBut… if I had to guess, Japan is usually a decent indicator of what’s actively important since Japan:\n\n- “sources virtually all of its dysprosium and terbium from China.”\n- gallium, dysprosium, terbium and yttrium from China to Japan all stood at “zero” in June. \n- Shin-Etsu Chemical has reportedly suspended acceptance of new orders for magnets containing dysprosium.\n- Global magnet producer Proterial had received no export licenses for Chinese dysprosium as of last month\n\nThe Reuters piece mentioned yttrium, gallium, terbium, indium phosphide, and tungsten as historical examples (doesn’t say what’s being targeted now).\n\nOn a side note, $LYC.AX is becoming one of the most important alternatives, as Japan has locked up 75% of Lynas’s medium/heavy rare-earth output. (8 tons of dysprosium + terbium in Q1)\n\nSomething fun I also read is that Japan’s deep sea resource is enormous (est. at 16 million tons of rare earth rich mud, but commercialization is post-2028)\n\nBut in the meantime, China seem to be choking off feedstock that would materially affect Japan.\n\nSince you’ve already seen the WF6 Japanese industry stressed from tungsten related halts.\n\nAnd indium/others earlier this year that is used to make InP substrates from Sumitomo/JX.\n\nBut still gradually allowing exports directly eg. $AXTI -> $LITE to allow US/China trade to continue, kinda disrupting that from time to time, then using that as leverage.\n\nIt’s interesting since Japan has so many different monopolies like ABF, so we’ll see if they do anything back.\n\nBut if I had to give a prediction, it does look like the US has a countdown timer until China becomes self-sufficient on semiconductors.\n\nTLDR:\n- rare earth disruption to US\n- China actively targeting Japan for upstream feedstock (which goes to Us supply chains), probably want to focus on that\n- many many second/third order effects from disruptions\n- we’ll see what US/Japan wants to do back, but supply chain wars are being fought upstream.",
+      "created_at": "Fri Sep 04 09:14:21 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2095802625447075840",
+          "url": "https://pbs.twimg.com/media/HRXJYkEaoAAg8Ff.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2095802625451307008",
+          "url": "https://pbs.twimg.com/media/HRXJYkFbMAApy0n.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2095802625434505216",
+          "url": "https://pbs.twimg.com/media/HRXJYkBa0AAoD6-.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 9,
+        "favorite_count": 87,
+        "reply_count": 20,
+        "quote_count": 3
+      }
+    }
+  ]
+}
