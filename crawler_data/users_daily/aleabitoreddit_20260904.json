@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1026390,
+    "followers_count": 1026506,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260904",
-  "last_updated": "2026-09-04T14:10:28.544537",
-  "tweet_count": 3,
+  "last_updated": "2026-09-04T18:15:55.376573",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2095802636876619928",
@@ -110,6 +110,21 @@
         "favorite_count": 390,
         "reply_count": 42,
         "quote_count": 19
+      }
+    },
+    {
+      "id": "2095882424932766163",
+      "text": "Let me get this straight chat… you have:\n\n$NVDA 70% supply constrained revenue growth projections (would be 100%+)\n\n$AVGO AI revenue growing 100%+ Y/Y for next 2 years from mid ~$50B -> $230B\n\nOpenAI Astra blowing away AGI benchmarks and starting to train itself.\n\n$MSFT / $GOOGL / $AMZN stating compute demand imbalances into next year, with Nvidia projecting $1.3T spend for 2027.\n\nYou’re seeing this flow through supply chains from Samsung 70% capacity LTAs into 2031 to Powertech advanced packaging capacity 100% booked into 2030.\n\nEven your legacy players like Winbond are starting 2029-2030 allocations.\n\nMarkets always have temporary drawdowns and macro scares… but…\n\nHow can anyone not think AI stock go brrr?",
+      "created_at": "Fri Sep 04 14:31:24 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 64,
+        "favorite_count": 1087,
+        "reply_count": 94,
+        "quote_count": 17
       }
     }
   ]
