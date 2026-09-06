@@ -1,0 +1,36 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1027335,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260906",
+  "last_updated": "2026-09-06T09:17:09.774516",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2096455073580908908",
+      "text": "I’m not sure how OpenAI was likely holding off their IPO to 2027.\n\nBecause they had concerns about a $1T valuation 3 months ago.\n\nThen Anthropic investors go and say **** it, lets one-up $SPCX and IPO at $2T next month? https://t.co/wkMuzkCrzd",
+      "created_at": "Sun Sep 06 04:26:54 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2096455066945470464",
+          "url": "https://pbs.twimg.com/media/HRgaxqDaQAABKFN.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 19,
+        "favorite_count": 509,
+        "reply_count": 40,
+        "quote_count": 6
+      }
+    }
+  ]
+}
