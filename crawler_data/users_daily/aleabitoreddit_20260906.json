@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1027335,
+    "followers_count": 1027578,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260906",
-  "last_updated": "2026-09-06T09:17:09.774516",
-  "tweet_count": 1,
+  "last_updated": "2026-09-06T16:51:56.884296",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2096455073580908908",
@@ -30,6 +30,51 @@
         "favorite_count": 509,
         "reply_count": 40,
         "quote_count": 6
+      }
+    },
+    {
+      "id": "2096605093986787380",
+      "text": "I asked OpenAI Astra Ultra + Anthropic Fable 5.1 Max to make me a 5x-10x return type portfolio in 1 year. \n\nBurnt a lot of credits, and the results are in: \n\nOpenAI: - $KYTX (autoimmune CAR-T results)\n- $PRQR (human RNA-editing datasets)\n- $VSTM (KRAS cancer-drug)\n- $CNTB (asthma and COPD)\n- $RANI (oral biologics)\n- $IVA (MASH)\n- $SILC (networking + inference hardware)\n- $AMPX (batteries)\n- $EOSE (batteries)\n- $ZVRA (rare-disease drug growth)\n\nAnthropic: - $INO (respiratory papillomatosis)\n- $CAPR (PDUFA for deramiocel)\n- $GOSS (seralutinib)\n- $SLS (Phase 3 binary)\n- $IREN (familiar face)\n- $WULF (familiar face)\n- $OKLO (nuclear)\n- $SMR (nuclear)\n- $RGTI (quantum)\n- $QBTS (quantum)\n\n*Disclosure don't own any of these aside from 1 share in IREN, not a recommendation, just TLDR of LLM output for educational purposes. \n\nSo very interesting results:\n\nOur beloved AGI Astra prefers really obscure biotech I've never heard about. And a few familiar names like $EOSE and $AMPX. \n\nAnd Fable... yeah idk, feels like it learned a little too much from /r/wallstreetbets and X but maybe it's right, who knows.  \n\nAnyway no judgement, I'll save this and revisit it in a few months. If one of them actually delivers... I'll be impressed.",
+      "created_at": "Sun Sep 06 14:23:02 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2095957075302273257",
+        "text": "OpenAI's Astra is now available. https://t.co/foqBHhPGkH",
+        "created_at": "Fri Sep 04 19:28:02 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2095955076645089280",
+            "url": "https://pbs.twimg.com/media/HRZUCZCbcAAbhAX.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1027578,
+          "friends_count": 209,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 21,
+          "favorite_count": 1655,
+          "reply_count": 74,
+          "quote_count": 7
+        }
+      },
+      "stats": {
+        "retweet_count": 156,
+        "favorite_count": 2011,
+        "reply_count": 166,
+        "quote_count": 36
       }
     }
   ]
