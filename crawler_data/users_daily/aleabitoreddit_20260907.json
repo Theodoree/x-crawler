@@ -1,0 +1,111 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1028104,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260907",
+  "last_updated": "2026-09-07T10:06:26.706436",
+  "tweet_count": 3,
+  "tweets": [
+    {
+      "id": "2096814311306129776",
+      "text": "Got curious and decided to track which thesis of mine were still up 100%+ YTD after the recent drawdown: \n\n1. $AXTI - InP substrates\n2. $NBIS - Neoclouds\n3. $MU - Memory\n4. $INTC - Foundry\n5. $LITE - Photonics\n6. $IQE - Epiwafers\n7. $AAOI - Photonics\n8. $GDRZF - Venezuela\n9. $AEHR - Machines\n10. $EWY (volatility + underlying)\n11. $RPI - AI orchestration\n12. $SOI - SIlicon Photonics Substrates\n13. $SNDK - Memory\n14. $SIMO - Memory\n15. $MRVL - ASICs\n16. Nanya - memory\n17. Unimicron - substrates\n18. $ARM - CPUs\n19. $SIVE - Photonics\n\nFrom H1 2026, around 19 names across several themes up 100%+ still from the selection of winners.  \n\nSince many like $TSEM / $HPS.A / $LPK / $ALRIB fell out of the range. (obviously not all are green like Shunsin / $XFAB and disappointed by performance). \n\nRegardless, glad a lot of my ideas turned out decently, rather than just being known for one like $AXTI. To the point the Chinese community gave my investing style a name \"Perilla Leaf Theory\".\n\nAgain not too sure if my new ideas replicate this performance again in H2 2026 or 2027... \n\nFor H2, my new thesis was on $CCXI for humanoids/downstream physical AI shift and ESMT for DDR2/DDR3/legacy memory. \n\nBut I'll keep sharing my core ideas and thought process for free so people can poke holes or debate it until things get validated.",
+      "created_at": "Mon Sep 07 04:14:23 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 90,
+        "favorite_count": 1174,
+        "reply_count": 71,
+        "quote_count": 10
+      }
+    },
+    {
+      "id": "2096858276290015563",
+      "text": "Is there any other industry... Where every investor is cheering for shortages and price hikes? \n\nSED reported today that: Samsung / $SKHY \"stockpiles have fallen to less than 10 days of supply, and a severe shortage could emerge next year, according to a new forecast\"\n\nKB Securities said that the memory market next year will see \"the tightest supply conditions in history\"\n\nKB Securities projects memory's share of AI infrastructure costs to expand from 40% this year to 57% next year, with others like TrendForce placing next year's figure at 68% (total hyperscaler capex, pretty wild forecast attached)\n\n\"Both stocks have fallen 38% from their peaks over the past three months, pushing their price-to-earnings ratios based on next year's expected results down to about three times.\"\n\nLikewise, commentary around Phison stated they expect extremely tight NAND supply in 2027, so hard to see memory flooding the market or prices collapsing next year... \n\nThey gave some color that \"soaring NAND prices have forced some Chinese consumer module makers to liquidate inventory, giving Phison opportunities to buy lower-priced stock\", so it does show some price declines can coexist with broader shortages. \n\nTLDR: KOSPI + read through for other names like $MU / $SNDK might be happy for 2027 given demand causing shortages + infra spend share increase.",
+      "created_at": "Mon Sep 07 07:09:05 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2096856707150614528",
+          "url": "https://pbs.twimg.com/media/HRmIEMabkAAXr64.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2096857979870126080",
+          "url": "https://pbs.twimg.com/media/HRmJORqaIAAWvfs.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 20,
+        "favorite_count": 346,
+        "reply_count": 55,
+        "quote_count": 6
+      }
+    },
+    {
+      "id": "2096890295128625153",
+      "text": "I'll let you decide that for yourself since that was an illustrative laser revenue modeling off $SIVE 100M CW DFB laser/year target. \n\nBut... do you want to know the main reason I like laser companies so much?\n\nThey don't just have to stay laser companies... just look at $LITE! \n\nIf we look at Lumentum's previous Cloud Light acqusition (pluggables)... it enabled: \n\n- more than a 5X+ expansion in served opportunity inside DCs. \n\nFrom Lumentum's OFC deck:\n\n- ELS expansion from UHP laser chips was 2X TAM opportunity..\n\nBut selling lasers alone... just from one UHP laser fab was $5B in projected revenue capacity (their fab expected to ramp in early 2028), if we apply similar 55-65% CPO laser margin quotes by $AAOI. \n\nSo lasers by itself is very profitable, and despite industry capacity expansion, there would likely still be a demand imbalance for lasers. \n\nIsn't that pretty cool? \n\nSo it's not quite just modeling component value for certain types of companies since they can keep growing into other products. \n\nAnd you have new overlapping cycles eg. NPO/CPO/1.6T pluggables increasing demand. \n\nSo I'd personally assign higher premiums for laser companies over types of suppliers that stay in the same layer.",
+      "created_at": "Mon Sep 07 09:16:19 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2096884727332651008",
+          "url": "https://pbs.twimg.com/media/HRmhjLuawAA25YS.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2096884740565659648",
+          "url": "https://pbs.twimg.com/media/HRmhj9BacAAf7-O.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2096884751592542208",
+          "url": "https://pbs.twimg.com/media/HRmhkmGbUAAUWU1.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2096860555327803768",
+        "text": "@aleabitoreddit What do you think is a fair revenue multiple you would assign to $SIVE if their recent expansion is able to deliver on $625M-$1.25B of annualized revenue?",
+        "created_at": "Mon Sep 07 07:18:08 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1931061774037704704",
+          "name": "panacea",
+          "screen_name": "wannabepanacea",
+          "description": "",
+          "followers_count": 20,
+          "friends_count": 9,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 11,
+        "favorite_count": 189,
+        "reply_count": 20,
+        "quote_count": 5
+      }
+    }
+  ]
+}
