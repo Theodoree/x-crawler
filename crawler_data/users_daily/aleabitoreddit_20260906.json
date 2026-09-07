@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1027820,
+    "followers_count": 1027965,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260906",
-  "last_updated": "2026-09-06T23:43:48.304029",
-  "tweet_count": 3,
+  "last_updated": "2026-09-07T04:12:44.063683",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2096455073580908908",
@@ -120,6 +120,62 @@
         "favorite_count": 123,
         "reply_count": 22,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2096749796023538032",
+      "text": "Oh cool! $SIVE also made it there on cnyes too (leading Taiwan financial media)!\n\nThe English translation might be off a bit, but this was summarizing Sivers surprising 100M+ CW DFB annual laser capacity expansion, ~ operational Q4 2027.\n\nAnd how given historical ASP from previous year presentation slides, it could translate to $625M-$1.25B capacity revenue ceiling at full utilization.\n\nSivers might be of more interest given its partnerships with local foundries like Win Semi.\n\nAnd since its downstream partners like Ayar (Mediatek / Alchip CPO partner) are heavily investing in Taiwanese optical supply chains.",
+      "created_at": "Sun Sep 06 23:58:01 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2096749788024999938",
+          "url": "https://pbs.twimg.com/media/HRkm0robEAI5H4G.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2096749788025028608",
+          "url": "https://pbs.twimg.com/media/HRkm0robgAA9RWx.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2096721917386641756",
+        "text": "I didn’t know my ESMT thesis was making some rounds in Taiwanese media like Cnyes/Anue.\n\nJust found it funny that I wanted to read about any recent commentary, then my name kept appearing…\n\nSpecial thanks to BlockBeats for the original coverage. https://t.co/nS0lBHJmgH",
+        "created_at": "Sun Sep 06 22:07:14 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2096721909614530560",
+            "url": "https://pbs.twimg.com/media/HRkNd8daUAA2WwO.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1027965,
+          "friends_count": 209,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 8,
+          "favorite_count": 238,
+          "reply_count": 31,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 21,
+        "favorite_count": 399,
+        "reply_count": 22,
+        "quote_count": 5
       }
     }
   ]
