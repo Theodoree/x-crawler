@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1028371,
+    "followers_count": 1028468,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260907",
-  "last_updated": "2026-09-07T16:23:40.702167",
-  "tweet_count": 5,
+  "last_updated": "2026-09-07T20:27:19.562188",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2096814311306129776",
@@ -182,6 +182,21 @@
         "favorite_count": 688,
         "reply_count": 62,
         "quote_count": 6
+      }
+    },
+    {
+      "id": "2097005818302607682",
+      "text": "I don’t think I want to be in this timeline anymore. \n\nWe got AGI with Astra and Hunter Biden $LAPTOP in the same weekend.",
+      "created_at": "Mon Sep 07 16:55:22 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 9,
+        "favorite_count": 439,
+        "reply_count": 33,
+        "quote_count": 3
       }
     }
   ]
