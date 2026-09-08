@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1028896,
+    "followers_count": 1029083,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260908",
-  "last_updated": "2026-09-08T09:31:15.953249",
-  "tweet_count": 2,
+  "last_updated": "2026-09-08T14:21:21.883516",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2097200456090952096",
@@ -85,6 +85,104 @@
         "favorite_count": 257,
         "reply_count": 37,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2097309699645546763",
+      "text": "Wow, $HOOD has taken minority ownership in Crypto‌.com.\n\nIt does feel like the future of the finance industry is slowly consolidating around Stripe/Robinhood.\n\nEspecially after the successful expansion of Robinhood Chain, Prediction Markets, and Credit Cards/Banking. https://t.co/FXZTmVaIo5",
+      "created_at": "Tue Sep 08 13:02:53 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2097309692964028416",
+          "url": "https://pbs.twimg.com/media/HRskDcEawAA6qaW.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 19,
+        "favorite_count": 343,
+        "reply_count": 42,
+        "quote_count": 6
+      }
+    },
+    {
+      "id": "2097321349555306512",
+      "text": "$AMZN signs a new deal with $QCOM, giving Amazon the right to buy a ~$4B stake of Qualcomm through warrants.\n\nAt this rate.. Amazon will be more of a semi ETF than $NVDA?\n\nGiven their existing equity/warrants with AlChip, $MRVL, $ALAB, $AAOI, and others.\n\nThis of course is linked with up to $60B in milestone revenue from Amazon/Qualcomm custom silicon partnership.\n\nGood for both companies, moreso Qualcomm.",
+      "created_at": "Tue Sep 08 13:49:10 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2097321341309571072",
+          "url": "https://pbs.twimg.com/media/HRsupdiaUAASdF1.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 17,
+        "favorite_count": 231,
+        "reply_count": 27,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2097327653116363127",
+      "text": "$NBIS is back, and coming in hot with a new partnership with $PLTR.\n\nPalantir also named Nebius its preferred sovereign AI infrastructure partner.\n\nThe implications are potentially significant considering Palantir’s existing relations with the US Gov + Enterprises. https://t.co/izCDuR4r6Q",
+      "created_at": "Tue Sep 08 14:14:13 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2097327645667311616",
+          "url": "https://pbs.twimg.com/media/HRs0YbGbQAAl6-u.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2097327645675712512",
+          "url": "https://pbs.twimg.com/media/HRs0YbIbcAAmplu.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "1990452960758042917",
+        "text": "Nebius [ $NBIS ] at $86.69 is the purest Neocloud and AI-infra asymmetry left. \n\nThis is the highest revenue Neocloud untouched by $CIFR | $WULF and colo providers that has no:\n\n- Plaguing uncertainty that $IREN, $ORCL face from  full-stack execution. \n\n- High interest debt that $CRWV, $APLD, and others face.\n\n- Revenue uncertainty at scale with Hyperscaler contracts that $CLSK, $BITF, $WYFI, $SLNH, and others lack. \n\nAfter the market-wide drop with the AI sector overrun by fear: \n\nNebius is going forward with: $8B midpoint ARR next year, $4.7B+ in cash, diversification in enterprise clients from ( $META, $MSFT, $ACN, $SHOP, Governments), hyper-growth portfolio companies, and a proven full-stack high-margin business.\n\nWith extreme demand, execution uncertainty (margins), and isolation from current issues plaguing the markets with OpenAI contract dependency and credit tightening:\n\nNothing even comes close to Nebius in terms of asymmetrical upside.\n\nYou are simply just waiting for company execution.",
+        "created_at": "Mon Nov 17 16:12:21 +0000 2025",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "1990452544116854784",
+            "url": "https://pbs.twimg.com/media/G5-CCwJbkAAg9s_.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1029083,
+          "friends_count": 209,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 26,
+          "favorite_count": 412,
+          "reply_count": 30,
+          "quote_count": 9
+        }
+      },
+      "stats": {
+        "retweet_count": 9,
+        "favorite_count": 150,
+        "reply_count": 16,
+        "quote_count": 4
       }
     }
   ]
