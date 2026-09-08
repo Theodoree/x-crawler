@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1029267,
+    "followers_count": 1029344,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260908",
-  "last_updated": "2026-09-08T18:29:27.809611",
-  "tweet_count": 7,
+  "last_updated": "2026-09-08T21:46:05.380572",
+  "tweet_count": 8,
   "tweets": [
     {
       "id": "2097200456090952096",
@@ -259,6 +259,37 @@
         "favorite_count": 430,
         "reply_count": 29,
         "quote_count": 9
+      }
+    },
+    {
+      "id": "2097399066959491480",
+      "text": "How https://t.co/pkCKZ7zIrK",
+      "created_at": "Tue Sep 08 18:58:00 +0000 2026",
+      "lang": "und",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2097398661408006144",
+          "url": "https://pbs.twimg.com/media/HRt0-FWaoAAg3id.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2097399001427709952",
+          "url": "https://pbs.twimg.com/media/HRt1R4BbkAAaPDs.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2097399001444470784",
+          "url": "https://pbs.twimg.com/media/HRt1R4FbUAAkcmc.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 315,
+        "reply_count": 26,
+        "quote_count": 3
       }
     }
   ]
