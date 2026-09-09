@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1030152,
+    "followers_count": 1030466,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260909",
-  "last_updated": "2026-09-09T09:34:20.865667",
-  "tweet_count": 3,
+  "last_updated": "2026-09-09T14:22:18.342327",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2097563877273989456",
@@ -154,6 +154,51 @@
         "favorite_count": 688,
         "reply_count": 114,
         "quote_count": 22
+      }
+    },
+    {
+      "id": "2097660318369697875",
+      "text": "Citibank TMT:  \"lasers and optical fibers are being positioned as the \"next HBM.\" \n\nI've been talking about lasers like $LITE / $AAOI since 2025... and architectural shifts toward CW, ahead of the current industry consensus.\n\nAnd fully agree with Lightmatter/Citi.\n\nJust for reference: \n\nFor lasers: $LITE / $SIVE / $AAOI / $COHR / $MTSI / Furukawa / Sumitomo are your better known ones.\n\nFor fiber: $GLW / Furukawa / Fujikura / Sumitomo are your more well-known exposure (obviously a lot more in the supply chain) *disclosure, personal exposure to theme\n\nWith added commentary that: \"Tight supply conditions will support a scarcity premium for these assets.\"\n\nWe're already seeing price hikes with lasers as seen with $SIVE channel checks at CIOE 2026 Shenzhen today + $LITE commentary from earnings. \n\nSo I think the 2027–2028 photonics supercycle will look a lot like memory did in 2025–2026.\n\nEspecially as optical content/GPU-ASIC goes up significantly per Goldman Sachs revised estimates...",
+      "created_at": "Wed Sep 09 12:16:07 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2097656546935373825",
+          "url": "https://pbs.twimg.com/media/HRxfg_zbAAESNDV.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2097365614402969638",
+        "text": "Goldman Sachs in their recent note upgraded their global optical module market forecast to:  \n\n- $67.7 billion (+33% revision) for 2026\n- $131.4 billion (+81% revision) for 2027\n- $148.5 billion (+115% revision) for 2028\n\nFor $NVDA Rubin Ultra, GS increased its modeled optical modules per GPU:\n\n1.6T: 0 -> 2\n3.2T: 3 -> 5 \n\nGS also raised their 1.6T and above forecast for 2027 by 61%... so that's also very material, with 80% silicon photonics penetration rate estimated. \n\nSo more optical content per chip = a lot more CW lasers, more SOI substrates, happy optical companies.",
+        "created_at": "Tue Sep 08 16:45:04 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1030466,
+          "friends_count": 212,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 51,
+          "favorite_count": 882,
+          "reply_count": 54,
+          "quote_count": 19
+        }
+      },
+      "stats": {
+        "retweet_count": 48,
+        "favorite_count": 615,
+        "reply_count": 48,
+        "quote_count": 11
       }
     }
   ]
