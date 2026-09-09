@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1030466,
+    "followers_count": 1030738,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260909",
-  "last_updated": "2026-09-09T14:22:18.342327",
-  "tweet_count": 4,
+  "last_updated": "2026-09-09T18:29:19.549864",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2097563877273989456",
@@ -199,6 +199,27 @@
         "favorite_count": 615,
         "reply_count": 48,
         "quote_count": 11
+      }
+    },
+    {
+      "id": "2097743984596861401",
+      "text": "If you hid the ticker, you would think this was an AI bottleneck name. https://t.co/6rR1BWYRb9",
+      "created_at": "Wed Sep 09 17:48:34 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2097742072770150400",
+          "url": "https://pbs.twimg.com/media/HRytTQXbQAA2Xg5.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 171,
+        "reply_count": 28,
+        "quote_count": 0
       }
     }
   ]
