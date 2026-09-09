@@ -1,0 +1,160 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1030152,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260909",
+  "last_updated": "2026-09-09T09:34:20.865667",
+  "tweet_count": 3,
+  "tweets": [
+    {
+      "id": "2097563877273989456",
+      "text": "Special thank you to awodias for the crowdsourced channel check all the way from CIOE 2026 Shenzhen!\n\n- Confirmed that $SIVE is actively engaged with Chinese pluggable makers\n\n- $SIVE has raised lasers prices given tight supply\n\n- 70mW lasers seem the most tight given association with 800g pluggables\n\nIt’s pretty cool that our little community reaches all the way around the world.\n\n(Also thank you if other people did channel checks and I missed it, this was the first one I saw)",
+      "created_at": "Wed Sep 09 05:52:53 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2097550047433138382",
+        "text": "$SIVE — quick channel check from Sivers’ booth at CIOE 2026 today.\n\nStopped by Sivers’ booth and spoke with their Sales Director for China, Korea & Japan.\n\nA few takeaways from our conversation:\n\n1/ China customer engagement\n\nQ: Are you currently in contact with Chinese pluggable/transceiver players?\n\nA: Yes. This is Sivers’ first time exhibiting at CIOE. They are currently setting up their China office and are just starting to work with Chinese pluggable players.\n\nThey wouldn’t disclose any customer names.\n\n2/ CW laser pricing\n\nQ: What are you seeing on laser ASPs given the current supply environment?\n\nA: Supply is very tight, and Sivers has raised prices.\n\nThey wouldn’t disclose the magnitude of the price increases.\n\n3/ Where is supply tightest?\n\nQ: Which CW laser products are currently the most supply-constrained?\n\nA: 70mW is particularly tight, which they associated with 800G pluggable applications.\n\nThey also said tightness is fairly broad, including both 70mW and 100mW.\n\n200mW has not reached mass production yet.\n\n4/ Sivers’ own capacity\n\nQ: Does Sivers currently have enough supply/capacity to meet demand?\n\nA: Yes. They said they currently have sufficient supply and are actively expanding capacity.\n\n5/ A few observations from the booth\n\nSivers’ booth was very small, with only two people there when I visited — the Sales Director for China/Korea/Japan I spoke with and another representative whose title was Country Manager.\n\nThere were no physical products or demos on display. The booth was noticeably more minimal than larger semiconductor/optical vendors at CIOE such as GlobalFoundries, Tower Semiconductor and Credo.\n\nGiven that this is Sivers’ first CIOE and they are only now establishing their China office, my impression is that their China presence is still at a very early stage.",
+        "created_at": "Wed Sep 09 04:57:56 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2097550002960875520",
+            "url": "https://pbs.twimg.com/media/HRv-nUkaQAAqZv6.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2097550002960908288",
+            "url": "https://pbs.twimg.com/media/HRv-nUkawAAly4d.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2097550002977705985",
+            "url": "https://pbs.twimg.com/media/HRv-nUobEAEZ5_-.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "826353434760667136",
+          "name": "awodias",
+          "screen_name": "awodias",
+          "description": "Interested in AI & Tech :)",
+          "followers_count": 210,
+          "friends_count": 1026,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 17,
+          "favorite_count": 158,
+          "reply_count": 8,
+          "quote_count": 6
+        }
+      },
+      "stats": {
+        "retweet_count": 31,
+        "favorite_count": 589,
+        "reply_count": 37,
+        "quote_count": 9
+      }
+    },
+    {
+      "id": "2097588434189856875",
+      "text": "Demand for Astra is unprecedented to the point OpenAI might pause new Pro subscriptions.\n\nIf you want a translation: \n\nAI buildout + compute go brrr.",
+      "created_at": "Wed Sep 09 07:30:28 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2097559315150426222",
+        "text": "Demand for Astra is really unprecedented. We're pulling all the levers possible to sustain the demand, but I've not seen anything like it until now and we went through very steep growth before. Priority will always be to keep excellent service for existing users, but we might have to pause new Pro subscriptions for a bit if this continues.",
+        "created_at": "Wed Sep 09 05:34:46 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1953337039510003712",
+          "name": "Tibo",
+          "screen_name": "thsottiaux",
+          "description": "Codex & ChatGPT @OpenAI",
+          "followers_count": 627919,
+          "friends_count": 71,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 696,
+          "favorite_count": 11652,
+          "reply_count": 1570,
+          "quote_count": 893
+        }
+      },
+      "stats": {
+        "retweet_count": 18,
+        "favorite_count": 581,
+        "reply_count": 49,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2097601244898775465",
+      "text": "$NIKE 只需要做一件事，就能挽救自己的品牌形象 https://t.co/mhV2qUSSM3",
+      "created_at": "Wed Sep 09 08:21:22 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2097601236925386754",
+          "url": "https://pbs.twimg.com/media/HRwtNh9bkAIeXxV.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2097515668820349090",
+        "text": "@hazenlee 碳基是真不行😂 https://t.co/LkDkJemC1k",
+        "created_at": "Wed Sep 09 02:41:20 +0000 2026",
+        "lang": "ja",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2097515662638030848",
+            "url": "https://pbs.twimg.com/media/HRvfYc5boAA5mZj.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1550081756551946240",
+          "name": "Alpha哥AI投资日记 🌴 📈",
+          "screen_name": "AlphaguyTrading",
+          "description": "一个自由的老韭菜，趋势交易员（美股/Crypto/大宗）\n2025 Binance Top 1% ｜ 2026 YTD +150%\n主攻：AI、存储、半导体周期\n不带单、纯粹复盘，只聊硬核 Alpha\n没有收费群, 不会私聊任何人, 不碰任何人资金\n\n欢迎建设性讨论 ,大家一起提高认知, 多赚钱",
+          "followers_count": 15326,
+          "friends_count": 1943,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 29,
+          "reply_count": 3,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 35,
+        "favorite_count": 688,
+        "reply_count": 114,
+        "quote_count": 22
+      }
+    }
+  ]
+}
