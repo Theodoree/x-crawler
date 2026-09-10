@@ -1,0 +1,41 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1031260,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260910",
+  "last_updated": "2026-09-10T11:05:26.359606",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2097937708178186303",
+      "text": "Wow, HBM reportedly drove up AI accelerator/card prices by 20-50% in China.\n\nSo $SKHY, Samsung, $MU, should be happy to hear this:\n\n- Huawei has raised indicated pricing for the Ascend 950DT 20–50% above quotes from just 2 months ago\n\n- Cambricon's upcoming 690 is reportedly +20–30%\n\nReuters stated that HBM acquired through grey market channels in China can cost several times regular pricing. \n\nAs someone who is long memory, I'm happy about memory causing this much inflation.",
+      "created_at": "Thu Sep 10 06:38:22 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2097936070717644800",
+          "url": "https://pbs.twimg.com/media/HR1dvbCaoAA_J6j.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2097936618971881472",
+          "url": "https://pbs.twimg.com/media/HR1ePVcaYAA02aN.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 27,
+        "favorite_count": 547,
+        "reply_count": 48,
+        "quote_count": 6
+      }
+    }
+  ]
+}
