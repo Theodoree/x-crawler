@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1030738,
+    "followers_count": 1030873,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260909",
-  "last_updated": "2026-09-09T18:29:19.549864",
-  "tweet_count": 5,
+  "last_updated": "2026-09-10T00:02:17.844453",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2097563877273989456",
@@ -220,6 +220,37 @@
         "favorite_count": 171,
         "reply_count": 28,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2097815176838017066",
+      "text": "Anthropic's Economic Scenario publication was a pretty interesting read:\n\n1. Anthropic's \"extreme\" scenario has GDP growth reaching 15.4% in 2030\n\nSo around 7.3x current rates (~2.1% Y/Y), which is consistent with what Elon Musk is saying about outgrowing the national debt with AI.  \n\n2. Almost all of the divergence happens after 2027. \n\nTheir model shows relatively little separation in 2026-2027, then the curves bend sharply into 2028-2030. \n\nSo my read is that it points to 2026-2027 as buildout years and 2028-2030 as economic acceleration. \n\nKinda gets mapped as well when you look at $AMZN / $META / $GOOGL capex, and short term FCF headwinds (but massive projected profitability post 2028)\n\n3. In an extreme scenario, unemployment of knowledge workers goes to 17.9%. With 11.9% economy-wide unemployment\n\n\"At the individual level, it means coders and call service center agents may have to switch to jobs like electrician and nurse, which are less exposed to AI.\"\n\nGG computer science majors. \n\n4. Non-cognitive wages: +33.6% vs. baseline in an extreme scenario. \n\nSo your electricians/construction-type labor becomes extremely valuable? (but this isn't factoring in humanoids yet...)\n\nWhereas -11.5% for knowledge workers in 2030 vs. baseline. \n\n5. Aggregate capital income is ~81% higher than it would have been without AI\n\nProductivity explodes -> aggregate labor income barely changes -> essentially all of the incremental GDP accrues to capital.\n\nSo that makes ownership of capital rather than labor... so equities like compute, power, semis, networking, robotics, etc. become pretty important... \n\nTLDR:\n\n- Economic growth go brr\n- Jobs that require thinking = unemployment + lower wages\n- Physical labor = more important, like electricians. \n- AI equities go brrr.",
+      "created_at": "Wed Sep 09 22:31:28 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2097812448502005761",
+          "url": "https://pbs.twimg.com/media/HRztTqZawAEeasP.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2097812549475692544",
+          "url": "https://pbs.twimg.com/media/HRztZija8AAqQ3f.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2097814234663149568",
+          "url": "https://pbs.twimg.com/media/HRzu7oXa4AAPpxp.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 47,
+        "favorite_count": 373,
+        "reply_count": 35,
+        "quote_count": 7
       }
     }
   ]
