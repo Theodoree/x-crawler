@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1031830,
+    "followers_count": 1031882,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260911",
-  "last_updated": "2026-09-11T16:19:43.665933",
-  "tweet_count": 5,
+  "last_updated": "2026-09-11T19:32:03.736097",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2098291179523899475",
@@ -167,6 +167,72 @@
         "favorite_count": 321,
         "reply_count": 38,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2098460337364447442",
+      "text": "Apparently my \"bottleneck thesis\" has made it into a quant fund research pipeline?\n\nHope the institutions enjoy reading my takes on DDR2, CW lasers, and InP substrates...\n\nDidn't expect to end up in the same paragraph as Trump on a Friday. https://t.co/j5leamPwJV",
+      "created_at": "Fri Sep 11 17:15:06 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2098458282147078144",
+          "url": "https://pbs.twimg.com/media/HR84sINaYAACV2p.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 12,
+        "favorite_count": 416,
+        "reply_count": 48,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2098470900823916940",
+      "text": "What's the next $BWET if you guys have ideas?\n\nNeed more weird ideas like short dated tanker freight future ETFs...\n\nI didn't know this existed until last week. https://t.co/kguL6svZNj",
+      "created_at": "Fri Sep 11 17:57:05 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2098470224001658880",
+          "url": "https://pbs.twimg.com/media/HR9DjPFacAAMNPt.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2098462951753544091",
+        "text": "@aleabitoreddit You missed the $BWET tanker shipping bottleneck due to Drumpf's war for Netanyahu.\n\n$10 to $700 in a year.",
+        "created_at": "Fri Sep 11 17:25:29 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1048343535467073537",
+          "name": "out of the Nihilo ...",
+          "screen_name": "blulla1",
+          "description": "",
+          "followers_count": 136,
+          "friends_count": 174,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 21,
+          "reply_count": 1,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 14,
+        "favorite_count": 419,
+        "reply_count": 63,
+        "quote_count": 8
       }
     }
   ]
