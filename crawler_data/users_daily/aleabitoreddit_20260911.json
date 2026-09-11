@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1031752,
+    "followers_count": 1031830,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260911",
-  "last_updated": "2026-09-11T11:03:59.213764",
-  "tweet_count": 3,
+  "last_updated": "2026-09-11T16:19:43.665933",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2098291179523899475",
@@ -131,6 +131,42 @@
         "favorite_count": 208,
         "reply_count": 17,
         "quote_count": 3
+      }
+    },
+    {
+      "id": "2098383837646725143",
+      "text": "X should go out and ban every network ring that pays others to quote/comment on their posts.\n\nIf you want to see how it’s done:\n\n> companies pay influencers to comment/quote their posts (now sometimes with labels)\n\n> they spawn new accounts like ___ “finance” or ___ “<insert country here>”with a new affiliated account\n\n> when each company gets big enough they just interact with one another eg. quote posts to boost engagement.\n\nBy the end each affiliate account ends up with tens/hundreds of thousands of followers.\n\nAnd they use it to boost their other account visibility.\n\nMy worry is that X is just going to end up dominated by engagement networks marketing company products. \n\nInstead of having independent authentic voices.",
+      "created_at": "Fri Sep 11 12:11:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 22,
+        "favorite_count": 607,
+        "reply_count": 63,
+        "quote_count": 6
+      }
+    },
+    {
+      "id": "2098430387693433144",
+      "text": "Looks like Situational Awareness is back:\n\nSources say Leopold bought options in $AMD, $BE, $CRWV, and $DRAM.\n\nAnd was active in other stocks such as $SKHY, and $SNDK.\n\nLittle surprising since option IV across the board is quite high. https://t.co/P2Pg5szbvO",
+      "created_at": "Fri Sep 11 15:16:06 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2098430380558917633",
+          "url": "https://pbs.twimg.com/media/HR8fUCsaIAEDGiG.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 15,
+        "favorite_count": 321,
+        "reply_count": 38,
+        "quote_count": 2
       }
     }
   ]
