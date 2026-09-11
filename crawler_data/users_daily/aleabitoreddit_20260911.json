@@ -1,0 +1,137 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1031752,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260911",
+  "last_updated": "2026-09-11T11:03:59.213764",
+  "tweet_count": 3,
+  "tweets": [
+    {
+      "id": "2098291179523899475",
+      "text": "It's a macro market right now https://t.co/12ySQqZWrO",
+      "created_at": "Fri Sep 11 06:02:56 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2098290933058211840",
+          "url": "https://video.twimg.com/amplify_video/2098290933058211840/vid/avc1/480x262/qp7KORc6ycggM2Y1.mp4?tag=29",
+          "bitrate": 256000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 26,
+        "favorite_count": 736,
+        "reply_count": 40,
+        "quote_count": 5
+      }
+    },
+    {
+      "id": "2098306366167535766",
+      "text": "Yep, I'm personally high conviction on the AI trade (especially photonics/memory) despite macro.\n\n- $NVDA gave forecasts for $1.3T hyperscaler capex ($100B+ above BofA analyst expectations)\n\n- $SPCX Wells Fargo forecasts are ~$263B for 2027.\n\n- $127B spend in 2027 for Anthropic/OpenAI model training + inference from internal investor documents (WSJ). \n\n- Even the Pentagon (US gov) is looking to fund the AI buildout, with $5B potentially into Fluidstack. \n\nWhat sectors do I think capex flows hit the hardest?\n\nPhotonics + Memory. \n\nTrendforce for example est. DRAM and NAND to be 68% of hyperscaler capex in 2027. \n\nSo when all that memory procurement spend hits the balance sheets of $MU, $SNDK, Samsung, $SKHY with 70-80%+ margins. \n\nI don't think these companies care about short term macro scares. \n\nAnd when your leading memory companies are all allocating capacity for DDR5/HBM or high end memory, with little visibility on legacy memory supply coming online. \n\nWhat does that say about the durability of ESMT/Etron/Winbond and others?\n\nAnd when your optical content/GPU goes up for rubin ultra + $META / $GOOGL TPU v9, etc. Alongside TAM eg. $131.4 billion (+81% revision) for 2027 optical module forecasts. \n\nWho benefits from supplying all that lasers during a shortage other than $LITE / $SIVE / $AAOI / $COHR?\n\nI think the overwhelming fundamentals + growth of some of the AI sector companies will outperform macro.",
+      "created_at": "Fri Sep 11 07:03:16 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2098295556561063963",
+        "text": "@aleabitoreddit 一点都不害怕……",
+        "created_at": "Fri Sep 11 06:20:19 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1554461696915554305",
+          "name": "Nicole Song",
+          "screen_name": "nicolesong68",
+          "description": "炒股爱好者",
+          "followers_count": 110,
+          "friends_count": 118,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 5,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 45,
+        "favorite_count": 664,
+        "reply_count": 74,
+        "quote_count": 4
+      }
+    },
+    {
+      "id": "2098358633960726788",
+      "text": "Haha I feel bad for the guy at the $SIVE booth.\n\nGenuinely thanks everyone for helping crowd source channel checks, really appreciate it!\n\nThink the most interesting update overall from Innolight channel checks was explicit confirmation that lasers across 70mW-200mW power range have seen ASP going up. \n\nSivers also disclosed they raised prices.\n\nThat should support gross margin expansion for laser suppliers in future quarters as higher pricing flows through.",
+      "created_at": "Fri Sep 11 10:30:58 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2098358625781911552",
+          "url": "https://pbs.twimg.com/media/HR7eDXUbkAAyItN.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2098358625781919744",
+          "url": "https://pbs.twimg.com/media/HR7eDXUbsAAsVZn.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2098352831619088669",
+        "text": "与 $SIVE团队的对话 — 深圳CIOE 2026 Sivers 展位\n\n我去了 Sivers Semiconductors（ $SIVE） 的展台，他们的展台比较偏僻，甚至连一件展示样品都没摆，只有简单的一张介绍书，但我在跟 $SIVE 团队的对话中得到一些有趣的内容：\n\n问： 欧美和中国很多企业都在做光通信产品，从未来产品接轨的方向来看，Sivers 真正的第一优势到底在哪？\n\nSivers： 从我们的供应链和器件来看，我们特点非常鲜明：别人很多用的是 Single Chip（单一器件），单一器件每次只发出一束光，你要三个不同的光谱，是在三个不同 temperature（温度）下发出来的； 而我们做的是 Laser Array（阵列器件）——在同一个 temperature（温度）下，单颗器件就能同时发出 8 束光来！ 这就是我们产品的特色\n\n───\n\n问：那Sivers $SIVE 产能现在跟得上吗？\n\nSivers ： 在这个领域，没有谁家产能是足够的，每一家的产能都欠缺（limited）。 你从根源上讲，最底层的 Substrate（基板/衬底） 本身就是缺的。底层材料都缺，谁要说自己产能无穷，那纯属胡扯\n\n更深层的道理在于：GPU 与硅相关的产品，因为它的 volume（体量）非常非常大，研发速度要快很多。 它和光通信（光连接）的迭代速度是 3 比 2——GPU 速度是 3，光通信器件只能产生 2，光器件的速度总是跟不上\n\n怎么追？只能通过多赛道去追：一个细管速度很快，我就用粗的管子慢慢去跑，勉强能够跟上，为什么一直短缺？因为 GPU 发展太快了，GPU 三个月就迭代一次，光器件是一年、半年才迭代一次！ 就是这么个道理\n\n───\n\n问：那 Sivers 现在的客户体量大概到什么层次了？\n\nSivers ： 我们是搞 R&D 技术的，具体客户商业合作受 NDA（保密协议） 严格限制，不能对外说\n\n───\n\n现场去展台交流的大多都是serenity @aleabitoreddit 的粉丝，坦白讲，Sivers 团队的合规意识极强，受限于 NDA，涉及具体客户体量、订单排产等“商业机密”，他们不会多透露\n\n但如果你是想探讨光子学的技术与行业演进，Sivers非常乐意与你交流，也极其坦诚🫡🫡",
+        "created_at": "Fri Sep 11 10:07:55 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2098351825263210497",
+            "url": "https://pbs.twimg.com/media/HR7X3habMAELeTb.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2098351825162276865",
+            "url": "https://pbs.twimg.com/media/HR7X3hCXEAEElao.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1801542875764924416",
+          "name": "梭哈.AI",
+          "screen_name": "SUOHA_AI",
+          "description": "｜ALL IN AI & CRYPTO\n｜相信相信的力量\n｜超级个体/数字游民\n｜向Serenity @aleabitoreddit 学习美股",
+          "followers_count": 31148,
+          "friends_count": 1940,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 5,
+          "favorite_count": 39,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 11,
+        "favorite_count": 208,
+        "reply_count": 17,
+        "quote_count": 3
+      }
+    }
+  ]
+}
