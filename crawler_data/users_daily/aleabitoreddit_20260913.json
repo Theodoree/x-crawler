@@ -1,0 +1,41 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1032898,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260913",
+  "last_updated": "2026-09-13T11:35:44.247427",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2099048356345696391",
+      "text": "It’s the weekend but surprised I missed this from $ORCL earnings.\n\nImplications for $NBIS to $IREN are pretty positive since:\n\nOracle said all GPU capacity for renewal were resold +20% premium above previous contracts.\n\nMajority of the equipment was 4Y+ and older…\n\nSo another L for the Burry’s rapid GPU depreciation thesis.\n\nAnd W for $NVDA and the Neocloud party.",
+      "created_at": "Sun Sep 13 08:11:41 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2099048348309422080",
+          "url": "https://pbs.twimg.com/media/HSFRWf9agAAnHrO.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2099048348309413888",
+          "url": "https://pbs.twimg.com/media/HSFRWf9aYAAKPv3.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 55,
+        "favorite_count": 762,
+        "reply_count": 45,
+        "quote_count": 15
+      }
+    }
+  ]
+}
