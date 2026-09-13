@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1032898,
+    "followers_count": 1033181,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260913",
-  "last_updated": "2026-09-13T11:35:44.247427",
-  "tweet_count": 1,
+  "last_updated": "2026-09-13T16:04:20.222176",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2099048356345696391",
@@ -35,6 +35,45 @@
         "favorite_count": 762,
         "reply_count": 45,
         "quote_count": 15
+      }
+    },
+    {
+      "id": "2099126746390139042",
+      "text": "Tech people in real life: I have shares in “ $TSLA, $GOOGL, $SPCX. “\n\nPeople on my X feed/comments:\n\n- Leveraged Micron, Sk Hynix calls all the way from $1M to $28M down to $4M\n\n- calls on short dated tanker freight futures because $AXTI 3000% 1Y returns wasn’t enough.\n\n- Long $PLTR short $LULU because inverse Burry indicators\n\n- Long Swedish high beta CW laser suppliers for CPO because it reminds them of $NVDA bottlenecking EML\n\n- “AI is going to end human civilization” so this is a signal for longer AI capex duration + trade wars so long $EQR cause tungsten.\n\nGap between finance X and normal finance/tech people is also insane.\n\nI can’t help but feel proud that I’m partly to blame.",
+      "created_at": "Sun Sep 13 13:23:10 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2098466853764907474",
+        "text": "the gap between the tech twitter and normal tech people is INSANE",
+        "created_at": "Fri Sep 11 17:41:00 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1766798184964096000",
+          "name": "Bhoomika",
+          "screen_name": "bhoomikacodes",
+          "description": "I code (sometimes) | 2x startup ai eng",
+          "followers_count": 2289,
+          "friends_count": 1519,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 472,
+          "favorite_count": 11616,
+          "reply_count": 221,
+          "quote_count": 75
+        }
+      },
+      "stats": {
+        "retweet_count": 29,
+        "favorite_count": 700,
+        "reply_count": 63,
+        "quote_count": 10
       }
     }
   ]
