@@ -1,0 +1,111 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1033962,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260914",
+  "last_updated": "2026-09-14T12:37:42.966085",
+  "tweet_count": 3,
+  "tweets": [
+    {
+      "id": "2099392042657038698",
+      "text": "Man Ray: are you long Samsung?\n\nPatrick: Yup.\n\nMan Ray: Samsung has memory LTAs extending to 2031?\n\nPatrick: Yup.\n\nMan Ray: And it’s trading at ~2.8× 2027E P/E?\n\nPatrick: Yup.\n\nMan Ray: So you’re buying Samsung?\n\nPatrick: No, I’m selling on a 4% drop because X said memory will crash from AI slowdown",
+      "created_at": "Mon Sep 14 06:57:22 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2099392031584051200",
+          "url": "https://pbs.twimg.com/media/HSKJ7f7aYAA9EhN.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2099392031575711744",
+          "url": "https://pbs.twimg.com/media/HSKJ7f5bIAApy0g.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 36,
+        "favorite_count": 901,
+        "reply_count": 58,
+        "quote_count": 11
+      }
+    },
+    {
+      "id": "2099411795131924487",
+      "text": "NOR flash “Severe Supply Shortage” with high density continued increases of 90-110% for H2.\n\nI wonder who sells both high density NOR and SLC NAND? *cough cough, $ESMT*\n\nFor H1 hikes:\nNOR: +100–120%\nSLC NAND: +130–150%\n\nFor H2 hikes:\nHigh-density NOR: 90-110% in H2\nSLC NAND: ~70–75%.\n\nObviously there’s others from Winbond / Macronix / Gigadevice, but my idea and position with ESMT is that it’s the largest beneficiary of the shortage relative to size. (they sell NOR: >256Mb)\n\nThe moderate bearish part is: \n\n“For mid- and low-capacity products of 128Mb and below, additional capacity from Chinese suppliers is gradually coming online. \n\nPrice increases for consumer-grade products are therefore expected to moderate”\n\nHowever, this update is overwhelmingly bullish for earnings of legacy memory players.\n\nLet the ASP hike games continue.",
+      "created_at": "Mon Sep 14 08:15:51 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2099411785275334656",
+          "url": "https://pbs.twimg.com/media/HSKb5UKa4AAKn85.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2099411785271115776",
+          "url": "https://pbs.twimg.com/media/HSKb5UJagAAr4Z0.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2099411785266929664",
+          "url": "https://pbs.twimg.com/media/HSKb5UIaoAAyHy4.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 16,
+        "favorite_count": 281,
+        "reply_count": 26,
+        "quote_count": 6
+      }
+    },
+    {
+      "id": "2099458250240618861",
+      "text": "$IREN CEO on Anthropic call for frontier slowdown:\n\n“Even if models never improved from here…\n\njust rolling out what they can already do would take more compute than the world can build for years”\n\nI agree, and current narrative is reminiscent of the $NVDA DeepSeek selloff or the $GOOGL TurboQuant scare. \n\nGuess what happened? \n\nThese scares once or twice a year all turn out to be immaterial to the overall AI buildout.\n\nEspecially when we have contracted demand all the way into the 2030’s now from advanced packaging to memory procurement.",
+      "created_at": "Mon Sep 14 11:20:27 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2099441194006954418",
+        "text": "A few people asked over the weekend what the calls to slow the pace of frontier AI mean for the buildout. Some thoughts:\n\nEven if models never improved from here, just rolling out what they can already do would take more compute than the world can build for years. The debate about how fast AI should be allowed to improve is a fair one to have. It's about future generations of models.\n\nExisting demand is the part I think people are misreading. Anthropic CEO Dario Amodei said in May they'd planned for 10x growth and were running at an 80x pace in the first quarter, and that's why they've had trouble supplying compute. OpenAI president Greg Brockman said in July they'll be in a compute shortage no matter what, and are choosing which products to scale. Google says it's processing 7x the tokens it did a year ago. Hundreds of millions of people use these models today, and most of them use a small part of what the models can already do. And every time more compute comes online, usage steps up again: limits come off for people already using it, customers who were turned away get on, and new use cases show up that weren't in anyone's plan.\n\nNow supply. The constraint is HBM, the memory that sits inside every major AI chip. Three companies make it and all three are sold out this year. A new memory plant takes years to build. TrendForce has HBM shipments growing 50-60% next year. NVIDIA, the biggest buyer of it, expects its revenue to grow about 70% next year and calls that outlook 'supply-constrained', noting its customers' forecasts point closer to 100%. On our own bottom-up work, the memory constraint lands in about the same place as NVIDIA's growth number.\n\nThen the chips need a building with power connected, which takes longer again. Goldmans reckons only about half the US capacity scheduled over the next two years will actually be built on time.\n\nThe risk to demand continues to seem heavily weighted to the upside. The risk to supply continues to seem weighted toward less capacity getting built, not more.",
+        "created_at": "Mon Sep 14 10:12:41 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4543883844",
+          "name": "Daniel Roberts",
+          "screen_name": "danroberts0101",
+          "description": "NASDAQ: IREN Co-Founder / Co-CEO           \n                      \n                 Building AI cloud infrastructure at multi-GW scale",
+          "followers_count": 46199,
+          "friends_count": 1011,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 222,
+          "favorite_count": 1539,
+          "reply_count": 104,
+          "quote_count": 65
+        }
+      },
+      "stats": {
+        "retweet_count": 44,
+        "favorite_count": 707,
+        "reply_count": 46,
+        "quote_count": 6
+      }
+    }
+  ]
+}
