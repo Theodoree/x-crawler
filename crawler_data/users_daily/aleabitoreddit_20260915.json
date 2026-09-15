@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1034143,
+    "followers_count": 1034249,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260915",
-  "last_updated": "2026-09-15T01:21:23.188287",
-  "tweet_count": 1,
+  "last_updated": "2026-09-15T07:35:21.194389",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2099659874892386678",
@@ -48,6 +48,32 @@
         "favorite_count": 286,
         "reply_count": 33,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2099674926697545849",
+      "text": "Some color on current memory environments for the $MU / $SKHY bros:\n\n\"There is zero risk of memory prices dropping\" per Team Group GM Gerry Chen. \n\n- Memory module makers have received notices warning of drastic cuts to their 2027 supply allocations. Some could receive 50% or less of their 2026 allocation.\n\n- Upstream manufacturers have reportedly sold out nearly all of their 2027–2028 capacity.\n\n- DDR5 supply, in particular, is projected to come in at less than 80% of previous expectations.\n\n- Chen expects prices to continue rising 20–30% quarter-over-quarter into 2027 (source Digitimes)\n\n- Chen's commentary on $MU is that even before their new MegaFab capacity comes online Q4 2027 at the earliest, orders for 2028 through 2029 are already fully booked. \n\nSo that there's virtually no relief in sight to current shortages.  \n\nSharply lower allocations, fully booked capacity into 2029, and future price hikes doesn't quite sound like the AI buildout is slowing down.",
+      "created_at": "Tue Sep 15 01:41:27 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2099671206865825792",
+          "url": "https://pbs.twimg.com/media/HSOH1o5acAAfQUb.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2099671352026464256",
+          "url": "https://pbs.twimg.com/media/HSOH-FqaAAA9Oxl.png"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 66,
+        "favorite_count": 750,
+        "reply_count": 66,
+        "quote_count": 15
       }
     }
   ]
