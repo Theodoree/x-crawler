@@ -1,0 +1,54 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1034143,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260915",
+  "last_updated": "2026-09-15T01:21:23.188287",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2099659874892386678",
+      "text": "I've seen comments from Jim Cramer today supporting hedge funds that short Leopold's \"nonsense\" $SNDK / $DRAM / SK Hynix type calls.  \n\nAs well Cramer calling $CRWD a \"Must Buy\".   \n\nI'm not sure if Jim Cramer sees a $241B company  labelled \"Cybersecurity\" and thinks of it as safe... while ignoring all their fundamentals. \n\nBut with Crowdstrike, you have a ~145x FY2028 fwd P/E company, growing revenue 26% Y/Y. That Cramer thinks is a \"must buy\". \n\nAnd then you turn your eyes to the AI capex beneficiary theme that Leopold is long on. \n\nWith names like $SKHY / Samsung in $DRAM... Both FY2027 ~2.8-3x fwd P/E off analyst projections.  \n\n-> Samsung LTAs to 2031 (70% capacity) for durability...  -> Minimum price floor + no price ceiling type contracts from SK Hynix.  \n-> Memory shortage much tigher for the next year.  \n-> DRAM/NAND % of hyperscaler capex goes higher (est. 68% per Trendforce)  \n-> 2027 hyperscaler capex projections all hiked.  \n\nThen with $SNDK, 50% FCF margins, 80% gross margin projections into 2030.   \n\nOnly Situational Awareness position I'm in disagreement with is $CRWV due to debt interest eating FCF, but I can make a similar bullish argument with $BE, $INTC, $AMD, and others. \n\nNot quite sure about short-term, but over the medium run: \n\nIt's hard to not see Leopold's positions pulling an Inverse Cramer due to overwhelming fundamentals.",
+      "created_at": "Tue Sep 15 00:41:38 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2099420891050287242",
+        "text": "If Situational Awareness is back and all those flex options are his, expect shorts to try to crack him and his leveraged nonsense Now. It's not hidden and no one fears him any more, especially not today",
+        "created_at": "Mon Sep 14 08:52:00 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "14216123",
+          "name": "Jim Cramer",
+          "screen_name": "jimcramer",
+          "description": "Host of @madmoneyoncnbc and I run the CNBC Investing Club. \n\nMy new book is out now: https://t.co/autOFQ2NP0",
+          "followers_count": 2480443,
+          "friends_count": 704,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 33,
+          "favorite_count": 957,
+          "reply_count": 93,
+          "quote_count": 26
+        }
+      },
+      "stats": {
+        "retweet_count": 14,
+        "favorite_count": 286,
+        "reply_count": 33,
+        "quote_count": 2
+      }
+    }
+  ]
+}
