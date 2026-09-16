@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1034381,
+    "followers_count": 1034572,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260915",
-  "last_updated": "2026-09-15T13:25:15.810426",
-  "tweet_count": 4,
+  "last_updated": "2026-09-16T01:16:48.701946",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2099659874892386678",
@@ -181,6 +181,88 @@
         "retweet_count": 19,
         "favorite_count": 357,
         "reply_count": 78,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2099999510898577543",
+      "text": "Just as a pep-talk statistic ahead of Fed decisions tomorrow.\n\n50% of $NVDA employees are reportedly now worth over $25 Million.\n\nThey didn’t get to that number paperhanding shares ahead of every macro scare or rate hike. https://t.co/saulhxBF3g",
+      "created_at": "Tue Sep 15 23:11:14 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2099999505005576192",
+          "url": "https://pbs.twimg.com/media/HSSybGxagAAEnGl.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 39,
+        "favorite_count": 546,
+        "reply_count": 40,
+        "quote_count": 7
+      }
+    },
+    {
+      "id": "2100008575229976995",
+      "text": "$SIVE has its own piece in Digitimes btw, which is appreciated industry recognition outside of Sweden. \n\nI think Sivers 100M+ CW DFB laser capacity buildout forced the industry to revisit its models and generated considerably more coverage. \n\nBC it puts Sivers into T1 laser capacity convo w/ $COHR, Sumitomo, Furukawa, $AVGO, Landmark, and $LITE if it executes on its ramp. \n\nBut outside of that, CIOE 2026 channel checks were really meaningful since the community found Sivers is working with Chinese pluggable players + setting up an office locally. \n\nI'm getting dejavu to the time I pointed out $SIVE + $JBL at OFC for their 1.6T LRO, but nobody believed the link until there was an actual press release. \n\nAnyway, proud to see this little company growing up",
+      "created_at": "Tue Sep 15 23:47:15 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2100004749768843264",
+          "url": "https://pbs.twimg.com/media/HSS3MZCa4AAFiqU.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2100005007693369344",
+          "url": "https://pbs.twimg.com/media/HSS3bZ4a0AAm3iw.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2099970078376886403",
+        "text": "$SIVE highlighted in a Digitimes Asia article on takeaways from this years CIOE!\n\nThis highlight is actually extremely positive, as it describes $SIVE as \"expanding beyond their traditional client base and investing heavily in expanding capacity to benefit from growing AI-related demand\"\n\nThis highlight from basically their first CIOE + the recognition for investing heavily in extending capacity to adress AI related demand. \n\nSeems like CIOE was a very positive event for $SIVE",
+        "created_at": "Tue Sep 15 21:14:16 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2099970039290187776",
+            "url": "https://pbs.twimg.com/media/HSSXn-ba0AAuaI6.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2099970056570712064",
+            "url": "https://pbs.twimg.com/media/HSSXo-zasAAtbZ2.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1612625664578027522",
+          "name": "DIZ",
+          "screen_name": "MarketMind2344",
+          "description": "investing and AI. NFA.",
+          "followers_count": 436,
+          "friends_count": 416,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 7,
+          "favorite_count": 27,
+          "reply_count": 0,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 19,
+        "favorite_count": 213,
+        "reply_count": 21,
         "quote_count": 3
       }
     }
