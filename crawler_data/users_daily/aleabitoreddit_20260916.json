@@ -1,0 +1,71 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1034707,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260916",
+  "last_updated": "2026-09-16T22:02:01.121444",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2100290486569505223",
+      "text": "Reminiscent of $NVDA w/ $LITE + $COHR:\n\nFoxconn is now considering joint investments to avoid upstream material shortages.\n\nFoxconn Interconnect Chairman identifies CW lasers and fiber as the biggest bottleneck in photonics.\n\nVery interesting to see these two themes reiterated across industry commentary.\n\nAlmost like a certain Anime character on X was right about CW laser bottlenecks.",
+      "created_at": "Wed Sep 16 18:27:28 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2100290478398996481",
+          "url": "https://pbs.twimg.com/media/HSW7D_IbgAE9-0h.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2100290478415761408",
+          "url": "https://pbs.twimg.com/media/HSW7D_MbUAAGf2f.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2097660318369697875",
+        "text": "Citibank TMT:  \"lasers and optical fibers are being positioned as the \"next HBM.\" \n\nI've been talking about lasers like $LITE / $AAOI since 2025... and architectural shifts toward CW, ahead of the current industry consensus.\n\nAnd fully agree with Lightmatter/Citi.\n\nJust for reference: \n\nFor lasers: $LITE / $SIVE / $AAOI / $COHR / $MTSI / Furukawa / Sumitomo are your better known ones.\n\nFor fiber: $GLW / Furukawa / Fujikura / Sumitomo are your more well-known exposure (obviously a lot more in the supply chain) *disclosure, personal exposure to theme\n\nWith added commentary that: \"Tight supply conditions will support a scarcity premium for these assets.\"\n\nWe're already seeing price hikes with lasers as seen with $SIVE channel checks at CIOE 2026 Shenzhen today + $LITE commentary from earnings. \n\nSo I think the 2027–2028 photonics supercycle will look a lot like memory did in 2025–2026.\n\nEspecially as optical content/GPU-ASIC goes up significantly per Goldman Sachs revised estimates...",
+        "created_at": "Wed Sep 09 12:16:07 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2097656546935373825",
+            "url": "https://pbs.twimg.com/media/HRxfg_zbAAESNDV.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1034707,
+          "friends_count": 212,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 139,
+          "favorite_count": 1343,
+          "reply_count": 74,
+          "quote_count": 20
+        }
+      },
+      "stats": {
+        "retweet_count": 20,
+        "favorite_count": 355,
+        "reply_count": 50,
+        "quote_count": 2
+      }
+    }
+  ]
+}
