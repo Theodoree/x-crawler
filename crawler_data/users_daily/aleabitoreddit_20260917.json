@@ -1,0 +1,36 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1034809,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260917",
+  "last_updated": "2026-09-17T13:19:25.541698",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2100530507549425704",
+      "text": "Just in case you're wondering why I'm so bullish on legacy memory...\n\nTheir hikes seem a lot extreme than $NBIS reported +17-21% GPU rentals today or Taiyo-Murata type MLCC hikes. \n\nPrice hikes projections expected for H2:\n\n- SLC NAND: +120-170% in H2 vs H1\n- High-capacity NOR: +90-110% in H2 vs H1\n- ~DDR3/DDR4: +50% Q3\n- DDR2: +35-40% in Q3\n- LPDDR: +20% or more in Q3\n- DDR1, older LPDDR and PSRAM: also rising\n\nAs a consolidated view... \n\nLot of these are stacked off existing hikes H1, (eg. 130-150% for H1 SLC NAND), so you get +406%-575% cumulative throughout 2026.\n\nWhich impacts blended net income overall more than upstream wafer COGS hikes (eg. +45% DRAM wafers from $PSMC)\n\nSo I'd expect Q3 earnings for a lot of the legacy memory fabless companies to cook",
+      "created_at": "Thu Sep 17 10:21:13 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2100524231251595264",
+          "url": "https://pbs.twimg.com/media/HSaPqMXaEAAe-XC.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 38,
+        "favorite_count": 730,
+        "reply_count": 50,
+        "quote_count": 9
+      }
+    }
+  ]
+}
