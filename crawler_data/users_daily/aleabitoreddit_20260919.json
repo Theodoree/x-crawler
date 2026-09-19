@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1035366,
+    "followers_count": 1035596,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260919",
-  "last_updated": "2026-09-19T04:18:13.378764",
-  "tweet_count": 1,
+  "last_updated": "2026-09-19T20:28:07.240062",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2101145461797335254",
@@ -47,6 +47,21 @@
         "retweet_count": 12,
         "favorite_count": 378,
         "reply_count": 45,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2101402656845808007",
+      "text": "Just floating out an idea to $AVGO:\n\nIf you lock up $SIVE laser supply for next few years since you need “more laser capacity”.\n\nYou could unintentionally cause bottlenecks across your main ASIC competitors:\n\nLike $MRVL (Celestial), AlChip, Mediatek, GUC (Ayar CPO), first gen deployments.  \n\nWhere many also seem to be aligned with your best friend $NVDA…\n\nMaybe it’s worth discussing spending spare change to lock up the remaining merchant laser supply?",
+      "created_at": "Sat Sep 19 20:06:50 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 7,
+        "favorite_count": 179,
+        "reply_count": 19,
         "quote_count": 2
       }
     }
