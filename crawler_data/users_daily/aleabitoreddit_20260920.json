@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1035688,
+    "followers_count": 1037199,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260920",
-  "last_updated": "2026-09-20T00:56:39.355675",
-  "tweet_count": 1,
+  "last_updated": "2026-09-20T18:40:32.924717",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2101467035972894984",
@@ -24,6 +24,45 @@
         "favorite_count": 201,
         "reply_count": 286,
         "quote_count": 6
+      }
+    },
+    {
+      "id": "2101730902615486643",
+      "text": "While everyone is focused on Bessent/He Lifeng talks today. Or $LITE / $MRVL / $SIVE at ECOC optical conference...\n\nI'm just curious why my followers can leave 2K+ comments if I post in Chinese... \n\nBut if I share something in English: I only get 50 comments. \n\nFeels bad anon",
+      "created_at": "Sun Sep 20 17:51:10 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2101467035972894984",
+        "text": "我有点想在中国的社交平台上开个账号玩玩\n\n就玩一小段时间，跟用不了 X 的粉丝们互动一下\n\n大家推荐去哪个平台发帖？",
+        "created_at": "Sun Sep 20 00:22:39 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1037199,
+          "friends_count": 215,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 33,
+          "favorite_count": 2076,
+          "reply_count": 2262,
+          "quote_count": 42
+        }
+      },
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 264,
+        "reply_count": 92,
+        "quote_count": 1
       }
     }
   ]
