@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1037515,
+    "followers_count": 1037915,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260921",
-  "last_updated": "2026-09-21T06:06:38.714876",
-  "tweet_count": 1,
+  "last_updated": "2026-09-21T19:15:28.496421",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2101906175046635887",
@@ -35,6 +35,112 @@
         "favorite_count": 221,
         "reply_count": 34,
         "quote_count": 3
+      }
+    },
+    {
+      "id": "2102062423499047004",
+      "text": "I'm not having a fun day since I got sick today. But the bottlenecks are having a good time: \n\n$AMD +9.13% | $INTC +14.16% | $ARM +14.33%\n\nCPUs go brrr\n\n$SIVE +10.32% | $AAOI +3.39% | AMS OSRAM +24.61%\n\nLasers go brrr\n\n$EWY +4.08% | $DRAM +2.83% | $MU +2.23%\n\nMemory go brrr\n\n$NBIS +4.7% | $CRWV +5.03% | $IREN +1.73%\n\nCompute go brrr\n\nProbably most material developments were CPU:GPU ratio expectations + CPU demand (from new AI releases).  \n\nAs well as optical developments from ECOC 2026 (as seen with $MRVL PR + others)\n\nStill a lot to catch up on.",
+      "created_at": "Mon Sep 21 15:48:30 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2102062217952940032",
+          "url": "https://pbs.twimg.com/media/HSwGczTa0AAuEZu.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2102062239591337985",
+          "url": "https://pbs.twimg.com/media/HSwGeD6akAEAN3C.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2101906175046635887",
+        "text": "The main duo $SKHY and Samsung are having a fun day. \n\nI'm still long memory (eg. $EWY / $DRAM ) since if capacity agreements extend 3-5 years... and your analysts model 2.8-3.3x 2027E. Risk/reward is attractive over time. \n\nBut I think legacy memory a very interesting trade currently due to ASP hike potential.. \n\nIt also just so happens these same companies procure memory from even smaller memory companies (that might have higher sensitivity)...\n\nSo if you want to, you can track $PSMC wafer allocations, and find some interesting companies that likely replace $MU discontinued legacy memory through Alliance or supply directly to Samsung. \n\nWon't mention them on X, but just throwing out some research ideas.",
+        "created_at": "Mon Sep 21 05:27:38 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2101902559418159104",
+            "url": "https://pbs.twimg.com/media/HSt1Pc6akAAlAfD.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2101902570516258816",
+            "url": "https://pbs.twimg.com/media/HSt1QGQaIAAhOnA.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1037915,
+          "friends_count": 217,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 30,
+          "favorite_count": 955,
+          "reply_count": 86,
+          "quote_count": 11
+        }
+      },
+      "stats": {
+        "retweet_count": 46,
+        "favorite_count": 999,
+        "reply_count": 119,
+        "quote_count": 10
+      }
+    },
+    {
+      "id": "2102114073836228810",
+      "text": "We’re in the modern agricultural revolution.\n\nIn terms of civilization-level impact of AI.\n\nSo… not sure how anyone can be bearish so early on into the singularity and before mass deployment of physical AI. https://t.co/uJAXpZm4MP",
+      "created_at": "Mon Sep 21 19:13:45 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2102114066189959168",
+          "url": "https://pbs.twimg.com/media/HSw1mxCawAANwFL.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2102093145051943229",
+        "text": "We’re working with an independent advisory group of mathematicians to help OpenAI responsibly share advances in AI and mathematics.\n\nThe group will advise on how we assess and communicate new mathematical results, uphold academic and professional standards, and build tools that support mathematical research and learning.\n\nThrough this work, we want mathematicians to be at the center of shaping how AI supports mathematical understanding and how its benefits reach the wider community.\n\nhttps://t.co/QCMFLFlIv8",
+        "created_at": "Mon Sep 21 17:50:35 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4398626122",
+          "name": "OpenAI",
+          "screen_name": "OpenAI",
+          "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+          "followers_count": 5356701,
+          "friends_count": 4,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 259,
+          "favorite_count": 2873,
+          "reply_count": 271,
+          "quote_count": 157
+        }
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 32,
+        "reply_count": 5,
+        "quote_count": 0
       }
     }
   ]
