@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1037199,
+    "followers_count": 1037365,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260920",
-  "last_updated": "2026-09-20T18:40:32.924717",
-  "tweet_count": 2,
+  "last_updated": "2026-09-21T00:05:26.864477",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2101467035972894984",
@@ -62,6 +62,67 @@
         "retweet_count": 5,
         "favorite_count": 264,
         "reply_count": 92,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2101797616812269694",
+      "text": "Jev potential implications + applications are actually insane to think about\n\nDoes anyone have experience using open source decision model variants yet?",
+      "created_at": "Sun Sep 20 22:16:16 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2101544156757950697",
+        "text": "Jev + Astra beats the Ender Dragon in Minecraft in 8 minutes 43 seconds! ⏱️\n\nCost less than $1 ($0.01 Jev, $0.96 Astra)\n\nI open sourced the code and explain the harness setup below. This type of movement is only possible with Jev's near instant decisionmaking, and some continually learning skills from Astra.",
+        "created_at": "Sun Sep 20 05:29:06 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2101542497042481152",
+            "url": "https://video.twimg.com/amplify_video/2101542497042481152/vid/avc1/1280x720/bpYI_EL7c3mp10Oq.mp4?tag=29",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1721087268344221696",
+          "name": "Ronak Malde",
+          "screen_name": "rronak_",
+          "description": "Co-Founder of Trajectory @TrajectoryLabs \n\nprev @GoogleDeepmind, SWE-1 @windsurf | @stanford",
+          "followers_count": 10865,
+          "friends_count": 563,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 426,
+          "favorite_count": 6585,
+          "reply_count": 195,
+          "quote_count": 215
+        }
+      },
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 231,
+        "reply_count": 27,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2101818303216013812",
+      "text": "The internet is now cooked soon?\n\nWith $RDDT to other social media like X more at risk due to AI.\n\nYou can have new decision models like Jev making autonomous computer interaction at near $0 cost. (With actions becoming more human-like/adapative)\n\nThen LLMs outputs influencing behavior or leading conversations. \n\nSo at scale, a malicious actor can spawn 50,000,000 bots just roaming the internet, with LLM prompts convincing people + manufacturing public opinion.\n\nThe main bottleneck would be phone number, IP, account age, maybe hardware for compute + device identifiers (which is extremely cheap still)… rather than LLM cost.\n\nI’ve already anecdotally seen short sellers use AI bots to spread negative misinformation about companies like $SIVE.\n\nOr bots market ____ account as the best one to follow in the comments.\n\nOr as seen with X uncovering 200+ bots manipulating debate about datacenter public opinion.\n\nBut the scale might be exponentially worse soon.\n\nScary to think about.",
+      "created_at": "Sun Sep 20 23:38:28 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 6,
+        "favorite_count": 182,
+        "reply_count": 35,
         "quote_count": 1
       }
     }
