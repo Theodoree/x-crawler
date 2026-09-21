@@ -1,0 +1,41 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1037515,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260921",
+  "last_updated": "2026-09-21T06:06:38.714876",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2101906175046635887",
+      "text": "The main duo $SKHY and Samsung are having a fun day. \n\nI'm still long memory (eg. $EWY / $DRAM ) since if capacity agreements extend 3-5 years... and your analysts model 2.8-3.3x 2027E. Risk/reward is attractive over time. \n\nBut I think legacy memory a very interesting trade currently due to ASP hike potential.. \n\nIt also just so happens these same companies procure memory from even smaller memory companies (that might have higher sensitivity)...\n\nSo if you want to, you can track $PSMC wafer allocations, and find some interesting companies that likely replace $MU discontinued legacy memory through Alliance or supply directly to Samsung. \n\nWon't mention them on X, but just throwing out some research ideas.",
+      "created_at": "Mon Sep 21 05:27:38 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2101902559418159104",
+          "url": "https://pbs.twimg.com/media/HSt1Pc6akAAlAfD.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2101902570516258816",
+          "url": "https://pbs.twimg.com/media/HSt1QGQaIAAhOnA.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 8,
+        "favorite_count": 221,
+        "reply_count": 34,
+        "quote_count": 3
+      }
+    }
+  ]
+}
