@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1038143,
+    "followers_count": 1038276,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260922",
-  "last_updated": "2026-09-22T04:31:09.228446",
-  "tweet_count": 1,
+  "last_updated": "2026-09-22T09:49:03.564446",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2102247915251224980",
@@ -40,6 +40,32 @@
         "favorite_count": 224,
         "reply_count": 20,
         "quote_count": 5
+      }
+    },
+    {
+      "id": "2102256045938852015",
+      "text": "Wow Bitcoin + Ethereum pulled pretty extreme recoveries.  \n\nLooks like $HOOD / $COIN / Crypto is back? \n\nOn-chain equities trading + regulator exemptions probably put a lot of fuel into the fire for the sector.  \n\nThat aside... crypto is usually a great indicator for high-beta AI equities believe it or not (they tend to frontrun broader market drops or rallies). \n\nSo overall market risk appetite might be coming back despite the rate hikes.",
+      "created_at": "Tue Sep 22 04:37:54 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2102254413050212352",
+          "url": "https://pbs.twimg.com/media/HSy1QB1a8AADJnS.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2102254437788188672",
+          "url": "https://pbs.twimg.com/media/HSy1Rd_agAAa97j.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 30,
+        "favorite_count": 690,
+        "reply_count": 67,
+        "quote_count": 16
       }
     }
   ]
