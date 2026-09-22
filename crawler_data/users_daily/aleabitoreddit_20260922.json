@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1038443,
+    "followers_count": 1038555,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260922",
-  "last_updated": "2026-09-22T14:38:19.087451",
-  "tweet_count": 3,
+  "last_updated": "2026-09-22T18:43:45.908454",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2102247915251224980",
@@ -87,6 +87,27 @@
         "favorite_count": 283,
         "reply_count": 35,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2102427727987179692",
+      "text": "I guess I need to start calling $SNDK or $LITE Super Intelligence stocks.\n\nThanks Trump. https://t.co/x7tJcKjfsc",
+      "created_at": "Tue Sep 22 16:00:06 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2102427722962309120",
+          "url": "https://pbs.twimg.com/media/HS1S3_kaEAApROE.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 19,
+        "favorite_count": 475,
+        "reply_count": 74,
+        "quote_count": 6
       }
     }
   ]
