@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1038962,
+    "followers_count": 1039012,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260924",
-  "last_updated": "2026-09-24T18:59:45.383968",
-  "tweet_count": 3,
+  "last_updated": "2026-09-24T22:16:33.846526",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2103139052363133062",
@@ -129,6 +129,32 @@
         "retweet_count": 18,
         "favorite_count": 364,
         "reply_count": 37,
+        "quote_count": 4
+      }
+    },
+    {
+      "id": "2103232350348001701",
+      "text": "$AKAM signs $11.6B compute deal with Anthropic for accelerated CPU workloads demands over 7 years.\n\n$AMD to $MU should be happy to hear this… \n\nAkamai ests. ~$5.5B of capex to service the $11.6B commitment. Including +$1.7B of 2026 capex specifically to pre-purchase supply chain components like memory.\n\nSo much for Anthropic/OpenAI calling for an AI slowdown?",
+      "created_at": "Thu Sep 24 21:17:23 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2103232345893650432",
+          "url": "https://pbs.twimg.com/media/HTAurNkaQAArBJ4.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2103232345897836544",
+          "url": "https://pbs.twimg.com/media/HTAurNlaIAA7M5y.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 12,
+        "favorite_count": 229,
+        "reply_count": 22,
         "quote_count": 4
       }
     }
