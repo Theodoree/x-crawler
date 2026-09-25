@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1039175,
+    "followers_count": 1039569,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260925",
-  "last_updated": "2026-09-25T07:34:32.079411",
-  "tweet_count": 1,
+  "last_updated": "2026-09-25T18:27:48.355592",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2103350532777943281",
@@ -24,6 +24,27 @@
         "favorite_count": 1136,
         "reply_count": 200,
         "quote_count": 4
+      }
+    },
+    {
+      "id": "2103490181525631382",
+      "text": "People really need to stop thinking about 5% yields over 10 years or 30 years.\n\nEven the inflation of my $SUBWAY sandwich has gone up like 12% a year.\n\nToday it was like $20 after tax, when it used to be like $5… 12 years ago.\n\nThe best way to keep up with inflation of the things that matter, like Sandwiches, is equities like $SPY.",
+      "created_at": "Fri Sep 25 14:21:54 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2103490175129268224",
+          "url": "https://pbs.twimg.com/media/HTEZK2UasAAfpsb.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 24,
+        "favorite_count": 769,
+        "reply_count": 151,
+        "quote_count": 17
       }
     }
   ]
