@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1047283,
+    "followers_count": 1048589,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260930",
-  "last_updated": "2026-09-30T08:22:07.855912",
-  "tweet_count": 1,
+  "last_updated": "2026-09-30T20:43:51.914895",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2105151002760679706",
@@ -40,6 +40,27 @@
         "favorite_count": 728,
         "reply_count": 70,
         "quote_count": 15
+      }
+    },
+    {
+      "id": "2105397070681248021",
+      "text": "$GOOGL Gemini 4 Argon benchmarks got released.\n\nAgainst GPT-6 Astra + Anthropic Fable 5.1 / Opus 5.5.\n\nStill coughing nonstop, so will comment on $MU / $JBL  earnings later. \n\nI've always thought Google's internal models were stellar, but anecdotally, they seem to get hard nerfed shortly after public release... Maybe because of compute constraints?\n\nBut yeah, looks like Google is back.",
+      "created_at": "Wed Sep 30 20:39:12 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2105395092148371456",
+          "url": "https://pbs.twimg.com/media/HTfdrnNawAAhn0u.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 97,
+        "reply_count": 29,
+        "quote_count": 4
       }
     }
   ]
