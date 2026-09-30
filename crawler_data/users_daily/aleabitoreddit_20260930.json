@@ -1,0 +1,46 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1047283,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260930",
+  "last_updated": "2026-09-30T08:22:07.855912",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2105151002760679706",
+      "text": "Bro, $AMZN semi ETF portfolio is probably going to end up more compelling than what $NVDA owns... \n\nToday Amazon signed a $49.8M private placement into PCB maker Gold Circuit Electronics (2368). So now Amazon has ownership/warrants in:\n\n- $AAOI \n- Alchip\n- $MRVL (Celestial)\n- $ALAB\n- $CRDO \n- $JBL \n- $FLEX \n- $STM \n- $CBRS \n- $GNRC\n- $FN \n- TD SYNNEX\n- $QCOM \n- Gold Circuit Electronics\n\nAnd others..\n\nIf we look at the private placement amount for GCE in speciifc, it's like .36% of the company... Kinda small financially, meaningful strategically. Esp. since there were claims that GCE supplies ASIC-server PCBs to the four major hyperscaler CSPs...\n\nRegardless it's pretty funny to see Amazon to Nvidia start to own all the worlds leading companies. \n\nSince Amazon has exposure to the entire supply chain like PCBs now, optical fabric with Celestial, lasers with $AAOI, assembly from $FN to $JBL, ASIC partners like $QCOM / ALchip.",
+      "created_at": "Wed Sep 30 04:21:25 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2105149169522573312",
+          "url": "https://pbs.twimg.com/media/HTb-BCCaAAAbdMw.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2105149235150872576",
+          "url": "https://pbs.twimg.com/media/HTb-E2haYAAWD2k.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2105149283326652416",
+          "url": "https://pbs.twimg.com/media/HTb-Hp_acAAZmjs.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 52,
+        "favorite_count": 728,
+        "reply_count": 70,
+        "quote_count": 15
+      }
+    }
+  ]
+}
