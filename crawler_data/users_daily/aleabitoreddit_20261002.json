@@ -1,0 +1,41 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1050639,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261002",
+  "last_updated": "2026-10-02T13:46:37.671772",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2105943565918703696",
+      "text": "$LITE CEO: \"Next year with the advent of CPO and NPO in 2027, our estimates are that we'll be undershipping demand...\n\nBy 70%. Literally 70%. So we can only supply 30%. \n\nAnd this has caught us by supply. By 2029-2030, we get to some level of balance.\"\n\nSource: Global Photonics Economic Forum Day 1 (7:57:15 - 7:58:00)\n\nAny other players with laser capacity coming online are probably going to get more market attention soon.",
+      "created_at": "Fri Oct 02 08:50:47 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2105941726947102720",
+          "url": "https://pbs.twimg.com/media/HTnO18ha0AA8Z64.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2105942626524704768",
+          "url": "https://pbs.twimg.com/media/HTnPqTtbsAAayoB.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 77,
+        "favorite_count": 1047,
+        "reply_count": 74,
+        "quote_count": 33
+      }
+    }
+  ]
+}
