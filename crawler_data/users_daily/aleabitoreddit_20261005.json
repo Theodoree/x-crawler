@@ -1,0 +1,60 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1052265,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261005",
+  "last_updated": "2026-10-05T18:16:21.156618",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2107143846027268373",
+      "text": "$AAOI is... finally... done...\n\nWith their $600m ATM program, turns out it's ~$105.36 average. \n\nI do think AOI outperforms $LITE, as long as they stop filing these ATM programs. \n\nJust due to their sheer magnitude of ramp with $471m/month transceiver revenue + 400K/month ELSFP coming up.",
+      "created_at": "Mon Oct 05 16:20:16 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2107142987851718656",
+          "url": "https://pbs.twimg.com/media/HT4TYiHbYAA7zor.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2103151990146801812",
+        "text": "$AAOI has finished a $500m ATM In April.. $600m ATM in June. Then filed another $600m in August. \n\nIt's out of my control if management wants to abuse this trash repeated ATM structure. Instead following $AXTI like LTA prepayments and using that to fund buildout.\n\nOr taking private placements like $NVDA + Nebius for $2B and using that to fund buildout.\n\nOr convertible notes at 40% premiums.\n\nIt's really hard for the stock to break out of $100 or $150 or $200 if there's $600M of selling pressure at those levels (and maybe expectations of future ATMs). \n\nI had the same criticism with $IREN with their $6B ATM, which is why it's been rangebound for half a year. And I'll say the same thing with my own thesis names too.  \n\nI see $AAOI operationally very bullish for 2027, with $471m/month transceiver revenue. 400k ELSFP units/month entering 2028. \n\nThe revenue ramp is absurd and can compress to single digit forward P/E. \n\nBut I find it hard to get excited over funding infinite ATMs during the buildout, when you're sacrificing opportunity cost with names currently profitable like $SNDK or Samsung. \n\nI think a lot of retail investors conflate stock performance with how a company is doing operationally.\n\n $AAOI is capitalizing on a bottleneck with high demand visibility, but  stock has been going nowhere near-term with repeated ATMs. \n\nI do expect AOI to strongly outperform (especially in 2027) if they stop issuing these stupid ATMs.",
+        "created_at": "Thu Sep 24 15:58:03 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1052265,
+          "friends_count": 220,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 72,
+          "favorite_count": 1649,
+          "reply_count": 120,
+          "quote_count": 23
+        }
+      },
+      "stats": {
+        "retweet_count": 42,
+        "favorite_count": 845,
+        "reply_count": 82,
+        "quote_count": 8
+      }
+    }
+  ]
+}
