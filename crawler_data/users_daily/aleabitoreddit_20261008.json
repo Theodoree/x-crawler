@@ -1,0 +1,41 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1053091,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261008",
+  "last_updated": "2026-10-08T21:58:45.969193",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2108272287908860377",
+      "text": "Can someone explain how media headlines about OpenAI’s ~$50B ARR…\n\n(vs. ~$70B from incorrect accounting comparisons with Anthropic)\n\nSomehow ends a 3-5 year laser shortage with $AAOI or memory shortage with $MU?\n\nHint: it doesn’t. https://t.co/FiVsvg8I0G",
+      "created_at": "Thu Oct 08 19:04:17 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2108272273614622720",
+          "url": "https://pbs.twimg.com/media/HUIWdnaa0AA_H0s.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2108272273606209536",
+          "url": "https://pbs.twimg.com/media/HUIWdnYacAAbnEQ.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 72,
+        "favorite_count": 1451,
+        "reply_count": 131,
+        "quote_count": 20
+      }
+    }
+  ]
+}
