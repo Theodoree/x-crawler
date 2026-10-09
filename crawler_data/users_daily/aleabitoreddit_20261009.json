@@ -1,0 +1,76 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1053098,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261009",
+  "last_updated": "2026-10-09T08:55:15.777469",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2108412203514925165",
+      "text": "Woooow... $LITE CEO went out on Bloomberg today and stated:\n\nLumentum is \"effectively sold out through nearly 2029\".\n\nFrom our perspective, \"Completely Sold Out, there's no end in sight\".  With demand visibility from hyperscalers that carries them out into 2030, 2031.\n\nThe implications of these statements are enormous for photonics and remaining laser suppliers with capacity coming online like $SIVE, Sumitomo Electric, to $AAOI. \n\nWhat a crazy bottleneck that's unfolding.",
+      "created_at": "Fri Oct 09 04:20:16 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2108409497987547136",
+          "url": "https://pbs.twimg.com/media/HUKTRICbgAA70zi.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2108409894902906880",
+          "url": "https://pbs.twimg.com/media/HUKToOqbQAA1qrT.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2108272287908860377",
+        "text": "Can someone explain how media headlines about OpenAI’s ~$50B ARR…\n\n(vs. ~$70B from incorrect accounting comparisons with Anthropic)\n\nSomehow ends a 3-5 year laser shortage with $AAOI or memory shortage with $MU?\n\nHint: it doesn’t. https://t.co/FiVsvg8I0G",
+        "created_at": "Thu Oct 08 19:04:17 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2108272273614622720",
+            "url": "https://pbs.twimg.com/media/HUIWdnaa0AA_H0s.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2108272273606209536",
+            "url": "https://pbs.twimg.com/media/HUIWdnYacAAbnEQ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1053098,
+          "friends_count": 220,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 115,
+          "favorite_count": 2317,
+          "reply_count": 184,
+          "quote_count": 29
+        }
+      },
+      "stats": {
+        "retweet_count": 106,
+        "favorite_count": 1219,
+        "reply_count": 74,
+        "quote_count": 41
+      }
+    }
+  ]
+}
