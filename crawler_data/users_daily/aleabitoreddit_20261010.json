@@ -1,0 +1,46 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1053277,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261010",
+  "last_updated": "2026-10-10T15:13:08.840370",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2108896030326682074",
+      "text": "Looks like one of you posted on $RDDT WSB… with a $1M $AAOI position.\n\nI’m laughing at the comments, even more amusing when my name pops up\n\nMight still be early if people think there’s “no moat” in lasers and that AOI makes no money. (wait and see Q2 2027) https://t.co/vG6Zl4LZHf",
+      "created_at": "Sat Oct 10 12:22:49 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2108896026090504192",
+          "url": "https://pbs.twimg.com/media/HURNwydbgAAgPBc.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2108896026082054144",
+          "url": "https://pbs.twimg.com/media/HURNwybakAApFGN.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2108896026077868032",
+          "url": "https://pbs.twimg.com/media/HURNwyaasAACIyE.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 19,
+        "favorite_count": 676,
+        "reply_count": 76,
+        "quote_count": 6
+      }
+    }
+  ]
+}
