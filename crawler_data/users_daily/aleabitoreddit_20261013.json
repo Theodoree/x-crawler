@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1053842,
+    "followers_count": 1054022,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261013",
-  "last_updated": "2026-10-13T09:15:08.493908",
-  "tweet_count": 2,
+  "last_updated": "2026-10-13T17:31:19.206131",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2109852646484201736",
@@ -86,6 +86,37 @@
         "favorite_count": 554,
         "reply_count": 74,
         "quote_count": 27
+      }
+    },
+    {
+      "id": "2109937773440577755",
+      "text": "Physical AI + Humanoids are the next progression of AI.\n\n$NVDA CES 2025 projections and Elon's prediction on $TSLA + 1 Billion humanoids in the next decade, seems to be speeding up. \n\nNew statement from Unitree CEO after testing GPT-6 on their humanoid program was that:\n\n- In August, before GPT-6's release, Wang said the industry could take two to three years at its fastest pace, or as long as a decade, to reach its \"ChatGPT moment\"\n\n- Now, OpenAI's GPT-6 model prompted expectations that a breakthrough could happen \"within 1 or 2 years\"\n\n- He defined that moment as robots being able to complete around 80 per cent of tasks in 80 per cent of unfamiliar environments using voice or text commands.\n\n- \"It's possible that, say, a GPT-7 model released next year could directly crack the problems of embodied intelligence\"\n\n- \"The whole embodied intelligence industry has been shaken up after the release of GPT-6\"\n\nJust looking at some benchmarks on robotic hand manipulation, \"On the bowl task Astra placed the block in 19 of 20 trials, against Fable 5.1's 8 of 20\".\n\nBut for the puzzle task \"Astra completed the insertion 2 times in 20 against Fable 5.1's 2 in 20\"\".. so we're getting there. \n\nBut going from 2-3 years (potentially to a decade), and compressing that down to 1 or 2 years (to achieve 80%+ of tasks in unfamiliar environemnts) is a significant change in outlook.",
+      "created_at": "Tue Oct 13 09:22:20 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2109934793249148928",
+          "url": "https://pbs.twimg.com/media/HUf-g_raUAAEyJf.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2109936384140349440",
+          "url": "https://pbs.twimg.com/media/HUf_9mNbkAACIMk.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2109936447214280704",
+          "url": "https://pbs.twimg.com/media/HUgABRLbYAAEZlf.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 53,
+        "favorite_count": 747,
+        "reply_count": 96,
+        "quote_count": 13
       }
     }
   ]
