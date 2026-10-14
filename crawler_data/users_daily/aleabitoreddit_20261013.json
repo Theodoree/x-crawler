@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1054022,
+    "followers_count": 1054082,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261013",
-  "last_updated": "2026-10-13T17:31:19.206131",
-  "tweet_count": 3,
+  "last_updated": "2026-10-14T01:46:46.572965",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2109852646484201736",
@@ -116,6 +116,72 @@
         "retweet_count": 53,
         "favorite_count": 747,
         "reply_count": 96,
+        "quote_count": 13
+      }
+    },
+    {
+      "id": "2110142633716965836",
+      "text": "$AGLT (Agility Robotics) has cleared SEC review for public listing through $CCXI\n\nIf you want an estimate timeline:\n\n~Oct 13 (today): SEC S-4 declared effective\n\n~Nov 2nd (shareholder vote): for merger approval\n\n~November: Merger closing and ticker goes live for trading. \n\nCompany’s official statement was:\n\n“The business combination remains subject to approval by Churchill XI shareholders and other customary closing conditions, and is expected to close in November 2026.”\n\nSo likely less than a month away for the first pure play US humanoid company to go live!",
+      "created_at": "Tue Oct 13 22:56:23 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2110142624887971840",
+          "url": "https://pbs.twimg.com/media/HUi7iY3boAAHQhv.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2110124714735849916",
+        "text": "One step closer to Nasdaq: the SEC has declared effective our Form S-4 for the proposed business combination with Churchill Capital Corp XI (Nasdaq: CCXI).\n\nExpected ticker: AGLT\nRead the announcement: https://t.co/0OtlydSK8k",
+        "created_at": "Tue Oct 13 21:45:10 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3216567403",
+          "name": "Agility",
+          "screen_name": "agilityrobotics",
+          "description": "Industrial humanoids hard at work.",
+          "followers_count": 39607,
+          "friends_count": 1771,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 15,
+          "favorite_count": 113,
+          "reply_count": 8,
+          "quote_count": 7
+        }
+      },
+      "stats": {
+        "retweet_count": 29,
+        "favorite_count": 333,
+        "reply_count": 35,
+        "quote_count": 4
+      }
+    },
+    {
+      "id": "2110146513766900019",
+      "text": "Guess like we found out why Elon has been going on a crusade against memory in his recent posts.\n\n$SKHY and Samsung have been price hiking memory too much? https://t.co/r3sTYkd7TX",
+      "created_at": "Tue Oct 13 23:11:48 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2110146510835113984",
+          "url": "https://pbs.twimg.com/media/HUi_ElJbYAASnb4.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 38,
+        "favorite_count": 836,
+        "reply_count": 62,
         "quote_count": 13
       }
     }
