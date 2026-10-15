@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1054265,
+    "followers_count": 1054349,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261015",
-  "last_updated": "2026-10-15T07:16:55.399495",
-  "tweet_count": 1,
+  "last_updated": "2026-10-15T13:18:27.485491",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2110615506474651804",
@@ -60,6 +60,27 @@
         "favorite_count": 443,
         "reply_count": 69,
         "quote_count": 6
+      }
+    },
+    {
+      "id": "2110645575469461611",
+      "text": "$TSM released earnings today. I was more curious about commentary given recent the market panic.\n\nFor analyst Q&A rounds: \n\nQ: Citi explicitly challenged TSMC on AI financing, HBM, CoWoS, lasers and the risk of overbuilding capacity \n\nA: $TSM assessed CSP capex, DC construction conditions, customer financial conditions, and supply of critical components. \n\nManagement's conclusion is still that \"demand exceeds supply\". As well as that AI accelerator revenue growth could exceed its previous 50%+ CAGR projection through 2029.\n\nThis is a more meaningful statement since it addresses some concerns regarding recent selloff. \n\nQ: JPM asked if wafer supply could be tighter in 2027 than in 2026 (demand visibility)\n\nA: Wei (Chairman/CEO) stated $TSM even sends staff to verify DC construction progress on site. And after assessing all the factors, TSMC believes gap between supply and demand remains substantial.  \n\nIt could not determine whether the extent of the gap given customers continues to increase demand. \n\nQ: On pricing power:\n\nA: Wei responded that there is \"no ceiling on TSMC's profitability\" but that profits will not surge dramatically overnight.\n\n(Source: NextApple, Taiwanese press)\n\nRegarding earnings, very strong: as usual \n\n- TSMC record profits of $23.6B (68% Y/Y growth), and revenue jumping to $46.72B, beating expectations.\n\n- Q4 Guidance was $52.3-$54.3B revenue off 65-67% gross margins.\n\nTLDR:\n\n- No signs of any slowdown or collapse as AI demand far exceeds supply for foreseeable future. $TSM is probably the fundamental proxy/canary to how the overall AI semi trade is doing. \n\n- On financing concerns and fear of overcapacity showing up in semiconductor demand: \n\n$TSM specifically examined the risks investors are concerned about now and assessment still points to unmet demand. \n\nDuring the Q&A session, Wei said AI demand was \"very, extremely strong,\" with absolutely no signs of slowing.\n\nUnderlying AI semi supply chain growth is healthier than recent market panic suggest.",
+      "created_at": "Thu Oct 15 08:14:53 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2110644554735173632",
+          "url": "https://pbs.twimg.com/media/HUqECjQaQAApq0E.png"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 81,
+        "favorite_count": 966,
+        "reply_count": 89,
+        "quote_count": 24
       }
     }
   ]
