@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1054349,
+    "followers_count": 1054433,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261015",
-  "last_updated": "2026-10-15T13:18:27.485491",
-  "tweet_count": 2,
+  "last_updated": "2026-10-15T22:06:53.648323",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2110615506474651804",
@@ -81,6 +81,83 @@
         "favorite_count": 966,
         "reply_count": 89,
         "quote_count": 24
+      }
+    },
+    {
+      "id": "2110823066595131768",
+      "text": "$GOOGL is now discussing deals to extend their memory LTAs through 2035 from KeyBanc channel checks. \n\nSamsung already has 70% of their capacity allocated through 2031, and this move would suggest a more durable cycle for $MU, $SKHY, and the others. \n\nThey also expect HBM prices up 80% to 100% in the Q1 2027. \n\nHaving all your capacity potentially allocated out into 2035 via LTAs would ease a lot of memory durability fears.",
+      "created_at": "Thu Oct 15 20:00:10 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2110822322760450048",
+          "url": "https://pbs.twimg.com/media/HUsluAwaAAAncu5.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 41,
+        "favorite_count": 565,
+        "reply_count": 48,
+        "quote_count": 11
+      }
+    },
+    {
+      "id": "2110848740559126575",
+      "text": "Glad we finally got a word too from $NVDA Jensen Huang today from an event at Stockholm...\n\nAbout $CRWV amid the broader Neocloud selloff. \n\nWhen asked about the markets reactions to Coreweave, Jensen responded: \n\n- \"Coreweave's strength is improving every day, I'm optimistic\"\n- \"The cost of capital is actually decreasing\"\n\nOn whether Nvidia needed to provide a financial backstop:\n\n- Jensen said he did not see a need for Nvidia to backstop CoreWeave\n\nI'm personally not too positive about $CRWV relative to $NBIS and the others... but any copium helps from the man himself with market sentiment.",
+      "created_at": "Thu Oct 15 21:42:12 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2110845084556316672",
+          "url": "https://pbs.twimg.com/media/HUs6a7Db0AAmZId.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2110845717124366336",
+          "url": "https://pbs.twimg.com/media/HUs6_vjaQAAXvdk.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2110825754816880897",
+        "text": "@aleabitoreddit Fresh copium dopamine hit from Serenity post on a day my port gets blasted https://t.co/2MXCdqgFXV",
+        "created_at": "Thu Oct 15 20:10:51 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2110825749930233856",
+            "url": "https://pbs.twimg.com/media/HUso1f9W0AA9LLA.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2030708460338253824",
+          "name": "Fluidics",
+          "screen_name": "EscapeTheLab",
+          "description": "Biotech vet helping scientists advance. Investing and building side biz to quit a 9-5. Occasional foolishness. @arsenal",
+          "followers_count": 34,
+          "friends_count": 39,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 13,
+          "reply_count": 3,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 169,
+        "reply_count": 19,
+        "quote_count": 0
       }
     }
   ]
