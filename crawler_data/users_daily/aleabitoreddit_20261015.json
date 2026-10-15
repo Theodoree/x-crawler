@@ -1,0 +1,66 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1054265,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261015",
+  "last_updated": "2026-10-15T07:16:55.399495",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2110615506474651804",
+      "text": "It's interesting to see Elon interacting with finance X accounts out of the blue. \n\nThen amplifying $CRWV financing concerns, Chinese memory flooding, to AI investors being gamblers recently. \n\nWith $SPCX and $TSLA, I do think Elon is a visionary but from how it looks from the outside... \n\nAmplifying concerns about competitors does make their financing more difficult as a self-fulfilling prophecy.\n\nAnd multiple posts about Chinese memory flooding after calling Samsung/SK Hynix pricing extortion does harm these supplier valuations...\n\nThe economic incentives of doing so probably benefits Tesla/SpaceX more in the long run, even if everything goes down together. \n\nThere's merit to a lot of things (I've been voicing Coreweave concerns about debt interest + rate hikes for the longest time...). \n\nBut much like high end memory flooding to nuances of \"No crying in a Casino\" when the $AVGO CEO comments were regarding OpenAI ARR datapoints... were missed.  \n\nYou can throw rocks at others when a glass house is  propped up by passive index flows",
+      "created_at": "Thu Oct 15 06:15:24 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2110609701000126464",
+          "url": "https://pbs.twimg.com/media/HUpkVy-bIAAoLkS.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2110146513766900019",
+        "text": "Guess like we found out why Elon has been going on a crusade against memory in his recent posts.\n\n$SKHY and Samsung have been price hiking memory too much? https://t.co/r3sTYkd7TX",
+        "created_at": "Tue Oct 13 23:11:48 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2110146510835113984",
+            "url": "https://pbs.twimg.com/media/HUi_ElJbYAASnb4.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1054265,
+          "friends_count": 222,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 83,
+          "favorite_count": 1976,
+          "reply_count": 133,
+          "quote_count": 20
+        }
+      },
+      "stats": {
+        "retweet_count": 28,
+        "favorite_count": 443,
+        "reply_count": 69,
+        "quote_count": 6
+      }
+    }
+  ]
+}
