@@ -1,0 +1,36 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1055199,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261019",
+  "last_updated": "2026-10-19T07:37:31.359424",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2112080246895976755",
+      "text": "$LITE CEO interview on demand, counterparty + financing risk:  \n\n- \"CFO of $GOOGL came on and reported capex going up Y/Y, we expect hyperscalers for report an increase in capex in earnings. \n\nBased on what we see, we see their spend going up.\"\n\n- \"The purchase agreements we have, to a large degree, are noncancellable.\"\n\n- The difference between Lumentum and companies like $AVGO, \"we are not as dependent on AI datacenter buildout going forward\"\n\nThere's a conversion between electrical products to optical products\" creating structural demand. \n\nQ: When do you see able to see yourself having more inventory? (catching up to surge in demand)\n\n- When we look at demand, there is \"no end in sight\" \n\nTLDR:\n\nFinancing risk and demand aren't equally distributed across AI supply chains. But markets are just selling everything off together. \n\nAs for photonics in specific, I said this before, but  increasing optical content per XPU + CPO/NPO adoption keeps going up so we'll likely see sector spend go up, even if aggregate capex goes down.\n\nThere's the usual \"no end to demand in sight\" commentary, but $LITE does have capacity commitments into 2029 now... and are negotiating for 2030. (with new information that most of which are likely hyperscalers + non-cancellable) \n\nSo doesn't quite sound like it's all over for the AI trade, especially photonics.",
+      "created_at": "Mon Oct 19 07:15:46 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2112070467075121152",
+          "url": "https://pbs.twimg.com/media/HU-U5kqbIAAELqq.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 21,
+        "favorite_count": 161,
+        "reply_count": 26,
+        "quote_count": 4
+      }
+    }
+  ]
+}
