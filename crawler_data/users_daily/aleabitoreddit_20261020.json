@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1055587,
+    "followers_count": 1055789,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261020",
-  "last_updated": "2026-10-20T11:19:59.621471",
-  "tweet_count": 1,
+  "last_updated": "2026-10-20T23:45:54.477445",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2112429644033245666",
@@ -35,6 +35,66 @@
         "favorite_count": 802,
         "reply_count": 82,
         "quote_count": 46
+      }
+    },
+    {
+      "id": "2112674175446089985",
+      "text": "Yeah not sure how anyone thinks it's over on AI semis like $NVDA GPUs, memory, to photonics, after $SPCX earnings. \n\n- Previous Q4 capex outlook ~$18.4B... Now $35–40 billion Q4 capex guidance, basically doubling previous outlook\n\n\"Q3 and Q4 capex should be similar to Q2's $18.37B\" from CFO in August. \n\n-Elon: \"If everything goes right, we’ll have 20 gigawatts of incremental power next year\" \n\n\"High confidence of 10 GW next year, and 20 is difficult but not impossible\n\n- \"I’m being as precise as possible about this. It is absolutely insane to be deploying and providing the power and all of the electrical equipment, the cooling, the batteries, the networking, and everything else that’s needed to turn on 220,000 GB300s a month\"\n\nYou're gonna need a lot of HBM, power, networking/optical components to make all of this happen.\n\n- Elon projects SpaceX could exit 2027 with an ARR of \"$500 billion and $1 trillion by the end of 2027\n\nWhen you see $SPCX double capex outlook next quarter, target another 10GW deployment by next year, and all the procurement needed to turn on 220,000 GB300's a month... \n\nHard not to be bullish on AI semis.",
+      "created_at": "Tue Oct 20 22:35:49 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2112673093626028032",
+          "url": "https://pbs.twimg.com/media/HVG4_Dga4AAHZO3.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 51,
+        "favorite_count": 577,
+        "reply_count": 57,
+        "quote_count": 6
+      }
+    },
+    {
+      "id": "2112684521174999529",
+      "text": "Divergence between fundamental demand and valuations are now at extreme levels. \n\nYou're seeing accelerating procurement from $SMCI to $SPCX vs. collapsing equity prices on $AAOI to colo players. \n\nAfter ERs, I think Oct 2026 will be seen as a DeepSeek / April tariff opportunity",
+      "created_at": "Tue Oct 20 23:16:56 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2112681853790667168",
+        "text": "@aleabitoreddit 持续看多 最近末日轮有点多啊🥲",
+        "created_at": "Tue Oct 20 23:06:20 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1725736838143639552",
+          "name": "中年码农",
+          "screen_name": "qtdevlop",
+          "description": "📈 纳斯达克信徒｜股市复盘｜QDII\n🤖 AI 科技｜Web3",
+          "followers_count": 32057,
+          "friends_count": 12511,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 3,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 8,
+        "favorite_count": 173,
+        "reply_count": 26,
+        "quote_count": 3
       }
     }
   ]
