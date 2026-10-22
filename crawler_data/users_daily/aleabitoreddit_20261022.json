@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1056777,
+    "followers_count": 1058263,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261022",
-  "last_updated": "2026-10-22T04:29:15.172474",
-  "tweet_count": 1,
+  "last_updated": "2026-10-22T15:08:46.003935",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2113094859439690104",
@@ -30,6 +30,96 @@
         "favorite_count": 316,
         "reply_count": 46,
         "quote_count": 7
+      }
+    },
+    {
+      "id": "2113240389813780923",
+      "text": "I don't own $ASTS and not advice, but if you're capitulating just because a stock price went down.. \n\nThere's little investment thesis or conviction in the first place.\n\nPeople always have multi-year ideas like $RKLB becoming the next $SPCX or AST becoming the next Starlink competitor.\n\nKinda reminiscent of retail favorite names like $HOOD back in 2024, or $NBIS later in 2025... \n\nBut there's always capitulation periods along the way like the time hedge funds shorted Nebius to $70 in Dec/Jan, after calling it the Neocloud winter. \n\nOr the wave of negative analyst DGs on Robinhood on the drop back to $17. \n\nOr even macro scares like April 2025. \n\nSo lot of retail investors never gave their original longs time to play out.\n\nFast forward, a lot of these popular retail names do end up cooking... so kinda sad seeing how quickly sentiment turns.",
+      "created_at": "Thu Oct 22 12:05:45 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2113234394911842304",
+          "url": "https://pbs.twimg.com/media/HVO3fFvboAA-F0y.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2113154250708766953",
+        "text": "$ASTS decided to cut my losses. This stock is dropping with no bottom in sight. I got in at 88 and kept averaging down to my current average of 78, and I'm sitting on a 48% loss! This ticker is completely played out and hopeless. Good luck to anyone still holding.",
+        "created_at": "Thu Oct 22 06:23:28 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1844525589270757378",
+          "name": "Parker",
+          "screen_name": "WayneParke91492",
+          "description": "Long stocks, and options",
+          "followers_count": 198,
+          "friends_count": 133,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 159,
+          "reply_count": 74,
+          "quote_count": 7
+        }
+      },
+      "stats": {
+        "retweet_count": 46,
+        "favorite_count": 1188,
+        "reply_count": 104,
+        "quote_count": 21
+      }
+    },
+    {
+      "id": "2113269349519954203",
+      "text": "Yeah… minor volatility in October.\n\nFigured I’d share some personal drawdowns too for transparency. https://t.co/GDOTmceEgw",
+      "created_at": "Thu Oct 22 14:00:50 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2113269344390283264",
+          "url": "https://pbs.twimg.com/media/HVPXRasbAAAK1-X.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2113262776592273776",
+        "text": "@aleabitoreddit I saw your post with P&amp;L...Oh, my god...!!!",
+        "created_at": "Thu Oct 22 13:34:43 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1797335541932863488",
+          "name": "Surehand",
+          "screen_name": "Lucon3224",
+          "description": "$SIVE Investor | All in | Holding until Sept. 2028",
+          "followers_count": 57,
+          "friends_count": 60,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 13,
+          "reply_count": 3,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 92,
+        "favorite_count": 2999,
+        "reply_count": 297,
+        "quote_count": 81
       }
     }
   ]
