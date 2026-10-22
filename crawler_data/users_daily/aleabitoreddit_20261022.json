@@ -1,0 +1,36 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1056777,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261022",
+  "last_updated": "2026-10-22T04:29:15.172474",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2113094859439690104",
+      "text": "$NVDA today announces capacity agreements with substrate, packaging, testing and optical engine suppliers.\n\n- Substrate agreements with Ibiden, Samsung Electro-Mechanics and Unimicron to expand by 2.5x\n- $AMKR to increase advanced packaging capacity by more than 300% by the end of 2028, with a new $1.3B agreement\n- Multibillion dollar capacity reservation advance to support Ibiden's plant in Japan\n- \"By 2028, production allocated to $NVDA is projected to account for a significant portion of Samsung Electro-Mechanics' total annual package substrate production capacity\"\n- KYEC with $1.1B capacity reservation in advance\n- SPIL for optical engine capacity for CPO by 15x by H2 2027 and double that for 2028\n\nWell, that's a lot of news. As Jensen Huang puts it: \"Demand is extraordinary. Capacity is the constraint.\"",
+      "created_at": "Thu Oct 22 02:27:28 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2113093194091302912",
+          "url": "https://pbs.twimg.com/media/HVM3EHsbkAAA2ad.png"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 14,
+        "favorite_count": 316,
+        "reply_count": 46,
+        "quote_count": 7
+      }
+    }
+  ]
+}
