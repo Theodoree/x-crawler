@@ -1,0 +1,81 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1061418,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261023",
+  "last_updated": "2026-10-23T04:30:20.016282",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2113433338522546399",
+      "text": "$NVDA Jensen Huang: Surplus of memory supply is unlikely by 2029. \n\nThe CNBC question referenced a Korean newspaper opinion on $KOSPI / Samsung / SK Hynix that predicted \"new supply will leave the memory sector a red ocean in 2029.\"\n\n\"One of the things that's really great about memory is that you can always use more of it\", Jensen said, citing LPDDR usage in DCs.  And responded \"I don't think so\" in terms of possibilities of oversupply in 2029. \n\nJust my personal opinion, Nvidia probably has the most visibility in the entire industry. \n\nEspecially around supply procurement and emerging capacity, given they're the ones leading all the architectural shifts. \n\nOn durability, you have Samsung already allocated majority of capacity into 2031 from SED and hyperscalers like $GOOGL are already reportedly securing memory LTAs into 2035 from KeyBanc. \n\nYet there's endless \"it's all over\" sentiment on memory now. I'd probably trust Jensen's opinion here.",
+      "created_at": "Fri Oct 23 00:52:28 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2113429239861280768",
+          "url": "https://pbs.twimg.com/media/HVRosjvbAAAaCco.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 44,
+        "favorite_count": 683,
+        "reply_count": 70,
+        "quote_count": 11
+      }
+    },
+    {
+      "id": "2113437977749999628",
+      "text": "Actually $ESMT and my legacy memory names held up better than the rest of the AI trade. \n\nProbably did better... since ESMT is around 1.6x runrate P/E, annualized off July earnings.\n\nThis was more of a durability/PSMC hike sensitivity type thesis, but... we got durability support now from brand new commentary yesterday:\n\n- ESMT expected tightness on their legacy memory products through 2028 or longer\n- Further Q4 price increases... with the operating performance is expected to be better than the third quarter\n- Supply shortfall exceeding 30%\n\nSource: Digitimes TW\n\nSo you have a $2.15B MC company that made $107M net income a month (annualized $1.28B earnings a year) from July earnings... \n\nWith future price hikes and likely tightness lasting through 2028 onward.",
+      "created_at": "Fri Oct 23 01:10:54 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2113435949497753600",
+          "url": "https://pbs.twimg.com/media/HVRuzHFaoAAWlZ_.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2113208196924047635",
+        "text": "@aleabitoreddit @dBooray Hi Serenity, do you currently have any updates on $ESMT?",
+        "created_at": "Thu Oct 22 09:57:50 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "761118638887751680",
+          "name": "Leo Hsu",
+          "screen_name": "LeoHsu4A",
+          "description": "I am a diehard fan of the WWE.",
+          "followers_count": 128,
+          "friends_count": 391,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 13,
+        "favorite_count": 221,
+        "reply_count": 24,
+        "quote_count": 10
+      }
+    }
+  ]
+}
