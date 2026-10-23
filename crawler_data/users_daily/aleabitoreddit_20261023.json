@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1061418,
+    "followers_count": 1062252,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261023",
-  "last_updated": "2026-10-23T04:30:20.016282",
-  "tweet_count": 2,
+  "last_updated": "2026-10-23T14:52:33.889465",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2113433338522546399",
@@ -75,6 +75,37 @@
         "favorite_count": 221,
         "reply_count": 24,
         "quote_count": 10
+      }
+    },
+    {
+      "id": "2113575601390936238",
+      "text": "Pretty crazy Reuters piece on the global selloff.\n\n- October 22 marked the 1st time since the COVID crash that long/short, systematic, and multi-strategy hedge funds tracked by Goldman Sachs ALL lost more than 1% in a single day.\n\n- Tech-focused hedge funds: down ~10% in October\n\n- Asia-focused hedge funds: down ~9% in October\n\nThere’s separate interviews where Citadel/JP Morgan have been saying retail has been the ones buying the dip in semiconductor, neocloud, and memory stocks.\n\nAnd the stocks bought by most retail were $NBIS, $SNDK, and $TSM.\n\nReuters stated this downturn triggered institutional deleveraging events among hedge funds.\n\nQuite the divergence, I do think there’s been a ton of irrational selling now, hedge fund deleveraging seems to be a major contributor.",
+      "created_at": "Fri Oct 23 10:17:46 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2113575592876802048",
+          "url": "https://pbs.twimg.com/media/HVTtzbNbgAAYU-G.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2113575592876707840",
+          "url": "https://pbs.twimg.com/media/HVTtzbNaEAAhXEe.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2113575592918654976",
+          "url": "https://pbs.twimg.com/media/HVTtzbXaIAA5MPc.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 68,
+        "favorite_count": 1253,
+        "reply_count": 101,
+        "quote_count": 31
       }
     }
   ]
