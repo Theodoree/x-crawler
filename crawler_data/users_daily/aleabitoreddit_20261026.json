@@ -1,0 +1,41 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1063505,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261026",
+  "last_updated": "2026-10-26T05:57:11.917906",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2114519097526686033",
+      "text": "Just another $40B going into the \"AI Infra\" Bubble... \n\nElon stated this $SPCX financing would primarily fund $NVDA GPU procurement H1 2027. Which indirectly increases demand for memory, networking, etc needed. \n\nIn some other notes, VPEC today in UDN:  \"InP substrates is seriously in short supply\" in regards to suppliers like $AXTI. \n\n- Morgan Stanley believes that InP substrates, EML and CW lasers will be the primary bottlenecks\n\n- VPEC emphasized that whoever can secure more raw material supply in the future will have greater pricing power and influence in the market. \n\nVery true about supply procurement... both upstream materials like epiwafers/substrates to ultimately compute.\n\nWe're in a volatile period where all your largest companies in the world are fighting over control of the future of AI infrastructure.\n\nAny slowdown seems unlikely.",
+      "created_at": "Mon Oct 26 00:46:53 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2114513707569156096",
+          "url": "https://pbs.twimg.com/media/HVhDA4xakAARS8D.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2114517004141142016",
+          "url": "https://pbs.twimg.com/media/HVhGAxdbIAAMZKn.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 28,
+        "favorite_count": 677,
+        "reply_count": 87,
+        "quote_count": 13
+      }
+    }
+  ]
+}
