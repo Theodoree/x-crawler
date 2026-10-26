@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1063061,
+    "followers_count": 1063438,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261025",
-  "last_updated": "2026-10-25T05:58:57.183493",
-  "tweet_count": 1,
+  "last_updated": "2026-10-26T00:03:37.159129",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2114213351060554010",
@@ -30,6 +30,21 @@
         "favorite_count": 310,
         "reply_count": 46,
         "quote_count": 17
+      }
+    },
+    {
+      "id": "2114477224208535600",
+      "text": "I've always defended X as the only platform to be on for financial discourse.\n\nBut it's getting harder to when the owner constantly amplifies narratives of collapse… of companies whose interests conflict with his own at $SPCX or $TSLA.\n\nWould people be comfortable if $NVDA Jensen Huang owned $META? \n\nAnd then the timelines were dominated by his amplified narratives of $AVGO failing? \n\nI can't see how that would be healthy for grassroots discussion.",
+      "created_at": "Sun Oct 25 22:00:29 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 104,
+        "favorite_count": 1694,
+        "reply_count": 213,
+        "quote_count": 25
       }
     }
   ]
