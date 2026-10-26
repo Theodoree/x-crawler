@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1063505,
+    "followers_count": 1063678,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261026",
-  "last_updated": "2026-10-26T05:57:11.917906",
-  "tweet_count": 1,
+  "last_updated": "2026-10-26T19:20:52.834162",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2114519097526686033",
@@ -34,6 +34,42 @@
         "retweet_count": 28,
         "favorite_count": 677,
         "reply_count": 87,
+        "quote_count": 13
+      }
+    },
+    {
+      "id": "2114752489476309203",
+      "text": "TY $ANT for the positive $3.4B FCF for H1 2026.\n\nStill feels like all your AI infra names from $MU to $AAOI sold off way too hard.\n\nConsidering the billions in financing raised by frontier labs to hyperscalers..\n\nEnd up ultimately flowing back to GPUs, networking, to memory. https://t.co/U6GAmlOJ53",
+      "created_at": "Mon Oct 26 16:14:18 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2114752480718553089",
+          "url": "https://pbs.twimg.com/media/HVkcLUEbAAEjHci.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2114752480693436416",
+          "url": "https://pbs.twimg.com/media/HVkcLT-bwAA3WTi.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2114752480693321728",
+          "url": "https://pbs.twimg.com/media/HVkcLT-aAAA2GYi.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2114752480676618240",
+          "url": "https://pbs.twimg.com/media/HVkcLT6bIAAwo2d.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 26,
+        "favorite_count": 694,
+        "reply_count": 71,
         "quote_count": 13
       }
     }
