@@ -1,0 +1,108 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1063904,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261027",
+  "last_updated": "2026-10-27T16:23:04.739650",
+  "tweet_count": 3,
+  "tweets": [
+    {
+      "id": "2115045873734529050",
+      "text": "The S&amp;P 500 returns Nov -&gt; Jun following midterm elections apparently:\n\n- 21/21 times were positive\n- Avg. index gain was 16.6%.\n\nHigh-beta stocks historically outperformed even more…\n\nVery interesting, with Nov 3rd coming up, do you think 2026 will be an anomaly? https://t.co/nXCffuomqs",
+      "created_at": "Tue Oct 27 11:40:06 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2115045868651020288",
+          "url": "https://pbs.twimg.com/media/HVonAvSaAAAbmvF.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 82,
+        "favorite_count": 1272,
+        "reply_count": 128,
+        "quote_count": 36
+      }
+    },
+    {
+      "id": "2115056034763137169",
+      "text": "Oh look… more memory durability evidence for $MU and co.\n\nFollowing the news of $GOOGL, other CSPs such as Alibaba, Tencent, Bytedance, and are now negotiating memory LTAs with $SKHY and Samsung.\n\nSome customers are reportedly pushing for 10 year contracts as well, into 2035.\n\n“As U.S. companies move to secure memory supplies first, Chinese tech giants are joining the race.” \n\nSource: Maeil News\n\nDon't you think it's a bit strange for your hyperscalers (especially Chinese big tech) to seek LTAs 10 years out… \n\nIf there's claims of CXMT + YMTC DRAM/NAND overflooding in 2028-2029?",
+      "created_at": "Tue Oct 27 12:20:29 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2115056027226005504",
+          "url": "https://pbs.twimg.com/media/HVowQC7a4AAk0MP.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2110823066595131768",
+        "text": "$GOOGL is now discussing deals to extend their memory LTAs through 2035 from KeyBanc channel checks. \n\nSamsung already has 70% of their capacity allocated through 2031, and this move would suggest a more durable cycle for $MU, $SKHY, and the others. \n\nThey also expect HBM prices up 80% to 100% in the Q1 2027. \n\nHaving all your capacity potentially allocated out into 2035 via LTAs would ease a lot of memory durability fears.",
+        "created_at": "Thu Oct 15 20:00:10 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2110822322760450048",
+            "url": "https://pbs.twimg.com/media/HUsluAwaAAAncu5.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1063904,
+          "friends_count": 212,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 130,
+          "favorite_count": 1497,
+          "reply_count": 90,
+          "quote_count": 36
+        }
+      },
+      "stats": {
+        "retweet_count": 57,
+        "favorite_count": 853,
+        "reply_count": 72,
+        "quote_count": 32
+      }
+    },
+    {
+      "id": "2115094150626644115",
+      "text": "I made a new “It’s All Over” portfolio today of even higher beta names than $AAOI.\n\nThe requirements:\n\n1. Fell off a cliff\n2. Lower than when they announced their catalysts \n3. Increasing fundamentals\n4. Looks like the chart \n5. Short interest spiking \n\nStuff like $ALMU at $7, $CIFR at $8, $ASTS at $39, and some Leopold trades like $TE at $2.5, $SHAZ at $25.\n\nNot a recommendation, just curious how this performs into year end while doomposts are everywhere.\n\nAnyone got any other ones?",
+      "created_at": "Tue Oct 27 14:51:56 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2115094144205139968",
+          "url": "https://pbs.twimg.com/media/HVpS6vvbMAABtIP.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 39,
+        "favorite_count": 903,
+        "reply_count": 193,
+        "quote_count": 12
+      }
+    }
+  ]
+}
