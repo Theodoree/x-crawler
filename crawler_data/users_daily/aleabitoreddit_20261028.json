@@ -1,0 +1,71 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1064206,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261028",
+  "last_updated": "2026-10-28T08:13:55.687457",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2115265167919653233",
+      "text": "Woah, stellar earnings from and AI market projections...  \n\n1. SK Hynix: \"Memory supply shortage to persist through 2030\". \n2. There's the $4.8B operating profit beat ($62.8B vs. ~$58B est)... 80% operating margins. \n\nSo you had:\n- Revenue: $78.84B vs. $74.02B\n- Operating profit: $62.80B vs. $58.00B\n- Operating margin: 79.7% vs. 78.3%\n\nWith forward projections of \n\n3. \"Our DRAM and HBM volumes through 2029 are effectively sold out.\"\n4. Signed LTAs covering 50%+ of 2027–2028 capacity, while retaining pricing flexibility\n5. The company intends to fulfill its commitment to return 50%+  of cumulative FCF for 2025-2027\n6. \"We have included deposits and other practical enforcement mechanisms\" (LTAs have actual enforcement)\n7. \"We expect the profitability gap between HBM and conventional DRAM to narrow significantly\" (hello broader memory industry) \n8. SK Hynix announced $75B in shareholder returns (dividends/buybacks) for CY2026. \n\nI'm not sure what there isn't to like here? \n\nYou have a memory company just printing... demand visibility super high from enforceable commitments... and now they're returning that via dividends/buybacks.",
+      "created_at": "Wed Oct 28 02:11:30 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2115259768336228352",
+          "url": "https://pbs.twimg.com/media/HVrpjVtbIAA1Sq5.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2115260709219246080",
+          "url": "https://pbs.twimg.com/media/HVrqaGxaoAADWXI.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2115056034763137169",
+        "text": "Oh look… more memory durability evidence for $MU and co.\n\nFollowing the news of $GOOGL, other CSPs such as Alibaba, Tencent, Bytedance, and are now negotiating memory LTAs with $SKHY and Samsung.\n\nSome customers are reportedly pushing for 10 year contracts as well, into 2035.\n\n“As U.S. companies move to secure memory supplies first, Chinese tech giants are joining the race.” \n\nSource: Maeil News\n\nDon't you think it's a bit strange for your hyperscalers (especially Chinese big tech) to seek LTAs 10 years out… \n\nIf there's claims of CXMT + YMTC DRAM/NAND overflooding in 2028-2029?",
+        "created_at": "Tue Oct 27 12:20:29 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2115056027226005504",
+            "url": "https://pbs.twimg.com/media/HVowQC7a4AAk0MP.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1064206,
+          "friends_count": 212,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 82,
+          "favorite_count": 1177,
+          "reply_count": 91,
+          "quote_count": 38
+        }
+      },
+      "stats": {
+        "retweet_count": 74,
+        "favorite_count": 1082,
+        "reply_count": 87,
+        "quote_count": 15
+      }
+    }
+  ]
+}
