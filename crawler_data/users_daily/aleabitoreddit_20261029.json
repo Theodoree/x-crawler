@@ -1,0 +1,36 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1064416,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261029",
+  "last_updated": "2026-10-29T06:55:28.304383",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2115624832947917083",
+      "text": "Holy sht, $MRVL is in the final stages of a deal to acquire $LITE.\n\nAttempting to vertically integrate the most supply constrained chokepoints… with lasers.\n\nIs very big brain if they pull it off and suddenly makes other laser players more strategically valuable. https://t.co/61vfIIsBRw",
+      "created_at": "Thu Oct 29 02:00:41 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2115624826312458240",
+          "url": "https://pbs.twimg.com/media/HVw1kgpaAAAxvxp.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 57,
+        "favorite_count": 1268,
+        "reply_count": 119,
+        "quote_count": 15
+      }
+    }
+  ]
+}
