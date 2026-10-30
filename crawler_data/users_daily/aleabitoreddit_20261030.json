@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1064481,
+    "followers_count": 1064533,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261030",
-  "last_updated": "2026-10-30T14:00:29.120816",
-  "tweet_count": 1,
+  "last_updated": "2026-10-30T19:14:07.550342",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2116064400381706600",
@@ -54,6 +54,27 @@
         "favorite_count": 353,
         "reply_count": 69,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2116221086107111712",
+      "text": "Trump: “This is Biden’s market” https://t.co/zvCtnHJPf7",
+      "created_at": "Fri Oct 30 17:29:59 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2116221079144611841",
+          "url": "https://pbs.twimg.com/media/HV5T2_ibwAEoyXR.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 84,
+        "favorite_count": 1904,
+        "reply_count": 161,
+        "quote_count": 23
       }
     }
   ]
