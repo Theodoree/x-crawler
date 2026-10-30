@@ -1,0 +1,60 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1064481,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261030",
+  "last_updated": "2026-10-30T14:00:29.120816",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2116064400381706600",
+      "text": "Just large-cap investors in $INTC, $MRVL, and others…\n\nFinally getting a taste of what high beta investors endured over the past 3 months. https://t.co/Dzj6USQvWI",
+      "created_at": "Fri Oct 30 07:07:22 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2116064393851179008",
+          "url": "https://pbs.twimg.com/media/HV3FWtVaEAAxwm8.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2116043388357144582",
+        "text": "@aleabitoreddit @rob55178 Serenity these selloffs of the companies reporting earnings are absolutely brutal what are your thoughts on that ?",
+        "created_at": "Fri Oct 30 05:43:52 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1508425587471364105",
+          "name": "Wolfex",
+          "screen_name": "Wolfex_Yeat",
+          "description": "",
+          "followers_count": 71,
+          "friends_count": 222,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 11,
+        "favorite_count": 353,
+        "reply_count": 69,
+        "quote_count": 2
+      }
+    }
+  ]
+}
