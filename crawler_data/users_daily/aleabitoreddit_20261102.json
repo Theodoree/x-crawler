@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1064807,
+    "followers_count": 1064922,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261102",
-  "last_updated": "2026-11-02T15:28:55.020117",
-  "tweet_count": 3,
+  "last_updated": "2026-11-02T23:25:24.649559",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2117220957622255727",
@@ -120,6 +120,51 @@
         "favorite_count": 627,
         "reply_count": 66,
         "quote_count": 9
+      }
+    },
+    {
+      "id": "2117296667108278605",
+      "text": "$LITE standalone would likely be up on earnings after their new $5B CPO/NPO announcement (separate from $NVDA).\n\nThe margins on that are likely 60%+… which shows how profitable laser players would be at scale.\n\n(Greensboro alone would be $5B revenue/year)\n\nIn terms of the $MRVL deal:\n\n- Extremely positive for Marvell strategically. Also makes remaining laser players very valuable \n\n- $LITE shareholders can cry though about the 1+ year overhang until deal goes through in 2028. \n\nThere’s less independent price discovery as well since a lot of it will be pegged around 4.5 Marvell shares : 1\n\n- I think Lumentum shareholders probably would be happier if Marvell shares didn’t crash before the deal was announced..\n\nsince it was originally valuing $LITE at $115B with a 23.9% premium. \n\n- Marvell dropping does show the downside of the deal straight away though, if it rose then $LITE shareholders might be a tad happier given valuation.\n\nHaving a fixed dollar MC value floor probably would have been better than the 4.5x:1 ratio.\n\nThere was a lot of long $LITE, short ___ pressuring other photonics valuations, so at least those trade pairs might unwind now",
+      "created_at": "Mon Nov 02 16:43:57 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2117296661215207424",
+          "url": "https://pbs.twimg.com/media/HWImGG_aYAADJ-8.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2117287332739235988",
+        "text": "@aleabitoreddit Thoughts on $ LITE being down 11% on the news?",
+        "created_at": "Mon Nov 02 16:06:52 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2018547688216604672",
+          "name": "Sunil",
+          "screen_name": "FoodOrFinance",
+          "description": "Exciting time to be alive.",
+          "followers_count": 35,
+          "friends_count": 325,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 2,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 21,
+        "favorite_count": 494,
+        "reply_count": 50,
+        "quote_count": 4
       }
     }
   ]
