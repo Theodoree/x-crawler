@@ -1,0 +1,126 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1064807,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261102",
+  "last_updated": "2026-11-02T15:28:55.020117",
+  "tweet_count": 3,
+  "tweets": [
+    {
+      "id": "2117220957622255727",
+      "text": "We've finally made it to November... holy crap October was brutal. \n\nPer Morgan Stanley data, the recent hedge fund de-grossing was the highest in the past 10 years. \n\nExceeding the:  \n- 2016 Chinese stock market crash\n- 2018 Volmageddon\n- March 2020 COVID crash\n- 2021 Archegos collapse / Evergrande crisis\n- 2022 bear market\n\nGoldman's prime brokerage desk reported on the 26th that it had also seen ~$20B of selling over 2 weeks vs. $23 billion during July's entire unwind. \n\nFrom $HOOD short interest data, from Sept -> Oct short float also increased from:\n\n$AAOI: 12.5% -> 19.84%+ \n$AEVA: 11% -> 25.64%+ \n$CBRS: 12.25% -> 20.12%+\n$AEHR: 14.33% -> 17.93%+\n$TSEM: 2.15% -> 4.73%+\n$CIFR: 19.94% -> 25.39%+\n$LWLG: 15.24% ->19.12%+ \n$OKLO: 17.72% ->22.93%+\n$CRWV: 17.91% ->26.58%+\n\nSubstantial deleveraging coinciding with surging short interest, kinda looks like a July setup after Midterms? \n\nThe recent rotation also kinda pushed names like $CRWD and cybersecurity to bubble valuations into hundreds of fwd P/E... \n\nEarnings on many AI capex + bottlenecks (not all like $INTC) looked strong: \n\neg. $AXTI guided annualized Q4 = 23.7x P/E now, not including potential InP substrate hikes + capacity expansion that can compress it to single digits. \n\n- $SKHY (~$59B operating profit) casually making more than trillion dollar companies like Amazon ($28.1B operating profit), backed with 5Y LTAs. \n\n- No signs of $MSFT / $AMZN materially cutting capex, while $SPCX secures $40B more for GPU procurement. \n\nSlightly painful, but I think the AI capex trade (specifically photonics/memory) is a generational opportunity, with extreme volatility in between.",
+      "created_at": "Mon Nov 02 11:43:07 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2117201694371278848",
+          "url": "https://pbs.twimg.com/media/HWHPuT7a8AAHZv5.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 82,
+        "favorite_count": 1098,
+        "reply_count": 115,
+        "quote_count": 17
+      }
+    },
+    {
+      "id": "2117229519178498541",
+      "text": "$MRVL actually did it and bought $LITE, no way. https://t.co/bxuDpbaxSp",
+      "created_at": "Mon Nov 02 12:17:08 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2117229504989196288",
+          "url": "https://pbs.twimg.com/media/HWHpBGjbcAAcoJY.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2115624832947917083",
+        "text": "Holy sht, $MRVL is in the final stages of a deal to acquire $LITE.\n\nAttempting to vertically integrate the most supply constrained chokepoints… with lasers.\n\nIs very big brain if they pull it off and suddenly makes other laser players more strategically valuable. https://t.co/61vfIIsBRw",
+        "created_at": "Thu Oct 29 02:00:41 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2115624826312458240",
+            "url": "https://pbs.twimg.com/media/HVw1kgpaAAAxvxp.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1064807,
+          "friends_count": 211,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 100,
+          "favorite_count": 2270,
+          "reply_count": 191,
+          "quote_count": 31
+        }
+      },
+      "stats": {
+        "retweet_count": 103,
+        "favorite_count": 1590,
+        "reply_count": 131,
+        "quote_count": 44
+      }
+    },
+    {
+      "id": "2117255303301612014",
+      "text": "Following the Lumentum / Marvell deal: \n\nMy opinion is that independent Western laser players, like $AAOI, $COHR, and $SIVE became a lot more strategically valuable. \n\n$MTSI and $SMTC should get some attention too as emerging laser players in 2027. \n\nIf I had to guess: \n\n1. Companies competing against Marvell, or not in the $NVDA ecosystem bandwagon, such as $AMD, are likely going to rethink their relationship with $LITE.\n\nIf getting bottlenecked by Nvidia capacity agreements wasn't enough... Incentives around qualifying + bringing up other laser players, seems very necessary now. \n\nSince you generally don't want competitors like Marvell to have influence or visibility over your roadmaps, IP, capacity, pricing, etc. even if there is a \"firewall\".  \n\n2. $MRVL acquiring Lumentum opened pandoras box in a way of acquiring a critical chokepoint all your competitors + buyers use. \n\n$LITE was used by your major hyperscalers and across AI supply chains. \n\nNow, your leaders might wonder if weaponizing capacity agreements might not be as effective.... If someone else can just buy the entire company. \n\nThere's only a few major public merchant Western players out there, and I'm also sure many others will want to follow the Marvell / Broadcom route via vertical integration, given I think $MRVL saves around $1B+ in costs/year. \n\nSo M&A premiums likely went up. \n\n$SMTC was actively looking to buy laser capacity via M&A so I'm sure they're looking at $SIVE given their 100M CW DFB laser expansion + tiny MC. \n\n$JBL also probably wants to vertically integrate down the road too so $SIVE is also an acquisition target for their 1.6T program. \n\n$AMD was looking for ELSFP + CW capacity given Nvidia bottlenecks, so I'm sure they've looked at $AAOI. \n\ncan go on and on about other ASIC players (like in Taiwan) that likely are looking at vertical integration too.\n\nSince multiple players use a small subset of laser suppliers, if competitors just go ahead and buys them... \n\nThere's a lot pressure to M&A for their own supply chain defensibility. \n\nTLDR: Independent laser suppliers should capture a material strategic revaluation since $MRVL + $LITE, sets a new precedent + implications. \n\nWe'll see what happens.",
+      "created_at": "Mon Nov 02 13:59:35 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2117230450263417128",
+        "text": "@aleabitoreddit Can you please provide your genuine thoughts on this in regard to the optics/laser market, and if it could have any effect whatsoever on Sivers? Thanks. For me personally, I think the bottleneck looks tighter than ever",
+        "created_at": "Mon Nov 02 12:20:50 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4828964777",
+          "name": "James",
+          "screen_name": "JClaydog",
+          "description": "",
+          "followers_count": 99,
+          "friends_count": 331,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 9,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 47,
+        "favorite_count": 627,
+        "reply_count": 66,
+        "quote_count": 9
+      }
+    }
+  ]
+}
