@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1065038,
+    "followers_count": 1065095,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261103",
-  "last_updated": "2026-11-03T06:19:57.169080",
-  "tweet_count": 2,
+  "last_updated": "2026-11-03T14:58:31.176734",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2117437833820672397",
@@ -75,6 +75,96 @@
         "favorite_count": 186,
         "reply_count": 35,
         "quote_count": 4
+      }
+    },
+    {
+      "id": "2117539121434591711",
+      "text": "Just to show a point... AI names have crashed so much to the point $POET as a business is now considered close to worthless.\n\nIt's now $829.7M MC vs. ~$788M net cash. And below its $847.5M book value.\n\nConsidering institutions were funding it $400m at $21, with $26.25 exercisable warrants few months ago and it's back to ~$4.8. \n\nPoet would need to rally +337.5% just to return back to the original financing price. \n\n\"FOGO\" (Fear of Getting Obliterated) have hit extreme levels if \"growth\" companies are priced near liquidation values.",
+      "created_at": "Tue Nov 03 08:47:23 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2117536044707155968",
+          "url": "https://pbs.twimg.com/media/HWL_0D_bEAAtSyh.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2117329746883477579",
+        "text": "$poet down over 75% since its high earlier this year…\n\nwhat a pile of 💩",
+        "created_at": "Mon Nov 02 18:55:24 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1690361297387261953",
+          "name": "Jakeyboy",
+          "screen_name": "Jakeybo53735378",
+          "description": "",
+          "followers_count": 33,
+          "friends_count": 44,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 6,
+          "reply_count": 3,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 55,
+        "favorite_count": 1080,
+        "reply_count": 96,
+        "quote_count": 22
+      }
+    },
+    {
+      "id": "2117550199895896490",
+      "text": "Counterpoint on $MRVL / $LITE acqusition:\n\n- \"Every buyer that competes with Marvell will want a second, independent laser source\".\n\nThey identify $SIVE / Scintil Photonics as new CW / ELS capacity, with names like $CRDO as potential partners of Sivers.\n\n- \"With Lumentum sold out for years, the overflow goes to whoever has merchant capacity\"\n\nAlready said this before, but we'll likely see some incentive to diversify laser sourcing. \n\nSivers was cited here, and comes online with 100M lasers / external foundry capacity (2:1 external/internal target). \n\nTo demonstrate the sheer scale on that, $AAOI exit 2026 laser capacity target was roughly ~24M/year (but different blend). \n\n- \"Module makers move upstream\" was also another second order effect. \n\n $JBL as one example is now heavily competing with the combined Lumentum + Marvell.... There's other players like $SMTC that are explicitly doing M&A for expanding laser capacity.\n\nI don't think the overall AI valuation crash is representative of individual company strength in the optical sector.\n\nThere's very compelling opportunities in the laser bottleneck in the upcoming year that I believe markets are mispricing.",
+      "created_at": "Tue Nov 03 09:31:24 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2117545430099832832",
+          "url": "https://pbs.twimg.com/media/HWMIWXTaMAAYD11.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2117540164935536920",
+        "text": "@aleabitoreddit now do $SIVE",
+        "created_at": "Tue Nov 03 08:51:31 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1640047357210382338",
+          "name": "Rivério",
+          "screen_name": "riverio1e",
+          "description": "asymmetric risk enjoyer.",
+          "followers_count": 289,
+          "friends_count": 1594,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 7,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 36,
+        "favorite_count": 665,
+        "reply_count": 61,
+        "quote_count": 12
       }
     }
   ]
