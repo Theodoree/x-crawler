@@ -1,0 +1,81 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1065038,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261103",
+  "last_updated": "2026-11-03T06:19:57.169080",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2117437833820672397",
+      "text": "People on X (now YC companies included) learned that it’s easier to doompost for impressions.\n\n$SPCX + Elon wouldn’t be heavily building in the Neocloud space if they didn’t see the ROI.\n\nSamsung wouldn’t be selling 5-10Y LTAs to Chinese big tech, if Alibaba/Tencent/Bytedance saw memory overflooding in 2 years.\n\n$LITE wouldn’t be sold out into 2029 and announce new $5B UHP laser contracts if optical demand didn’t persist.\n\nIt’s interesting seeing the very same people long $SNDK, $NBIS, to $COHR 2 months ago. Flip flop on every market narrative from the initial Iran War to the current “AI Bubble”.\n\nI’d argue 180x fwd P/E cybersecurity and biotech stocks are more of a bubble than 3 P/E memory companies with hyperscaler LTAs.",
+      "created_at": "Tue Nov 03 02:04:54 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2117304226820895009",
+        "text": "Every week there’s a new FUD narrative for the memory companies and the neoclouds. \n\nOver the weekend a couple accounts claimed that B300s were readily available and prices were under $5 per hour. I call bullshit. \n\nOver the past 24 hours I’ve spoken to several people who are either buying compute or selling compute and they all confirm that price is complete nonsense. \n\nYou can’t even get $5 per hour for B300s on long term contracts with big upfront payments because the compute sellers know demand is so high that it would be stupid to sell capacity that far below market prices. \n\nThankfully we have multiple data companies that track GPU prices… B300s are currently renting at $10-12 per hour depending on who you are buying from. \n\nIf I see you spreading FUD… I’m just going to block you.",
+        "created_at": "Mon Nov 02 17:13:59 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2117295393364975616",
+            "url": "https://pbs.twimg.com/media/HWIk8T4XIAAPQHy.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "14579415",
+          "name": "Jonah Lupton",
+          "screen_name": "JonahLupton",
+          "description": "CEO/CIO @FirstWaveFund, long/short hedge fund, investor in growth companies with strong fundamentals, compelling valuations, big catalysts and low PEG ratios.",
+          "followers_count": 554865,
+          "friends_count": 3024,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 10,
+          "favorite_count": 163,
+          "reply_count": 12,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 43,
+        "favorite_count": 908,
+        "reply_count": 98,
+        "quote_count": 16
+      }
+    },
+    {
+      "id": "2117493886100918684",
+      "text": "Nah markets are trolling now… $ESMT ($2.3B MC) memory earnings + investor conference:\n\n- Revenue: $679.4M\n- Gross profit: $526.2M (77.44% margin)\n- Operating profit: $403.4M (59.37% margin)\n\nAnnualized Q3 would be $1.61B operating profit. \n\nThey’re also sitting on $757M net cash + $278M in inventory…\n\nSo you only need ~3.5x more quarters until they exceed their marketcap in assets.\n\n- Economic Daily also reported that management does not expect a meaningful increase in DDR2/DDR3 supply in 2027 and believes prices can be maintained\n\nSo yes, I think markets are trolling now with selling off a 1.59x p/e (annualized) company.\n\nSince further price hikes are expected Q4z",
+      "created_at": "Tue Nov 03 05:47:38 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2117493879222267904",
+          "url": "https://pbs.twimg.com/media/HWLZdtUbcAA9YsN.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 8,
+        "favorite_count": 186,
+        "reply_count": 35,
+        "quote_count": 4
+      }
+    }
+  ]
+}
