@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1065095,
+    "followers_count": 1065085,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261103",
-  "last_updated": "2026-11-03T14:58:31.176734",
-  "tweet_count": 4,
+  "last_updated": "2026-11-03T20:57:49.326498",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2117437833820672397",
@@ -165,6 +165,134 @@
         "favorite_count": 665,
         "reply_count": 61,
         "quote_count": 12
+      }
+    },
+    {
+      "id": "2117634458778247210",
+      "text": "Agility Robotics merger is now approved!\n\n$AGLT is expected to begin trading November 5th, following the November 4 closing... As the first US pure-play humanoid company!\n\nThe company is backed by $NVDA, $AMZN, Foxconn, Softbank, and others... to automate human work in warehouses and manufacturing. \n\n~61.48% of the 41.4M public shares were redeemed (~25.45M shares), leaving ~15.95M public shares tradeable.\n\nGiven heavily reduced share count, as a warning, the stock may experience significant volatility.\n\nDisclosure: Not a recommendation, purchased $CCXI shares today after seeing the news and currently hold a position.",
+      "created_at": "Tue Nov 03 15:06:13 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2117633503684866048",
+          "url": "https://pbs.twimg.com/media/HWNYc6-aMAAYIa9.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2117385924820775003",
+        "text": "Churchill Capital Corp XI (Nasdaq: CCXI) shareholders today approved the business combination with Agility Robotics.\n\nClosing is expected Nov. 4, with trading expected to begin Nov. 5 on Nasdaq as AGLT.\n\nThank you to CCXI shareholders and our investors.\n\nRead the announcement: https://t.co/DpdFuV5RAp",
+        "created_at": "Mon Nov 02 22:38:38 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2117385917849915392",
+            "url": "https://pbs.twimg.com/media/HWJ3Rh3b0AAlUrV.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3216567403",
+          "name": "Agility",
+          "screen_name": "agilityrobotics",
+          "description": "Industrial humanoids hard at work.",
+          "followers_count": 40578,
+          "friends_count": 1771,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 22,
+          "favorite_count": 232,
+          "reply_count": 17,
+          "quote_count": 21
+        }
+      },
+      "stats": {
+        "retweet_count": 27,
+        "favorite_count": 519,
+        "reply_count": 51,
+        "quote_count": 6
+      }
+    },
+    {
+      "id": "2117639781572366705",
+      "text": "Glad to see high beta AI semis like $AEHR or $FN rallying after earnings. \n\nI wonder if anyone previously on leverage is still alive to see a potential recovery? https://t.co/u1niEPMhDc",
+      "created_at": "Tue Nov 03 15:27:22 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2117639761729146880",
+          "url": "https://pbs.twimg.com/media/HWNeJMAb0AA6ayC.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2117639761750040576",
+          "url": "https://pbs.twimg.com/media/HWNeJMFaoAAFnXB.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 18,
+        "favorite_count": 564,
+        "reply_count": 68,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2117664715811995717",
+      "text": "$AAOI signs $194.4M/year contract with Yuunan Germanium. \n\nThis is for 2027 alone, with a 5 year contract. Given an implied total of ~$970M in InP substrates over 5 years (before price hikes)\n\nHmm just some thoughts: \n\n- AOI laser capacity expansion seems bigger than what’s disclosed based on procurement patterns? \n\n180K wafers seems like an extreme amount compared to what’s needed for lasers within their own transceivers… if they can consume all of that\n\nSo maybe we’ll hear about a new UHP laser contracts in earnings, after $LITE announced a $5B contract.\n\n- read through on $AXTI is positive, given they’ll probably be #1 in InP substrates manufacturing scale in the future + have contracts with $LITE and $COHR.\n\n- positive AOI was able to secure capacity during the bottleneck\n\nMore spend is probably the boogeyman in the AI trade, but it’s a good signal for earnings.",
+      "created_at": "Tue Nov 03 17:06:27 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2117664707016617984",
+          "url": "https://pbs.twimg.com/media/HWN01McbcAAg2Po.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2117640709306237032",
+        "text": "@aleabitoreddit Have you checked this out? It’s on AAOI. https://t.co/o2ohqgVqgp",
+        "created_at": "Tue Nov 03 15:31:03 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2117640686187278336",
+            "url": "https://pbs.twimg.com/media/HWNe-_4bcAAYMdW.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1586422461809102848",
+          "name": "Wang",
+          "screen_name": "adam02747",
+          "description": "这个人很懒，什么也没留下",
+          "followers_count": 49,
+          "friends_count": 820,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 6,
+          "reply_count": 2,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 34,
+        "favorite_count": 674,
+        "reply_count": 43,
+        "quote_count": 4
       }
     }
   ]
