@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1065351,
+    "followers_count": 1065429,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261104",
-  "last_updated": "2026-11-04T17:03:40.550768",
-  "tweet_count": 5,
+  "last_updated": "2026-11-04T22:34:23.298253",
+  "tweet_count": 8,
   "tweets": [
     {
       "id": "2117835682702110999",
@@ -185,6 +185,105 @@
         "favorite_count": 532,
         "reply_count": 85,
         "quote_count": 8
+      }
+    },
+    {
+      "id": "2118035778253283768",
+      "text": "For companies like $SIVE / $AAOI, the demand imbalance for lasers are so severe\n\nThat even a 20-30% overall demand reduction from a hypothetical DC slowdown would likely not eliminate the shortage. \n\nWe're seeing this before the next architectural shifts, where $NVDA Jensen Huang expects 15x optical volume for CPO scale-up. \n\nAnd as more hyperscalers commit to NPO as seen with $LITE new $5B UHP laser contracts. \n\nI'd argue this is more nuanced since I can't say the same for finished 800G/1.6T pluggables or lower end 70mW-100mW laser ranges that are currently bottlenecks. \n\nBut this argument is more toward higher spec lasers. \n\n$AAOI is vertically integrated and has 300-400 mW capabilities, so they have the capability to shift attention to merchant lasers over supplying end-to-end optical transceivers. \n\n$SIVE is more pure play on this laser bottleneck, but they have the capabilities for 200mW + higher margin multiwavelength NPO/CPO lasers. \n\nI'd argue this is specifically the case for bottlenecks where demand imbalances are so deep (creating higher long term visibility, such as HBM). \n\nWhether it's large body substrates from $ATS that's bottlenecking Marvell + $AMD or lasers from $LITE that are sold out into 2029. \n\nor liquid transformers that have 4-5 year lead times. \n\nThey they would still sell out of capacity even if overall demand decreased. \n\nIf markets de-risked, it would make sense to hit optical module manufacturing players, maybe server rack assembly, to companies that still require heavy financing like Neoclouds.\n\nAnd obviously haircut growth valuations (but not to the point where demand collapses to 0).\n\nYet we're seeing everything in AI trade is getting lumped up together as something that requires heavy financing + not profitable.",
+      "created_at": "Wed Nov 04 17:40:55 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2118027308137115934",
+        "text": "@aleabitoreddit @Annoyinmous How do you see AAOI and SIVE demand if data centre builds get delayed or slow down. Do orders get pushed back etc. thanks",
+        "created_at": "Wed Nov 04 17:07:15 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1440762403923263491",
+          "name": "Booray",
+          "screen_name": "dBooray",
+          "description": "Peace is priceless. 🌊\nNature is medicine. 🌿",
+          "followers_count": 32,
+          "friends_count": 243,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 5,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 39,
+        "favorite_count": 679,
+        "reply_count": 67,
+        "quote_count": 5
+      }
+    },
+    {
+      "id": "2118044688829845703",
+      "text": "Cyberoffense/defense is probably going to eat up a TON of compute and end up a continuous compute-intensive arms race. \n\nEven $AMZN CEO thinks cybersecurity would take up 20% of tokens consumed for the next year. \n\nIt's literally a problem of how much you throw at compute for vulnerability discovery + model capability, from of my chats w/ Horizon3. \n\nAnd this is going to become a nation state issue, as seen with the implications already with PHP to vulnerabilities with banks/infrastructure from AI swarms. \n\nBut people see this and throw money at $CRWD, $NET, and others, which I was saying was a bubble. \n\nIf it's a compute issue, the economics go to the infra, from neoclouds to $NBIS to networking like $AAOI. \n\nWe'll likely see swarms go wild from aggressor nation states in the next few years. \n\nAnd any country, whether that's Japan or EU that don't have their own capabilities might suffer severe damage. \n\nUS spent $11T+ cumulatively (inflation adjusted) on Nuclear weapons and we're like ~$1.8T into the the \"cyber-nuclear weapon\" equivalent of that\n\nAnd this is not even including the endless other economic implications from AI in other fields from advancing cancer discovery to workforce automation with physical AI. \n\nIt's hard to measure AI sustainability if $50K in compute spend from a foreign actor can take down $10B of your own infrastructure. \n\nAI has become a bipartisan national security issue, and even Democrats would not want China overtake the US in this field.",
+      "created_at": "Wed Nov 04 18:16:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2118040318176354592",
+        "text": "@aleabitoreddit @belikejustin I believe they are worried about it being cyclical and unsustainable bro.\n\nAfter AI agentic coding, what is realistically next for investors to be excited about? Agents like muse or grokbot? So far the traction has not been proven and is not exciting",
+        "created_at": "Wed Nov 04 17:58:57 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1390916045100097542",
+          "name": "SmallTimeInvestor",
+          "screen_name": "cryptoislife05",
+          "description": "trading my way to freedom, non degenerate positions only",
+          "followers_count": 36,
+          "friends_count": 481,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 3,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 20,
+        "favorite_count": 395,
+        "reply_count": 40,
+        "quote_count": 6
+      }
+    },
+    {
+      "id": "2118049698733064433",
+      "text": "New SEC filing discloses $INTC CEO buying $9.71M worth of Intel shares at $64.7 under his family trust. \n\nPretty large vote of confidence after the 49.9% drop this month.\n\nReminds me of the time the former $TSM chairman bought $7.8M of $MU back in the $300's. https://t.co/KLXXwqtL9f",
+      "created_at": "Wed Nov 04 18:36:14 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2118049664549425152",
+          "url": "https://pbs.twimg.com/media/HWTS8rAakAAoAGP.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 52,
+        "favorite_count": 856,
+        "reply_count": 67,
+        "quote_count": 13
       }
     }
   ]
