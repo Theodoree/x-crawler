@@ -1,0 +1,75 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1065115,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261104",
+  "last_updated": "2026-11-04T08:55:45.690521",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2117835682702110999",
+      "text": "The rhetoric on X and from Elon leans overwhelmingly apocalyptic on Democrats winning.\n\nIt's a mini bubble here, but I think people forget AI is bipartisan national security priority, and that $NVDA's historic rally + AI buildout acceleration happened under the Biden admin.\n\nAnyone can extrapolate a politician's negative view on AI to doompost indexes or that \" $CRWV is going to go down\".\n\nBut in all reality, even with a Democratic governor, we'll likely just see some headwinds to individual developers, and incentives like \"clean-energy tax credits\" moving to other areas in AI like solar manufacturing. \n\nRather than any market-wide doomsday scenario that the opposing party likes to portray. \n\nEven Bitcoin/Ethereum performed better under the negatively perceived regulation of Gary Gensler. \n\nJust like any major event, everyone looks at the worst case scenario like helium disruption shutting down Samsung, $TSM, and the memory trade... \n\nThen markets move on few weeks later.",
+      "created_at": "Wed Nov 04 04:25:48 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2117747711361585337",
+        "text": "民主党が仮に取っからって超絶不景気がこれまで来たか？という話よ。\n確かにデータセンター規制は入るかもだけども。",
+        "created_at": "Tue Nov 03 22:36:14 +0000 2026",
+        "lang": "ja",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "797291293227433984",
+          "name": "Dr.K",
+          "screen_name": "Drdebuneko",
+          "description": "独身勤務医。 株トレンドトレーダー。",
+          "followers_count": 45953,
+          "friends_count": 1231,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 77,
+          "reply_count": 3,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 77,
+        "favorite_count": 1166,
+        "reply_count": 98,
+        "quote_count": 21
+      }
+    },
+    {
+      "id": "2117884722076643829",
+      "text": "ちいかわって日本で人気すぎて、お店に入ることすらできないんだけど\n\nちいかわの株のコールオプションって、どこかで買えないの？w https://t.co/oOx03YAtC0",
+      "created_at": "Wed Nov 04 07:40:40 +0000 2026",
+      "lang": "ja",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2117884712060608512",
+          "url": "https://pbs.twimg.com/media/HWQ87LGaYAA_GFx.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 29,
+        "favorite_count": 279,
+        "reply_count": 48,
+        "quote_count": 12
+      }
+    }
+  ]
+}
