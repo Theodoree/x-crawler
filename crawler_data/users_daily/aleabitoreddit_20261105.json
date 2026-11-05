@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1065697,
+    "followers_count": 1065858,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261105",
-  "last_updated": "2026-11-05T12:07:02.232515",
-  "tweet_count": 3,
+  "last_updated": "2026-11-05T20:34:16.967027",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2118200689453314341",
@@ -76,6 +76,92 @@
         "favorite_count": 856,
         "reply_count": 92,
         "quote_count": 13
+      }
+    },
+    {
+      "id": "2118386579853267313",
+      "text": "RT @andrewdfeldman: Last week, a short seller, @CulperResearch, published a report arguing that @cerebras wafers wear out after about two y…",
+      "created_at": "Thu Nov 05 16:54:53 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2118344222558552167",
+        "text": "Last week, a short seller, @CulperResearch, published a report arguing that @cerebras wafers wear out after about two years, and based on that premise the report suggested that the economics of our business are fundamentally challenged.  \n\nThat number is wrong, and given that the basis of the entire report is built upon that assumption, all of the assertions that follow are also wrong.\n\nWe do agree that the question of how long our systems last is a fair question, so we want to address the topic plainly.   \n\nIf you have a few minutes, I would encourage you to click on the link below, which will provide you with a better understanding of the pioneering work done by our engineering team over the past decade to ensure that the operating lifetime of our solutions is many, many years.\n \nLink Here: https://t.co/mGKI3dSHiw",
+        "created_at": "Thu Nov 05 14:06:34 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4443830716",
+          "name": "Andrew Feldman",
+          "screen_name": "andrewdfeldman",
+          "description": "CEO and Founder @Cerebras (NASDAQ: CBRS) where we build the fastest AI infrastructure in the world.",
+          "followers_count": 33338,
+          "friends_count": 229,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 78,
+          "favorite_count": 536,
+          "reply_count": 43,
+          "quote_count": 15
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 78,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2118389649941160083",
+      "text": "Don’t look at the indexes https://t.co/nmzrhW9u6L",
+      "created_at": "Thu Nov 05 17:07:04 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2118389644157124608",
+          "url": "https://pbs.twimg.com/media/HWYIKFvaAAAwwoV.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 58,
+        "favorite_count": 1400,
+        "reply_count": 102,
+        "quote_count": 11
+      }
+    },
+    {
+      "id": "2118422637320007721",
+      "text": "$GOOGL formally announces a new $17 Billion DC in Wyoming.\n\nGoogle also announced they’re using $BE fuel cells for this project. \n\nGuess this news means it’s all over for the AI buildout. https://t.co/WFzqUOiTcH",
+      "created_at": "Thu Nov 05 19:18:09 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2118422629883449344",
+          "url": "https://pbs.twimg.com/media/HWYmKHJaEAAfKRL.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2118422629891907584",
+          "url": "https://pbs.twimg.com/media/HWYmKHLbIAADYW1.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 72,
+        "favorite_count": 1256,
+        "reply_count": 97,
+        "quote_count": 22
       }
     }
   ]
