@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1065941,
+    "followers_count": 1066018,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261106",
-  "last_updated": "2026-11-06T09:12:13.118685",
-  "tweet_count": 3,
+  "last_updated": "2026-11-06T17:21:08.137170",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2118569237128286343",
@@ -113,6 +113,47 @@
         "favorite_count": 1089,
         "reply_count": 112,
         "quote_count": 17
+      }
+    },
+    {
+      "id": "2118683089383874576",
+      "text": "In response to the recent market volatility across $TSM to $SKHY to Innolight:\n\n- Taiwan to restrict borrowed share short selling from 30% -> 3% relative to order volumes (90% reduction),  effective Nov 9th. \n\nTaiwan is separately raising its minimum collateral requirement from 90% to 130% for margin short selling.\n\nAnd authorized the $15.3B stabilization fund for Government buying in the stock market. \n\n- South Korea to waive 140% margin-loan collateral maintenance for 3 months to reduce forced selling, effective Nov 9th. \n\n- China introduced a series of stock-market support package aimed at stabilizing equities. People's Bank of China introduced a $15 billion liquidity-swap operation for securities firms and fund managers.\n\nAs well as reduced lending rates for the share buybacks and shareholder purchase programs from 1.25% -> 1% this month. \n\n_\n\nNot saying what direction stocks would go, but with Countries heavily tied to the AI trade introducing short selling restrictions, share repurchases, and reduced margin collateral. \n\nThese market mechanics are bullish for near term market stability + potential reversal in equities.",
+      "created_at": "Fri Nov 06 12:33:06 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 36,
+        "favorite_count": 623,
+        "reply_count": 61,
+        "quote_count": 8
+      }
+    },
+    {
+      "id": "2118726497129423273",
+      "text": "Woah, this caught my attention today. Apparently $ASTS decided to build their own medium/heavy lift reusable rockets. \n\nCould be a potential competitor to $RKLB Neutron or $SPCX Falcon 9? \n\n\"Starting in late 2028, the use of the Blacklift rocket will complete AST SpaceMobile's end-to-end vertical integration\"\n\nBut it kinda seems extremely difficult, capital intensive, and takes very long to do... But more valuable if they can pull it off \n\nDoes anyone in the Spacemob think this is realistically achievable given AST capabilities?",
+      "created_at": "Fri Nov 06 15:25:35 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2118724415131430912",
+          "url": "https://pbs.twimg.com/media/HWc4oUzbMAAbfVP.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2118724554009010176",
+          "url": "https://pbs.twimg.com/media/HWc4waKa4AALRCE.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 12,
+        "favorite_count": 487,
+        "reply_count": 105,
+        "quote_count": 11
       }
     }
   ]
