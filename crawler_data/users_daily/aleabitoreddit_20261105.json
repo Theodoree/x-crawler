@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1065858,
+    "followers_count": 1065916,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261105",
-  "last_updated": "2026-11-05T20:34:16.967027",
-  "tweet_count": 6,
+  "last_updated": "2026-11-06T01:28:23.812436",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2118200689453314341",
@@ -162,6 +162,45 @@
         "favorite_count": 1256,
         "reply_count": 97,
         "quote_count": 22
+      }
+    },
+    {
+      "id": "2118446295274901803",
+      "text": "$GLXY CEO after pushing back on Texas political uncertainty:\n\n\"I see a massive disconnect between where Galaxy trades and what I believe this company is worth. \n\nThat’s why I’m buying more stock, starting today.\"\n\nGood vote of confidence to see colo executives calling out fundamental disconnects amid sector liquidations.\n\nThen putting their own capital behind their statement.",
+      "created_at": "Thu Nov 05 20:52:10 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2118417452417855518",
+        "text": "The blue wave has weighed on companies like ours. I get it. But let’s not confuse politics with long-term fundamentals.\n\nFinance is moving onchain and demand for AI is exploding. These are generational shifts that will play out across administrations and market cycles.\n\nWe’ve spent years building Galaxy to win in both. That includes Texas, where we delivered Helios Phase I on schedule and 800 MW is already leased under long-term contract. We’ve worked with legislators and local communities there for years, and we’ll keep doing that with the new administration. We share the same goals: reliable power, protected water and strong communities.\n\nI see a massive disconnect between where $GLXY trades and what I believe this company is worth. That’s why I’m buying more stock, starting today.\n\nI’m betting on us, big time.",
+        "created_at": "Thu Nov 05 18:57:33 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "19847181",
+          "name": "Mike Novogratz",
+          "screen_name": "novogratz",
+          "description": "CEO, $GLXY @galaxyhq. Early Investor: #Bitcoin, 🍄, Board: #TheBailProject, @REFORM. Disclaimer: https://t.co/1qbUrshoEP",
+          "followers_count": 489796,
+          "friends_count": 4744,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 138,
+          "favorite_count": 1073,
+          "reply_count": 118,
+          "quote_count": 53
+        }
+      },
+      "stats": {
+        "retweet_count": 33,
+        "favorite_count": 531,
+        "reply_count": 54,
+        "quote_count": 5
       }
     }
   ]
