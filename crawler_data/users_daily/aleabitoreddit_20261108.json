@@ -1,0 +1,41 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1067533,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261108",
+  "last_updated": "2026-11-08T07:07:34.067032",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2119287752730738722",
+      "text": "The two things I'm excited about are Gen G vs. T1...\n\nand new NASA's $10 Billion contract to begin settling on the moon. NASA selected:\n\n- $SPCX (SpaceX)\n- Blue Origin\n- $FLY (Firefly)\n- $LUNR (Lunar)\n- $LMT (Lockheed Martin Space)\n- $NOC (Northrop Grumman Space)\n- $VOYG (Voyager)\n- iSpace US\n\nto compete for future lunar delivery missions\n\n- $1.3B in launch and orbital transportation orders awarded to Arrow Science, Blue Origin, and Impulse Space.\n\n- $94 million for Blue Origin to deliver NASA's nuclear powered PROMISE rover\n\n- Existing CLPS 1 contract ceiling raised from $2.6B to $4.2B.\n\n- NASA also announced awards to Honeybee Robotics, a Blue Origin company, $RDW for a lunar power and communications tower",
+      "created_at": "Sun Nov 08 04:35:49 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2119287700616523776",
+          "url": "https://pbs.twimg.com/media/HWk472waMAAZ8z7.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2119287704496304129",
+          "url": "https://pbs.twimg.com/media/HWk48FNa8AEVXKh.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 17,
+        "favorite_count": 267,
+        "reply_count": 52,
+        "quote_count": 9
+      }
+    }
+  ]
+}
