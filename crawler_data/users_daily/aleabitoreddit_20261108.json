@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1067946,
+    "followers_count": 1068197,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261108",
-  "last_updated": "2026-11-08T14:57:59.818248",
-  "tweet_count": 2,
+  "last_updated": "2026-11-08T19:30:16.424880",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2119287752730738722",
@@ -56,6 +56,28 @@
         "favorite_count": 753,
         "reply_count": 121,
         "quote_count": 23
+      }
+    },
+    {
+      "id": "2119458038260318634",
+      "text": "Various commentary from Qualcomm, Arm, to Meta executives this week during the AI selloff: \n\n$LITE CEO: \"You had a comment from the CEO of $IREN and I'd second that. There's a massive disconnect in what we're seeing in our demand books. \n\nAnd what the markets are showing. And yet you're seeing a massive, massive selloff.\" (Fri, Nov 6)\n\n$AMD CEO CNBC: \"We're at the very beginning of the adoption cycle, where people can see where AI and superintelligence will take us\" \n\n\"We are seeing demand being higher than supply\" (Wed, Nov 4)\n\n$ARM CEO regarding a debate whether AI infrastructure spending is about to peak:\n\n\"I think in some states where it gets harder, other states may pick it up to make it easier, but I do believe strongly that if the US hesitates in any way shape performance in terms of data center buildout...\n\n\"The rest of the world is ready and willing. There is just huge demand for this capacity. And I think globally the US really wants to be able to compete against China. China is not slowing down at all.\" (Thu, Nov 5)\n\n$APLD CEO: Bank construction lending, project financing and bond markets remain available, although interest rates and credit spreads have risen\n\n\"The big risk is delivering on time.\" \"The demand picture is extremely robust.\" (Mon, Nov 2)\n\n$QCOM CEO: \"It's not demand bound. It's a supply bound.\" \n\n\"We're short on wafers, we're short on substrate, we're short on assembly. Everything is short because demand is very, very high.\" \n\n\"I think what the market is reacting to is what is the speed of the compute build out.\"\n\n$META on political risk: \"We did have a governor that won last night who did make data centers a big part of the platform.\n\nSay as soon as we get past the inauguration, let's meet because we don't want to lose this investment in our town. We don't want these jobs to go elsewhere.\" (Wed, Nov 4)\n\nEven politicians campaigning against data centers are negotiating. But Meta's president also emphasized that starting new US DCs will become more difficult. \n\nTLDR:\n-> Extremely bullish commentary from accelerator players, networking, and semi companies\n-> DC developers report strong pricing/demand, but increasingly emphasize financing, permitting and execution risks (more cautious)\n-> Politicians that previously campaigned against DCs are showing cooperation\n\nThere's an important difference between demand disappearing and demand being delayed by the inability to build fast enough.\n\nDespite the severity of the selloff, I'm not seeing evidence of widespread AI demand destruction in commentary.",
+      "created_at": "Sun Nov 08 15:52:28 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2119451253994659840",
+          "url": "https://video.twimg.com/amplify_video/2119451253994659840/vid/avc1/1920x1080/ehecEfr_4ukF_3oc.mp4?tag=29",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 56,
+        "favorite_count": 744,
+        "reply_count": 74,
+        "quote_count": 16
       }
     }
   ]
