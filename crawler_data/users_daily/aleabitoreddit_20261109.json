@@ -1,0 +1,36 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1068489,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261109",
+  "last_updated": "2026-11-09T05:52:23.925048",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2119633154629881997",
+      "text": "I fully support $NVDA and Jensen Huang through this time.\n\nEven the most legendary figure in the AI industry is human.\n\nTrump, Clinton, Bezos, Gates, and many others have faced scrutiny over their personal lives.\n\nIt takes courage to own up to it publicly and move forward https://t.co/1DBwuUrtJM",
+      "created_at": "Mon Nov 09 03:28:19 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2119631470679695360",
+          "url": "https://pbs.twimg.com/media/HWpxl6CaIAAtrWJ.png"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 57,
+        "favorite_count": 1273,
+        "reply_count": 124,
+        "quote_count": 22
+      }
+    }
+  ]
+}
