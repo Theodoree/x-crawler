@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1068489,
+    "followers_count": 1068718,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261109",
-  "last_updated": "2026-11-09T05:52:23.925048",
-  "tweet_count": 1,
+  "last_updated": "2026-11-10T00:05:10.436022",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2119633154629881997",
@@ -30,6 +30,144 @@
         "favorite_count": 1273,
         "reply_count": 124,
         "quote_count": 22
+      }
+    },
+    {
+      "id": "2119689635869954503",
+      "text": "Every AI name in Taiwan from Mediatek to Winbond looks like its limit up. \n\nTAIEX: +4.94%, its 2nd largest daily gain in history.\n\nI guess the market is impressed by $NVDA’s Jensen Huang vitality at his age? https://t.co/brvV79PfKl",
+      "created_at": "Mon Nov 09 07:12:45 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2119689626021666817",
+          "url": "https://pbs.twimg.com/media/HWqme_kaIAEpnLq.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2119689625983918080",
+          "url": "https://pbs.twimg.com/media/HWqme_baIAAitvI.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2119689626013347840",
+          "url": "https://pbs.twimg.com/media/HWqme_ibMAAANSZ.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2119689625988177920",
+          "url": "https://pbs.twimg.com/media/HWqme_cbIAAT5n2.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 34,
+        "favorite_count": 1324,
+        "reply_count": 133,
+        "quote_count": 11
+      }
+    },
+    {
+      "id": "2119807048204595582",
+      "text": "I did not expect everything in the AI trade from $LITE to $NBIS to rally today\n\nOff the “honeypot catalyst”? https://t.co/wGnMXBj9bH",
+      "created_at": "Mon Nov 09 14:59:19 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2119807041896357888",
+          "url": "https://pbs.twimg.com/media/HWsRRfyaoAAXA2s.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2119807041866956800",
+          "url": "https://pbs.twimg.com/media/HWsRRfraAAAvZ9i.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2119807041888038912",
+          "url": "https://pbs.twimg.com/media/HWsRRfwbsAAFVhF.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2119807041904750592",
+          "url": "https://pbs.twimg.com/media/HWsRRf0asAAw_8Z.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2119689635869954503",
+        "text": "Every AI name in Taiwan from Mediatek to Winbond looks like its limit up. \n\nTAIEX: +4.94%, its 2nd largest daily gain in history.\n\nI guess the market is impressed by $NVDA’s Jensen Huang vitality at his age? https://t.co/brvV79PfKl",
+        "created_at": "Mon Nov 09 07:12:45 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2119689626021666817",
+            "url": "https://pbs.twimg.com/media/HWqme_kaIAEpnLq.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2119689625983918080",
+            "url": "https://pbs.twimg.com/media/HWqme_baIAAitvI.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2119689626013347840",
+            "url": "https://pbs.twimg.com/media/HWqme_ibMAAANSZ.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2119689625988177920",
+            "url": "https://pbs.twimg.com/media/HWqme_cbIAAT5n2.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1068718,
+          "friends_count": 229,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 34,
+          "favorite_count": 1324,
+          "reply_count": 133,
+          "quote_count": 11
+        }
+      },
+      "stats": {
+        "retweet_count": 29,
+        "favorite_count": 981,
+        "reply_count": 98,
+        "quote_count": 13
+      }
+    },
+    {
+      "id": "2119874063132995880",
+      "text": "Anthropic Fable 5.2 and Mythos 5.2 is out! \n\nDoesn't quite look like AI progress is slowing down anytime soon https://t.co/fMEIN2FdTH",
+      "created_at": "Mon Nov 09 19:25:36 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2119873983504060416",
+          "url": "https://pbs.twimg.com/media/HWtOKAtaEAACYSo.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 41,
+        "favorite_count": 954,
+        "reply_count": 49,
+        "quote_count": 6
       }
     }
   ]
