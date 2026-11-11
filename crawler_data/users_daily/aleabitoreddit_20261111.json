@@ -1,0 +1,36 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1068916,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261111",
+  "last_updated": "2026-11-11T10:39:39.619234",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2120391635737649423",
+      "text": "$CRWV ER and read through for $NBIS and other Neoclouds:\n\n“We have 10x as much qualified demand as available capacity”.\n\n- interest in 2028 capacity already amounts to several times what CoreWeave has available\n\n-  CoreWeave raised prices by 25% in July, +10% later in Q3, and more to come in Q4\n\n- Ampere and Hopper rental pricing rose 30–50% quarter over quarter (older GPUs)\n\n- better financing conditions (higher prepayments, lower interest 7–7.5% for new loans)\n\n-  positive adjusted net income in the first half of 2028.\n\nSo we’re seeing higher pricing esp. for older GPUs…better financing mechanics, and extreme demand imbalance where you have 10x demand > supply.\n\nSame issues are there for this company in specific with interest rates, but I’d argue other Neoclouds are in a better spot.\n\nBut it’s wild to witness AI infrastructure names crash while demand keeps growing",
+      "created_at": "Wed Nov 11 05:42:15 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2120391629660094464",
+          "url": "https://pbs.twimg.com/media/HW0k8-6aAAAeW5y.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 64,
+        "favorite_count": 1041,
+        "reply_count": 98,
+        "quote_count": 18
+      }
+    }
+  ]
+}
