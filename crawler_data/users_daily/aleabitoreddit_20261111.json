@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1068916,
+    "followers_count": 1068946,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261111",
-  "last_updated": "2026-11-11T10:39:39.619234",
-  "tweet_count": 1,
+  "last_updated": "2026-11-11T18:33:02.358222",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2120391635737649423",
@@ -30,6 +30,225 @@
         "favorite_count": 1041,
         "reply_count": 98,
         "quote_count": 18
+      }
+    },
+    {
+      "id": "2120488757334044945",
+      "text": "You heard 10x demand for compute > supply from $CRWV today. \n\nHearing from $TSM today on Nikkei Forum: \n\n\"The demand on our leading node [most advanced] silicon is insatiable\"\n\nCustomers \"want to get [their] hands around any compute capability they can have. It's truly an insatiable environment.\"\n\nQ: Whether AI demand was slowing?\nA: \"we did not see any sign of slowdown\"\n\nQ: How demand compared with TSMC’s ability to supply\nA: \"the demand actually is still far above our capability today to supply.\"\n\nTSMC identified power and substrates as bottlenecks customers were encountering. \n\nOn the mid-to-high-50s annualized growth estimate for AI accelerator revenue from 2024 to 2029. Wei said \"it probably will be higher.\"\n\nDescribing things as \"insatiable\" from a traditionally conservative company... doesn't quite look like any collapse in AI demand.",
+      "created_at": "Wed Nov 11 12:08:11 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2120487924278198272",
+          "url": "https://pbs.twimg.com/media/HW18iEUbgAAnZI_.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2120391635737649423",
+        "text": "$CRWV ER and read through for $NBIS and other Neoclouds:\n\n“We have 10x as much qualified demand as available capacity”.\n\n- interest in 2028 capacity already amounts to several times what CoreWeave has available\n\n-  CoreWeave raised prices by 25% in July, +10% later in Q3, and more to come in Q4\n\n- Ampere and Hopper rental pricing rose 30–50% quarter over quarter (older GPUs)\n\n- better financing conditions (higher prepayments, lower interest 7–7.5% for new loans)\n\n-  positive adjusted net income in the first half of 2028.\n\nSo we’re seeing higher pricing esp. for older GPUs…better financing mechanics, and extreme demand imbalance where you have 10x demand > supply.\n\nSame issues are there for this company in specific with interest rates, but I’d argue other Neoclouds are in a better spot.\n\nBut it’s wild to witness AI infrastructure names crash while demand keeps growing",
+        "created_at": "Wed Nov 11 05:42:15 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2120391629660094464",
+            "url": "https://pbs.twimg.com/media/HW0k8-6aAAAeW5y.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1068946,
+          "friends_count": 231,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 75,
+          "favorite_count": 1464,
+          "reply_count": 113,
+          "quote_count": 23
+        }
+      },
+      "stats": {
+        "retweet_count": 44,
+        "favorite_count": 761,
+        "reply_count": 72,
+        "quote_count": 12
+      }
+    },
+    {
+      "id": "2120523420639408175",
+      "text": "There's a lot of news about WT (3036) introducing their first CW DFB laser line card. \n\nMore significant than people think for medium-long term. For economic impact and what revenue looks like: \n\n- $SMTC generated 74% of its revenue through distributors. $AMBA as another example, ~60-70% of their 2026 revenue went through this company.\n\n- With WT in specific, if you look at even a large company like $AVGO scaled: \n\n-> 13% of Broadcom revenue went through WT in 2020 \n->  18% (2021) \n-> 20% (2022) \n-> ~21% (2023) \n-> ~28% (2024) \n-> now possibly up to ~46% (they stopped naming)\n\nJust showing how important the largest distributors in the world become to semi companies. \n\nGiven how WT chairman attributed rapid growth coming from AI photonics demand (eg. DSPs to optical module makers):\n\nIt becomes more interesting for a certain company that WT introduced their first CW DFB laser line card during an industry bottleneck.",
+      "created_at": "Wed Nov 11 14:25:55 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2120411221224722880",
+        "text": "$sive wait, the WT ($3036.TW) line card is actually nuts! https://t.co/Z858loHJY1",
+        "created_at": "Wed Nov 11 07:00:05 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2120410047708856320",
+            "url": "https://pbs.twimg.com/media/HW01tDfbAAAssM5.png"
+          },
+          {
+            "type": "photo",
+            "id": "2120410081955393536",
+            "url": "https://pbs.twimg.com/media/HW01vDEbsAANSY2.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1892825425287794688",
+          "name": "Sacsters",
+          "screen_name": "sacsters",
+          "description": "",
+          "followers_count": 66,
+          "friends_count": 79,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 8,
+          "favorite_count": 89,
+          "reply_count": 4,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 19,
+        "favorite_count": 327,
+        "reply_count": 29,
+        "quote_count": 7
+      }
+    },
+    {
+      "id": "2120526218076504318",
+      "text": "$ANT IPO at $1.4T valuation is now multiple times oversubscribed. \n\nAfter trying to raise $57.8–64.4B… pushing total Anthropic IPO funding closer to $100B.\n\nI guess the pool of capital is infinity in America if you can cure cancer with AI in 5–10 years? https://t.co/p62qwYGTMk",
+      "created_at": "Wed Nov 11 14:37:02 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2120526211780853760",
+          "url": "https://pbs.twimg.com/media/HW2fWsYaQAAgoD-.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 26,
+        "favorite_count": 520,
+        "reply_count": 53,
+        "quote_count": 13
+      }
+    },
+    {
+      "id": "2120533451279642808",
+      "text": "Let's fking go $ANT\n\nThis is how you sell the future of AI... by entering an \"Age of Miracles,\" not human extinction.\n\nI still think Anthropic is overvalued, but even I'm getting hyped by this IPO teaser. https://t.co/ebNkiRoogo",
+      "created_at": "Wed Nov 11 15:05:47 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2120532324358180866",
+          "url": "https://video.twimg.com/amplify_video/2120532324358180866/vid/avc1/854x480/A_6gKCFvf2xw7ike.mp4?tag=29",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2120526218076504318",
+        "text": "$ANT IPO at $1.4T valuation is now multiple times oversubscribed. \n\nAfter trying to raise $57.8–64.4B… pushing total Anthropic IPO funding closer to $100B.\n\nI guess the pool of capital is infinity in America if you can cure cancer with AI in 5–10 years? https://t.co/p62qwYGTMk",
+        "created_at": "Wed Nov 11 14:37:02 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2120526211780853760",
+            "url": "https://pbs.twimg.com/media/HW2fWsYaQAAgoD-.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1068946,
+          "friends_count": 231,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 26,
+          "favorite_count": 520,
+          "reply_count": 53,
+          "quote_count": 13
+        }
+      },
+      "stats": {
+        "retweet_count": 48,
+        "favorite_count": 1200,
+        "reply_count": 76,
+        "quote_count": 18
+      }
+    },
+    {
+      "id": "2120575364238094682",
+      "text": "This aged pretty well, when I said this last year in 2025, Clickhouse was a $6.7B company... \n\nNow as an update, their secondary valuation sits around ~$50B, which $NBIS owns 25%+ of. \n\nI've always liked Nebius the most because sum of parts, with all their lesser known subsidiaries growing alongside their core neocloud business.\n\nIncluding Avride (self-driving), Clickhouse, Toloka, and other subsidiaries that they owned.  \n\nThis year Nebius also acquired:\n- Tavily (web search and retrival)\n- Clarifai (Inference orchestration)\n\nWhich scale independently as well (the others were integrated into Nebius Token Factory).\n\nHard to view $NBIS as just another neocloud when it has billions in scaling value outside its core infrastructure business.",
+      "created_at": "Wed Nov 11 17:52:19 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2120574169003991040",
+          "url": "https://pbs.twimg.com/media/HW3K-K9aIAAxEM9.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "1993805622081671250",
+        "text": "clickhouse is pretty OP, but haven't made an individual analysis on that yet since $NBIS only owns 28%.  \n\nBut i could definitely see clickhouse becoming a $50B company one day, i'll probably made a follow up post and cover all sum-of-parts to help people understand nebius value proposition",
+        "created_at": "Wed Nov 26 22:14:38 +0000 2025",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1068946,
+          "friends_count": 231,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 18,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 15,
+        "favorite_count": 370,
+        "reply_count": 25,
+        "quote_count": 2
       }
     }
   ]
