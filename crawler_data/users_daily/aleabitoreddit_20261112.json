@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1069338,
+    "followers_count": 1069756,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261112",
-  "last_updated": "2026-11-12T09:38:00.728112",
-  "tweet_count": 2,
+  "last_updated": "2026-11-12T18:05:22.269763",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2120792625477468583",
@@ -69,6 +69,92 @@
         "favorite_count": 1029,
         "reply_count": 111,
         "quote_count": 26
+      }
+    },
+    {
+      "id": "2120822653997261079",
+      "text": "Okay, let’s gauge individual investor and public sentiment independently.\n\nShould Jensen Huang remain CEO of $NVDA?",
+      "created_at": "Thu Nov 12 10:14:58 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 45,
+        "favorite_count": 588,
+        "reply_count": 157,
+        "quote_count": 14
+      }
+    },
+    {
+      "id": "2120866647930187882",
+      "text": "Regarding $NBIS earnings results:\n\nTo show you how fast they're growing... from Q2 to Q3: \n\nRevenue: $582.3M -> $980.8M (+68% QoQ)\nAdjusted EBITDA: $236.2M -> $465.8M (+97% QoQ)\nAI cloud adj. EBITDA margin: 49.7% -> 53.2%\nNet Income: −$190.4M -> −$37.5M\n\nARR has reached $6.4B at the end of Sep. In terms of management commentary: \n\n- Since start of Q3, Nebius signed $12B+ of new contracts\n- Average GPU pricing rose 20%+ sequentially, payback shortened from 22M -> 19M\n- On Q3 deals, prepayments covered 100% of associated capex, up from 50–60% in Q2 (insane for financing)\n- Contract value per MW exceeded $25M+ from Q3 up from ~$20M Q2 \n- 5GW contracted power year end\n\nWith $10B of committed customer prepayments in 2026 and $17B-$20B in 2027. Now, prepayments and borrowing against existing contracts covers ~75-85% of 2027 capex. \n\nOn subsidiaries:\n1. Avride - 250 autonomous vehicles fleet, over 100,000 passenger rides (with companies like $UBER). Fully driverless robotaxi targeted H1 2027.\n2. Toloka - Revenue doubled sequentially\n3. Enterprise cloud - Databricks and Datadog selected Neibus. Along with a new agreement with Snowflake. \n4. Tavily - Over 3M developers now with $IBM post-training a core partner. \n5. ClickHouse - Nothing about new secondary valuations, but we can see valuations growing\n6. TokenFactory - Contract value grew 17x sequentially\n\nThe primary negative I saw was that 2026 guidance is now on the lower end (near ~$3B), due to $MSFT capacity deliveries slipping to Q2 2027.\n\nApparently there was an execution miss with a third party partner DataOne. Temporary generators were retired amid permitting issues before enough $BE fuel cell capacity came online. \n\nCapex also increased in 2026 from $20B-$25B to $27B, while revising revenue expectations downward. \n\nSo near-term unfortunate headwinds kinda reminiscent of AOI earnings; however long term I think Nebius will take care of you. \n\nFor 2027 outlook:\n- $12-13 billion revenue, capex of $40-45 billion, pre-tax breakeven by the end of 2027.\n\nVery operationally bullish, as seen with prepayments covering capex, GPU premiums increasing. Main downside is near-term execution risk from third parties, causing near-term delays and revenue recognition. \n\nGreat quarter from Nebius overall.",
+      "created_at": "Thu Nov 12 13:09:47 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2120862115984748544",
+          "url": "https://pbs.twimg.com/media/HW7Q25DasAAzKWz.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2120863361076432896",
+          "url": "https://pbs.twimg.com/media/HW7R_XYaEAAaAOi.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 98,
+        "favorite_count": 1488,
+        "reply_count": 103,
+        "quote_count": 16
+      }
+    },
+    {
+      "id": "2120878368975618315",
+      "text": "$NVDA Jensen Huang has now resigned.\n\nDespite the overwhelming support worldwide and from his employees. \n\nThis is an end of an era for Nvidia. https://t.co/GwtmTgkHBa",
+      "created_at": "Thu Nov 12 13:56:21 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2120878223181623296",
+          "url": "https://pbs.twimg.com/media/HW7fgdCaMAAhEWu.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2120822653997261079",
+        "text": "Okay, let’s gauge individual investor and public sentiment independently.\n\nShould Jensen Huang remain CEO of $NVDA?",
+        "created_at": "Thu Nov 12 10:14:58 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1069756,
+          "friends_count": 231,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 45,
+          "favorite_count": 588,
+          "reply_count": 157,
+          "quote_count": 14
+        }
+      },
+      "stats": {
+        "retweet_count": 169,
+        "favorite_count": 3034,
+        "reply_count": 331,
+        "quote_count": 104
       }
     }
   ]
