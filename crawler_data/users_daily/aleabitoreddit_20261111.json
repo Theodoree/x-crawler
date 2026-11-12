@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1068946,
+    "followers_count": 1069053,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261111",
-  "last_updated": "2026-11-11T18:33:02.358222",
-  "tweet_count": 6,
+  "last_updated": "2026-11-12T01:26:58.738542",
+  "tweet_count": 9,
   "tweets": [
     {
       "id": "2120391635737649423",
@@ -249,6 +249,93 @@
         "favorite_count": 370,
         "reply_count": 25,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2120648172192378945",
+      "text": "Holy crap, why does $NVDA nonstop TMZ scandals keep getting “leaked” left and right.\n\nThe cluster of news coming out about Jensen feel extremely bizarre. https://t.co/ezi7NRN14U",
+      "created_at": "Wed Nov 11 22:41:38 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2120648166387367936",
+          "url": "https://pbs.twimg.com/media/HW4ORYsaQAAM9bn.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 31,
+        "favorite_count": 1219,
+        "reply_count": 209,
+        "quote_count": 29
+      }
+    },
+    {
+      "id": "2120650676762181843",
+      "text": "I don’t know what’s happening anymore https://t.co/jSvZUfz7o6",
+      "created_at": "Wed Nov 11 22:51:35 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2120650671255142400",
+          "url": "https://pbs.twimg.com/media/HW4QjMDbQAAa3ju.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2120648172192378945",
+        "text": "Holy crap, why does $NVDA nonstop TMZ scandals keep getting “leaked” left and right.\n\nThe cluster of news coming out about Jensen feel extremely bizarre. https://t.co/ezi7NRN14U",
+        "created_at": "Wed Nov 11 22:41:38 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2120648166387367936",
+            "url": "https://pbs.twimg.com/media/HW4ORYsaQAAM9bn.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1069053,
+          "friends_count": 231,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 31,
+          "favorite_count": 1219,
+          "reply_count": 209,
+          "quote_count": 29
+        }
+      },
+      "stats": {
+        "retweet_count": 25,
+        "favorite_count": 638,
+        "reply_count": 103,
+        "quote_count": 16
+      }
+    },
+    {
+      "id": "2120658071274013137",
+      "text": "All I’m going to say is that I hope board of $NVDA stands by Jensen, despite media and political pressures.\n\nThe same way $TSLA and SpaceX stood up for Elon Musk around similar allegations.\n\nThe AI trade won’t end off this but for Nvidia’s best interest, he should remain CEO.\n\nOtherwise I see Nvidia’s valuation crashing due to extreme uncertainty, with a lot of capital rotating to $AMD and other competitors.",
+      "created_at": "Wed Nov 11 23:20:58 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 123,
+        "favorite_count": 2544,
+        "reply_count": 255,
+        "quote_count": 31
       }
     }
   ]
