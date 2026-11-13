@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1069756,
+    "followers_count": 1069835,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261112",
-  "last_updated": "2026-11-12T18:05:22.269763",
-  "tweet_count": 5,
+  "last_updated": "2026-11-13T00:04:43.455944",
+  "tweet_count": 9,
   "tweets": [
     {
       "id": "2120792625477468583",
@@ -155,6 +155,89 @@
         "favorite_count": 3034,
         "reply_count": 331,
         "quote_count": 104
+      }
+    },
+    {
+      "id": "2120943109505008055",
+      "text": "I have no confidence in the future of $NVDA after Jensen’s resignation.\n\nBeyond the next couple years of existing revenue + roadmaps.\n\nWithout Jensen’s visionary leadership that previously set them ahead of $AMD to Broadcom\n\nIt’s don’t find Nvidia compelling in the long horizon https://t.co/YRkS8wCCgT",
+      "created_at": "Thu Nov 12 18:13:37 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2120943103230271488",
+          "url": "https://pbs.twimg.com/media/HW8ag-Da4AAuP43.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2120943103242866688",
+          "url": "https://pbs.twimg.com/media/HW8ag-GbEAAdnIp.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 86,
+        "favorite_count": 1903,
+        "reply_count": 234,
+        "quote_count": 36
+      }
+    },
+    {
+      "id": "2120949820684972421",
+      "text": "Senior White House officials are discussing whether Commerce Secretary Howard Lutnick should be pushed out as well.\n\nFollowing $NVDA CEO controversy and his handling of China export controls (Reuters).\n\nHard to believe Washington didn’t have a role to play on Jensen Huang’s departure.",
+      "created_at": "Thu Nov 12 18:40:17 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2120949814536114176",
+          "url": "https://pbs.twimg.com/media/HW8gnnnbEAACbuR.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 25,
+        "favorite_count": 622,
+        "reply_count": 49,
+        "quote_count": 5
+      }
+    },
+    {
+      "id": "2120964006328566047",
+      "text": "Former $NVDA CEO had a relationship with a second employee per Reuters. \n\nWhat is this timeline https://t.co/aMTgHsPz6V",
+      "created_at": "Thu Nov 12 19:36:39 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2120963549069799424",
+          "url": "https://pbs.twimg.com/media/HW8tHEvbcAAp_hj.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 21,
+        "favorite_count": 983,
+        "reply_count": 142,
+        "quote_count": 28
+      }
+    },
+    {
+      "id": "2120993521289326858",
+      "text": "I’m sorry but why are we letting the future of $NVDA and American semiconductors \n\nBe decided by board members with experience from Taco Bell and the NFL",
+      "created_at": "Thu Nov 12 21:33:56 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 158,
+        "favorite_count": 3476,
+        "reply_count": 211,
+        "quote_count": 19
       }
     }
   ]
