@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1070237,
+    "followers_count": 1070296,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261113",
-  "last_updated": "2026-11-13T16:04:36.922144",
-  "tweet_count": 5,
+  "last_updated": "2026-11-13T22:28:36.298067",
+  "tweet_count": 8,
   "tweets": [
     {
       "id": "2121148384555995136",
@@ -195,6 +195,81 @@
         "favorite_count": 249,
         "reply_count": 42,
         "quote_count": 4
+      }
+    },
+    {
+      "id": "2121300436011590104",
+      "text": "Be Jensen:\n\n> Asian American Dishwasher at Dennys\n> Founded $NVDA and pioneered GPU computing\n> Took an extraordinary gamble in CUDA, despite the company close to bankruptcy risk. \n> Bet paid off heavily, and Nvidia was there as the infrastructure for deep learning and generative AI. \n> Spent last 33 years of his life growing $NVDA, and finally saw it become a $5T+ company\n> Devoted his life to establishing American AI leadership \n> Started having more influence on policies that Washington conflicted with\n\n> Leaks and hit pieces happen all at once around midterms\n> Washington tries to push out others like Lutnick that shared similar China stances to Jensen. \n> Forced to resign by Taco Bell and NFL experience board members over unconfirmed Spy accusations + personal relationships. \n> Huang's leadership then questioned by politicians that ask how $META makes money or how Wifi works. \n> Slandered by US media that think because Mcdonalds did well under a CEO change, so can American semiconductors like $NVDA. \n\nThis feels like a horrible joke. Jensen Huang was the pinnacle of visionary tech CEOs and living the American dream.\n\nOusting Jensen Huang will go down as one of most consequential and darkest decisions in recent US history.",
+      "created_at": "Fri Nov 13 17:53:30 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 160,
+        "favorite_count": 2431,
+        "reply_count": 154,
+        "quote_count": 23
+      }
+    },
+    {
+      "id": "2121338681571328368",
+      "text": "It's been overwhelmingly negative recently, but here's some perspective on how supply-constrained demand from $LITE to $MU looks amid possible AI capex slowdowns. \n\nAs one Korean executive on memory puts it: \n\n\"Thirty people are already lined up at a restaurant that is full, and five of them leaving does not create a table.\"\n\nThe amount of tables might expand, but supply shortages and price hikes in bottlenecks can persist through capex slowdowns or capacity buildout. \n\nFrom AI implications in medicine, physics, materials, robotics, cybersecurity, engineering, energy, to AI itself over the next 5-10 years... \n\nWe've only reached the precipice of the next technological paradigm shift. \n\nThe world is going to need a lot more compute.",
+      "created_at": "Fri Nov 13 20:25:28 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2121330951099969536",
+          "url": "https://pbs.twimg.com/media/HXB7Qr9a8AAmE4N.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 21,
+        "favorite_count": 454,
+        "reply_count": 34,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2121349155457261991",
+      "text": "With Elon’s involvement, the odds of Jensen rejoining as $NVDA CEO just shot up.",
+      "created_at": "Fri Nov 13 21:07:06 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2121345211959804234",
+        "text": "@yunta_tsai A petition is underway to reinstate Jensen and I’m signing it too",
+        "created_at": "Fri Nov 13 20:51:25 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "description": "https://t.co/ZdBx5WABYx",
+          "followers_count": 240954207,
+          "friends_count": 1424,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 7615,
+          "favorite_count": 80850,
+          "reply_count": 3020,
+          "quote_count": 1154
+        }
+      },
+      "stats": {
+        "retweet_count": 56,
+        "favorite_count": 1455,
+        "reply_count": 66,
+        "quote_count": 8
       }
     }
   ]
