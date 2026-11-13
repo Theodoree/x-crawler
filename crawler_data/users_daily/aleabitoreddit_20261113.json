@@ -1,0 +1,201 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1070237,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261113",
+  "last_updated": "2026-11-13T16:04:36.922144",
+  "tweet_count": 5,
+  "tweets": [
+    {
+      "id": "2121148384555995136",
+      "text": "The people have spoken.\n\nIn the largest large-scale poll of 22,965 respondents:\n\n19,750 supported @JensenHuang remaining CEO of $NVDA, compared with just 1,840 opposing him.\n\nAmong respondents expressing a position Jensen received a:\n\n- 91.5% support vs. 8.5% opposition ratio\n(10.8 to 1)\n\nThe results stands in contrast to prominent media commentary calling for and celebrating his departure.\n\nNvidia’s board should reconsider whether removing Jensen Huang was in the best interests of its shareholders and American leadership in AI",
+      "created_at": "Fri Nov 13 07:49:18 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2121148379489341440",
+          "url": "https://pbs.twimg.com/media/HW_VNntbkAArlJr.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2120822653997261079",
+        "text": "Okay, let’s gauge individual investor and public sentiment independently.\n\nShould Jensen Huang remain CEO of $NVDA?",
+        "created_at": "Thu Nov 12 10:14:58 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1070237,
+          "friends_count": 231,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 63,
+          "favorite_count": 716,
+          "reply_count": 165,
+          "quote_count": 16
+        }
+      },
+      "stats": {
+        "retweet_count": 136,
+        "favorite_count": 1853,
+        "reply_count": 170,
+        "quote_count": 34
+      }
+    },
+    {
+      "id": "2121182068558446730",
+      "text": "$SHOP CEO: 今天，真正的 $NVDA 就此终结。\n\n取而代之的，不过是一个披着英伟达外衣、徒有其形的仿冒品。\n\n未来掌舵的，将不再是开创者，而只是一群守成的看管者。他们会竭力守护黄仁勋亲手点燃的那团火焰，却终究无法让它延续下去。 https://t.co/pwmAJx1gdv",
+      "created_at": "Fri Nov 13 10:03:09 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2121182061054889984",
+          "url": "https://pbs.twimg.com/media/HW_z2JUbkAAs1ZT.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 115,
+        "favorite_count": 1669,
+        "reply_count": 124,
+        "quote_count": 23
+      }
+    },
+    {
+      "id": "2121203324167037436",
+      "text": "Just to state the nuances of my opinion: Jensen is irreplaceable to $NVDA.\n\nNo other CEO can visit a chicken shop in Korea, noodle shop in Japan\n\nAnd rally hundred of billions of capital and supply chain commitment into Nvidia’s next technological vision.\n\nAs for Nvidia: the their roadmap is intact, their existing commitment and revenues are still preserved under Jensen’s leadership.\n\nThey’ll still be around 5-10 years from now, given how fundamentally important they are to AI supply chains. \n\nUnder a new leader they can still continue growing if AI demand is intact and maintain their current lines.\n\nBut I don’t know anyone who can possibly think that under anyone else, whether it’s Tim Cook or an accountant:\n\nThat Nvidia could compound 70% capacity constrained growth Y/Y, without a leader like Jensen making these transformational bets.\n\nAs for AI implications:\n\nI’m heavily bullish directionally, given AI is the most transformational technology in human history.\n\n- I expect some potential slowdown in Nvidia’s ecosystem.\n\nI don’t think an accountant can make the same aggressive level of commitments to Neoclouds or supply chains in Taiwan, Korea, Japan beyond existing architectures.\n\nThen rally the capital and trust to make it happen.\n\n- I do expect the next CEO to be more politically aligned with Washington in restricting China GPU access\n\n- I also see the next CEO being less supportive of open weight models (positive for OpenAI/Anthropic)\n\n- I’m less optimistic on $NVDA maintaining their competitive advantages against $AMD, $AVGO, and hyperscalers.\n\nOne person doesn’t break the AI trade, I expect companies from optics to memory to still outperform.\n\nHowever, my confidence in the next leg of Nvidia’s growth, beyond their current roadmap, has been shaken without Jensen Huang.",
+      "created_at": "Fri Nov 13 11:27:37 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2121182682348700052",
+        "text": "@aleabitoreddit What's your personal take on Jensen leaving the company? Is $NVDA done?",
+        "created_at": "Fri Nov 13 10:05:35 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2043897699259314176",
+          "name": "InvestmentIQ",
+          "screen_name": "Path21Mil",
+          "description": "Small capital → $1M in US stocks\nAI infra + quality growth | Open portfolio + real-time theses\nNFA | DYOR",
+          "followers_count": 1785,
+          "friends_count": 611,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 4,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 98,
+        "favorite_count": 1820,
+        "reply_count": 124,
+        "quote_count": 19
+      }
+    },
+    {
+      "id": "2121221289440665737",
+      "text": "Following the $MRVL and $LITE acquisition announcement…\n\nSamsung Electronics has been doing vertical integration of their own in photonics to thermal:\n\n- New report from Bloomberg states that \nSamsung Electronics is in talks to buy $MOD Modine.\n\nWhich supplies thermal/cooling infrastructure for AI data centers. \n\n- 2 days ago from Digitimes, Samsung has\npurchased series of silicon photonics patents from Rockley Photonics (that previously was bankrupt). Covering modulators and PICs, mainly around design and integration.\n\nThis follows earlier leaks that “Samsung is reportedly considering acquisitions in the silicon photonics space”\n\nAfter Samsung’s reportedly pursues optical engine and PIC manufacturing by 2027, and CPO services by 2029.\n\nWe’ll likely see this trend accelerate with M&A vertical integration across AI supply chains.\n\nEspecially considering valuations from smaller upstream companies collapsed recently, despite their strategic significance.",
+      "created_at": "Fri Nov 13 12:39:00 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2121221281169412096",
+          "url": "https://pbs.twimg.com/media/HXAXhDoaEAAH7qr.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2121221280926224384",
+          "url": "https://pbs.twimg.com/media/HXAXhCubUAAuCtV.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2121221280900980736",
+          "url": "https://pbs.twimg.com/media/HXAXhCoaIAAPaIt.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 23,
+        "favorite_count": 439,
+        "reply_count": 60,
+        "quote_count": 13
+      }
+    },
+    {
+      "id": "2121265837000782035",
+      "text": "My personal opinion is that Kress leadership is negative for $NVDA centric ecosystems and its financing.\n\nCompanies like $COHR that supply everyone, with long term visibility are more isolated.\n\nAs for some of the commentary:\n\nKress reportedly “challenged some of Huang’s proposed investments in customers, including deals involving Lambda (Neocloud)”\n\nJensen later called her “A deer in the headlights”. \n\nAnd said she was “A reporting CFO”, not someone who is able to make strategic decisions… In regards to decisions made where Nvidia could build a moat against hyperscaler diversification.\n\nReports have also said CSP executives have now considered $AMD and $GOOGL TPUs following Jensen’s departure.\n\nBut didn’t do so earlier in fears of retaliation from Jensen Huang.",
+      "created_at": "Fri Nov 13 15:36:01 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2121265829920870400",
+          "url": "https://pbs.twimg.com/media/HXBACIqbkAAfgUs.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2121265829899804672",
+          "url": "https://pbs.twimg.com/media/HXBACIlaIAAOkC1.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2121204556063183250",
+        "text": "@aleabitoreddit what about companies with tight ties with NVDA like NBIS , COHR, MRVL?",
+        "created_at": "Fri Nov 13 11:32:30 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2048127794354262016",
+          "name": "WorkerLucky",
+          "screen_name": "workerlucky777",
+          "description": "Bullish on AI",
+          "followers_count": 106,
+          "friends_count": 72,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 20,
+        "favorite_count": 249,
+        "reply_count": 42,
+        "quote_count": 4
+      }
+    }
+  ]
+}
