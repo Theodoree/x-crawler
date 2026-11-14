@@ -1,0 +1,36 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1070354,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261114",
+  "last_updated": "2026-11-14T03:00:18.519994",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2121396827484524803",
+      "text": "Altimeter and Atreides' letter to the board of $NVDA. https://t.co/vC4lgj6OxC",
+      "created_at": "Sat Nov 14 00:16:31 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2121396816403128320",
+          "url": "https://pbs.twimg.com/media/HXC3KjVaYAA8pEG.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 98,
+        "favorite_count": 1550,
+        "reply_count": 81,
+        "quote_count": 18
+      }
+    }
+  ]
+}
