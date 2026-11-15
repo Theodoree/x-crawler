@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1070609,
+    "followers_count": 1070697,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261115",
-  "last_updated": "2026-11-15T09:06:47.112286",
-  "tweet_count": 1,
+  "last_updated": "2026-11-15T16:56:51.033193",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2121852636261724398",
@@ -35,6 +35,84 @@
         "favorite_count": 1248,
         "reply_count": 104,
         "quote_count": 18
+      }
+    },
+    {
+      "id": "2121918080293196209",
+      "text": "The most interesting lesson Jensen Huang taught me\n\nAnd gave PTSD to Google executives over from his leadership at $NVDA:\n\nWas that if a critical material can be bought out for spare change eg. ~$400m (FY2028 Photonics-SOI revenue forecast for $SOI)\n\nAnd trigger tens of billions in economic impact to competitors for not securing supply:\n\nWe're going to see game theory bottleneck supply procurement actually accelerate upstream through 2027, with or without him. \n\nI see Morgan Stanley's list highlighting CCL, ABF, PCBs, optical module components as interesting. \n\nHowever; I'd put it through my own narrower lens, especially focusing on smaller component cost chokepoints + bottlenecks that doesn't cost much to secure capacity over. \n\nDeleveraging/negative sentiment is indiscriminately moving the theme up and down together, so hard to argue individual fundamentals at this point. \n\nReflecting on 2026, I also prob need to be more selective of companies entering 2027:\n\nBut there's going to be a lot of outsized opportunities in bottlenecks... as new architectures like NPO/CPO emerge across the ecosystem.",
+      "created_at": "Sun Nov 15 10:47:48 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2121410328265416818",
+        "text": "摩根士丹利：AI获利了结之后，下一轮投资主线正在浮现\n\n2027年开始，AI产业链的投资机会可能进一步向上游材料和核心零部件扩散，ABF载板、CCL覆铜板、PCB等领域有望迎来新的供需变化。",
+        "created_at": "Sat Nov 14 01:10:10 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2362854433",
+          "name": "投研荟",
+          "screen_name": "freearkshaw",
+          "description": "20多年A股专业投研经验，前私募总经理\n聚焦A股产业浪潮投资机会（AI、半导体、机器人、商业航天等）\n分享研究信息，记录投资琐碎\n仅知识分享，非投资建议",
+          "followers_count": 32660,
+          "friends_count": 1455,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 22,
+          "favorite_count": 355,
+          "reply_count": 50,
+          "quote_count": 6
+        }
+      },
+      "stats": {
+        "retweet_count": 44,
+        "favorite_count": 844,
+        "reply_count": 70,
+        "quote_count": 5
+      }
+    },
+    {
+      "id": "2121981880480522483",
+      "text": "I've posted a lot about $NVDA because Jensen Huang is worth fighting for.\n\nTalking with Jensen and those around him convinced me he's 1 of 1... both for Nvidia's future and US leadership in AI. \n\nA friend asked me to share this petition (I signed):   \nhttps://t.co/8SymDAeyOD",
+      "created_at": "Sun Nov 15 15:01:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2121852838078758966",
+        "text": "英伟达出事之后你每条帖子几乎都是$NVDA的 你觉得他还有下跌的空间吗？",
+        "created_at": "Sun Nov 15 06:28:33 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3090218045",
+          "name": "职业法师",
+          "screen_name": "YoyoYo_X1",
+          "description": "🇺🇸美国通关者\nThe Gotham Arcane🗽\nShadow & Light Mage📷\nEverywhere in NewYork🌇",
+          "followers_count": 4611,
+          "friends_count": 4080,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2,
+          "favorite_count": 12,
+          "reply_count": 3,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 48,
+        "favorite_count": 1036,
+        "reply_count": 82,
+        "quote_count": 4
       }
     }
   ]
