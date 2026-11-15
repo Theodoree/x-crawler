@@ -1,0 +1,41 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1070609,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261115",
+  "last_updated": "2026-11-15T09:06:47.112286",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2121852636261724398",
+      "text": "Western media coverage of $NVDA and Jensen Huang have reached a point\n\nWhere it even gives Chinese people more pride in CCP state media.\n\nVery dark times for Western journalism. https://t.co/oJ8eEgOIDS",
+      "created_at": "Sun Nov 15 06:27:45 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2121852629466890240",
+          "url": "https://pbs.twimg.com/media/HXJVuXUaQAAVHFn.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2121852629475328000",
+          "url": "https://pbs.twimg.com/media/HXJVuXWbAAAtZsv.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 59,
+        "favorite_count": 1248,
+        "reply_count": 104,
+        "quote_count": 18
+      }
+    }
+  ]
+}
