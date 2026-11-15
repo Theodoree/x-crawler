@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1070697,
+    "followers_count": 1070731,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261115",
-  "last_updated": "2026-11-15T16:56:51.033193",
-  "tweet_count": 3,
+  "last_updated": "2026-11-15T21:38:36.388428",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2121852636261724398",
@@ -113,6 +113,51 @@
         "favorite_count": 1036,
         "reply_count": 82,
         "quote_count": 4
+      }
+    },
+    {
+      "id": "2122046823934407066",
+      "text": "It’s time for Jensen’s redemption arc at $NVDA.\n\nFT: Jensen Huang discusses comeback as Nvidia CEO. https://t.co/h1cTjTlx6G",
+      "created_at": "Sun Nov 15 19:19:23 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2122046817814888448",
+          "url": "https://pbs.twimg.com/media/HXMGVnSawAANa3x.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2121981880480522483",
+        "text": "I've posted a lot about $NVDA because Jensen Huang is worth fighting for.\n\nTalking with Jensen and those around him convinced me he's 1 of 1... both for Nvidia's future and US leadership in AI. \n\nA friend asked me to share this petition (I signed):   \nhttps://t.co/8SymDAeyOD",
+        "created_at": "Sun Nov 15 15:01:19 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1070731,
+          "friends_count": 234,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 71,
+          "favorite_count": 1639,
+          "reply_count": 116,
+          "quote_count": 10
+        }
+      },
+      "stats": {
+        "retweet_count": 84,
+        "favorite_count": 1539,
+        "reply_count": 87,
+        "quote_count": 17
       }
     }
   ]
