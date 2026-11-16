@@ -1,0 +1,158 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1070918,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261116",
+  "last_updated": "2026-11-16T20:15:21.811973",
+  "tweet_count": 4,
+  "tweets": [
+    {
+      "id": "2122268155682996328",
+      "text": "Morgan Stanley sends a note to clients using the term:\n\n“Max Overweight” for global equities.\n\nArguing that AI capex cycle remains intact and sustains corporate earnings into 2027.\n\nThey told clients:\n\n- hold less cash, trim commodities and exposure to bonds\n- move Europe/Japanese equities to overweight\n- Global stocks trade ~15x fwd earnings (MSCI ACWI), the cheapest since 2023\n- AI theme is expected to spread beyond the hyperscalers\n- Global earnings growth is forecast at 13% in 2027 and 8% in 2028\n\nBut flagged:\n\n- Inflation could force more tightening than the two further Fed hikes\n- AI capex cycle may not last as long as assumed\n\nEarlier this week they argued:\n\n“The hedge fund deleveraging unwind has been brutal since October.\n\nWhile retail investors remain calm and long-term oriented, levered institutional hedge funds have acted as ‘chickens with their heads chopped off’ (IMO), \n\nmoving daily stock prices around at nonsensical speeds.”\n\nAnyway the most recent time I found this term used was 14 years ago June 8th, 2012.\n\nWhere they called “maximum” overweight on emerging-market equities.\n\nUsually I treat this as noise but TIL “max overweight” was a term used.",
+      "created_at": "Mon Nov 16 09:58:52 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2122268148804268032",
+          "url": "https://pbs.twimg.com/media/HXPPoxeasAA108P.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2122268148833595392",
+          "url": "https://pbs.twimg.com/media/HXPPoxlaMAAJ6QS.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 144,
+        "favorite_count": 1999,
+        "reply_count": 133,
+        "quote_count": 30
+      }
+    },
+    {
+      "id": "2122306534772519308",
+      "text": "I think AI is one of the few industries where investors celebrate deteriorating supply conditions.\n\nMLCC lead times are extending per new Trendforce data… now “very tight” at 40W.\n\nContent per system keeps going up as well (eg. $AMD using +632% more of a part for MI450 boards).\n\nYet suppliers from Murata to Samsung Electro-Mechanics are getting sold off to oblivion.\n\nI will continue to make the argument that we can continue to see demand acceleration in certain bottlenecks…\n\nDespite potential overall capex reductions past 2027. Would not conflate the two like what markets are pricing in now.",
+      "created_at": "Mon Nov 16 12:31:23 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2122306527889653760",
+          "url": "https://pbs.twimg.com/media/HXPyiutbAAANQlM.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 44,
+        "favorite_count": 807,
+        "reply_count": 83,
+        "quote_count": 16
+      }
+    },
+    {
+      "id": "2122395524016038336",
+      "text": "FYI if you're going to short Unitree and humanoids regarding OpenAI news. \n\n\"Disbanding\" isn't bearish on humanoids, just misinterpreted. \n\nI'm hearing rumors that OpenAI is shifting more toward M&amp;A over in-house. They did try buying 1X last year as a reminder. https://t.co/4PgdP4HiZB",
+      "created_at": "Mon Nov 16 18:24:59 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2122390879440871424",
+          "url": "https://pbs.twimg.com/media/HXQ_QouaIAA6DC5.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2122060916145762362",
+        "text": "@au_xbt what's the short case on Unitree, valuation or something in the business?",
+        "created_at": "Sun Nov 15 20:15:23 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1945838249387122688",
+          "name": "Melio",
+          "screen_name": "MelioHL",
+          "description": "@HyperliquidX maxi\n\ngrind. it will always pay off.",
+          "followers_count": 11279,
+          "friends_count": 732,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 6,
+        "favorite_count": 169,
+        "reply_count": 20,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2122404712800723209",
+      "text": "I don't know what it takes to convince the Taco Bell board member or Washington at this point? \n\n$NVDA is not the same thing as Apple or McDonalds. \n\nYou also cannot replace Jensen with ARM CEO or Palo Alto Networks CEO... then expect local Taiwanese factories to move as fast. https://t.co/kSoTRrIZln",
+      "created_at": "Mon Nov 16 19:01:30 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2122404430507372544",
+          "url": "https://pbs.twimg.com/media/HXRLlaYbcAALrXn.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2122046823934407066",
+        "text": "It’s time for Jensen’s redemption arc at $NVDA.\n\nFT: Jensen Huang discusses comeback as Nvidia CEO. https://t.co/h1cTjTlx6G",
+        "created_at": "Sun Nov 15 19:19:23 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2122046817814888448",
+            "url": "https://pbs.twimg.com/media/HXMGVnSawAANa3x.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1070918,
+          "friends_count": 234,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 124,
+          "favorite_count": 2454,
+          "reply_count": 131,
+          "quote_count": 29
+        }
+      },
+      "stats": {
+        "retweet_count": 31,
+        "favorite_count": 796,
+        "reply_count": 89,
+        "quote_count": 10
+      }
+    }
+  ]
+}
