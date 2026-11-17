@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1070946,
+    "followers_count": 1071061,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261117",
-  "last_updated": "2026-11-17T03:38:44.715212",
-  "tweet_count": 2,
+  "last_updated": "2026-11-17T13:01:18.106193",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2122485440469241998",
@@ -61,6 +61,48 @@
         "favorite_count": 312,
         "reply_count": 41,
         "quote_count": 8
+      }
+    },
+    {
+      "id": "2122628849657954454",
+      "text": "It looks like $AAPL finally gave up on cheap memory supply with $CMXT and China. \n\nThat they've approached Samsung Electronics for DRAM supply LTAs. Contracts are expected to start H1 2027, and run 4-5 years. \n\nThis is positive on regarding memory demand visibility, no price floors enforced yet like other hyperscaler agreements.",
+      "created_at": "Tue Nov 17 09:52:08 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2122628048055128064",
+          "url": "https://pbs.twimg.com/media/HXUW9qqbUAA6DXt.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 56,
+        "favorite_count": 653,
+        "reply_count": 59,
+        "quote_count": 11
+      }
+    },
+    {
+      "id": "2122660925488718046",
+      "text": "Just now: Trump administration to press ahead and block imports of AI DC equipment from China, such as new optical transceiver models.  \n\nDespite opposition from hyperscalers like $AMZN to solana:GooGLMvZtJZXHdNZy95RUrAMCCKxV6ghK3qE5ddBgVm5\n\nThis move benefits Western optical transceiver and laser + component supply chains.   \n\nWhile negatively impacting players like Innolight, Eoptolink, and upstream Chinese suppliers.   \n\nChina hawks in Washington were concerned Chinese transceivers could be used by Beijing to steal data, install malware, or disrupt ​US DC services.",
+      "created_at": "Tue Nov 17 11:59:36 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2122660846690316288",
+          "url": "https://pbs.twimg.com/media/HXU0yzGbMAAXfHS.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 61,
+        "favorite_count": 654,
+        "reply_count": 84,
+        "quote_count": 39
       }
     }
   ]
