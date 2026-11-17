@@ -1,0 +1,67 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1070946,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261117",
+  "last_updated": "2026-11-17T03:38:44.715212",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2122485440469241998",
+      "text": "DeepSeek is now restricting users due to “insufficient compute capacity”.\n\nPrompting rationing over inference usage and tighter restrictions (input limit, conversation history) per Cailian \n\nBelieve it or not, compute shortages are a bullish signal for AI infra demand https://t.co/SoAvB3S1JW",
+      "created_at": "Tue Nov 17 00:22:17 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2122485433896677376",
+          "url": "https://pbs.twimg.com/media/HXSVQbhaMAAOo-2.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2122485433913462785",
+          "url": "https://pbs.twimg.com/media/HXSVQblaUAERAWC.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 70,
+        "favorite_count": 927,
+        "reply_count": 99,
+        "quote_count": 28
+      }
+    },
+    {
+      "id": "2122519172664209692",
+      "text": "$GOOGL Threat Intelligence Group: “The era of autonomous attacks has arrived”.\n\n- Fully autonomous vulnerability exploitation is now happening\n\n- Adversaries transitioned beyond manual prompting to deploying autonomous multi-agent offensive frameworks\n\n- AI is collapsing the window between vulnerability disclosure and exploitation\n\n- Google believes cybersecurity defense must become autonomous too\n\nby combining Gemini and other frontier models for reasoning + smaller models for continuous scanning.\n\nI’d actually argue beneficiaries of this arms race are AI compute and infra providers, regardless of the cybersecurity winners.\n\nSince cybersecurity will become a source of persistent inference consumption.\n\n$AMZN CEO Andy Jassy's also quoted estimates earlier that 20% of AI tokens could go toward cybersecurity.\n\nBelieve it or not, the rise of persistent cyberattacks from hostile state actors… is a structural driver for long term compute demand.",
+      "created_at": "Tue Nov 17 02:36:19 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2122519165382823936",
+          "url": "https://pbs.twimg.com/media/HXSz73GaEAAjtwI.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2122519165391216640",
+          "url": "https://pbs.twimg.com/media/HXSz73IaIAAlVgQ.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 21,
+        "favorite_count": 312,
+        "reply_count": 41,
+        "quote_count": 8
+      }
+    }
+  ]
+}
