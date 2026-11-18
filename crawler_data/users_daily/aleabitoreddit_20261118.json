@@ -1,0 +1,229 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1071343,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261118",
+  "last_updated": "2026-11-18T21:18:11.305189",
+  "tweet_count": 7,
+  "tweets": [
+    {
+      "id": "2123067177905643769",
+      "text": "Now that we're close to 2027 it's a good idea to stress test downside scenarios where you have:\n\n1. Capex cuts past 2028 \n2. Stranded Compute / DC Slowdowns \n3. Finance deterioration (base case)\n4. 2x+ rate hikes\n\nWorking in parallel and see what happens with valuations of AI longs. \n\nIf you see acceleration despite all 4, I'd argue that's an opportunity. \n\n> Next-gen of photonics is one of the rare segments with an extreme rise in optical content and ASPs that can offset aggregate capex cuts. \n\nEveryone’s moving into that space, including Elon Musk doing M&A, Marvell, Samsung and others with M&A… and we haven’t seen economic impact on emerging architectures even hit players from Celestial to Ayar + their suppliers yet. \n\nIf we look at a scenario where there's excess GPUs but power constraints:\n\nWe might see slowdown in aggregate accelerator/GPU/ASIC procurement, but your optical engines + light sources + switches players see acceleration.\n\nEspecially as incentive to replace power inefficient networking... since different (cheap BOM) optical architectures improves GPU utilization or even HBM requirements.  \n\nSo value migrates to players more high-beta to architectural shifts. \n\nIf Celestial projections are $500m -> $1B, and we expect -30% aggregate capex cuts, I'd argue we'd still see upward revisions from Celestial over the next 2 years.\n\nBut financing with #3 matters a lot as seen with $AAOI dropping off of a $550M, vs. $COHR getting prepayments for capacity expansion from their customers. \n\nCompanies that rely on external foundries might be less sensitive to #3 since they're not as capex intensive. \n\nOn the other hand, companies in sectors have a lot of floating interest like certain Neoclouds, and require further financing might be the most impacted. \n\n> Legacy and specialty memory is a different cycle that markets conflate with AI capex.\n\nIf consumer demand weakens but at the same time, players like Windbond exits DDR2, pricing durability is longer than markets expect. \n\n> Wafer/substrate procurement such as ABF, SOI, InP are low cost but large downstream destruction if not secured, so we’ll likely see acceleration here as seen with $NVDA earnings call. \n\n> qualification cycle players within bottlenecks remain very compelling, since first revenue in a large TAM, relative to MC is material to that company. \n\nIf a company is valued at $400m then they get a $200m of orders, it's more asymmetrical to a certain company than a rounding error to a $50B incumbent revenue. \n_\n\nThere’s period of times where prices are dislocated from fundamentals from leveraged players getting wiped. I’d argue that time is now. \n\nI disagree with a lot of the stupid \"it's over takes\" but I agree it's a good idea to haircut future capex expectations and forward valuations due to financing tightening + macro. \n\nIt's also good idea to see the nuances and stress test downside cases. \n\nBut TLDR: I'd argue next phase of AI infrastructure is going to be increasingly disconnected from aggregate AI capex growth. \n\nI just personally wrote 4 things I'm using to stress test jointly some of the names I'm looking at, so I'm more comfortable waiting things out... despite seeing hedge funds getting liquidated left and right and overwhelming short positioning. \n\nI personally see acceleration in more narrow parts of the supply chain, while markets treat the entire AI trade as one.  \n\nWe'll see how things play out on longer horizons.",
+      "created_at": "Wed Nov 18 14:53:54 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 41,
+        "favorite_count": 719,
+        "reply_count": 102,
+        "quote_count": 7
+      }
+    },
+    {
+      "id": "2123080934362845437",
+      "text": "Does anyone remember the days…\n\nWhen $NVDA disclosing an additional $111B+ in primarily memory procurement in a single quarter…\n\nwas good news for memory names like $MU and SK Hynix? https://t.co/oVZauK6LEn",
+      "created_at": "Wed Nov 18 15:48:34 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2123080928952246272",
+          "url": "https://pbs.twimg.com/media/HXay2zea4AAZR3L.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2123080929082220544",
+          "url": "https://pbs.twimg.com/media/HXay2z9aIAAPS-l.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 28,
+        "favorite_count": 873,
+        "reply_count": 112,
+        "quote_count": 6
+      }
+    },
+    {
+      "id": "2123100162616951229",
+      "text": "A faction of $NVDA board are now pushing for Jensen Huang to return as CEO per Semafor.\n\nI hope the market’s reaction, even after record earnings…\n\nsends a message to the rest of the board. https://t.co/aEve8LRHnv",
+      "created_at": "Wed Nov 18 17:04:58 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2123100156296093696",
+          "url": "https://pbs.twimg.com/media/HXbEV-6a4AAWyOI.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2123100156287676416",
+          "url": "https://pbs.twimg.com/media/HXbEV-4acAAwoGI.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 51,
+        "favorite_count": 1067,
+        "reply_count": 71,
+        "quote_count": 7
+      }
+    },
+    {
+      "id": "2123116246183088517",
+      "text": "On the bright side, capital flowing from other sectors + semis to a successful $ANT IPO...\n\nwill eventually flow back into semi balance sheets over the long run. Circle of life. but for semis.\n\nIf we look at Anthropic's $900.9B of eventual purchase agreements:\n\n- $AVGO + financing partners: $161.2B in Google TPU leases\n- Google Cloud: at least $121.3B\n- SpaceX: Up to $120.5B (ceiling, can be cut)\n- Amazon: at least $110B\n- Microsoft: $47.2B-$49.2B\n- Nscale:  up to $44.6B\n- Lambda: ~$41.3BN ($34.9B can be cut)\n\nWith other identifiable counterparty deals such as:\n\n- $MU (undisclosed), but supply agreement\n- $RIOT: ~$28B+ $9.1B\n- $WULF: ~$19B\n- Akami: ~$11.6B (CPU cloud)\n- Volta: ~$10B\n- OnePWR: ~$3.4B\n- $CRWV (undisclosed)\n- Everwind (undisclosed)\n- Likely $IREN (undisclosed)\n- Zerra DC (undisclosed)\n\nOutside the $900.9B, there's another:\n\n- Additional Google TPU capacity: $125B-$150B estimated\n\n- $AMD: over $20B if Anthropic takes the full initial tranche of Helios capacity\n\nI'm actually personally longer term bearish on frontier lab valuations (I like OpenAI more if I had to pick one due to consumer stickiness). But raising a lot from IPO does help raise their counterparty status.\n\nRegardless of how they utilize it, that's a lot of GPUs, TPUs, HBM, optical networking, and compute needed for the next 5+ years.",
+      "created_at": "Wed Nov 18 18:08:53 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2123116219943518208",
+          "url": "https://pbs.twimg.com/media/HXbS9AqagAA5mxy.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2123116225308053504",
+          "url": "https://pbs.twimg.com/media/HXbS9Upa0AAPxaE.png"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2123081736607457776",
+        "text": "@aleabitoreddit Apparently AI is entirely dead. Which is why we are anticipating a huge IPO for an AI company.",
+        "created_at": "Wed Nov 18 15:51:45 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1560381018259001344",
+          "name": "NoPlanRush",
+          "screen_name": "GSmiley247",
+          "description": "Nothing. Not a damn thing.",
+          "followers_count": 236,
+          "friends_count": 303,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 8,
+          "reply_count": 2,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 17,
+        "favorite_count": 323,
+        "reply_count": 40,
+        "quote_count": 4
+      }
+    },
+    {
+      "id": "2123126925908742463",
+      "text": "Did you listen Citibank?\n\nWhen I first took positions in $SOI, Citi reacted to my analysis and warned: \"investor expectations for Photonics-SOI growth might be excessive\"\n\nSoitec back then had:\n-> $25M in Photonics-SOI revenue, with no guidance... when Citi published their note. \n\nnow? \n\n->  $1.2 BILLION in long term customer capacity commitments, driven by OPTICAL GROWTH (w/ cash deposits)\n\nIn just 8 months. \n\n$25M -> $1.2B LTAs... Vindicated. \n\nThis is clear acceleration in underlying OPTICAL DEMAND, despite markets pricing in AI demand destruction.",
+      "created_at": "Wed Nov 18 18:51:19 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2123126770631315456",
+          "url": "https://pbs.twimg.com/media/HXbcjJCaEAA_5hv.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2123126771176583168",
+          "url": "https://pbs.twimg.com/media/HXbcjLEaMAAcYkl.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2123117252824182957",
+        "text": "@aleabitoreddit SOITEC’s results are out; your analysis would be very helpful—thank you.",
+        "created_at": "Wed Nov 18 18:12:53 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "601214172",
+          "name": "LOU PRADOU",
+          "screen_name": "VENTOUXBLEU",
+          "description": "",
+          "followers_count": 61,
+          "friends_count": 938,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 4,
+          "reply_count": 1,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 10,
+        "favorite_count": 294,
+        "reply_count": 24,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2123137705597120613",
+      "text": "Situational Awareness 2.0 is coming. \n\nI think Leopold's early ideas were directionally right from $SNDK to $BE. \n\nEven his recent ones like Taiyo Yuden, I do see MLCCs becoming a bottleneck in 2027. \n\nUnfortunately, due to excessive leverage and crowded longs... Positioning left him vulnerable to liquidation before he got to see longer horizon ideas play out. \n\nI think it's fun to see fund managers actually have unique ideas in similar sectors. So hope he can make a comeback.\n\nI learned a lot of lessons myself to in terms of being more narrow with long selections, so very excited for 2027.",
+      "created_at": "Wed Nov 18 19:34:09 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2123135084270354432",
+          "url": "https://pbs.twimg.com/media/HXbkHDwagAAAM5y.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 17,
+        "favorite_count": 417,
+        "reply_count": 42,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2123152181134234071",
+      "text": "Woah, the charts mapping the recent AI crash is insane. \n\nNet momentum exposure went from ~60% of hedge fund equity at the peak down to 8%.\n\nThe weeks before Nov 13 also saw the heaviest net selling of global tech stocks in the past 9 years.\n\nPer Goldman Sachs prime data. https://t.co/omwdGvF0MN",
+      "created_at": "Wed Nov 18 20:31:40 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2123152174842785792",
+          "url": "https://pbs.twimg.com/media/HXbzp3GaMAAJGeV.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2123152174842892288",
+          "url": "https://pbs.twimg.com/media/HXbzp3Gb0AAT9Lb.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 32,
+        "favorite_count": 408,
+        "reply_count": 45,
+        "quote_count": 4
+      }
+    }
+  ]
+}
