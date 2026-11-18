@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1071256,
+    "followers_count": 1071233,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261117",
-  "last_updated": "2026-11-17T21:44:11.597129",
-  "tweet_count": 5,
+  "last_updated": "2026-11-18T03:34:18.916750",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2122485440469241998",
@@ -142,6 +142,53 @@
         "favorite_count": 1115,
         "reply_count": 69,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2122814062329471182",
+      "text": "$AAOI management lost all credibility by launching another $550M ATM.\n\nEspecially after it comes contrary to earlier commentary about other financing methods + share price caution.\n\nI still find AOI operationally compelling around their CPO program + optical transceiver ramp. \n\nEspecially as it comes to the new China optical transceiver restrictions and incoming $5B-7B LTAs.\n\nBut I misjudged management and suffered heavy losses after cost averaging up to $100+ from the initial ~$25. \n\nDefinitely did not foresee them tapping into abusive financing methods again after the sector drop.\n\nI’ll still track their progress, but I don’t see how it’s possible to support a company that serially dilutes with ATMs.",
+      "created_at": "Tue Nov 17 22:08:07 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2122814056675540992",
+          "url": "https://pbs.twimg.com/media/HXXAIyxaAAA8V5h.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 71,
+        "favorite_count": 1577,
+        "reply_count": 244,
+        "quote_count": 31
+      }
+    },
+    {
+      "id": "2122835908596846950",
+      "text": "$NVDA earnings transcript + industry read through. To sum it up: \"Demand far exceeds supply\".  \n\n- Good news for the $MU / Samsung memory longs: \n\n\"Our supply commitments increased from $279B last quarter to $390B, primarily related to the multi-year procurement of memory supply\". (from SEC filings, not call)\n\nThis is a a major leap Q/Q in supply procurement.  \n\n- \"We expect revenue to grow approximately 75% year-over-year, up from 70%.\" (upward revision, likely due to capacity constraints easing)\n\n(new agreements with Kinsus and Samsung Electro-Mechanics support additional ABF substrate capacity)\n\n- NVIDIA said industry cloud backlog increased from $2 trillion to $2.5 trillion in a single quarter. While GPU rental pricing is continuing to rise dramatically:\n\nHopper GPUs: 2x their original pricing\nB300 GPUs: +60% since introduction\nUtilization: NVIDIA says its own compute is fully utilized across the hyperscalers and neoclouds it serves.\n\n- \"Our co-packaged optics roadmap remains on track\"\n\nOptical networking keeps growing rapidly ($21B+ in quarterly networking), CPO scale out switches has entered volume production. With Lambda earlier announcing production deployment of Nvidia photonics CPO switches. \n\n- \"Under these agreements, we will earn revenue on the upfront sale of our infrastructure\" So there's additional recurring economics coming from Neoclouds. \n\nBut just points to industry acceleration from memory to CPO to neoclouds, relative to markets pricing in collapse.",
+      "created_at": "Tue Nov 17 23:34:55 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2122832170939269120",
+          "url": "https://pbs.twimg.com/media/HXXQnLqbQAAZPO4.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2122832171123757056",
+          "url": "https://pbs.twimg.com/media/HXXQnMWaUAA2Mzj.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 52,
+        "favorite_count": 729,
+        "reply_count": 48,
+        "quote_count": 15
       }
     }
   ]
