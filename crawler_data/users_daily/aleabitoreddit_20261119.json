@@ -1,0 +1,76 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1071262,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261119",
+  "last_updated": "2026-11-19T12:46:27.143714",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2123335230870392843",
+      "text": "Markets have now given me PTSD on every green rally.\n\nThat being said, $SOI accelerating from $25m quarterly photonics-SOI revenue… with no forward visibility earlier this year.\n\nInto securing $1.2B in agreements this quarter, backed by cash, is extremely transformative and make me happy to see.\n\nIn terms transcript details:\n\n- “AI data center have built large compute power, but some of it remains idle as copper links limit data availability for processing. \n\nOptics removes that bottleneck”\n\nReiterating what I said about aggregate capex not applying 1:1 with optical sector, given optical shifts improves GPU utilization\n\n- timelines: “Near-package optics brings first volume by the end of the fiscal year, and high volume next year. \n\nCo-Packaged Optics for scale out is starting to ramp. TPO for scale up will be the next stage”\n\n- “Growth comes in waves, scale out and scale up as a new driver. As those links goes optical, they create new volume on top of today's. \n\nIn fiscal year 2027, our revenue comes mostly from pluggable transceiver, and we see initial volume from NPO.”\n\n- “Growth returned sooner than we had anticipated and with more vigor. Revenue grew 39%, with Photonics-SOI leading the way.\n\nMargin expansion has come forward too”\n\n- “So, for the capacity reservation agreement we signed, they cover calendar year 2027, calendar year 2028, and beyond”\n\nIn terms of where they see acceleration:\n\n- “Now we see and we believe the new requests that we are getting lately are more for the Co-Packaged Optics and NPO. And especially for the scale-up going forward.”\n\nI think that this quarter earnings marks the inflection of optical acceleration for Soitec + silicon photonics.\n\nAnd what it means for a chokepoint to transform into company economics.",
+      "created_at": "Thu Nov 19 08:39:03 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2123335213573099520",
+          "url": "https://pbs.twimg.com/media/HXeaIHgaUAAuNBn.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2123335213568897024",
+          "url": "https://pbs.twimg.com/media/HXeaIHfaMAAeEs0.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2123126925908742463",
+        "text": "Did you listen Citibank?\n\nWhen I first took positions in $SOI, Citi reacted to my analysis and warned: \"investor expectations for Photonics-SOI growth might be excessive\"\n\nSoitec back then had:\n-> $25M in Photonics-SOI revenue, with no guidance... when Citi published their note. \n\nnow? \n\n->  $1.2 BILLION in long term customer capacity commitments, driven by OPTICAL GROWTH (w/ cash deposits)\n\nIn just 8 months. \n\n$25M -> $1.2B LTAs... Vindicated. \n\nThis is clear acceleration in underlying OPTICAL DEMAND, despite markets pricing in AI demand destruction.",
+        "created_at": "Wed Nov 18 18:51:19 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2123126770631315456",
+            "url": "https://pbs.twimg.com/media/HXbcjJCaEAA_5hv.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2123126771176583168",
+            "url": "https://pbs.twimg.com/media/HXbcjLEaMAAcYkl.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1071262,
+          "friends_count": 236,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 18,
+          "favorite_count": 497,
+          "reply_count": 32,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 19,
+        "favorite_count": 407,
+        "reply_count": 50,
+        "quote_count": 1
+      }
+    }
+  ]
+}
