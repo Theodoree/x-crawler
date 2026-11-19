@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1071262,
+    "followers_count": 1070890,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261119",
-  "last_updated": "2026-11-19T12:46:27.143714",
-  "tweet_count": 1,
+  "last_updated": "2026-11-19T21:19:37.067064",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2123335230870392843",
@@ -70,6 +70,48 @@
         "favorite_count": 407,
         "reply_count": 50,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2123401652782923980",
+      "text": "That’s the signal of confidence I like to see: $COHR issues a new $2B share buyback, through open market purchases.\n\nOptical industry looks very undervalued right now, especially as it reaches the inflection of the next supercycle.\n\nWe’re already seeing photonics-SOI substrate players go from $25M revenue -> $1.2B LTAs signed in a quarter.\n\nOr $100M backlog -> $500M in a quarter with InP substrates.\n\nAnd we’ll see acceleration for lasers, modules, and the optical supply chain next.\n\nI’m sure Coherent finds its own valuation very low now too, especially after signing $20B LTAs recently.",
+      "created_at": "Thu Nov 19 13:02:59 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2123401641605079040",
+          "url": "https://pbs.twimg.com/media/HXfWivNaIAAtZp5.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 60,
+        "favorite_count": 1075,
+        "reply_count": 90,
+        "quote_count": 18
+      }
+    },
+    {
+      "id": "2123488317425820130",
+      "text": "Wow $ANT at a $1.74T valuation…\n\nis now worth hundreds of billions more than $META.\n\nDid anyone end up investing? https://t.co/qwMEVzFOli",
+      "created_at": "Thu Nov 19 18:47:22 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2123488311151034368",
+          "url": "https://pbs.twimg.com/media/HXglXkbaAAALnqv.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 9,
+        "favorite_count": 454,
+        "reply_count": 105,
+        "quote_count": 4
       }
     }
   ]
