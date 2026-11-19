@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1071343,
+    "followers_count": 1071226,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261118",
-  "last_updated": "2026-11-18T21:18:11.305189",
-  "tweet_count": 7,
+  "last_updated": "2026-11-19T03:06:36.737118",
+  "tweet_count": 8,
   "tweets": [
     {
       "id": "2123067177905643769",
@@ -223,6 +223,32 @@
         "favorite_count": 408,
         "reply_count": 45,
         "quote_count": 4
+      }
+    },
+    {
+      "id": "2123173088598938033",
+      "text": "$GOOGL releases benchmarks for  Gemini 4 Neon, ahead of $ANT IPO. https://t.co/S1qsTA3Qug",
+      "created_at": "Wed Nov 18 21:54:45 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2123173081242062848",
+          "url": "https://pbs.twimg.com/media/HXcGqxga0AARlFd.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2123173081292419072",
+          "url": "https://pbs.twimg.com/media/HXcGqxsbMAA0sSH.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 29,
+        "favorite_count": 781,
+        "reply_count": 51,
+        "quote_count": 7
       }
     }
   ]
