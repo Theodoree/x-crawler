@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1070892,
+    "followers_count": 1071105,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261120",
-  "last_updated": "2026-11-20T02:59:02.354823",
-  "tweet_count": 2,
+  "last_updated": "2026-11-20T11:18:51.480889",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2123588783753048553",
@@ -85,6 +85,27 @@
         "favorite_count": 139,
         "reply_count": 25,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2123633356969775107",
+      "text": "Markets appear to be wrongly interpreting Chinese eSSD cuts as deteriorating demand and NAND oversupply.\n\nPhison CEO commentary today + more context behind $SNDK / Kioxia selloff regarding Trendforce revisions: \n\n- \"Pua attributed China's recent enterprise SSD demand slowdown to GPU shortages since November 2026\"\n\n- \"Without GPUs, additional purchases offer little value, prompting some companies to sell server components on the spot market to recover cash\" \n\n(for context enterprise SSDs are growth driver for NAND)\n\n- \"Chinese cloud giants nevertheless plan substantial GPU prepayments, temporarily tying up capital and delaying procurement of other components.\"\n\n- \"the principal challenge in 2027 would be insufficient supply rather than weakening demand, with persistent AI shortages potentially prompting further procurement and inventory accumulation.\"\n\nMarkets seemed to have wrongly interpreted this as demand destruction + pricing collapse. \n\nWhen Phison CEO attributed it to \n-> GPU shortages \n-> causing procurement timing mismatch \n-> Chinese CSPs needed capital for GPU prepayments, so liquidation in inventory (causing spot price volatility)\n-> timeline shift in order procurement \n\nTLDR: delayed procurement from GPU shortages. there were actual order cuts, but this is deferred procurement not structural demand weakening. \n\nChinese CSPs needed capital for GPU prepayments so they liquidated other inventories in the meantime. \n\nPhison says its inventories are insufficient for anticipated 2027 demand and it's sees this as an opportunity for NAND accumulation. \n\nIt's interesting the bottleneck in China migrated back to GPUs though.",
+      "created_at": "Fri Nov 20 04:23:42 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2123628541640314880",
+          "url": "https://pbs.twimg.com/media/HXik6DtaEAA4bGJ.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 37,
+        "favorite_count": 445,
+        "reply_count": 67,
+        "quote_count": 11
       }
     }
   ]
