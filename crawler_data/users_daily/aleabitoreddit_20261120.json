@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1071197,
+    "followers_count": 1071193,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261120",
-  "last_updated": "2026-11-20T19:56:08.542159",
-  "tweet_count": 9,
+  "last_updated": "2026-11-21T01:18:58.085726",
+  "tweet_count": 10,
   "tweets": [
     {
       "id": "2123588783753048553",
@@ -314,6 +314,27 @@
         "favorite_count": 178,
         "reply_count": 24,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2123878986686333308",
+      "text": "$NVDA drops over -12%+, from a new report that the SEC is probing potential accounting issues at Nvidia.\n\nAt this point, the collateral damage is starting to hit major indexes and retirement portfolios.\n\nIt's just wild to witness a $5T+ company crash -46%+ in weeks. https://t.co/pb32leFCIB",
+      "created_at": "Fri Nov 20 20:39:44 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2123873525966811136",
+          "url": "https://pbs.twimg.com/media/HXmDuBcbsAARwqh.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 64,
+        "favorite_count": 1473,
+        "reply_count": 127,
+        "quote_count": 17
       }
     }
   ]
