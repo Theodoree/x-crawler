@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1070915,
+    "followers_count": 1070922,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261122",
-  "last_updated": "2026-11-22T03:01:11.198293",
-  "tweet_count": 1,
+  "last_updated": "2026-11-22T19:25:18.476870",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2124315829202493468",
@@ -59,6 +59,28 @@
         "favorite_count": 327,
         "reply_count": 61,
         "quote_count": 4
+      }
+    },
+    {
+      "id": "2124582975455318147",
+      "text": "Treasury Secretary Bessent on $NVDA, AI crash, and circular financing:\n\nQ: On Trump wanting Jensen Huang back.\nA: \"Well, I said they should go to the outside, but he's on the outside now\"\n\nQ: On AI market crash:\nA: \"The Democratic position on the SI buildout has spooked a lot of investors in terms of slowing\"\n\" hawkish remarks from the Federal Reserve... people believe they may be making a policy mistake if they over-tighten\"\n\"substantial tightening in financial conditions over the past few months\"\n\nQ: On circular financing:\nA: \"No, as Nvidia continues to be fantastically profitable, and there is near unlimited demand for their chips worldwide.\"\n\nLooks like the chances of Jensen returning and improving AI sentiment... have gone up materially with more support from Washington.",
+      "created_at": "Sun Nov 22 19:17:08 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2124581083992018944",
+          "url": "https://video.twimg.com/amplify_video/2124581083992018944/vid/avc1/1920x1080/rOeX5uHeOzFpGAIV.mp4?tag=29",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 9,
+        "favorite_count": 136,
+        "reply_count": 22,
+        "quote_count": 2
       }
     }
   ]
