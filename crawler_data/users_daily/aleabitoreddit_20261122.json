@@ -1,0 +1,65 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1070915,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261122",
+  "last_updated": "2026-11-22T03:01:11.198293",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2124315829202493468",
+      "text": "It's very interesting $ORCL can put out statements about being fully funded for OpenAI.\n\nOr $SNDK / Micron can put out statements reassuring investors about signed LTAs + price floors. \n\nYet there's extraordinary levels of distrust toward disclosures and durability. \n\nEither everyone is excessively bearish, and this creates a generational buying opportunity on AI if contracts + projections hold... or they're skeptical for a good reason.",
+      "created_at": "Sun Nov 22 01:35:36 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2124314889963667456",
+          "url": "https://pbs.twimg.com/media/HXsVIydbgAAIr2-.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2124314889946845185",
+          "url": "https://pbs.twimg.com/media/HXsVIyZa0AE39dJ.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2123884437045760420",
+        "text": "Oracle has secured all the funding we need to fulfill our contract with OpenAI. With our final capital raise earlier this month, we became the first hyperscaler fully funded for this investment cycle. The financing we outlined at Oracle Investor Day, including vendor financing, is in place. Any further private discussions with vendors are just additional options. Our ability to deliver on our OpenAI contract does not depend on those discussions. Any media reports that will come out and say the contrary are incorrect and wrong. \n\nOracle and OpenAI are making rapid progress on our infrastructure partnership. Our Abilene campus, where Astra-6 was trained, is nearly complete. Shackelford, our next gigawatt-scale campus, is fully permitted. The handover of NVIDIA Vera Rubin racks in its data halls is on track for the coming weeks.\n\nWe continue to expect positive free cash flow in the second half of FY2028. We are targeting more than $30 billion in free cash flow in FY2029 and expect to self-fund future growth beginning that year.",
+        "created_at": "Fri Nov 20 21:01:24 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "809273",
+          "name": "Oracle",
+          "screen_name": "Oracle",
+          "description": "With industry-leading cloud and AI, we help people see data in new ways, discover insights, unlock endless possibilities.",
+          "followers_count": 831879,
+          "friends_count": 788,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 498,
+          "favorite_count": 5311,
+          "reply_count": 575,
+          "quote_count": 596
+        }
+      },
+      "stats": {
+        "retweet_count": 16,
+        "favorite_count": 327,
+        "reply_count": 61,
+        "quote_count": 4
+      }
+    }
+  ]
+}
