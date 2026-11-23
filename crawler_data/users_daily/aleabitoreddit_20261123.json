@@ -1,0 +1,67 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1070822,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261123",
+  "last_updated": "2026-11-23T08:51:35.740012",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2124715837533859857",
+      "text": "President Trump: \"I hope the Board of Nvidia rehires Jensen Huang\"\n\nJensen's return to $NVDA is looking a lot more likely. \n\nEspecially with the support from the US president. https://t.co/0J9GEmGSJD",
+      "created_at": "Mon Nov 23 04:05:05 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2124714891802251264",
+          "url": "https://pbs.twimg.com/media/HXyA79bbEAAbePZ.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2124582975455318147",
+        "text": "Treasury Secretary Bessent on $NVDA, AI crash, and circular financing:\n\nQ: On Trump wanting Jensen Huang back.\nA: \"Well, I said they should go to the outside, but he's on the outside now\"\n\nQ: On AI market crash:\nA: \"The Democratic position on the SI buildout has spooked a lot of investors in terms of slowing\"\n\" hawkish remarks from the Federal Reserve... people believe they may be making a policy mistake if they over-tighten\"\n\"substantial tightening in financial conditions over the past few months\"\n\nQ: On circular financing:\nA: \"No, as Nvidia continues to be fantastically profitable, and there is near unlimited demand for their chips worldwide.\"\n\nLooks like the chances of Jensen returning and improving AI sentiment... have gone up materially with more support from Washington.",
+        "created_at": "Sun Nov 22 19:17:08 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2124581083992018944",
+            "url": "https://video.twimg.com/amplify_video/2124581083992018944/vid/avc1/1920x1080/rOeX5uHeOzFpGAIV.mp4?tag=29",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+          "followers_count": 1070822,
+          "friends_count": 237,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 92,
+          "favorite_count": 1241,
+          "reply_count": 100,
+          "quote_count": 33
+        }
+      },
+      "stats": {
+        "retweet_count": 54,
+        "favorite_count": 1180,
+        "reply_count": 114,
+        "quote_count": 21
+      }
+    }
+  ]
+}
