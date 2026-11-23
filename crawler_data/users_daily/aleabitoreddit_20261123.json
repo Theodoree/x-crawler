@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1070822,
+    "followers_count": 1070868,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261123",
-  "last_updated": "2026-11-23T08:51:35.740012",
-  "tweet_count": 1,
+  "last_updated": "2026-11-23T21:08:24.657389",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2124715837533859857",
@@ -61,6 +61,27 @@
         "favorite_count": 1180,
         "reply_count": 114,
         "quote_count": 21
+      }
+    },
+    {
+      "id": "2124865722342085117",
+      "text": "THE AI TRADE IS BACK \n\n$NVDA Board Reinstates Jensen Huang as CEO https://t.co/8s5s4AdkL2",
+      "created_at": "Mon Nov 23 14:00:40 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2124865695863451648",
+          "url": "https://pbs.twimg.com/media/HX0KF6VasAAJ79z.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 204,
+        "favorite_count": 3500,
+        "reply_count": 175,
+        "quote_count": 75
       }
     }
   ]
