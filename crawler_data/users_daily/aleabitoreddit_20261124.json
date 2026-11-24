@@ -1,0 +1,75 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1070590,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261124",
+  "last_updated": "2026-11-24T05:52:05.500316",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2125056333045219562",
+      "text": "Ooo found $SMTC laser disclosures in earnings interesting after their HieFo acquisition: \n\n- UHP 400mW lasers under development (further behind $AAOI in this aspect since AOI has been doing quals).\n\nIn terms of laser revenue: \n-  3-4x capacity expansion EOY, another 3-4x end of next year. \n-> $25M/quarter EOY after 3x\n-> ~$$100M quarter after 4x\n\n- NPO engagement with 4 US hyperscalers and 3 Chinese hyperscalers (Aug 2027–Jan 2028 initial revenue for NPO for timelines)\n\n- \"developing CPO scale-up lasers, but that's a contribution of potential revenue beyond 2027\" in terms of timeline\n\n- \"NPO represents a great near-term opportunity\" relative to CPO\n\n- \"We wanted to catch the next wave, so that is a 3.2T\" (from previous earnings)\n\nIt would be nice if $SIVE learned a thing or two about doing economic disclosures similar to this ($ scale of capacity, engagement scale. \n\nSemtech's strat is probably VHP/UHP lasers for NPO/CPO and 3.2T for pluggables since they missed the initial wave. \n\nAnyway, they look commercially behind compared to the rest (100-150mW only sampling now)... but very credible and interesting competitor emerging in 2028 + additional TAM expansion on top of TIA/Drivers.  \n\nTLDR: HieFo acquisition might be goated (~$300m-$400m exit 2027 annualized capacity revenue opportunity, probably a lot more for 2028)... \n\nIf it were standalone under Semtech I could see it being $1B-$2B+ just based on opportunity alone, but they got it for like ~$34M from US Gov forced divestiture.",
+      "created_at": "Tue Nov 24 02:38:06 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2125052779102449664",
+          "url": "https://pbs.twimg.com/media/HX20PltbsAA_hAH.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 8,
+        "favorite_count": 236,
+        "reply_count": 38,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2125058643154632845",
+      "text": "I'd personally revise AI capex estimates back up (beyond accelerators), after Jensen's return to $NVDA. \n\nA lot of revised forecasts where made off him leaving, but his return, can be a lot more confidence in spend with upstream supply chains + bottlenecks. \n\nJensen my ideal game theory troll, he just secures all the capacity of things other programs like $GOOGL or Amazon needs. \n\n> Testing? (Nvidia just secures all the capacity)\n> Substrates? (Nvidia just secures all the capacity)\n> Lasers? (Nvidia just secures all the capacity)\n> Memory? (Nvidia just secures all the capacity)\n\nBefore there was a lot of uncertainty (to the point I had to model major capex cuts)...\n\nBut Jensen's return forces hyperscalers to be much more aggressive again in supply procurement.",
+      "created_at": "Tue Nov 24 02:47:16 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2125057034098032819",
+        "text": "@aleabitoreddit @aleabitoreddit  doesn't miss a thing.\nIf the AI capex slows i think it will barely impact the laser companies correct ?",
+        "created_at": "Tue Nov 24 02:40:53 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2040087526250037248",
+          "name": "The trend scribe",
+          "screen_name": "deepstocktrends",
+          "description": "Understanding the world by learning about business and stocks. Follow for my research :)",
+          "followers_count": 35,
+          "friends_count": 178,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 4,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 20,
+        "favorite_count": 472,
+        "reply_count": 63,
+        "quote_count": 6
+      }
+    }
+  ]
+}
