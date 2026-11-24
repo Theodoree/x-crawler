@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1070590,
+    "followers_count": 1070468,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261124",
-  "last_updated": "2026-11-24T05:52:05.500316",
-  "tweet_count": 2,
+  "last_updated": "2026-11-24T17:26:31.363413",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2125056333045219562",
@@ -69,6 +69,93 @@
         "favorite_count": 472,
         "reply_count": 63,
         "quote_count": 6
+      }
+    },
+    {
+      "id": "2125115492935549060",
+      "text": "Who said Neoclouds don't have a technical moat? High confidence this statement is about $NBIS. \n\nDatabricks co-founder: \n\n\"We are VERY CAREFUL about where compute runs and so far we've only found a *single* neocloud we think has robust enough isolation to ever have a chance at running our customer workloads.\" \n\n- Databricks selected Nebius AI Cloud (shareholder letter) following a rigorous evaluation (November 12)",
+      "created_at": "Tue Nov 24 06:33:10 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2125115484811218944",
+          "url": "https://pbs.twimg.com/media/HX3tRira0AApzaO.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2124574208122593527",
+        "text": "7/ We are VERY CAREFUL about where compute runs and so far we've only found a *single* neocloud we think has robust enough isolation to ever have a chance at running our customer workloads.",
+        "created_at": "Sun Nov 22 18:42:18 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "48159875",
+          "name": "Patrick Wendell",
+          "screen_name": "pwendell",
+          "description": "Co-founder and VP of engineering @databricks.",
+          "followers_count": 11841,
+          "friends_count": 595,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 16,
+          "favorite_count": 319,
+          "reply_count": 18,
+          "quote_count": 13
+        }
+      },
+      "stats": {
+        "retweet_count": 129,
+        "favorite_count": 1915,
+        "reply_count": 91,
+        "quote_count": 24
+      }
+    },
+    {
+      "id": "2125215193139663292",
+      "text": "$AAOI signs $2.2B LTA with hyperscaler customer. \n\n- $1.5 billion of 800G transceivers in 2027\n- $0.7 billion in lasers between 2028 and 2029\n\n\"Customer forecast indicates demand that could exceed $10 billion over the four-year term\". https://t.co/1qHK90LlfA",
+      "created_at": "Tue Nov 24 13:09:21 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2125215012872749057",
+          "url": "https://pbs.twimg.com/media/HX5Hy1mbgAESXLY.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 52,
+        "favorite_count": 1086,
+        "reply_count": 109,
+        "quote_count": 25
+      }
+    },
+    {
+      "id": "2125276382909566982",
+      "text": "I wonder if we'll see an AI quantum discovery theme emerge in the future, following biotech discovery. \n\n$GOOGL Deepmind: \"Finding faster quantum algorithms with agents\":\n\n1. The timeline by which quantum computers can solve breakthrough problems in science depend as much on better algorithms as on better hardware.\n\n2. LLMs have accelerated progress through automated discovery loops\n\n3. AI lets researchers design algorithms that today's classical and quantum computers cannot test, shortening the path to practical quantum computation.\n\n$ANT has also been recently working on other applications in this field as well: \"Designing more efficient quantum circuits with Claude\"\n\nJust found this paper interesting, there might be some interesting beneficiaries if AI could pull forward quantum commercialization timelines.",
+      "created_at": "Tue Nov 24 17:12:30 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2125267596576755712",
+          "url": "https://pbs.twimg.com/media/HX53nnKbEAAef-_.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 93,
+        "reply_count": 20,
+        "quote_count": 3
       }
     }
   ]
