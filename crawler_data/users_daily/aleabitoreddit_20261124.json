@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1070468,
+    "followers_count": 1070424,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261124",
-  "last_updated": "2026-11-24T17:26:31.363413",
-  "tweet_count": 5,
+  "last_updated": "2026-11-25T02:11:24.967766",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2125056333045219562",
@@ -156,6 +156,58 @@
         "favorite_count": 93,
         "reply_count": 20,
         "quote_count": 3
+      }
+    },
+    {
+      "id": "2125289945367707945",
+      "text": "Always a fun time for markets: \"Trump administration set to unveil new tariffs\" \n\n- Japan, South Korea, and the EU could face incremental increases of 2.5-5% percentage points, with potentially steeper increases for Vietnam to India\n\n- \"The Trump administration has singled out China as the biggest source of excess industrial capacity\", complicating US-China trade truce\n\n- New tariff announcement could come as soon as Tuesday",
+      "created_at": "Tue Nov 24 18:06:23 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2125280714728046592",
+          "url": "https://pbs.twimg.com/media/HX6DjMFagAAUr5m.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 17,
+        "favorite_count": 474,
+        "reply_count": 52,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2125311224242164185",
+      "text": "Wow, memory names like $SNDK just keep on dropping.\n\nAt a $89B MC they have: \n\n> $89B minimum in LTAs with contractual price floors supporting at least 80% gross margins\n\n\"The floor pricing for those contracts, we said in aggregate, will deliver at least 80% gross margin for every single year\" \n\n> Not including HBF and uncommited capacity (~50% for 2027, ~33% for 2028)\n\n> Customers placing billions in deposits for 2029-2031 capacity already (Morgan Stanley)\n\nI really disagree with the notion that you need need NAND pricing to keep exponentially increasing Q/Q. \n\nAt long as pricing remains elevated and you have duration visibility, lot of these memory companies look very undervalued.",
+      "created_at": "Tue Nov 24 19:30:56 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2125308712080515072",
+          "url": "https://pbs.twimg.com/media/HX6dA2WaIAA2ieL.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2125309701642674176",
+          "url": "https://pbs.twimg.com/media/HX6d6cwaYAALy_A.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2125310074692550656",
+          "url": "https://pbs.twimg.com/media/HX6eQKebwAAzH23.png"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 58,
+        "favorite_count": 1296,
+        "reply_count": 99,
+        "quote_count": 15
       }
     }
   ]
