@@ -1,0 +1,118 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1069903,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261125",
+  "last_updated": "2026-11-25T22:20:35.634638",
+  "tweet_count": 5,
+  "tweets": [
+    {
+      "id": "2125591613426848145",
+      "text": "$HPE CEO: \"We expect supply of memory, NAND, and many other critical components to remain constrained to at least H2 2028.\"\n\n$DELL Vice Chairman: \"there’s nothing that suggests that we're going to see price declines in enterprise NAND and DRAM for servers.\"\n\nJP Morgan note: \n\n- Per OpenRouter, overall token spend continued to increase (+8% M/M growth), while volume pricing declined -39% M/M. \n\n- A100 GPU prices increased, H100 and B200 prices also continued to increase M/M\n\n- DRAM price gains moderated, while NAND spot declined. \n\nOn the latter part, I covered China selling inventory on NAND/eSSD spot markets. This was procurement delays around $NVDA GPUs/DRAM shortages, demand to re-accelerate after component arrive. (source Phison CEO)\n\nEnterprise NAND pricing might see different rates than spot markets, as seen with Dell Chairman comments. \n\nTLDR: \n- Token spend continues to grow despite users shifting to cheaper Chinese models\n- Bullish comments on DRAM duration (also seen with $AMBA earnings), but consumer demand weakening\n- Compute pricing continues to increase in November\n-  More nuanced for NAND, weakness in near term NAND spot markets (with expected rebound after GPUs/DRAM/components arrive), enterprise NAND markets seem resilient.",
+      "created_at": "Wed Nov 25 14:05:06 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2125586813402443776",
+          "url": "https://pbs.twimg.com/media/HX-Z8egbcAAJKH-.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 73,
+        "favorite_count": 706,
+        "reply_count": 77,
+        "quote_count": 20
+      }
+    },
+    {
+      "id": "2125622055202955550",
+      "text": "Can we end the Iran war now pls, my AI stocks are sad",
+      "created_at": "Wed Nov 25 16:06:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 75,
+        "favorite_count": 3008,
+        "reply_count": 218,
+        "quote_count": 25
+      }
+    },
+    {
+      "id": "2125644909424357585",
+      "text": "We’re now in Extreme Fear territory at “9”.\n\nFollowing &lt;25 territory, the S&amp;P 500’s average returns 12 months later were:\n\n- Positive 86% of the time\n- 15.2% average return per Mandala backtests over the last 14 years.\n\nOutlook tends to lean more favorably on longer horizons. https://t.co/ZsxCP9DzZJ",
+      "created_at": "Wed Nov 25 17:36:53 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2125640920934813696",
+          "url": "https://pbs.twimg.com/media/HX_LJ8xakAASdrr.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2125640920934887424",
+          "url": "https://pbs.twimg.com/media/HX_LJ8xbsAAshx0.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 46,
+        "favorite_count": 945,
+        "reply_count": 60,
+        "quote_count": 8
+      }
+    },
+    {
+      "id": "2125693156750717298",
+      "text": "The astrology course sellers are out in full force lately\n\nHindsight gurus drawing lines wouldn't need to sell paywalls if they just loaded up on $NVDA and AI puts themselves. \n\nOver the long horizon, earnings and durability matter more than deleveraging periods",
+      "created_at": "Wed Nov 25 20:48:36 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 6,
+        "favorite_count": 414,
+        "reply_count": 45,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2125715518154019298",
+      "text": "$CRWV bankers are preparing a $4.5B loan sale, secured by GPUs for its $META contract. \n\nInitial pricing discussions are at 7%-7.5% with demand already matching offering size. \n\nIt looks like appetite for hyperscaler-linked financing remains strong, despite the \"AI credit stress\" fears. \n\nThere were reflexive concerns about Coreweave distressed debt (eg. 2031 bond yields at 18%) and not being able to raise more capital. \n\nBut looks like they're still able to grow through hyperscaler-linked buildouts. \n\nTLDR: Investment-grade capital remains available for Neocloud growth with hyperscaler counterparties. (good for $IREN / $NBIS / co). \n\nAnd obviously larger names like $SPCX with their oversubscribed $44B GPU financing. \n\nAI is moving to a phase more about capital selectivity rather than no capital at all.",
+      "created_at": "Wed Nov 25 22:17:28 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2125707176765431808",
+          "url": "https://pbs.twimg.com/media/HYAHai-aIAAD6XE.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2125707177725943808",
+          "url": "https://pbs.twimg.com/media/HYAHamjaYAAevxx.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 6,
+        "favorite_count": 50,
+        "reply_count": 2,
+        "quote_count": 1
+      }
+    }
+  ]
+}
