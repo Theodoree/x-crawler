@@ -1,0 +1,41 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1069883,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261126",
+  "last_updated": "2026-11-26T04:52:17.052731",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2125751437833756715",
+      "text": "Leopold’s Situational Awareness lost 65% in Q3, but was up 88.5% through September per WSJ\n\nI think there’s far more value in evaluating his original entry points in $SNDK to $BE than ridiculing drawdown from peak.\n\nHe stated that investing opportunities today “are the highest potential return we have seen in the lifetime of the fund.”\n\nHope he makes a triumphant return in 2027.",
+      "created_at": "Thu Nov 26 00:40:11 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2125751430896340992",
+          "url": "https://pbs.twimg.com/media/HYAvqeda0AAbpNA.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2125751430866952192",
+          "url": "https://pbs.twimg.com/media/HYAvqeWaYAAnYUa.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 32,
+        "favorite_count": 610,
+        "reply_count": 54,
+        "quote_count": 4
+      }
+    }
+  ]
+}
