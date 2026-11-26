@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1069883,
+    "followers_count": 1069659,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261126",
-  "last_updated": "2026-11-26T04:52:17.052731",
-  "tweet_count": 1,
+  "last_updated": "2026-11-26T23:41:25.871116",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2125751437833756715",
@@ -35,6 +35,27 @@
         "favorite_count": 610,
         "reply_count": 54,
         "quote_count": 4
+      }
+    },
+    {
+      "id": "2125976593076252865",
+      "text": "Mustafa Suleyman, CEO of $MSFT AI: \n\n“For all those people who keep predicting we're overbuilding chips / we aren't seeing jevon's paradox etc. \n\nThings are just getting started.” https://t.co/ijwdXn8HhB",
+      "created_at": "Thu Nov 26 15:34:53 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2125976587590107136",
+          "url": "https://pbs.twimg.com/media/HYD8cUgbAAAC7WT.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 125,
+        "favorite_count": 2101,
+        "reply_count": 104,
+        "quote_count": 21
       }
     }
   ]
