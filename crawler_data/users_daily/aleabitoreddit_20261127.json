@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1069576,
+    "followers_count": 1069544,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261127",
-  "last_updated": "2026-11-27T07:56:46.506503",
-  "tweet_count": 3,
+  "last_updated": "2026-11-27T18:03:55.377971",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2126164719522426935",
@@ -117,6 +117,32 @@
         "favorite_count": 215,
         "reply_count": 30,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2126362821621690751",
+      "text": "Memory name buybacks + pricing projections:  \n\n- $SKHY doubled its daily buybacks from ~$290M -> $581M, after Korea relaxed its buyback rules, explicitly citing \"undervaluation\"\n- $MU Dec 9, 2026 marks the end of the first 2 under initial CHIPS act agreements (where there was restrictions on buybacks). \n\nMicron stated it expects to return 100% of excess cash to shareholders, and that they'll increase returns past Dec 9th. \n\nOn the supply/pricing side per Trendforce: \n\n- Conventional DRAM contract price increases are expected to narrow throughout 2027, with prices potentially leveling off in the H2 2027 before declining in 2028\n\nUnder the assumptions that: \n--- Consumer electronics manufacturers are facing mounting sales pressure\n--- Chinese CSPs scaling back DRAM demand in early 4Q26 (but absorbed by US CSPs)\n--- markets expect a cautious policy stance toward domestic DC development\n--- $NVDA scales back its financing support for neocloud providers.\n\nThey forecast conventional DRAM to increase 10%-15% Q4 2026, with further increases up 3%-8% Q1 2027. \n\nIn another bear case they give:\n--- server OEMs will further scale back procurement following downward revisions to demand\n--- widespread inventory reductions across the supply chain\n--- downside risks include reduced investment and potential consolidation among neocloud providers\n\n\"overall server shipment growth could begin decelerating as early as 2027, causing conventional DRAM contract prices to reverse course and begin declining in 4Q27, with price declines widening in 2028.\"\n\n___\n\n$MU CEO said earlier: \"we expect memory and storage supply demand conditions to be much tighter in 2027 and 2028 than they were in 2026\"...\n\nBut I think everyone is starting to price in a 2028 demand/pricing destruction already (which hasn't happened). Also I do think a lot of new price floor LTAs should change how we look at memory name durability.\n\nAs long as durability and pricing remains elevated for longer periods of time, which $SKHY likely has more information to, I'd agree with them shares look increasingly undervalued.",
+      "created_at": "Fri Nov 27 17:09:37 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2126352889048449024",
+          "url": "https://pbs.twimg.com/media/HYJSr8rbwAAQxJ7.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2126356954948009984",
+          "url": "https://pbs.twimg.com/media/HYJWYnVbgAAMEw6.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 15,
+        "favorite_count": 285,
+        "reply_count": 21,
+        "quote_count": 4
       }
     }
   ]
