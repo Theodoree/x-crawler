@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1069398,
+    "followers_count": 1069467,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261128",
-  "last_updated": "2026-11-28T01:52:11.523355",
-  "tweet_count": 1,
+  "last_updated": "2026-11-28T10:06:20.899713",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2126470123901088164",
@@ -54,6 +54,53 @@
         "favorite_count": 180,
         "reply_count": 22,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2126600942560919834",
+      "text": "I'm playing Pokemon and reading Leopold's 167 page Situational Awareness letter. I found these interesting:\n\n- Identifies Kioxia (285A) as currently of his fund's largest holdings, estimates it trades below 1x 2027 P/E. \n\n- On $SKHY, estimates, it to be roughly 2x 2027 earnings, and can buy back half the company by end-2027.\n\n- \"By the end of 2027, we think $ANT will be run-rating many hundreds of billions of revenue (with $1T+ of combined lab revenue), plausibly approaching $1T on\nits own.\" \n\n- \" In the near future labs will get a better return on logic, memory, and other components than $NVDA, and will bid up their prices to the point that Nvidia cannot secure additional components to produce chips profitably\"\n\n- \"An H100 draws about a kilowatt and has roughly the processing power of a human brain. In the past, it earned about $1-2/hour. As models have become a virtual intern, this has gone to $5-10/hour. As RSI takes hold and we approach superintelligence, we think this goes to $100s/hour+.\" \n\n- \"The asymmetric market setup: the market is the most\nbearish AI since ChatGPT. It is pricing something like a 0.3x-0.6x AI progress year: memory makers at one times next year's earnings, DCs at the value of contracts already signed, hedge funds out. \n\nYou do not have to believe us and our 3x forecast; you only have to believe that 2027 is not the end of AI progress.\" \n\n- The ChatGPT moment for robotics: \"We think we are starting to see signs of life on general robotics models, and the buildout to billions of robots is becoming an increasing focus of our investing.\"",
+      "created_at": "Sat Nov 28 08:55:49 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2126598058473664512",
+          "url": "https://pbs.twimg.com/media/HYMxqr9bsAADvLw.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2126598463739867136",
+          "url": "https://pbs.twimg.com/media/HYMyCRsbMAA4PcB.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 32,
+        "favorite_count": 361,
+        "reply_count": 51,
+        "quote_count": 10
+      }
+    },
+    {
+      "id": "2126617345569567144",
+      "text": "Elon Musk 谈 $SPCX 算力租赁价格走势（对 $NBIS、Neocloud 等算力租赁公司具有参考意义):\n\n\"大规模、高度互联、专为高带宽训练配置的算力集群，其租赁价格正在上涨，部分涨幅甚至非常显著。但小规模算力集群（约 5,000 张 GPU 以下）的租赁价格正在下降. \n\n整体而言，SpaceX 算力业务的单 GPU 平均租赁价格正在上涨\"\n\nElon 的这番表态与近期市场因担忧算力普遍供过于求而引发的抛售形成了鲜明对比。",
+      "created_at": "Sat Nov 28 10:01:00 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2126615531579211776",
+          "url": "https://pbs.twimg.com/media/HYNBjwWbgAACTum.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 9,
+        "favorite_count": 51,
+        "reply_count": 16,
+        "quote_count": 1
       }
     }
   ]
