@@ -1,0 +1,60 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
+    "followers_count": 1069398,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20261128",
+  "last_updated": "2026-11-28T01:52:11.523355",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2126470123901088164",
+      "text": "Normally don’t amplify this type of stuff but very credible $AAPL vulnerability.\n\nSince source is Telegram’s founder:\n\n“ all your data is at risk. Just opening a website can be enough to get you hacked” if using an iOS that’s even a slightly outdated.\n\nThat said:\n\n- Seeing exploits left and right, new LLM\ncryptographic breakthroughs…\n\n-  France is in a recession.\n\n- brutal crash for global AI/Tech + Japanese, Korean, and Taiwanese markets.\n\nWorld feels pretty chaotic, but I think we’ll find a little Serenity in 2027.",
+      "created_at": "Sat Nov 28 00:16:00 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2126453172403355908",
+        "text": "🚨 iPhone users are being hacked on a massive scale.\n\nIf your iOS is even slightly outdated, all your data is at risk.\n\nJust opening a website can be enough to get you hacked.\n\nWe're sending this warning to all our users on older iOS versions: https://t.co/k2BKf5N5ua",
+        "created_at": "Fri Nov 27 23:08:38 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2126453165109510144",
+            "url": "https://pbs.twimg.com/media/HYKt4yHbgAAze35.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "16477634",
+          "name": "Pavel Durov",
+          "screen_name": "durov",
+          "description": "Founder, CEO at @telegram (2013), founder at @ton_blockchain (2019) and @vkontakte (2006), part-time troll.",
+          "followers_count": 3689041,
+          "friends_count": 1,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 324,
+          "favorite_count": 2454,
+          "reply_count": 187,
+          "quote_count": 89
+        }
+      },
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 180,
+        "reply_count": 22,
+        "quote_count": 0
+      }
+    }
+  ]
+}

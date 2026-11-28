@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "Only on X, don’t trust fake accs\n\nAI/Semi Supply Chains Research\n\nNothing is investment advice. No paid promos; may trade/hold names disc, views my own.",
-    "followers_count": 1069544,
+    "followers_count": 1069398,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20261127",
-  "last_updated": "2026-11-27T18:03:55.377971",
-  "tweet_count": 4,
+  "last_updated": "2026-11-28T01:52:14.223540",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2126164719522426935",
@@ -143,6 +143,97 @@
         "favorite_count": 285,
         "reply_count": 21,
         "quote_count": 4
+      }
+    },
+    {
+      "id": "2126378481714168280",
+      "text": "uhh... are we cooked chat? \n\nNature reported rumors that AI frontier labs from $ANT or OpenAI discovered algorithms capable of breaking public-key cryptography in \"polynomial time\"\n\n- \"In practical terms, an algorithm that could break public-key cryptography in polynomial time could undermine much of the security on which the Internet relies.\" \n\n- \"AI-generated algorithms could be about to break public-key cryptography, the technology central to commerce, banking and privacy.\" \n\n- “I’m virtually certain, from multiple reliable sources, that the AI labs are now sitting on one or more bombshells,” said Scott Aaronson (UT Austin Chair of CS, leading theoretical computer scientist)",
+      "created_at": "Fri Nov 27 18:11:50 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2126378347542560768",
+          "url": "https://pbs.twimg.com/media/HYJp109bQAAJGSr.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2126378348830150656",
+          "url": "https://pbs.twimg.com/media/HYJp15waUAA6YeQ.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 76,
+        "favorite_count": 1199,
+        "reply_count": 115,
+        "quote_count": 27
+      }
+    },
+    {
+      "id": "2126406828980686901",
+      "text": "Nature Magazine: \"AI agents have already begun to wreak havoc by hacking into servers around the world\"\n\nFrom timelines in the past 2 months: \n\n- $MSFT in October: \"large-scale nation-state campaign using ARTEX enables supply chain compromise\" for downstream customers\n\n- $CRWD in October: A group used AI agents against 200+ organizations, Crowdstrike confirmed access at nine organizations\n\n- $PANW in November: \"Researchers documented 25 operations against at least 19 organizations\"\n\n\"Seven targets were in semiconductors or advanced manufacturing. Across all sectors, attackers obtained unauthorized access or data at 10 organizations\"\n\n- $GOOGL Threat Intelligence Group in November: identified a significant inflection point in autonomous AI threat activity.\n\n- European Commission in November: \"the Commission confirmed the attackers used AI tools in a campaign it first detected October 22\"\n\n\"EU Academy users’ names and email addresses leaked\"\n\n- $AMZN Threat Intelligence in November: \"Chinese-nexus actor’s Cairn AI agents found a zero-day on their own\" targeting universities likely of strategic interest to China\n\n-Italy reported domestic campaigns in which parallel agents compromised systems.\n\n- Swiss national cyber agency: Swiss officials confirmed 5 AI-agent attacks, 4 successful compromises and 3 critical-infrastructure operators among the targets\n\nAnd now there was the new unfortunately US Air Force Hack today (investigators suspected ARTEX)\n\nThe observable threats from AI is now increasingly widespread... and it will probably grow over the next few years. \n\nI feel like both frontier model capabilities and AI cyberdefense has now become a new nondiscretionary spend for national security and enterprise.",
+      "created_at": "Fri Nov 27 20:04:29 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2126406121544142848",
+          "url": "https://pbs.twimg.com/media/HYKDGfLa0AA4F1r.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2126406121539948544",
+          "url": "https://pbs.twimg.com/media/HYKDGfKa0AAvGNw.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 21,
+        "favorite_count": 252,
+        "reply_count": 40,
+        "quote_count": 6
+      }
+    },
+    {
+      "id": "2126429899141636315",
+      "text": "In terms of laser industry dynamics: \n\n- $LITE: \"Take or pay. There's a very strong commitment from the customer side, and in some cases, there's a prepay element as well\". Hyperscalers were explicitly funding their capacity expansion as well\n\n- $COHR: Upfront payments in almost every LTA, according to its CEO. \n\nBoth Lumentum and Coherent are the gold standard in terms of financing + demand signals. \n\n- For Chinese laser suppliers:\n\nOptical module makers are actively financing their supply chains (even for lower range pluggables), as seen with Cambridge. \n\nIn terms of US supply chains: \n\n- $AAOI CFO gave a note: \"Customer financing is more likely for emerging technologies such as CPO and NPO than conventional 800G and 1.6T transceivers.\"\n\n- $AAOI got a CPO + laser contract worth $700m for 2028-2029. But resulted in more ATMs instead of funding expansion with prepayments... \n\nI think people can agree AOI as a business at $3.7B MC is very operationally compelling:\n\n- since they signed a $1B-$1.5B LTA with one hyperscaler\n-  $2.2B LTA all in a single quarter.\n\nBut with management repeatedly creates expectations that later disclosures contrast with, which I agree is strange. \n\nLot of current financing (as seen with Neoclouds) are done with prepayments given tightening. Or if a supplier is important enough (as seen with $SPCX), they'll help refinance the company. \n\nSo I'm really not sure what's happening with $AAOI, maybe it's overstated competitive positioning or something else. \n\nI still think $AAOI is looks compelling H2 2027, but their biggest problem is their own financing methods and management credibility not customer demand.",
+      "created_at": "Fri Nov 27 21:36:09 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2126191591597711549",
+        "text": "@aleabitoreddit With supply constrained, do you think it was weird that $AAOI could not get the hyperscaler (new contract) to pay upfront? I find it odd",
+        "created_at": "Fri Nov 27 05:49:12 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1678177233029185537",
+          "name": "Jae Kim",
+          "screen_name": "JaeKim1089208",
+          "description": "All-in on $TSLA, $SOFI, $IREN, $SPCX, $NBIS, $AAOI, $LITE, and $SIVE.",
+          "followers_count": 3585,
+          "friends_count": 913,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 10,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 23,
+        "favorite_count": 297,
+        "reply_count": 33,
+        "quote_count": 6
       }
     }
   ]
